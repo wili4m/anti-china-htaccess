@@ -1,0 +1,107 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      180.0.0.0 - 180.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '180.235.136.0 - 180.235.139.255'
+
+% Abuse contact for '180.235.136.0 - 180.235.139.255' is 'abuse@xtom.com'
+
+inetnum:        180.235.136.0 - 180.235.139.255
+netname:        XTOM-HK
+descr:          xTom Hong Kong Limited
+country:        HK
+org:            ORG-XHKL1-AP
+admin-c:        XHKL2-AP
+tech-c:         XHKL2-AP
+abuse-c:        AX77-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-XTOM-HK
+mnt-routes:     MAINT-XTOM-HK
+mnt-irt:        IRT-XTOM-HK
+last-modified:  2020-05-12T13:04:54Z
+source:         APNIC
+
+irt:            IRT-XTOM-HK
+address:        22/F., 3 Lockhart Road, Hong Kong Wanchai
+e-mail:         noc@xtom.com
+abuse-mailbox:  abuse@xtom.com
+admin-c:        XHKL2-AP
+tech-c:         XHKL2-AP
+auth:           # Filtered
+remarks:        Please send an email to abuse@xtom.com with logs for any abuse complaints.
+remarks:        Complaints sent to any other POC will be ignored.
+remarks:        noc@xtom.com was validated on 2025-01-07
+remarks:        abuse@xtom.com was validated on 2025-01-08
+mnt-by:         MAINT-XTOM-HK
+last-modified:  2025-01-08T04:33:52Z
+source:         APNIC
+
+organisation:   ORG-XHKL1-AP
+org-name:       xTom Hong Kong Limited
+org-type:       LIR
+country:        HK
+address:        22/F., 3 Lockhart Road
+phone:          +852-58086726
+e-mail:         noc@xtom.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:39Z
+source:         APNIC
+
+role:           ABUSE XTOMHK
+country:        ZZ
+address:        22/F., 3 Lockhart Road, Hong Kong Wanchai
+phone:          +000000000
+e-mail:         noc@xtom.com
+admin-c:        XHKL2-AP
+tech-c:         XHKL2-AP
+nic-hdl:        AX77-AP
+remarks:        Generated from irt object IRT-XTOM-HK
+remarks:        noc@xtom.com was validated on 2025-01-07
+remarks:        abuse@xtom.com was validated on 2025-01-08
+abuse-mailbox:  abuse@xtom.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-08T04:34:12Z
+source:         APNIC
+
+role:           xTom Hong Kong Limited administrator
+address:        22/F., 3 Lockhart Road, Hong Kong Wanchai
+country:        HK
+phone:          +852-58086726
+fax-no:         +852-58086726
+e-mail:         noc@xtom.com
+admin-c:        XHKL2-AP
+tech-c:         XHKL2-AP
+nic-hdl:        XHKL2-AP
+mnt-by:         MAINT-XTOM-HK
+abuse-mailbox:  abuse@xtom.com
+remarks:        Please send an email to abuse@xtom.com with logs for any abuse complaints.
+remarks:        Complaints sent to any other POC will be ignored.
+last-modified:  2017-05-07T10:17:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

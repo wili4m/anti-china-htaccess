@@ -1,0 +1,81 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      182.0.0.0 - 182.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '182.48.96.0 - 182.48.127.255'
+
+% Abuse contact for '182.48.96.0 - 182.48.127.255' is 'jingliwen@sawas.com.cn'
+
+inetnum:        182.48.96.0 - 182.48.127.255
+netname:        SawasNet
+descr:          Beijing Sawas Technology Co.LTD.
+descr:          Room 608,Beihang Boyan Building,No.238 Fouth
+descr:          Northern Central Road,Haidian District,Beijing
+country:        CN
+admin-c:        XQ352-AP
+tech-c:         XQ352-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SAWASNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:12Z
+source:         APNIC
+
+irt:            IRT-SawasNet-CN
+address:        NO.19 Sec.2 Hong De Road Yilong Sichuan
+e-mail:         jingliwen@sawas.com.cn
+abuse-mailbox:  jingliwen@sawas.com.cn
+auth:           # Filtered
+admin-c:        XQ352-AP
+tech-c:         XQ352-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-10T06:34:08Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xie Qi
+address:        Room 608,Beihang Boyan Building,No.238 Fouth
+address:        Northern Central Road,Haidian District,Beijing
+country:        CN
+phone:          +86-010-82319727
+fax-no:         +86-010-82319727-8010
+e-mail:         xieqi@sawas.com.cn
+nic-hdl:        XQ352-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-02-22T03:10:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

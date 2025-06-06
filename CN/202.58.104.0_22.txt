@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.58.104.0 - 202.58.107.255'
+
+% Abuse contact for '202.58.104.0 - 202.58.107.255' is 'tousu@cnr.cc'
+
+inetnum:        202.58.104.0 - 202.58.107.255
+netname:        ENL-AP
+descr:          EightJoy Networks LLC
+country:        CN
+org:            ORG-ENL4-AP
+admin-c:        ENLA3-AP
+tech-c:         ENLA3-AP
+abuse-c:        AE133-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ENL-AP
+mnt-routes:     MAINT-ENL-AP
+mnt-irt:        IRT-ENL-AP
+last-modified:  2020-05-17T23:02:51Z
+source:         APNIC
+
+irt:            IRT-ENL-AP
+address:        1603 Capitol Ave Ste 310, Cheyenne Wyoming 82001
+e-mail:         tousu@cnr.cc
+abuse-mailbox:  tousu@cnr.cc
+admin-c:        ENLA3-AP
+tech-c:         ENLA3-AP
+auth:           # Filtered
+remarks:        tousu@cnr.cc is invalid
+mnt-by:         MAINT-ENL-AP
+last-modified:  2025-05-21T13:12:39Z
+source:         APNIC
+
+organisation:   ORG-ENL4-AP
+org-name:       EightJoy Networks LLC
+org-type:       LIR
+country:        US
+address:        1603 Capitol Ave Ste 310
+phone:          +852-85285282
+e-mail:         tousu@cnr.cc
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:45Z
+source:         APNIC
+
+role:           ABUSE ENLAP
+country:        ZZ
+address:        1603 Capitol Ave Ste 310, Cheyenne Wyoming 82001
+phone:          +000000000
+e-mail:         tousu@cnr.cc
+admin-c:        ENLA3-AP
+tech-c:         ENLA3-AP
+nic-hdl:        AE133-AP
+remarks:        Generated from irt object IRT-ENL-AP
+remarks:        tousu@cnr.cc is invalid
+abuse-mailbox:  tousu@cnr.cc
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-21T13:13:10Z
+source:         APNIC
+
+role:           EightJoy Networks LLC administrator
+address:        1603 Capitol Ave Ste 310, Cheyenne Wyoming 82001
+country:        US
+phone:          +852-85285282
+fax-no:         +852-85285282
+e-mail:         tousu@cnr.cc
+admin-c:        ENLA3-AP
+tech-c:         ENLA3-AP
+nic-hdl:        ENLA3-AP
+mnt-by:         MAINT-ENL-AP
+last-modified:  2020-04-29T10:13:05Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

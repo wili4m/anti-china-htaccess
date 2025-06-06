@@ -1,0 +1,117 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      182.0.0.0 - 182.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '182.88.0.0 - 182.91.255.255'
+
+% Abuse contact for '182.88.0.0 - 182.91.255.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        182.88.0.0 - 182.91.255.255
+netname:        UNICOM-GX
+descr:          China Unicom GuangXi province network
+descr:          China Unicom
+descr:          No.21,Ji-Rong Street,
+descr:          Beijing 100033
+country:        CN
+admin-c:        CH455-AP
+tech-c:         LH602-AP
+abuse-c:        AC1718-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-GX
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+last-modified:  2025-01-22T13:16:50Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+role:           CNCGroup Hostmaster
+e-mail:         hqs-ipabuse@chinaunicom.cn
+address:        No.156,Fu-Xing-Men-Nei Street,
+address:        Beijing,100031,P.R.China
+nic-hdl:        CH455-AP
+phone:          +86-10-82993155
+fax-no:         +86-10-82993102
+country:        CN
+admin-c:        CH444-AP
+tech-c:         CH444-AP
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-08-17T06:13:15Z
+source:         APNIC
+
+person:         liu huanyi
+nic-hdl:        LH602-AP
+e-mail:         nnlhy@gxcc.com.cn
+address:        44,Xinghu Road,Xingcheng District,Nanning,CHINA
+phone:          +86-771-2597426
+fax-no:         +86-771-2522019
+country:        CN
+mnt-by:         MAINT-CNCGROUP-GX
+last-modified:  2008-09-04T07:34:50Z
+source:         APNIC
+
+% Information related to '182.88.0.0/14AS4837'
+
+route:          182.88.0.0/14
+descr:          China Unicom Guangxi Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2010-03-02T01:06:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

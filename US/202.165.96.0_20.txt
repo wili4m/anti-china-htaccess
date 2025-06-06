@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.165.96.0 - 202.165.111.255'
+
+% Abuse contact for '202.165.96.0 - 202.165.111.255' is 'rir-abuse@yahooinc.com'
+
+inetnum:        202.165.96.0 - 202.165.111.255
+netname:        YAHOO-ASIA-2
+descr:          Internet Content Provider
+country:        US
+org:            ORG-YA6-AP
+admin-c:        YI12-AP
+tech-c:         YI12-AP
+abuse-c:        AY527-AP
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be modified by APNIC hostmaster
+remarks:        If you wish to modify this object details please
+remarks:        send email to hostmaster@apnic.net with your organisation
+remarks:        account name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AP-YAHOO-INC
+mnt-irt:        IRT-YAHOO-AP
+last-modified:  2021-01-11T00:24:36Z
+source:         APNIC
+
+irt:            IRT-YAHOO-AP
+address:        701 First Avenue
+address:        Sunnyvale, CA 94089
+e-mail:         rir-admin@yahooinc.com
+abuse-mailbox:  rir-abuse@yahooinc.com
+admin-c:        YI12-AP
+tech-c:         YI12-AP
+auth:           # Filtered
+remarks:        rir-admin@yahooinc.com was validated on 2024-12-10
+remarks:        rir-abuse@yahooinc.com was validated on 2024-12-26
+mnt-by:         MAINT-AP-YAHOO-INC
+last-modified:  2024-12-26T01:05:46Z
+source:         APNIC
+
+organisation:   ORG-YA6-AP
+org-name:       Yahoo Inc.
+org-type:       LIR
+country:        US
+address:        770 Broadway
+phone:          +65-6809-8000
+fax-no:         +1-214-478-6657
+e-mail:         rir-admin@yahooinc.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:52Z
+source:         APNIC
+
+role:           ABUSE YAHOOAP
+country:        ZZ
+address:        701 First Avenue
+address:        Sunnyvale, CA 94089
+phone:          +000000000
+e-mail:         rir-admin@yahooinc.com
+admin-c:        YI12-AP
+tech-c:         YI12-AP
+nic-hdl:        AY527-AP
+remarks:        Generated from irt object IRT-YAHOO-AP
+remarks:        rir-admin@yahooinc.com was validated on 2024-12-10
+remarks:        rir-abuse@yahooinc.com was validated on 2024-12-26
+abuse-mailbox:  rir-abuse@yahooinc.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-26T01:06:00Z
+source:         APNIC
+
+role:           YAHOO INC
+address:        701 First Avenue
+address:        Sunnyvale, CA 94089
+country:        US
+phone:          +1 408 349 3300
+fax-no:         +1 408 349 3301
+e-mail:         rir-admin@yahooinc.com
+remarks:        send spam and abuse reports to rir-abuse@yahooinc.com
+remarks:        or visit http://abuse.yahoo.com
+admin-c:        KT615-AP
+tech-c:         KT615-AP
+nic-hdl:        YI12-AP
+notify:         netops@yahoo-inc.com
+mnt-by:         MAINT-AP-YAHOO-INC
+last-modified:  2022-12-06T10:12:37Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

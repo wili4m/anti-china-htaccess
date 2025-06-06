@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      175.0.0.0 - 175.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '175.106.128.0 - 175.106.255.255'
+
+% Abuse contact for '175.106.128.0 - 175.106.255.255' is '149704157@qq.com'
+
+inetnum:        175.106.128.0 - 175.106.255.255
+netname:        ZYTX
+descr:          Zhongyuan Petroleum Explore Bureau Communication Company
+descr:          No15 Xingye Road, Puyang, Henan ,China
+country:        CN
+admin-c:        CF450-AP
+tech-c:         GS540-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-ZYTX-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:10Z
+source:         APNIC
+
+irt:            IRT-ZYTX-CN
+address:        No15 Xingye Road  Puyang ,Henan ,China
+e-mail:         149704157@qq.com
+abuse-mailbox:  149704157@qq.com
+auth:           # Filtered
+admin-c:        CF450-AP
+tech-c:         GS540-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-10T03:26:40Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Cao Feng
+address:        No15 Xingye Road  Puyang ,Henan ,China
+country:        CN
+phone:          +86-0393-4822137
+fax-no:         +86-0393-4826334
+e-mail:         cf21@163.com
+nic-hdl:        CF450-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:50:08Z
+source:         APNIC
+
+person:         Gui Songtao
+address:        No15 Xingye Road  Puyang ,Henan ,China
+country:        CN
+phone:          +86-0393-4892444
+fax-no:         +86-0393-4826334
+e-mail:         guisthnpy@163.com
+nic-hdl:        GS540-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:50:08Z
+source:         APNIC
+
+% Information related to '175.106.128.0/17AS4837'
+
+route:          175.106.128.0/17
+descr:          China Unicom Henan Province network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2010-01-21T09:09:33Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

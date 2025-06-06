@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.100.0.0 - 202.100.31.255'
+
+% Abuse contact for '202.100.0.0 - 202.100.31.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        202.100.0.0 - 202.100.31.255
+netname:        CHINANET-SHAANXI
+descr:          Shaanxi provice data communication Bureau
+descr:          185, zhuque Road
+descr:          xi'an city, shaanxi 710061
+country:        CN
+admin-c:        XC10-AP
+tech-c:         XC10-AP
+remarks:        Shaanxi Province Network
+remarks:        service provider
+mnt-by:         MAINT-CHINANET
+status:         ASSIGNED NON-PORTABLE
+remarks:        sxic@public.xa.sn.cn 981105
+remarks:        hm-changed@apnic.net 20040927
+last-modified:  2011-11-09T00:09:35Z
+source:         APNIC
+
+person:         Xianghong Cao
+address:        Shaanxi province data communication Bureau
+address:        8# guangde Road west development zone
+address:        Xi'an city, Shanxi province 710075
+country:        CN
+phone:          +8629-837-1049
+fax-no:         +8629-837-1049
+e-mail:         IPADM@PUBLIC.XA.SN.CN
+nic-hdl:        XC10-AP
+mnt-by:         MAINT-CHINANET-SHAANXI
+last-modified:  2012-02-01T23:37:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

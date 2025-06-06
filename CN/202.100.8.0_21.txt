@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.100.0.0 - 202.100.28.255'
+
+% Abuse contact for '202.100.0.0 - 202.100.28.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        202.100.0.0 - 202.100.28.255
+netname:        SNXIAN
+descr:          xi'an data branch,XIAN CITY SHAANXI PROVINCE
+country:        CN
+admin-c:        WWN1-AP
+tech-c:         WWN1-AP
+mnt-by:         MAINT-CHINANET-SHAANXI
+mnt-lower:      MAINT-CN-SNXIAN
+status:         ASSIGNED NON-PORTABLE
+last-modified:  2008-09-04T06:49:53Z
+source:         APNIC
+
+person:         WANG WEI NA
+address:        Xi Xin street 90# XIAN
+country:        CN
+phone:          +8629-724-1554
+fax-no:         +8629-324-4305
+e-mail:         xaipadm@public.xa.sn.cn
+nic-hdl:        WWN1-AP
+mnt-by:         MAINT-CN-SNXIAN
+last-modified:  2008-09-04T07:29:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

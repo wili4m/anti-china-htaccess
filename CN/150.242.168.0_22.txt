@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      150.0.0.0 - 150.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '150.242.168.0 - 150.242.171.255'
+
+% Abuse contact for '150.242.168.0 - 150.242.171.255' is 'heshan@founderbn.com'
+
+inetnum:        150.242.168.0 - 150.242.171.255
+netname:        FOUNDERBN
+descr:          Beijing Founder Broadband Network Technology Co.,Ltd
+descr:          Floor 5th,ZhongGuanCun FangZheng Building,No.298,Chengfu
+descr:          Road,HaidianDistrict,Beijing
+country:        CN
+admin-c:        YW7280-AP
+tech-c:         JS4526-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-FOUNDERBN-CN
+last-modified:  2023-03-22T03:00:14Z
+source:         APNIC
+
+irt:            IRT-FOUNDERBN-CN
+address:        Floor 5th,ZhongGuanCun FangZheng Building,No.298,Chengfu
+address:        Road,HaidianDistrict,Beijing
+e-mail:         heshan@founderbn.com
+abuse-mailbox:  heshan@founderbn.com
+admin-c:        SH1095-AP
+tech-c:         SH1095-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Li Jiadong
+address:        Yard A1, Anhuali Fifth District, Chaoyang District, Beijing
+country:        CN
+phone:          +86-18600441603
+e-mail:         lijiadong@founderbn.com
+nic-hdl:        JS4526-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-04-12T02:39:29Z
+source:         APNIC
+
+person:         Wang Tingjun
+address:        Yard A1, Anhuali Fifth District, Chaoyang District, Beijing
+country:        CN
+phone:          +86-18611691657
+e-mail:         wangtingjun@founderbn.com
+nic-hdl:        YW7280-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-04-12T02:39:58Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

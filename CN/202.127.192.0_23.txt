@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.127.192.0 - 202.127.193.255'
+
+% Abuse contact for '202.127.192.0 - 202.127.193.255' is '13699290627@139.com'
+
+inetnum:        202.127.192.0 - 202.127.193.255
+netname:        MPT-CN
+descr:          Cybersecurity Industry Development Center (Information
+descr:          Center of Ministry of Industry and Information Technology)
+descr:          6thFloor, Building 8, No.27 Wanshou road, Haidian District, Beijing
+country:        CN
+admin-c:        YW7290-AP
+tech-c:         JS4548-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-MPT-CN-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ASSIGNED PORTABLE
+last-modified:  2023-08-04T00:54:02Z
+source:         APNIC
+
+irt:            IRT-MPT-CN-CN
+address:        6t hFloor,Building 8,No.27 Wanshou road,Haidian District,Beijing
+e-mail:         13699290627@139.com
+abuse-mailbox:  13699290627@139.com
+auth:           # Filtered
+admin-c:        YW7290-AP
+tech-c:         JS4548-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-07-20T01:33:40Z
+source:         APNIC
+
+person:         Jianyong Yuan
+address:        6t hFloor,Building 8,No.27 Wanshou road,Haidian District,Beijing
+country:        CN
+phone:          +0861-68200339
+e-mail:         yuanjianyong@miit.gov.cn
+nic-hdl:        JS4548-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-07-20T01:29:54Z
+source:         APNIC
+
+person:         Zhuoling Shi
+address:        6t hFloor,Building 8,No.27 Wanshou road,Haidian District,Beijing
+country:        CN
+phone:          +0861-68200308
+e-mail:         shizhuoling@miit.gov.cn
+nic-hdl:        YW7290-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-07-20T01:29:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

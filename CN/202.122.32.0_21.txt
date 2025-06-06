@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.122.32.0 - 202.122.39.255'
+
+% Abuse contact for '202.122.32.0 - 202.122.39.255' is 'irt@ihep.ac.cn'
+
+inetnum:        202.122.32.0 - 202.122.39.255
+netname:        IHEP
+descr:          Institute of High Energy Physics
+descr:          Chinese Academy of Sciences
+descr:          P.O. Box 918-7, Beijing 100039
+country:        CN
+admin-c:        FQ48-AP
+tech-c:         GC332-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-IHEP-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:13Z
+source:         APNIC
+
+irt:            IRT-IHEP-CN
+address:        P.O. Box 918-7
+e-mail:         irt@ihep.ac.cn
+abuse-mailbox:  irt@ihep.ac.cn
+auth:           # Filtered
+admin-c:        FQ48-AP
+tech-c:         FQ48-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-20T00:03:06Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Fazhi Qi
+nic-hdl:        FQ48-AP
+e-mail:         qfz@ihep.ac.cn
+address:        P.O. Box 918-7,Beijing 100049
+phone:          +86-010-88236835
+fax-no:         +86-010-88236839
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-12-18T06:24:12Z
+source:         APNIC
+
+person:         Gang Chen
+nic-hdl:        GC332-AP
+e-mail:         cheng@ihep.ac.cn
+address:        P.O. Box 918-7,Beijing 100049
+phone:          +86-010-88236006
+fax-no:         +86-010-88236839
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-12-18T06:27:12Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,93 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      183.0.0.0 - 183.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '183.91.128.0 - 183.91.131.255'
+
+% Abuse contact for '183.91.128.0 - 183.91.131.255' is 'ipas@cnnic.cn'
+
+inetnum:        183.91.128.0 - 183.91.131.255
+netname:        FT-ISP
+descr:          Shanghai FeiTong Network Solutions Tech.Co.Ltd
+descr:          Room B 6th floor 63 Building No.421 Hongcao Rd. Caohejing Hi-Tech Park Shanghai
+country:        CN
+admin-c:        MC5-AP
+tech-c:         AB82-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:26:30Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Ansen Bin
+nic-hdl:        AB82-AP
+e-mail:         ansenbin@gmail.com
+address:        Room B 6th floor 63 Building No.421 Hongcao Rd.Caohejing Hi-Tech Park Shanghai
+phone:          +86-21-61121073
+fax-no:         +86-21-61121073
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-11-24T08:43:29Z
+source:         APNIC
+
+person:         Max Chan
+nic-hdl:        MC5-AP
+e-mail:         jack@wintimes.com.cn
+address:        Room B 6th floor 63 Building No.421 Hongcao Rd.Caohejing Hi-Tech Park Shanghai
+phone:          +86-21-61121073
+fax-no:         +86-21-61121073
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-11-24T08:36:28Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

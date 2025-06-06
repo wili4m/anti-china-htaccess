@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.122.0.0 - 202.122.7.255'
+
+% Abuse contact for '202.122.0.0 - 202.122.7.255' is 'lychen99@gmail.com'
+
+inetnum:        202.122.0.0 - 202.122.7.255
+netname:        SRCFAP-CN
+descr:          Shanghai Research Center for Applied Physics
+country:        CN
+org:            ORG-SRCF1-AP
+admin-c:        SRCF1-AP
+tech-c:         SRCF1-AP
+abuse-c:        AS3563-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-SRCFAP-CN
+mnt-irt:        IRT-SRCFAP-CN
+last-modified:  2023-07-07T13:17:14Z
+source:         APNIC
+
+irt:            IRT-SRCFAP-CN
+address:        220, Handan Road, Fudan Uniersity, 404 Science Building, Shanghai Shanghai 200433
+e-mail:         lychen99@gmail.com
+abuse-mailbox:  lychen99@gmail.com
+admin-c:        SRCF1-AP
+tech-c:         SRCF1-AP
+auth:           # Filtered
+remarks:        lychen99@gmail.com was validated on 2025-05-14
+mnt-by:         MAINT-SRCFAP-CN
+last-modified:  2025-05-14T02:17:54Z
+source:         APNIC
+
+organisation:   ORG-SRCF1-AP
+org-name:       Shanghai Research Center for Applied Physics
+org-type:       LIR
+country:        CN
+address:        220, Handan Road, Fudan Uniersity
+address:        404 Science Building
+phone:          +8613901904227
+fax-no:         +862165646068
+e-mail:         lychen@fudan.ac.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:19:10Z
+source:         APNIC
+
+role:           ABUSE SRCFAPCN
+country:        ZZ
+address:        220, Handan Road, Fudan Uniersity, 404 Science Building, Shanghai Shanghai 200433
+phone:          +000000000
+e-mail:         lychen99@gmail.com
+admin-c:        SRCF1-AP
+tech-c:         SRCF1-AP
+nic-hdl:        AS3563-AP
+remarks:        Generated from irt object IRT-SRCFAP-CN
+remarks:        lychen99@gmail.com was validated on 2025-05-14
+abuse-mailbox:  lychen99@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-14T02:18:03Z
+source:         APNIC
+
+role:           Shanghai Research Center for Applied Physics administrator
+address:        220, Handan Road, Fudan Uniersity, 404  Science Building, Shanghai Shanghai 200433
+country:        CN
+phone:          +8613901904227
+fax-no:         +862165646068
+e-mail:         lychen99@gmail.com
+admin-c:        SRCF1-AP
+tech-c:         SRCF1-AP
+nic-hdl:        SRCF1-AP
+mnt-by:         MAINT-SRCFAP-CN
+last-modified:  2023-04-16T23:30:33Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

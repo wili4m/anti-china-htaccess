@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.180.128.0 - 202.180.159.255'
+
+% Abuse contact for '202.180.128.0 - 202.180.159.255' is 'tx_zhangx@petrochina.com.cn'
+
+inetnum:        202.180.128.0 - 202.180.159.255
+netname:        HTXX
+descr:          HuaBei Oil Communication CO. Information Center
+descr:          huizhan street, Renqiu city, Hebei
+country:        CN
+admin-c:        XH1977-AP
+tech-c:         YY2366-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HTXX-CN
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:15Z
+source:         APNIC
+
+irt:            IRT-HTXX-CN
+address:        huizhan street, .Renqiu city, Hebei,P.R.CHINA
+e-mail:         tx_zhangx@petrochina.com.cn
+abuse-mailbox:  tx_zhangx@petrochina.com.cn
+auth:           # Filtered
+admin-c:        YY2366-AP
+tech-c:         XH1977-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-11-01T06:35:16Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xu Hui
+address:        HuaBei Oil Communication CO. Information Center
+address:        huizhan street, .Renqiu city, Hebei,P.R.CHINA
+country:        CN
+phone:          +86-0317-2779096
+fax-no:         +86-0317-2779006
+e-mail:         13785799868@139.com
+nic-hdl:        XH1977-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-05-02T08:52:01Z
+source:         APNIC
+
+person:         Yan Yong
+address:        HuaBei Oil Communication CO. Information Center
+address:        huizhan street, .Renqiu city, Hebei,P.R.CHINA
+country:        CN
+phone:          +86-0317-2779096
+fax-no:         +86-0317-2779006
+e-mail:         13785799868@139.com
+nic-hdl:        YY2366-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-05-02T08:52:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

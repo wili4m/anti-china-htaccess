@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.38.134.0 - 202.38.134.255'
+
+% Abuse contact for '202.38.134.0 - 202.38.134.255' is 'weiqianyun@csvw.com'
+
+inetnum:        202.38.134.0 - 202.38.134.255
+netname:        SVAC-CN
+descr:          SAIC VOLKSWAGEN AUTOMOTIVE CO.LTD.
+country:        CN
+org:            ORG-SVAC1-AP
+admin-c:        SVAC1-AP
+tech-c:         SVAC1-AP
+abuse-c:        AS3676-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-SVAC-CN
+mnt-irt:        IRT-SVAC-CN
+last-modified:  2024-01-17T13:10:40Z
+source:         APNIC
+
+irt:            IRT-SVAC-CN
+address:        NO.7 Yutian Road, Shanghai Jiading 201805
+e-mail:         weiqianyun@csvw.com
+abuse-mailbox:  weiqianyun@csvw.com
+admin-c:        SVAC1-AP
+tech-c:         SVAC1-AP
+auth:           # Filtered
+remarks:        weiqianyun@csvw.com was validated on 2025-01-06
+mnt-by:         MAINT-SVAC-CN
+last-modified:  2025-01-06T00:43:09Z
+source:         APNIC
+
+organisation:   ORG-SVAC1-AP
+org-name:       SAIC VOLKSWAGEN AUTOMOTIVE CO.LTD.
+org-type:       LIR
+country:        CN
+address:        NO.7 Yutian Road
+phone:          +86-21-59561888
+e-mail:         weiqianyun@csvw.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-05-07T01:39:10Z
+source:         APNIC
+
+role:           ABUSE SVACCN
+country:        ZZ
+address:        NO.7 Yutian Road, Shanghai Jiading 201805
+phone:          +000000000
+e-mail:         weiqianyun@csvw.com
+admin-c:        SVAC1-AP
+tech-c:         SVAC1-AP
+nic-hdl:        AS3676-AP
+remarks:        Generated from irt object IRT-SVAC-CN
+remarks:        weiqianyun@csvw.com was validated on 2025-01-06
+abuse-mailbox:  weiqianyun@csvw.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-06T00:43:14Z
+source:         APNIC
+
+role:           SAIC VOLKSWAGEN AUTOMOTIVE COLTD administrator
+address:        NO.7 Yutian Road, Shanghai Jiading 201805
+country:        CN
+phone:          +86-21-59561888
+e-mail:         weiqianyun@csvw.com
+admin-c:        SVAC1-AP
+tech-c:         SVAC1-AP
+nic-hdl:        SVAC1-AP
+mnt-by:         MAINT-SVAC-CN
+last-modified:  2023-12-20T03:30:18Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

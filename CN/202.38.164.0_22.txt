@@ -1,0 +1,96 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.38.164.0 - 202.38.167.255'
+
+% Abuse contact for '202.38.164.0 - 202.38.167.255' is 'chengyu15@chinaunicom.cn'
+
+inetnum:        202.38.164.0 - 202.38.167.255
+netname:        CUCLJB-CN
+descr:          China Unicom Co Ltd Jilin Branch
+country:        CN
+org:            ORG-CUCL2-AP
+admin-c:        CUCL1-AP
+tech-c:         CUCL1-AP
+abuse-c:        AC2839-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CUCLJB-CN
+mnt-irt:        IRT-CUCLJB-CN
+last-modified:  2024-11-26T03:53:38Z
+source:         APNIC
+
+irt:            IRT-CUCLJB-CN
+address:        No. 3535 Jiefang Road, Changchun Jilin 130021
+e-mail:         chengyu15@chinaunicom.cn
+abuse-mailbox:  chengyu15@chinaunicom.cn
+admin-c:        CUCL1-AP
+tech-c:         CUCL1-AP
+auth:           # Filtered
+mnt-by:         MAINT-CUCLJB-CN
+last-modified:  2024-11-04T02:30:57Z
+source:         APNIC
+
+organisation:   ORG-CUCL2-AP
+org-name:       China Unicom Co Ltd Jilin Branch
+org-type:       LIR
+country:        CN
+address:        No. 3535 Jiefang Road
+phone:          +86-431-85649366
+e-mail:         suibd1@chinaunicom.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-10-03T13:12:07Z
+source:         APNIC
+
+role:           ABUSE CUCLJBCN
+country:        ZZ
+address:        No. 3535 Jiefang Road, Changchun Jilin 130021
+phone:          +000000000
+e-mail:         chengyu15@chinaunicom.cn
+admin-c:        CUCL1-AP
+tech-c:         CUCL1-AP
+nic-hdl:        AC2839-AP
+remarks:        Generated from irt object IRT-CUCLJB-CN
+abuse-mailbox:  chengyu15@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-26T03:53:38Z
+source:         APNIC
+
+role:           China Unicom Co Ltd Jilin Branch administrator
+address:        No. 3535 Jiefang Road, Changchun Jilin 130021
+country:        CN
+phone:          +86-431-85649366
+e-mail:         chengyu15@chinaunicom.cn
+admin-c:        CUCL1-AP
+tech-c:         CUCL1-AP
+nic-hdl:        CUCL1-AP
+mnt-by:         MAINT-CUCLJB-CN
+last-modified:  2024-11-04T02:30:57Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

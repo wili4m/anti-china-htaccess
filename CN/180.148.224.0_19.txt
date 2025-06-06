@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      180.0.0.0 - 180.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '180.148.224.0 - 180.148.255.255'
+
+% Abuse contact for '180.148.224.0 - 180.148.255.255' is '258670649@qq.com'
+
+inetnum:        180.148.224.0 - 180.148.255.255
+netname:        e-Word
+descr:          Beijing e-Word Service Center
+descr:          3905-8, Beijing,100854, China
+country:        CN
+admin-c:        LX1630-AP
+tech-c:         LX1630-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-E-WORD-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:11Z
+source:         APNIC
+
+irt:            IRT-e-Word-CN
+address:        3905-8, Beijing,100854, China
+e-mail:         258670649@qq.com
+abuse-mailbox:  258670649@qq.com
+auth:           # Filtered
+admin-c:        LX1630-AP
+tech-c:         LX1630-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:35Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Li Xue
+address:        Beijing e-Word Service Center
+address:        3905-8, Beijing,100854, China
+country:        CN
+phone:          +86-010-68760100
+fax-no:         +86-010-68385000
+e-mail:         xtrg@sina.com
+nic-hdl:        LX1630-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-08-26T06:42:56Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

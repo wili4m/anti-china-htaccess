@@ -1,0 +1,113 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      193.0.0.0 - 193.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        193.112.0.0 - 193.112.255.255
+netname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr:          IPv4 address block not managed by the RIPE NCC
+remarks:        ------------------------------------------------------
+remarks:
+remarks:        For registration information,
+remarks:        you can consult the following sources:
+remarks:
+remarks:        IANA
+remarks:        http://www.iana.org/assignments/ipv4-address-space
+remarks:        http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks:        http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks:        AFRINIC (Africa)
+remarks:        http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks:        APNIC (Asia Pacific)
+remarks:        http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks:        ARIN (Northern America)
+remarks:        http://www.arin.net/ whois.arin.net
+remarks:
+remarks:        LACNIC (Latin America and the Carribean)
+remarks:        http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks:        ------------------------------------------------------
+country:        EU # Country is really world wide
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+status:         ALLOCATED UNSPECIFIED
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2019-01-07T10:47:09Z
+last-modified:  2019-01-07T10:47:09Z
+source:         RIPE
+
+role:           Internet Assigned Numbers Authority
+address:        see http://www.iana.org.
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+nic-hdl:        IANA1-RIPE
+remarks:        For more information on IANA services
+remarks:        go to IANA web site at http://www.iana.org.
+mnt-by:         RIPE-NCC-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:31:27Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (DEXTER)
+
+
+# whois.arin.net
+
+NetRange:       193.0.0.0 - 193.255.255.255
+CIDR:           193.0.0.0/8
+NetName:        RIPE-CBLK
+NetHandle:      NET-193-0-0-0-1
+Parent:          ()
+NetType:        Allocated to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        1992-08-12
+Updated:        2025-02-10
+Comment:        These addresses have been further assigned to users in the RIPE NCC region. Please note that the organization and point of contact details listed below are those of the RIPE NCC not the current address holder. ** You can find user contact information for the current address holder in the RIPE database at http://www.ripe.net/whois.
+Ref:            https://rdap.arin.net/registry/ip/193.0.0.0
+
+ResourceLink:  https://apps.db.ripe.net/db-web-ui/query
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/db-web-ui/query
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+

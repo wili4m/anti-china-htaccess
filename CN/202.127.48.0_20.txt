@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.127.48.0 - 202.127.63.255'
+
+% Abuse contact for '202.127.48.0 - 202.127.63.255' is 'zhanghui1@mail.customs.gov.cn'
+
+inetnum:        202.127.48.0 - 202.127.63.255
+netname:        CGAC-CN
+descr:          National Information Center of GACC (National E-Clearance Center of GACC)
+descr:          63 Jinbao Street,Dongcheng District,Bejing
+country:        CN
+admin-c:        YW7286-AP
+tech-c:         JS4534-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-CGAC-CN
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-05-22T23:56:37Z
+source:         APNIC
+
+irt:            IRT-CGAC-CN
+address:        63 Jinbao Street,Dongcheng District,Bejing
+e-mail:         zhanghui1@mail.customs.gov.cn
+abuse-mailbox:  zhanghui1@mail.customs.gov.cn
+admin-c:        YW7286-AP
+tech-c:         JS4534-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-05-19T01:25:57Z
+source:         APNIC
+
+person:         Zhang Hui
+address:        63 Jinbao Street,Dongcheng District,Bejing
+country:        CN
+phone:          +86-10-85193260
+e-mail:         zhanghui1@mail.customs.gov.cn
+nic-hdl:        JS4534-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-05-19T01:23:25Z
+source:         APNIC
+
+person:         Tan Song
+address:        63 Jinbao Street,Dongcheng District,Bejing
+country:        CN
+phone:          +86-10-85193202
+e-mail:         songtan@customs.gov.cn
+nic-hdl:        YW7286-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-05-19T01:23:25Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

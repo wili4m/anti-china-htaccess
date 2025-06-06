@@ -1,0 +1,123 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.95.0.0 - 202.95.31.255'
+
+% Abuse contact for '202.95.0.0 - 202.95.31.255' is 'cs.mail@ctgserver.com'
+
+inetnum:        202.95.0.0 - 202.95.31.255
+netname:        RCPL-SG
+descr:          RACKIP CONSULTANCY PTE. LTD.
+descr:          No. 3, Pemimpin Drive, # 07-04 Lip Hing, Industrial Building,
+country:        SG
+org:            ORG-RCPL1-AP
+admin-c:        RCPL3-AP
+tech-c:         RCPL3-AP
+abuse-c:        AC2487-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-RCPL-SG
+mnt-routes:     MAINT-RCPL-SG
+mnt-irt:        IRT-CTG-HK
+last-modified:  2024-08-23T02:28:56Z
+source:         APNIC
+
+irt:            IRT-CTG-HK
+address:        202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong
+e-mail:         cs.mail@ctgserver.com
+abuse-mailbox:  cs.mail@ctgserver.com
+admin-c:        RCPL3-AP
+tech-c:         RCPL3-AP
+auth:           # Filtered
+remarks:        cs.mail@ctgserver.com
+remarks:        cs.mail@ctgserver.com was validated on 2025-01-15
+mnt-by:         MAINT-RCPL-SG
+last-modified:  2025-01-15T01:11:37Z
+source:         APNIC
+
+organisation:   ORG-RCPL1-AP
+org-name:       RACKIP CONSULTANCY PTE. LTD.
+org-type:       LIR
+country:        SG
+address:        No. 3, Pemimpin Drive, # 07-04 Lip Hing, Industrial Building,
+phone:          +65 6255 8133
+fax-no:         +65 6251 6559
+e-mail:         abuse@rackip.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:45Z
+source:         APNIC
+
+role:           ABUSE CTGHK
+country:        ZZ
+address:        202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong
+phone:          +000000000
+e-mail:         cs.mail@ctgserver.com
+admin-c:        RCPL3-AP
+tech-c:         RCPL3-AP
+nic-hdl:        AC2487-AP
+remarks:        Generated from irt object IRT-CTG-HK
+remarks:        cs.mail@ctgserver.com was validated on 2025-01-15
+abuse-mailbox:  cs.mail@ctgserver.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-15T01:11:59Z
+source:         APNIC
+
+role:           RACKIP CONSULTANCY PTE LTD administrator
+address:        399 Chai Wan Road, Chai Wan, Hong Kong
+country:        SG
+phone:          +603-7806-1316
+fax-no:         +603-7806-1316
+e-mail:         abuse@rackip.com
+admin-c:        RCPL3-AP
+tech-c:         RCPL3-AP
+nic-hdl:        RCPL3-AP
+mnt-by:         MAINT-RCPL-SG
+last-modified:  2021-08-30T06:13:42Z
+source:         APNIC
+
+% Information related to '202.95.16.0/20AS152194'
+
+route:          202.95.16.0/20
+origin:         AS152194
+descr:          RACKIP CONSULTANCY PTE. LTD.
+                No. 3, Pemimpin Drive, #07-04 Lip Hing, Industrial Building,
+mnt-by:         MAINT-RCPL-SG
+last-modified:  2024-03-31T12:42:22Z
+source:         APNIC
+
+% Information related to '202.95.16.0/20AS64050'
+
+route:          202.95.16.0/20
+origin:         AS64050
+descr:          RACKIP CONSULTANCY PTE. LTD.
+                No. 3, Pemimpin Drive, #07-04 Lip Hing, Industrial Building,
+mnt-by:         MAINT-RCPL-SG
+last-modified:  2023-10-12T03:58:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

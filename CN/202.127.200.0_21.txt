@@ -1,0 +1,105 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.127.200.0 - 202.127.207.255'
+
+% Abuse contact for '202.127.200.0 - 202.127.207.255' is 'xfli@hfcas.ac.cn'
+
+inetnum:        202.127.200.0 - 202.127.207.255
+netname:        HFCASNET
+descr:          The Hefei Branch of Chinese Academy of Sciences
+descr:          Hefei, Anhui 230031
+country:        CN
+admin-c:        XL430-AP
+tech-c:         HT54-AP
+tech-c:         HT54-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CN-CSTNET
+mnt-routes:     MAINT-CN-CSTNET
+mnt-irt:        IRT-HFCASNET-CN
+last-modified:  2021-10-26T07:50:49Z
+source:         APNIC
+
+irt:            IRT-HFCASNET-CN
+address:        Hefei, Anhui 230031
+e-mail:         xfli@hfcas.ac.cn
+abuse-mailbox:  xfli@hfcas.ac.cn
+auth:           # Filtered
+admin-c:        XL430-AP
+tech-c:         HT54-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-10-26T07:50:06Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         HaiBo Tan
+nic-hdl:        HT54-AP
+e-mail:         hbtan@hfcas.ac.cn
+address:        1110# P.O.B. Hefei City, Anhui Province, China
+phone:          +86-551-5591292
+fax-no:         +86-551-5591270
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+person:         XiaoFeng Li
+nic-hdl:        XL430-AP
+e-mail:         xfli@hfcas.ac.cn
+address:        1110# P.O.B. Hefei City, Anhui Province, China
+phone:          +86-551-5591292
+fax-no:         +86-551-5591270
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+% Information related to '202.127.200.0/21AS7497'
+
+route:          202.127.200.0/21
+descr:          Route origin from CSTNET
+country:        CN
+origin:         AS7497
+remarks:        Please contact lihong@cstnet.cn if you have any
+remarks:        questions regarding this object.
+remarks:        Antispam mail please send to antispam@cstnet.cn.
+notify:         lihong@cstnet.cn
+mnt-by:         MAINT-CSTNET-CN
+last-modified:  2023-10-06T05:09:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,75 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.127.12.0 - 202.127.15.255'
+
+% Abuse contact for '202.127.12.0 - 202.127.15.255' is '273958318@qq.com'
+
+inetnum:        202.127.12.0 - 202.127.15.255
+netname:        NJISTI
+descr:          Nanjing Institute of Science and Technology Information
+descr:          5th floor, No. 118, Chengxian Street,
+descr:          Xuanwu District, Nanjing
+country:        CN
+admin-c:        YW7279-AP
+tech-c:         JS4525-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NJISTI-CN
+status:         ASSIGNED PORTABLE
+last-modified:  2023-03-21T07:50:41Z
+source:         APNIC
+
+irt:            IRT-NJISTI-CN
+address:        5th floor, No. 118, Chengxian Street,
+address:        Xuanwu District, Nanjing
+e-mail:         18102710@qq.com
+abuse-mailbox:  273958318@qq.com
+admin-c:        YW7279-AP
+tech-c:         JS4525-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-03-20T08:14:45Z
+source:         APNIC
+
+person:         Xu Junlong
+address:        5th floor, No. 118, Chengxian Street,
+address:        Xuanwu District, Nanjing
+country:        CN
+phone:          +86-13813935445
+e-mail:         273958318@qq.com
+nic-hdl:        JS4525-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-03-20T08:13:13Z
+source:         APNIC
+
+person:         Xu Aihua
+address:        5th floor, No. 118, Chengxian Street,
+address:        Xuanwu District, Nanjing
+country:        CN
+phone:          +86-13675171093
+e-mail:         18102710@qq.com
+nic-hdl:        YW7279-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-03-20T08:13:13Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

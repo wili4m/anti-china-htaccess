@@ -1,0 +1,107 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      183.0.0.0 - 183.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '183.64.0.0 - 183.71.255.255'
+
+% Abuse contact for '183.64.0.0 - 183.71.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        183.64.0.0 - 183.71.255.255
+netname:        CHINANET-CQ
+descr:          CHINANET Chongqing Province Network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CQ235-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-CQ
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:06:22Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+role:           CHINANET CQ
+address:        The mainstreet 3 daping ,chongqing data communication bureau
+country:        CN
+phone:          +862368614888
+fax-no:         +862368602314
+e-mail:         ipmanager.cq@chinatelecom.cn
+remarks:        send spam reports to ipmanager.cq@chinatelecom.cn
+remarks:        and abuse reports to ipmanager.cq@chinatelecom.cn
+remarks:        http://www.cta.cq.cn
+admin-c:        ZL235-AP
+tech-c:         ZL235-AP
+nic-hdl:        CQ235-AP
+notify:         ipmanager.cq@chinatelecom.cn
+mnt-by:         MAINT-CHINANET-CQ
+last-modified:  2022-02-23T04:23:29Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      140.0.0.0 - 140.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       140.0.0.0 - 140.255.255.255
+CIDR:           140.0.0.0/8
+NetName:        NET140
+NetHandle:      NET-140-0-0-0-0
+Parent:          ()
+NetType:        Early Registrations, Maintained by ARIN
+OriginAS:       
+Organization:   Various Registries (Maintained by ARIN) (VR-ARIN)
+RegDate:        1993-05-01
+Updated:        2010-06-30
+Ref:            https://rdap.arin.net/registry/ip/140.0.0.0
+
+
+OrgName:        Various Registries (Maintained by ARIN)
+OrgId:          VR-ARIN
+Address:        PO Box 232290
+City:           Centreville
+StateProv:      VA
+PostalCode:     20120
+Country:        US
+RegDate:        1993-05-01
+Updated:        2018-01-08
+Comment:        Address space was assigned by the InterNIC regardless of
+Comment:        geographic region.  The registrations are now being maintained
+Comment:        by various registries, and the in-addr.arpa delegations are
+Comment:        being maintained by ARIN.
+Ref:            https://rdap.arin.net/registry/entity/VR-ARIN
+
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/CKN23-ARIN
+
+OrgAbuseHandle: CKN23-ARIN
+OrgAbuseName:   No, Contact Known
+OrgAbusePhone:  +1-800-555-1234 
+OrgAbuseEmail:  nobody@example.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/CKN23-ARIN
+

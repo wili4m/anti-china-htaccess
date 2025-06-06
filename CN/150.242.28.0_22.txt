@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      150.0.0.0 - 150.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '150.242.28.0 - 150.242.31.255'
+
+% Abuse contact for '150.242.28.0 - 150.242.31.255' is 'cgb@netbank.cn'
+
+inetnum:        150.242.28.0 - 150.242.31.255
+netname:        NXIDC
+descr:          Hangzhou Netbank Technologies co.,LTD
+descr:          A703, # 478 Wensan Road,Hangzhou
+country:        CN
+admin-c:        HH1386-AP
+tech-c:         HY1517-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NXIDC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:07Z
+source:         APNIC
+
+irt:            IRT-NXIDC-CN
+address:        A703, #478 Wensan Road,Hangzhou
+e-mail:         cgb@netbank.cn
+abuse-mailbox:  cgb@netbank.cn
+auth:           # Filtered
+admin-c:        HH1386-AP
+tech-c:         HY1517-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-10T03:26:40Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         HongZhong He
+address:        A703, #478 Wensan Road,Hangzhou
+country:        CN
+phone:          +86-571-88915000
+fax-no:         +86-571-89937091
+e-mail:         hhz@netbank.cn
+nic-hdl:        HH1386-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-05-04T08:15:12Z
+source:         APNIC
+
+person:         HongZhi Yu
+address:        A703, #478 Wensan Road,Hangzhou
+country:        CN
+phone:          +86-571- 88915000
+fax-no:         +86-571-89937091
+e-mail:         yhz@netbank.cn
+nic-hdl:        HY1517-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2009-05-04T08:21:13Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

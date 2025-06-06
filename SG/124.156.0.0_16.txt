@@ -1,0 +1,113 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      124.0.0.0 - 124.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2005-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.156.0.0 - 124.156.255.255'
+
+% Abuse contact for '124.156.0.0 - 124.156.255.255' is 'qcloud_net_duty@tencent.com'
+
+inetnum:        124.156.0.0 - 124.156.255.255
+netname:        ACEVILLEPTELTD-SG
+descr:          16 COLLYER QUAY
+descr:          # 18-29
+descr:          INCOME AT RAFFLES
+country:        SG
+org:            ORG-AP2-AP
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+abuse-c:        AA1875-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ACEVILLEPTELTD-SG
+mnt-routes:     MAINT-ACEVILLEPTELTD-SG
+mnt-irt:        IRT-ACEVILLEPTELTD-SG
+last-modified:  2020-07-22T13:11:03Z
+source:         APNIC
+
+irt:            IRT-ACEVILLEPTELTD-SG
+address:        16 COLLYER QUAY, # 18-29, INCOME AT RAFFLES, SINGAPORE
+e-mail:         qcloud_net_duty@tencent.com
+abuse-mailbox:  qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+auth:           # Filtered
+remarks:        qcloud_net_duty@tencent.com was validated on 2024-12-23
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2024-12-23T11:36:14Z
+source:         APNIC
+
+organisation:   ORG-AP2-AP
+org-name:       ACEVILLE PTE.LTD.
+org-type:       LIR
+country:        SG
+address:        79 Robinson Road # 07-01
+address:        CapitaSky
+phone:          +8613923479936
+e-mail:         ace.as139341@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-07-12T12:59:46Z
+source:         APNIC
+
+role:           ABUSE ACEVILLEPTELTDSG
+country:        ZZ
+address:        16 COLLYER QUAY, # 18-29, INCOME AT RAFFLES, SINGAPORE
+phone:          +000000000
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+nic-hdl:        AA1875-AP
+remarks:        Generated from irt object IRT-ACEVILLEPTELTD-SG
+remarks:        qcloud_net_duty@tencent.com was validated on 2024-12-23
+abuse-mailbox:  qcloud_net_duty@tencent.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-23T11:36:39Z
+source:         APNIC
+
+role:           ACEVILLE PTELTD administrator
+address:        16 COLLYER QUAY, #18-29, INCOME AT RAFFLES, SINGAPORE
+country:        SG
+phone:          +8613923479936
+fax-no:         +8613923479936
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        APA7-AP
+tech-c:         APA7-AP
+nic-hdl:        APA7-AP
+mnt-by:         MAINT-ACEVILLEPTELTD-SG
+last-modified:  2023-03-17T12:36:41Z
+source:         APNIC
+
+% Information related to '124.156.0.0/16AS132203'
+
+route:          124.156.0.0/16
+origin:         AS132203
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+                309 West Zone, 3F. 49 Zhichun Road. Haidian District.
+mnt-by:         MAINT-TENCENT-CN
+last-modified:  2018-05-25T10:47:57Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

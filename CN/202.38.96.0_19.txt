@@ -1,0 +1,141 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.38.96.0 - 202.38.127.255'
+
+% Abuse contact for '202.38.96.0 - 202.38.127.255' is 'abuse@cernet.edu.cn'
+
+inetnum:        202.38.96.0 - 202.38.127.255
+netname:        CERNET-CN
+descr:          China Education and Research Network
+descr:          China Education and Research Network Center
+descr:          Tsinghua University
+descr:          Beijing, 100084
+country:        CN
+admin-c:        JW695-AP
+tech-c:         XL345-AP
+tech-c:         LZ501-AP
+abuse-c:        AC1685-AP
+status:         ALLOCATED PORTABLE
+remarks:        NS2.NET.EDU.CN
+remarks:        DNS.EDU.CN
+remarks:        CDNET52.CDNET.EDU.CN
+remarks:        CDNET61.CDNET.EDU.CN
+remarks:        DNS.WHNET.EDU.CN
+remarks:        DNS.XANET.EDU.CN
+remarks:        MARS.SHNET.EDU.CN
+remarks:        MAVERICK.SYNET.EDU.CN
+remarks:        NS1.NJNET.EDU.CN
+remarks:        NS2.NJNET.EDU.CN
+remarks:        ORANGE.GZNET.EDU.CN
+remarks:        PINEAPPLE.GZNET.EDU.CN
+remarks:        SAINT.SYNET.EDU.CN
+remarks:        SUN200.WHNET.EDU.CN
+remarks:        VENUS.SHNET.EDU.CN
+remarks:        XANOC.XANET.EDU.CN
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-CERNET-AP
+last-modified:  2021-10-26T08:46:29Z
+mnt-lower:      MAINT-CERNET-AP
+mnt-routes:     MAINT-CERNET-AP
+source:         APNIC
+
+irt:            IRT-CERNET-AP
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+fax-no:         +86-10-62785933
+e-mail:         abuse@cernet.edu.cn
+abuse-mailbox:  abuse@cernet.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+auth:           # Filtered
+remarks:        timezone GMT+8
+remarks:        http://www.ccert.edu.cn
+remarks:        abuse@cernet.edu.cn was validated on 2025-01-22
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2025-01-22T13:47:43Z
+source:         APNIC
+
+role:           ABUSE CERNETAP
+country:        ZZ
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+e-mail:         abuse@cernet.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+nic-hdl:        AC1685-AP
+remarks:        Generated from irt object IRT-CERNET-AP
+remarks:        abuse@cernet.edu.cn was validated on 2025-01-22
+abuse-mailbox:  abuse@cernet.edu.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-22T16:25:45Z
+source:         APNIC
+
+person:         Jianping Wu
+address:        China Education and Research Network Center
+address:        Room 225, Main Building, Tsinghua University
+address:        Beijing 100084
+address:        CN
+country:        CN
+phone:          +86-10-6278-5983
+fax-no:         +86-10-6278-5933
+e-mail:         jianping@cernet.edu.cn
+nic-hdl:        JW695-AP
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-22T05:20:26Z
+source:         APNIC
+
+person:         Ling Zhang
+address:        Network Center
+address:        South China University of Technology
+address:        Guangzhou, Guangdong 510641, China
+address:        CN
+country:        CN
+phone:          +86-20-87110596
+fax-no:         +86-20-87110019
+e-mail:         ling@scut.edu.cn
+nic-hdl:        LZ501-AP
+notify:         dbmon@apnic.net
+mnt-by:         MAINT-NULL
+last-modified:  2011-12-22T05:22:11Z
+source:         APNIC
+
+person:         Xing Li
+address:        China Education and Research Network Center
+address:        Room 225, Main Building, Tsinghua University
+address:        Beijing 100084
+address:        CN
+country:        CN
+phone:          +86-10-6278-5983
+fax-no:         +86-10-6278-5933
+e-mail:         xing@cernet.edu.cn
+nic-hdl:        XL345-AP
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-22T05:20:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

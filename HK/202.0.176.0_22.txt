@@ -1,0 +1,138 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.0.160.0 - 202.0.179.255'
+
+% Abuse contact for '202.0.160.0 - 202.0.179.255' is 'jackychan@citictel.com'
+
+inetnum:        202.0.160.0 - 202.0.179.255
+netname:        COMNET-TELECOM
+descr:          ComNet Telecom International Limited
+descr:          Telecom Services Provider
+descr:          Hong Kong
+country:        HK
+org:            ORG-CTIL2-AP
+admin-c:        JC4240-AP
+tech-c:         JC4240-AP
+abuse-c:        AH1000-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+remarks:        dickysum@hk.super.net 950914
+notify:         jackychan@citictel.com
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-COMNETTELECOM
+mnt-routes:     MAINT-AU-COMNETTELECOM
+mnt-irt:        IRT-HK-COMNET
+last-modified:  2020-07-13T03:18:05Z
+source:         APNIC
+
+irt:            IRT-HK-COMNET
+address:        25/F CITIC Telecom Tower,
+address:        93 Kwai Fuk Road,
+address:        Kwai Chung
+address:        Hong Kong
+e-mail:         jackychan@citictel.com
+abuse-mailbox:  jackychan@citictel.com
+admin-c:        CTIL1-AP
+tech-c:         CTIL1-AP
+auth:           # Filtered
+remarks:        jackychan@citictel.com was validated on 2024-12-19
+mnt-by:         MAINT-HK-COMNET
+last-modified:  2024-12-19T01:25:46Z
+source:         APNIC
+
+organisation:   ORG-CTIL2-AP
+org-name:       ComNet Telecom International Limited
+org-type:       LIR
+country:        HK
+address:        25/F CITIC Telecom Tower,
+address:        93 Kwai Fuk Road
+phone:          +852-23778888
+fax-no:         +852-23778814
+e-mail:         ipinf@citictel.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:50Z
+source:         APNIC
+
+role:           ABUSE HKCOMNET
+country:        ZZ
+address:        25/F CITIC Telecom Tower,
+address:        93 Kwai Fuk Road,
+address:        Kwai Chung
+address:        Hong Kong
+phone:          +000000000
+e-mail:         jackychan@citictel.com
+admin-c:        CTIL1-AP
+tech-c:         CTIL1-AP
+nic-hdl:        AH1000-AP
+remarks:        Generated from irt object IRT-HK-COMNET
+remarks:        jackychan@citictel.com was validated on 2024-12-19
+abuse-mailbox:  jackychan@citictel.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-19T01:26:46Z
+source:         APNIC
+
+person:         Jacky Chan
+address:        25/F CITIC Telecom Tower, 93 Kwai Fuk Road, Kwai Chung, N.T.
+country:        HK
+phone:          +852 34236485
+e-mail:         jackychan@citictel.com
+nic-hdl:        JC4240-AP
+mnt-by:         MAINT-AP-CMNETCOM
+last-modified:  2016-09-09T02:48:33Z
+source:         APNIC
+
+% Information related to '202.0.176.0/22AS17554'
+
+route:          202.0.176.0/22
+origin:         AS17554
+descr:          ComNet Telecom International Limited
+                25/F CITIC Telecom Tower,
+                93 Kwai Fuk Road
+mnt-by:         MAINT-AP-CMNETCOM
+last-modified:  2017-09-08T09:38:35Z
+source:         APNIC
+
+% Information related to '202.0.176.0/22AS17814'
+
+route:          202.0.176.0/22
+descr:          CITIC Telecom / ComNet Route Object
+origin:         AS17814
+mnt-by:         MAINT-AP-CMNETCOM
+last-modified:  2016-01-27T06:27:50Z
+source:         APNIC
+
+% Information related to '202.0.176.0/22AS7705'
+
+route:          202.0.176.0/22
+descr:          CITIC Telecom / ComNet Route Object
+origin:         AS7705
+mnt-by:         MAINT-AP-CMNETCOM
+last-modified:  2016-01-27T06:27:58Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

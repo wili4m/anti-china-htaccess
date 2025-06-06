@@ -1,0 +1,96 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.96.192.0 - 202.96.255.255'
+
+% Abuse contact for '202.96.192.0 - 202.96.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        202.96.192.0 - 202.96.255.255
+netname:        CHINANET-SH
+descr:          CHINANET Shanghai province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CH93-AP
+tech-c:         XI5-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SH
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2024-10-21T02:13:00Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+person:         Wu Xiao Li
+address:        Room 805,61 North Si Chuan Road,Shanghai,200085,PRC
+country:        CN
+phone:          +86-21-63630562
+fax-no:         +86-21-63630566
+e-mail:         ipms@shtel.com.cn
+nic-hdl:        XI5-AP
+mnt-by:         MAINT-CHINANET-SH
+abuse-mailbox:  ip-admin@mail.online.sh.cn
+last-modified:  2014-02-27T08:51:31Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

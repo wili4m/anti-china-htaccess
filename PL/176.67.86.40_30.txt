@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      176.0.0.0 - 176.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-05
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        176.67.86.0 - 176.67.86.255
+netname:        NETPR-WAW-DP
+country:        PL
+admin-c:        STIA1-RIPE
+tech-c:         STIA1-RIPE
+abuse-c:        STRG-RIPE
+status:         ASSIGNED PA
+geoloc:         52.2276705 21.0048541
+mnt-by:         NETPROTECT-MNT
+created:        2020-03-26T14:31:36Z
+last-modified:  2024-07-19T15:36:33Z
+source:         RIPE
+descr:          Warsaw, Poland
+
+role:           Strong Technology IP Admin
+address:        114 5th Avenue 15th Floor New York, NY 10011, USA
+nic-hdl:        STIA1-RIPE
+mnt-by:         NETPROTECT-MNT
+created:        2024-05-01T13:19:28Z
+last-modified:  2024-05-01T13:19:28Z
+source:         RIPE # Filtered
+
+% Information related to '176.67.86.0/24AS62651'
+
+route:          176.67.86.0/24
+origin:         AS62651
+mnt-by:         NETPROTECT-MNT
+created:        2024-07-19T15:37:21Z
+last-modified:  2024-07-19T15:37:21Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (BUSA)
+
+

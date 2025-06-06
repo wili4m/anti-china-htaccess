@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      180.0.0.0 - 180.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '180.223.0.0 - 180.223.255.255'
+
+% Abuse contact for '180.223.0.0 - 180.223.255.255' is 'datamediatj@outlook.com'
+
+inetnum:        180.223.0.0 - 180.223.255.255
+netname:        TJDMTNET
+descr:          Tianjin DM Times Network Technology Co., Ltd.
+descr:          Room 811, B2, Haiyi International, No. 2 Rongyuan Road,
+descr:          Huayuan Industrial Park, Xiqing District, Tianjin
+country:        CN
+admin-c:        YW7212-AP
+tech-c:         JS4464-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-TJDMTNET-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2022-02-21T10:19:29Z
+source:         APNIC
+
+irt:            IRT-TJDMTNET-CN
+address:        Room 811, B2, Haiyi International, No. 2 Rongyuan Road,
+address:        Huayuan Industrial Park, Xiqing District, Tianjin
+e-mail:         datamediatj@outlook.com
+abuse-mailbox:  datamediatj@outlook.com
+admin-c:        YW7212-AP
+tech-c:         JS4464-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-02-21T10:16:16Z
+source:         APNIC
+
+person:         Yuanhao Gu
+address:        Room 811, B2, Haiyi International, No. 2 Rongyuan Road,
+address:        Huayuan Industrial Park, Xiqing District, Tianjin
+country:        CN
+phone:          +86-13801252997
+e-mail:         13801252997@139.com
+nic-hdl:        JS4464-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-02-21T10:00:48Z
+source:         APNIC
+
+person:         Jack Chen
+address:        Room 811, B2, Haiyi International, No. 2 Rongyuan Road,
+address:        Huayuan Industrial Park, Xiqing District, Tianjin
+country:        CN
+phone:          +86-18910394168
+e-mail:         datamediatj@outlook.com
+nic-hdl:        YW7212-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-02-21T10:00:48Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.160.140.0 - 202.160.143.255'
+
+% Abuse contact for '202.160.140.0 - 202.160.143.255' is 'vas@esun21.com'
+
+inetnum:        202.160.140.0 - 202.160.143.255
+netname:        ESUNNET
+descr:          Esun Technology(Shanghai) Co.,Ltd
+descr:          18F, Chuangzhi Union Mansion
+descr:          No1 Hengfeng Road, Zhabei District, Shanghai
+country:        CN
+admin-c:        ZM1425-AP
+tech-c:         ZM1426-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-ESUNNET-CN
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:14Z
+source:         APNIC
+
+irt:            IRT-ESUNNET-CN
+address:        18F, Chuangzhi Union Mansion
+address:        No1 Hengfeng Road, Zhabei District, Shanghai
+e-mail:         vas@esun21.com
+abuse-mailbox:  vas@esun21.com
+admin-c:        ZM1425-AP
+tech-c:         ZM1426-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-29T01:25:13Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Roy Wei
+address:        18F, Chuangzhi Union Mansion
+address:        No1 Hengfeng Road, Zhabei District, Shanghai
+country:        CN
+phone:          +86-18918172986
+e-mail:         Roy.wei@esun21.com
+nic-hdl:        ZM1425-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-12-08T08:36:01Z
+source:         APNIC
+
+person:         Frank Ni
+address:        18F, Chuangzhi Union Mansion
+address:        No1 Hengfeng Road, Zhabei District, Shanghai
+country:        CN
+phone:          +86-18017565232
+e-mail:         Frank.ni@esun21.com
+nic-hdl:        ZM1426-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-12-08T08:36:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

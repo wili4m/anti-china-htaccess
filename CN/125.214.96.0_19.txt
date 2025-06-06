@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      125.0.0.0 - 125.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2005-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '125.214.96.0 - 125.214.127.255'
+
+% Abuse contact for '125.214.96.0 - 125.214.127.255' is '5531871@qq.com'
+
+inetnum:        125.214.96.0 - 125.214.127.255
+netname:        CDIH
+descr:          Chengdu Information Harbor Co., Ltd.
+descr:          No.50, South Renmin Road, Section Four, Chengdu.P.R.China
+country:        CN
+admin-c:        ZX49-AP
+tech-c:         WQ56-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CDIH-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:05Z
+source:         APNIC
+
+irt:            IRT-CDIH-CN
+address:        No.50, South Renmin Road, Section Four, Chengdu, China
+e-mail:         5531871@qq.com
+abuse-mailbox:  5531871@qq.com
+auth:           # Filtered
+admin-c:        ZX49-AP
+tech-c:         WQ56-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-06T04:01:11Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wang Qiang
+nic-hdl:        WQ56-AP
+e-mail:         wqrain@163.com
+address:        No.50, South Renmin Road, Section Four,  Chengdu.P.R.China
+phone:          +86-28-86480179
+fax-no:         +86-28-86480177
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:29:19Z
+source:         APNIC
+
+person:         Zhao Xiangdong
+nic-hdl:        ZX49-AP
+e-mail:         yubo@cdbnet.com.cn
+address:        No.50, South Renmin Road, Section Four,  Chengdu.P.R.China
+phone:          +86-28-86480182
+fax-no:         +86-28-86480177
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:29:19Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

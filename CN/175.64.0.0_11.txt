@@ -1,0 +1,129 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      175.0.0.0 - 175.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '175.64.0.0 - 175.95.255.255'
+
+% Abuse contact for '175.64.0.0 - 175.95.255.255' is 'liuxin15@cmtt.chinamobile.com'
+
+inetnum:        175.64.0.0 - 175.95.255.255
+netname:        NorthStar
+descr:          North Star Information Hi.tech Ltd. Co.
+descr:          No.18, Beifengwo Road, Haidian District,
+descr:          Beijing, China, 100038
+country:        CN
+org:            ORG-NSIH1-AP
+admin-c:        CW1171-AP
+tech-c:         LQ568-AP
+abuse-c:        AN833-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NORTHSTAR-APNIC
+mnt-routes:     MAINT-NORTHSTAR-APNIC
+mnt-irt:        IRT-NORTHSTAR-CN
+last-modified:  2020-07-07T04:54:06Z
+source:         APNIC
+
+irt:            IRT-NORTHSTAR-CN
+address:        No.18, Beifengwo Road, Haidian District,
+address:        Beijing, China
+e-mail:         liuxin15@cmtt.chinamobile.com
+abuse-mailbox:  liuxin15@cmtt.chinamobile.com
+admin-c:        CW1171-AP
+tech-c:         LQ568-AP
+auth:           # Filtered
+remarks:        liuxin15@cmtt.chinamobile.com
+remarks:        liuxin15@cmtt.chinamobile.com
+remarks:        liuxin15@cmtt.chinamobile.com is invalid
+mnt-by:         MAINT-NORTHSTAR-APNIC
+last-modified:  2025-01-15T13:08:04Z
+source:         APNIC
+
+organisation:   ORG-NSIH1-AP
+org-name:       North Star Information Hi.tech Ltd. Co.
+org-type:       LIR
+country:        CN
+address:        No.18, Beifengwo Road, Haidian District,
+phone:          +86-13910572340
+fax-no:         +86-13910572340
+e-mail:         liuxin15@cmtt.chinamobile.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:30Z
+source:         APNIC
+
+role:           ABUSE NORTHSTARCN
+country:        ZZ
+address:        No.18, Beifengwo Road, Haidian District,
+address:        Beijing, China
+phone:          +000000000
+e-mail:         liuxin15@cmtt.chinamobile.com
+admin-c:        CW1171-AP
+tech-c:         LQ568-AP
+nic-hdl:        AN833-AP
+remarks:        Generated from irt object IRT-NORTHSTAR-CN
+remarks:        liuxin15@cmtt.chinamobile.com is invalid
+abuse-mailbox:  liuxin15@cmtt.chinamobile.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-15T13:09:56Z
+source:         APNIC
+
+person:         Cindy Wang
+address:        No.18, Beifengwo Road, Haidian District,
+address:        Beijing, China
+country:        CN
+phone:          +86-10-51892147
+fax-no:         +86-10-51890674
+e-mail:         cindywang.ns@gmail.com
+nic-hdl:        CW1171-AP
+mnt-by:         MAINT-NORTHSTAR-APNIC
+last-modified:  2009-02-10T07:32:20Z
+source:         APNIC
+
+person:         Lu Qian
+address:        No.18, Beifengwo Road, Haidian District,
+address:        Beijing, China
+country:        CN
+phone:          +86-10-51890418
+fax-no:         +86-10-51890674
+e-mail:         wpli@chinatietong.com
+nic-hdl:        LQ568-AP
+mnt-by:         MAINT-NORTHSTAR-APNIC
+last-modified:  2015-10-22T01:18:00Z
+source:         APNIC
+
+% Information related to '175.64.0.0/11AS9394'
+
+route:          175.64.0.0/11
+descr:          North Star Information Hi.tech Ltd. Co.
+origin:         AS9394
+country:        CN
+notify:         luqian.ns@gmail.com
+mnt-by:         MAINT-NORTHSTAR-APNIC
+last-modified:  2012-03-15T02:06:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

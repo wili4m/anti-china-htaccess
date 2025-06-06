@@ -1,0 +1,146 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      175.0.0.0 - 175.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '175.111.108.0 - 175.111.111.255'
+
+% Abuse contact for '175.111.108.0 - 175.111.111.255' is 'abuse@balitower.co.id'
+
+inetnum:        175.111.108.0 - 175.111.111.255
+netname:        BALITOWERNET-ID
+descr:          PT Bali Towerindo Sentra, Tbk
+descr:          Internet Service Provider
+descr:          Wisma Keiai Lt.12
+descr:          Jl. Jend. Sudirman Kav 3
+descr:          DKI Jakarta -10220
+country:        ID
+org:            ORG-INIC1-AP
+admin-c:        JOR123-AP
+tech-c:         JOR123-AP
+status:         ALLOCATED PORTABLE
+remarks:        Send Spam & Abuse Reports to: abuse@balitower.co.id
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-BALITOWERNET
+mnt-lower:      MAINT-ID-BALITOWERNET
+mnt-irt:        IRT-BALITOWERNET-ID
+last-modified:  2019-07-11T13:02:07Z
+source:         APNIC
+
+irt:            IRT-BALITOWERNET-ID
+address:        PT Bali Towerindo Sentra
+address:        Wisma Keiai Lt.12
+address:        Jl. Jend. Sudirman Kav 3
+address:        DKI Jakarta -10220
+e-mail:         abuse@balitower.co.id
+abuse-mailbox:  abuse@balitower.co.id
+admin-c:        JOR123-AP
+tech-c:         JOR123-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-BALITOWERNET
+last-modified:  2018-05-31T22:30:10Z
+source:         APNIC
+
+organisation:   ORG-INIC1-AP
+org-name:       Indonesia Network Information Center
+org-type:       NIR
+country:        ID
+address:        APJII - Cyber Building 11th Floor
+address:        Jl. Kuningan Barat No. 8
+phone:          +62-21-52960634
+fax-no:         +62-21-52960635
+e-mail:         hostmaster@idnic.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T01:49:56Z
+source:         APNIC
+
+person:         Jap Owen Ronadhi
+address:        Wisma Keiai Lt.12
+address:        Jl. Jend. Sudirman Kav 3
+address:        DKI Jakarta - Indonesia
+country:        ID
+phone:          +62-21-57905788
+fax-no:         +62-21-57905789
+e-mail:         owenronadhi@balitower.net.id
+nic-hdl:        JOR123-AP
+mnt-by:         MAINT-ID-BALITOWERNET
+last-modified:  2013-04-08T07:16:41Z
+source:         APNIC
+
+% Information related to '175.111.108.0 - 175.111.111.255'
+
+inetnum:        175.111.108.0 - 175.111.111.255
+netname:        BALITOWERNET-ID
+descr:          PT Bali Towerindo Sentra, Tbk
+descr:          Internet Service Provider
+descr:          Autograph Tower, 77th Floor
+descr:          Jl. MH Thamrin No. 10
+descr:          DKI Jakarta -10230
+country:        ID
+admin-c:        ICB1-AP
+tech-c:         ICB1-AP
+status:         ALLOCATED PORTABLE
+remarks:        Send Spam & Abuse Reports to: abuse@balitower.co.id
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-BALITOWERNET
+mnt-lower:      MAINT-ID-BALITOWERNET
+mnt-irt:        IRT-BALITOWERNET-ID
+last-modified:  2023-08-18T10:37:55Z
+source:         IDNIC
+
+irt:            IRT-BALITOWERNET-ID
+address:        PT Bali Towerindo Sentra
+address:        Wisma Keiai Lt.12
+address:        Jl. Jend. Sudirman Kav 3
+address:        DKI Jakarta -10220
+e-mail:         abuse@balitower.co.id
+abuse-mailbox:  abuse@balitower.co.id
+admin-c:        JOR123-AP
+tech-c:         JOR123-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-BALITOWERNET
+last-modified:  2013-04-05T09:17:15Z
+source:         IDNIC
+
+person:         IP Core Balitower
+address:        Autograph Tower, 77th Floor. Jl MH Thamrin No. 10
+country:        ID
+phone:          +62 21 5088 5788
+e-mail:         ipcore@balitower.co.id
+nic-hdl:        ICB1-AP
+mnt-by:         MAINT-ID-BALIFIBERNET
+last-modified:  2023-08-22T06:24:39Z
+source:         IDNIC
+
+% Information related to '175.111.108.0/22AS136119'
+
+route:          175.111.108.0/22
+descr:          Route Object of PT. Bali Towerindo Sentra, Tbk.
+descr:          PT. Bali Towerindo Sentra, Tbk
+descr:          Wisma KEIAI, 22nd Floor
+descr:          Jl. Jend. Sudirman Kav. 3, Jakarta
+descr:          Jakarta 10220
+origin:         AS136119
+mnt-by:         MAINT-ID-BALIFIBERNET
+last-modified:  2021-07-19T09:04:13Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

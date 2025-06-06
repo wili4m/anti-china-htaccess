@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.60.112.0 - 202.60.127.255'
+
+% Abuse contact for '202.60.112.0 - 202.60.127.255' is 'xlluan@bluewave-web.com.cn'
+
+inetnum:        202.60.112.0 - 202.60.127.255
+netname:        CHDNET
+descr:          CHINA HUADIAN CORPORTATION
+descr:          273,Xizhimennei St.,Beijing,China.
+country:        CN
+admin-c:        YF162-AP
+tech-c:         JL5642-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+mnt-irt:        IRT-BTMNET-CN
+last-modified:  2015-04-20T06:41:37Z
+source:         APNIC
+
+irt:            IRT-BTMNET-CN
+address:        Rm.508,5/F,Full Link Plaza No.18 Chaoyangmenwai Ave.beijing P.R.C
+e-mail:         xlluan@bluewave-web.com.cn
+abuse-mailbox:  xlluan@bluewave-web.com.cn
+admin-c:        PW445-AP
+tech-c:         OL53-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-11-23T01:42:03Z
+source:         APNIC
+
+person:         Jiandong Luo
+address:        No.2,Xuanwumen Street,Xicheng District
+address:        Beijing P.R.China
+country:        CN
+phone:          +86-010-83566952
+e-mail:         jiandong-luo@chd.com.cn
+nic-hdl:        JL5642-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-04-20T06:36:01Z
+source:         APNIC
+
+person:         Yi Fang
+nic-hdl:        YF162-AP
+e-mail:         yi-fang@chd.com.cn
+address:        273,Xizhimennei St.,Beijing,China.
+phone:          +86-010-51966758
+fax-no:         +86-010-51966758
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:29:24Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

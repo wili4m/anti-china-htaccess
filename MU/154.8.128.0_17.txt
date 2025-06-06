@@ -1,0 +1,282 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.afrinic.net
+
+inetnum:      154.0.0.0 - 154.255.255.255
+organisation: Administered by AFRINIC
+status:       LEGACY
+
+whois:        whois.afrinic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.afrinic.net
+
+% This is the AfriNIC Whois server.
+% The AFRINIC whois database is subject to  the following terms of Use. See https://afrinic.net/whois/terms
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '154.8.0.0 - 154.8.255.255'
+
+% No abuse contact registered for 154.8.0.0 - 154.8.255.255
+
+inetnum:        154.8.0.0 - 154.8.255.255
+netname:        NET-154-8-0-0
+descr:          __________________________
+descr:          This block is allocated to an organization in the RIPE
+descr:          region. Please query whois.ripe.net for more
+descr:          information on the registrant.
+descr:          __________________________
+country:        MU
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+status:         ALLOCATED UNSPECIFIED
+mnt-by:         AFRINIC-HM-MNT
+source:         AFRINIC # Filtered
+parent:         154.0.0.0 - 154.255.255.255
+
+organisation:   ORG-AFNC1-AFRINIC
+org-name:       African Network Information Center - (AfriNIC) Ltd
+org-type:       RIR
+country:        MU
+address:        11th Floor, Standard Chartered Tower
+address:        19, Cybercity
+address:        Ebène
+phone:          tel:+230-466-6758
+phone:          tel:+230-403-5100
+admin-c:        CA15-AFRINIC
+tech-c:         IT7-AFRINIC
+mnt-ref:        AFRINIC-HM-MNT
+mnt-ref:        AFRINIC-IT-MNT
+mnt-ref:        AFRINIC-DB-MNT
+mnt-by:         AFRINIC-HM-MNT
+remarks:        =======================================
+remarks:        For more information on AFRINIC assigned blocks,
+remarks:        querry whois.afrinic.net port 43, or the web based
+remarks:        query at http://whois.afrinic.net or www.afrinic.net
+remarks:        website: www.afrinic.net
+remarks:        Other Contacts:
+remarks:        ===============
+remarks:        hostmaster@afrinic.net  - for IP resources
+remarks:        new-member@afrinic.net  - for new members and other
+remarks:        inquiries.
+source:         AFRINIC # Filtered
+
+role:           AfriNIC TEAM
+address:        Raffles Tower - 11th Floor
+address:        Cybercity
+address:        Mauritius
+phone:          tel:+230-403-5100
+fax-no:         tel:+230-466-6758
+admin-c:        CA15-AFRINIC
+tech-c:         CA15-AFRINIC
+nic-hdl:        TEAM-AFRINIC
+mnt-by:         AFRINIC-DB-MNT
+source:         AFRINIC # Filtered
+
+
+
+# whois.ripe.net
+
+inetnum:        154.8.48.0 - 154.13.255.255
+netname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr:          IPv4 address block not managed by the RIPE NCC
+remarks:        ------------------------------------------------------
+remarks:
+remarks:        For registration information,
+remarks:        you can consult the following sources:
+remarks:
+remarks:        IANA
+remarks:        http://www.iana.org/assignments/ipv4-address-space
+remarks:        http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks:        http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks:        AFRINIC (Africa)
+remarks:        http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks:        APNIC (Asia Pacific)
+remarks:        http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks:        ARIN (Northern America)
+remarks:        http://www.arin.net/ whois.arin.net
+remarks:
+remarks:        LACNIC (Latin America and the Carribean)
+remarks:        http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks:        ------------------------------------------------------
+country:        EU # Country is really world wide
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+status:         ALLOCATED UNSPECIFIED
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2020-01-30T08:35:04Z
+last-modified:  2020-01-30T08:35:04Z
+source:         RIPE
+
+role:           Internet Assigned Numbers Authority
+address:        see http://www.iana.org.
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+nic-hdl:        IANA1-RIPE
+remarks:        For more information on IANA services
+remarks:        go to IANA web site at http://www.iana.org.
+mnt-by:         RIPE-NCC-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:31:27Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (SHETLAND)
+
+
+# whois.arin.net
+
+NetRange:       154.0.0.0 - 154.255.255.255
+CIDR:           154.0.0.0/8
+NetName:        NET154
+NetHandle:      NET-154-0-0-0-0
+Parent:          ()
+NetType:        Allocated to AfriNIC
+OriginAS:       
+Organization:   African Network Information Center (AFRINIC)
+RegDate:        1993-05-01
+Updated:        2010-11-09
+Ref:            https://rdap.arin.net/registry/ip/154.0.0.0
+
+ResourceLink:  http://afrinic.net/en/services/whois-query
+ResourceLink:  whois.afrinic.net
+
+
+OrgName:        African Network Information Center
+OrgId:          AFRINIC
+Address:        Level 11ABC
+Address:        Raffles Tower
+Address:        Lot 19, Cybercity
+City:           Ebene
+StateProv:      
+PostalCode:     
+Country:        MU
+RegDate:        2004-05-17
+Updated:        2015-05-04
+Comment:        AfriNIC - http://www.afrinic.net
+Comment:        The African & Indian Ocean Internet Registry
+Ref:            https://rdap.arin.net/registry/entity/AFRINIC
+
+ReferralServer:  whois://whois.afrinic.net
+ResourceLink:  http://afrinic.net/en/services/whois-query
+
+OrgAbuseHandle: GENER11-ARIN
+OrgAbuseName:   Generic POC
+OrgAbusePhone:  +230 4666616 
+OrgAbuseEmail:  abusepoc@afrinic.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/GENER11-ARIN
+
+OrgTechHandle: GENER11-ARIN
+OrgTechName:   Generic POC
+OrgTechPhone:  +230 4666616 
+OrgTechEmail:  abusepoc@afrinic.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/GENER11-ARIN
+
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '154.8.128.0 - 154.8.255.255'
+
+% Abuse contact for '154.8.128.0 - 154.8.255.255' is 'tencent_noc@tencent.com'
+
+inetnum:        154.8.128.0 - 154.8.255.255
+netname:        TENCENT-CN
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+descr:          Floor 6, Yinke Building, 38 Haidian St, Haidian District
+country:        CN
+org:            ORG-TCCC1-AP
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+abuse-c:        AT992-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-TENCENT-CN
+mnt-routes:     MAINT-TENCENT-CN
+mnt-irt:        IRT-TENCENT-CN
+last-modified:  2020-07-22T13:11:01Z
+source:         APNIC
+
+irt:            IRT-TENCENT-CN
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+e-mail:         tencent_noc@tencent.com
+abuse-mailbox:  tencent_noc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+auth:           # Filtered
+remarks:        tencent_noc@tencent.com was validated on 2025-03-07
+mnt-by:         MAINT-COMSENZ1-CN
+last-modified:  2025-03-07T07:43:08Z
+source:         APNIC
+
+organisation:   ORG-TCCC1-AP
+org-name:       Tencent Cloud Computing (Beijing) Co., Ltd
+org-type:       LIR
+country:        CN
+address:        309 West Zone, 3F. 49 Zhichun Road. Haidian District.
+phone:          +86-10-62671299
+fax-no:         +86-10-82602088-41299
+e-mail:         tencent_idc@tencent.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:21Z
+source:         APNIC
+
+role:           ABUSE TENCENTCN
+country:        ZZ
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+phone:          +000000000
+e-mail:         tencent_noc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+nic-hdl:        AT992-AP
+remarks:        Generated from irt object IRT-TENCENT-CN
+remarks:        tencent_noc@tencent.com was validated on 2025-03-07
+abuse-mailbox:  tencent_noc@tencent.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-07T07:43:37Z
+source:         APNIC
+
+role:           Tencent Cloud administrator
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+country:        CN
+phone:          +86-10-62671299
+e-mail:         tencent_idc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+nic-hdl:        TCA15-AP
+mnt-by:         MAINT-AP-DIALPAD
+fax-no:         +86-10-62671299
+last-modified:  2017-04-04T10:34:03Z
+source:         APNIC
+
+% Information related to '154.8.128.0/17AS45090'
+
+route:          154.8.128.0/17
+origin:         AS45090
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+                Floor 6, Yinke Building, 38 Haidian St, Haidian District
+mnt-by:         MAINT-TENCENT-CN
+last-modified:  2017-07-09T23:15:33Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

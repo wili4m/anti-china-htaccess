@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      150.0.0.0 - 150.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '150.129.252.0 - 150.129.255.255'
+
+% Abuse contact for '150.129.252.0 - 150.129.255.255' is 'yuhg@51idc.com'
+
+inetnum:        150.129.252.0 - 150.129.255.255
+netname:        Ruisu-51IDC
+descr:          Shanghai ruisu Network Technology Co.,Ltd
+descr:          Building 4,intelligence industry park,
+descr:          No.1 Hulan West Road,Shanghai
+country:        CN
+admin-c:        YW7308-AP
+tech-c:         YW7187-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-51IDC-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2023-12-27T06:10:24Z
+source:         APNIC
+
+irt:            IRT-51IDC-CN
+address:        Building 4,intelligence industry park,
+address:        No.1 Hulan West Road,Shanghai
+e-mail:         yuhg@51idc.com
+abuse-mailbox:  yuhg@51idc.com
+admin-c:        YW7308-AP
+tech-c:         YW7187-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-12-27T06:10:18Z
+source:         APNIC
+
+person:         Yu Huagang
+address:        Building 4,intelligence industry park,
+address:        No.1 Hulan West Road,Shanghai
+country:        CN
+phone:          +86-13818683083
+e-mail:         yuhg@51idc.com
+nic-hdl:        YW7187-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-12-27T06:11:46Z
+source:         APNIC
+
+person:         Zheng Xiaochuan
+address:        Building 4,intelligence industry park,
+address:        No.1 Hulan West Road,Shanghai
+country:        CN
+phone:          +86-18516630940
+e-mail:         anch-resource@51idc.com
+nic-hdl:        YW7308-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-12-27T06:07:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

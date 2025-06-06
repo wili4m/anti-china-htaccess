@@ -1,0 +1,63 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.38.8.0 - 202.38.15.255'
+
+% Abuse contact for '202.38.8.0 - 202.38.15.255' is 'niuda@ciae.ac.cn'
+
+inetnum:        202.38.8.0 - 202.38.15.255
+netname:        CIAE
+descr:          China Institute of Atomic Energy
+descr:          Mailbox 275, Beijing
+country:        CN
+admin-c:        YW7282-AP
+tech-c:         YW7282-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CIAE-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-04-24T00:09:29Z
+source:         APNIC
+
+irt:            IRT-CIAE-CN
+address:        Mailbox 275, Beijing
+e-mail:         panch@ciae.ac.cn
+abuse-mailbox:  niuda@ciae.ac.cn
+admin-c:        YW7282-AP
+tech-c:         YW7282-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-04-20T09:54:56Z
+source:         APNIC
+
+person:         Caihua Pan
+address:        Mailbox 275, Beijing
+country:        CN
+phone:          +86-18513849345
+e-mail:         panch@ciae.ac.cn
+nic-hdl:        YW7282-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-04-20T09:54:23Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

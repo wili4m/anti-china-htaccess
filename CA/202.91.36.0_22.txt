@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.91.36.0 - 202.91.39.255'
+
+% Abuse contact for '202.91.36.0 - 202.91.39.255' is 'support@ipnu.net'
+
+inetnum:        202.91.36.0 - 202.91.39.255
+netname:        EHCL-AP
+descr:          ELEGANT HOME COOP LTD.
+country:        CA
+org:            ORG-EHCL1-AP
+admin-c:        EHCL1-AP
+tech-c:         EHCL1-AP
+abuse-c:        AE574-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-EHCL-AP
+mnt-routes:     MAINT-EHCL-AP
+mnt-irt:        IRT-EHCL-AP
+last-modified:  2023-12-15T13:09:36Z
+source:         APNIC
+
+irt:            IRT-EHCL-AP
+address:        505-3429 Kennedy Rd. Scarborough ON
+e-mail:         support@ipnu.net
+abuse-mailbox:  support@ipnu.net
+admin-c:        EHCL1-AP
+tech-c:         EHCL1-AP
+auth:           # Filtered
+remarks:        support@ipnu.net was validated on 2025-01-07
+mnt-by:         MAINT-EHCL-AP
+last-modified:  2025-01-07T16:37:57Z
+source:         APNIC
+
+organisation:   ORG-EHCL1-AP
+org-name:       ELEGANT HOME COOP LTD.
+org-type:       LIR
+country:        CA
+address:        505-3429 Kennedy Rd.
+phone:          +14164775087
+e-mail:         support@ipnu.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-01-02T13:08:33Z
+source:         APNIC
+
+role:           ABUSE EHCLAP
+country:        ZZ
+address:        505-3429 Kennedy Rd. Scarborough ON
+phone:          +000000000
+e-mail:         support@ipnu.net
+admin-c:        EHCL1-AP
+tech-c:         EHCL1-AP
+nic-hdl:        AE574-AP
+remarks:        Generated from irt object IRT-EHCL-AP
+remarks:        support@ipnu.net was validated on 2025-01-07
+abuse-mailbox:  support@ipnu.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-07T16:38:26Z
+source:         APNIC
+
+role:           ELEGANT HOME COOP LTD administrator
+address:        505-3429 Kennedy Rd. Scarborough ON
+country:        CA
+phone:          +14164775087
+e-mail:         support@ipnu.net
+admin-c:        EHCL1-AP
+tech-c:         EHCL1-AP
+nic-hdl:        EHCL1-AP
+mnt-by:         MAINT-EHCL-AP
+last-modified:  2024-01-02T09:32:04Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,95 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.136.224.0 - 202.136.239.255'
+
+% Abuse contact for '202.136.224.0 - 202.136.239.255' is 'ipas@cnnic.cn'
+
+inetnum:        202.136.224.0 - 202.136.239.255
+netname:        TSWIINBT
+descr:          TianShui Managing Centre Of
+descr:          Broadcasting-Television Network
+descr:          No.2 HuanChengZhong Road, QinZhou district,
+descr:          TianShui City, GanSu, P.R.China
+country:        CN
+admin-c:        HY547-AP
+tech-c:         HF103-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:33:08Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         He Fu
+nic-hdl:        HF103-AP
+e-mail:         tscatv@sohu.cn
+address:        No.2 HuanChengZhong Road, QinZhou district,
+address:        TianShui City, GanSu, P.R.China
+phone:          +86-0938-8215617
+fax-no:         +86-0938-8277996
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:33:44Z
+source:         APNIC
+
+person:         Han Yong
+nic-hdl:        HY547-AP
+e-mail:         HY1877@vip.163.com
+address:        No.2 HuanChengZhong Road, QinZhou district,
+address:        TianShui City, GanSu, P.R.China
+phone:          +86-0938-8211877
+fax-no:         +86-0938-8277996
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:33:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

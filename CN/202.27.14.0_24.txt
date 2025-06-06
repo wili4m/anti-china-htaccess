@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.27.14.0 - 202.27.14.255'
+
+% Abuse contact for '202.27.14.0 - 202.27.14.255' is 'ipas@idccun.com'
+
+inetnum:        202.27.14.0 - 202.27.14.255
+netname:        VClouD
+descr:          Beijing Internet Harbor Technology Co.,Ltd
+descr:          Level 8,Building1,Wanda Plaza NO.93 JianGuo Road
+descr:          Chaoyang District Beijing,China
+country:        CN
+admin-c:        ML1852-AP
+tech-c:         BW707-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-VCLOUD-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:15Z
+source:         APNIC
+
+irt:            IRT-VClouD-CN
+address:        Level 8,Building1,Wanda Plaza NO.93 JianGuo Road Chaoyang District Beijing,China
+e-mail:         ipas@idccun.com
+abuse-mailbox:  ipas@idccun.com
+admin-c:        ML1852-AP
+tech-c:         BW707-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:36:22Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yanan Bao
+address:        Level 8,Building1,Wanda Plaza NO.93 JianGuo Road Chaoyang District Beijing,China
+country:        CN
+phone:          +86-010-58203300
+e-mail:         byn@idccun.com
+nic-hdl:        BW707-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-02-27T02:04:01Z
+source:         APNIC
+
+person:         Zhiyuan Ren
+address:        Level 8,Building1,Wanda Plaza NO.93 JianGuo Road
+address:        Chaoyang District Beijing,China
+country:        CN
+phone:          +86-010-58203300
+e-mail:         ipas@idccun.com
+nic-hdl:        ML1852-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-01-08T02:54:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      180.0.0.0 - 180.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '180.178.192.0 - 180.178.255.255'
+
+% Abuse contact for '180.178.192.0 - 180.178.255.255' is '4394831@qq.com'
+
+inetnum:        180.178.192.0 - 180.178.255.255
+netname:        HZ-YOUYUN
+descr:          Hangzhou YouYun Technology Co., Ltd.
+country:        CN
+admin-c:        YJL29-AP
+tech-c:         YJL29-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-HZ-YOUYUN-CN
+last-modified:  2021-10-26T07:47:59Z
+source:         APNIC
+
+irt:            IRT-HZ-YOUYUN-CN
+address:        No.3820 Nanhuan Road,Hangzhou,Zhejiang
+e-mail:         4394831@qq.com
+abuse-mailbox:  4394831@qq.com
+auth:           # Filtered
+admin-c:        YJL29-AP
+tech-c:         YJL29-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:20Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yin jun liu
+address:        No.3820 Nanhuan Road,Hangzhou,Zhejiang
+country:        CN
+phone:          +86-18606770788
+e-mail:         4394831@qq.com
+nic-hdl:        YJL29-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-12-14T05:30:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

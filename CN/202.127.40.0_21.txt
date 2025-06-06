@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.127.40.0 - 202.127.47.255'
+
+% Abuse contact for '202.127.40.0 - 202.127.47.255' is 'wjiangw@agri.gov.cn'
+
+inetnum:        202.127.40.0 - 202.127.47.255
+netname:        ICMOAARAP-CN
+descr:          Information Center, Ministry of Agriculture and Rural Affairs, PRC
+country:        CN
+org:            ORG-ICMO1-AP
+admin-c:        ICMO1-AP
+tech-c:         ICMO1-AP
+abuse-c:        AI1027-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ICMOAARAP-CN
+mnt-routes:     MAINT-ICMOAARAP-CN
+mnt-irt:        IRT-ICMOAARAP-CN
+last-modified:  2024-11-12T05:52:11Z
+source:         APNIC
+
+irt:            IRT-ICMOAARAP-CN
+address:        No.11 Nongzhanguan Nanli,Chaoyang District,Beijing China, No.1 Taiyanggong North Street, Chaoyang District, Beijing, Beijing Chaoyang District 100125
+e-mail:         wjiangw@agri.gov.cn
+abuse-mailbox:  wjiangw@agri.gov.cn
+admin-c:        ICMO1-AP
+tech-c:         ICMO1-AP
+auth:           # Filtered
+remarks:        wjiangw@agri.gov.cn is invalid
+mnt-by:         MAINT-ICMOAARAP-CN
+last-modified:  2025-05-21T13:08:56Z
+source:         APNIC
+
+organisation:   ORG-ICMO1-AP
+org-name:       Information Center, Ministry of Agriculture and Rural Affairs, PRC
+org-type:       LIR
+country:        CN
+address:        No.11 Nongzhanguan Nanli,Chaoyang District,Beijing China
+address:        No.1 Taiyanggong North Street, Chaoyang District, Beijing
+phone:          +86-59192796
+fax-no:         +86-59192468
+e-mail:         wjiangw@agri.gov.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-10-23T13:12:17Z
+source:         APNIC
+
+role:           ABUSE ICMOAARAPCN
+country:        ZZ
+address:        No.11 Nongzhanguan Nanli,Chaoyang District,Beijing China, No.1 Taiyanggong North Street, Chaoyang District, Beijing, Beijing Chaoyang District 100125
+phone:          +000000000
+e-mail:         wjiangw@agri.gov.cn
+admin-c:        ICMO1-AP
+tech-c:         ICMO1-AP
+nic-hdl:        AI1027-AP
+remarks:        Generated from irt object IRT-ICMOAARAP-CN
+remarks:        wjiangw@agri.gov.cn is invalid
+abuse-mailbox:  wjiangw@agri.gov.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-21T13:09:14Z
+source:         APNIC
+
+role:           Information Center Ministry of Agriculture and Rural Affairs PRC administrator
+address:        No.11 Nongzhanguan Nanli,Chaoyang District,Beijing China, No.1 Taiyanggong North Street, Chaoyang District, Beijing, Beijing Chaoyang District 100125
+country:        CN
+phone:          +86-59192796
+fax-no:         +86-59192468
+e-mail:         wjiangw@agri.gov.cn
+admin-c:        ICMO1-AP
+tech-c:         ICMO1-AP
+nic-hdl:        ICMO1-AP
+mnt-by:         MAINT-ICMOAARAP-CN
+last-modified:  2024-11-12T00:32:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

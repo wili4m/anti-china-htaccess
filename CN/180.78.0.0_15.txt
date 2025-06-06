@@ -1,0 +1,79 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      180.0.0.0 - 180.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2009-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '180.78.0.0 - 180.79.255.255'
+
+% Abuse contact for '180.78.0.0 - 180.79.255.255' is 'jiaboyuan@bgctv.com.cn'
+
+inetnum:        180.78.0.0 - 180.79.255.255
+netname:        BGCTVNET
+descr:          BEIJING GEHUA CATV NETWORK CO., LTD.
+descr:          No.35, N.HuaTuan Rd., Haidian District,
+descr:          Beijing, P.R.C
+country:        CN
+admin-c:        BW367-AP
+tech-c:         BW367-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BGCTVNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:11Z
+source:         APNIC
+
+irt:            IRT-BGCTVNET-CN
+address:        Network Management Center, 1st Floor, Bailing Building, No. 1 Zuojiazhuang Front Street, Chaoyang District
+e-mail:         jiaboyuan@bgctv.com.cn
+abuse-mailbox:  jiaboyuan@bgctv.com.cn
+auth:           # Filtered
+admin-c:        BW367-AP
+tech-c:         BW367-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:42Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Bolin Wei
+nic-hdl:        BW367-AP
+e-mail:         weibolin@bgctv.com.cn
+address:        NO.A2, ZAO JUN MIAO HAIDIAN DISTRICT, BEIJING
+phone:          +86-10-62261655-274
+fax-no:         +86-10-62278679
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:46:25Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+
