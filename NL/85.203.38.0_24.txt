@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      85.0.0.0 - 85.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2004-04
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        85.203.0.0 - 85.203.63.255
+netname:        NL-NETGUARD-20050112
+country:        NL
+org:            ORG-NB1-RIPE
+admin-c:        JVV19-RIPE
+tech-c:         JVV19-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MNT-FALCO
+mnt-lower:      MNT-FALCO
+mnt-lower:      PREFIXBROKER-MNT
+mnt-domains:    MNT-FALCO
+mnt-domains:    PREFIXBROKER-MNT
+mnt-routes:     MNT-FALCO
+mnt-routes:     PREFIXBROKER-MNT
+mnt-routes:     MNT-NCD-GLOBAL-E { 85.203.14.0/24}
+mnt-routes:     MODMC-MNT {85.203.28.0/22}
+mnt-routes:     GLOBALAXS-MNT {85.203.32.0/24}
+mnt-routes:     MODMC-MNT {85.203.48.0/22}
+mnt-routes:     MODMC-MNT {85.203.56.0/22}
+mnt-routes:     AS49544-MNT { 85.203.13.0/24}
+mnt-routes:     AS49544-MNT { 85.203.47.0/24}
+created:        2014-12-10T13:42:31Z
+last-modified:  2024-11-13T14:01:23Z
+source:         RIPE # Filtered
+
+organisation:   ORG-NB1-RIPE
+org-name:       Falco Networks B.V.
+country:        NL
+org-type:       LIR
+address:        De Hoefsmid 11-13
+address:        NL-1851 PZ
+address:        Heiloo
+address:        NETHERLANDS
+phone:          +31 72 5323744
+fax-no:         +31 72 5323743
+admin-c:        FL1672-RIPE
+admin-c:        ABB20-RIPE
+admin-c:        JVV19-RIPE
+abuse-c:        FAC90-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-FALCO
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MNT-FALCO
+created:        2004-04-17T11:42:30Z
+last-modified:  2020-12-16T12:53:01Z
+source:         RIPE # Filtered
+
+person:         Jeroen van veen
+address:        Falco IPR B.V.
+address:        De Hoefsmid 11-13
+address:        1851 PZ Heiloo
+address:        The Netherlands
+phone:          +31 72 532 3744
+nic-hdl:        JVV19-RIPE
+created:        2002-09-16T13:46:49Z
+last-modified:  2018-05-01T12:11:21Z
+source:         RIPE # Filtered
+mnt-by:         MNT-FALCO
+
+% Information related to '85.203.38.0/24AS39855'
+
+route:          85.203.38.0/24
+origin:         AS39855
+mnt-by:         PREFIXBROKER-MNT
+created:        2020-07-07T14:02:07Z
+last-modified:  2020-07-07T14:02:07Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (DEXTER)
+
+

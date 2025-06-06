@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.90.188.0 - 103.90.191.255'
+
+% Abuse contact for '103.90.188.0 - 103.90.191.255' is '397940360@qq.com'
+
+inetnum:        103.90.188.0 - 103.90.191.255
+netname:        LDST
+descr:          Beijing Dicai Network Communications Technology Co., Ltd.
+country:        CN
+admin-c:        ZBG7-AP
+tech-c:         ZQ1255-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-LDST-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:56:48Z
+source:         APNIC
+
+irt:            IRT-LDST-CN
+address:        Beijing Tongzhou District Cloud Road No. 256 B420
+e-mail:         397940360@qq.com
+abuse-mailbox:  397940360@qq.com
+auth:           # Filtered
+admin-c:        ZBG7-AP
+tech-c:         ZBG7-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:30Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         ZHAO BAO GUANG
+address:        Beijing Tongzhou District Cloud Road No. 256 B420
+country:        CN
+phone:          +86-18611772288
+e-mail:         397940360@qq.com
+nic-hdl:        ZBG7-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-18T01:56:01Z
+source:         APNIC
+
+person:         ZHOU QIANG
+address:        Beijing Tongzhou District Cloud Road No. 256 B420
+country:        CN
+phone:          +86-18510136850
+e-mail:         18611772288@126.com
+nic-hdl:        ZQ1255-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-18T01:56:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

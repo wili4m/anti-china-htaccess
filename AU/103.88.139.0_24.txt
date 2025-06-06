@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.88.139.0 - 103.88.139.255'
+
+% Abuse contact for '103.88.139.0 - 103.88.139.255' is 'abuse@netcraft.com.au'
+
+inetnum:        103.88.139.0 - 103.88.139.255
+netname:        NAPL-AS-AP
+descr:          Netcraft Australia Pty Ltd
+country:        AU
+org:            ORG-NAPL6-AP
+admin-c:        NAPL5-AP
+tech-c:         NAPL5-AP
+abuse-c:        AN2928-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-NAPL-AU
+mnt-irt:        IRT-NAPL-AU
+last-modified:  2022-11-02T23:20:38Z
+source:         APNIC
+
+irt:            IRT-NAPL-AU
+address:        4-6 Light Common, Mawson Lakes South Australia 5095
+e-mail:         abuse@netcraft.com.au
+abuse-mailbox:  abuse@netcraft.com.au
+admin-c:        NAPL5-AP
+tech-c:         NAPL5-AP
+auth:           # Filtered
+remarks:        abuse@netcraft.com.au was validated on 2025-03-17
+mnt-by:         MAINT-NAPL-AU
+last-modified:  2025-03-17T04:30:14Z
+source:         APNIC
+
+organisation:   ORG-NAPL6-AP
+org-name:       Netcraft Australia Pty Ltd
+org-type:       LIR
+country:        AU
+address:        4-6 Light Common
+phone:          +61-8-8133-3333
+e-mail:         nic-handle@netcraft.com.au
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:18:35Z
+source:         APNIC
+
+role:           ABUSE NAPLAU
+country:        ZZ
+address:        4-6 Light Common, Mawson Lakes South Australia 5095
+phone:          +000000000
+e-mail:         abuse@netcraft.com.au
+admin-c:        NAPL5-AP
+tech-c:         NAPL5-AP
+nic-hdl:        AN2928-AP
+remarks:        Generated from irt object IRT-NAPL-AU
+remarks:        abuse@netcraft.com.au was validated on 2025-03-17
+abuse-mailbox:  abuse@netcraft.com.au
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-17T04:30:39Z
+source:         APNIC
+
+role:           Netcraft Australia Pty Ltd administrator
+address:        4-6 Light Common, Mawson Lakes South Australia 5095
+country:        AU
+phone:          +61-8-8133-3333
+e-mail:         abuse@netcraft.com.au
+admin-c:        NAPL5-AP
+tech-c:         NAPL5-AP
+nic-hdl:        NAPL5-AP
+mnt-by:         MAINT-NAPL-AU
+last-modified:  2021-06-22T10:31:25Z
+source:         APNIC
+
+% Information related to '103.88.139.0/24AS24565'
+
+route:          103.88.139.0/24
+country:        FJ
+origin:         AS24565
+descr:          Netcraft Australia Pty Ltd
+                4-6 Light Common
+mnt-by:         MAINT-NAPL-AU
+last-modified:  2022-11-25T00:24:24Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

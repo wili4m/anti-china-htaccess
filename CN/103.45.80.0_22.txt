@@ -1,0 +1,82 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.45.80.0 - 103.45.83.255'
+
+% Abuse contact for '103.45.80.0 - 103.45.83.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.45.80.0 - 103.45.83.255
+netname:        HWCSNET
+descr:          Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)
+descr:          No.2018 Xuegang Road,Bantian street,Longgang District,
+descr:          Shenzhen,Guangdong Province, 518129 P.R.China
+country:        CN
+admin-c:        LL3172-AP
+tech-c:         LL3172-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2023-10-13T00:46:11Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Liu Liqun
+address:        HUAWEI CLOUD Data Center, Jiaoxinggong Road, Qianzhong Avenue, Gui'an New District, Guizhou Province
+country:        CN
+phone:          +86-13360099887
+e-mail:         liuliqun2@huawei.com
+nic-hdl:        LL3172-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-04-18T05:33:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

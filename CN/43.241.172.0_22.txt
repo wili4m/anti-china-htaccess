@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.241.172.0 - 43.241.175.255'
+
+% Abuse contact for '43.241.172.0 - 43.241.175.255' is '13801199698@139.com'
+
+inetnum:        43.241.172.0 - 43.241.175.255
+netname:        NEWLANDCLOUD
+descr:          New Land IN Technology Co., Ltd.
+descr:          No.2001,4thFloor,Incubation Building,Hainan Resort Software Community,
+descr:          Lao Cheng High-tech Industry Demonstration area,Cheng Mai County,Hainan
+admin-c:        YW7266-AP
+tech-c:         JS4514-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-NEWLANDCLOUD-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2022-11-18T01:50:23Z
+source:         APNIC
+
+irt:            IRT-NEWLANDCLOUD-CN
+address:        No.2001,4thFloor,Incubation Building,Hainan Resort Software Community,
+address:        Lao Cheng High-tech Industry Demonstration area,Cheng Mai County,Hainan
+e-mail:         13801199698@139.com
+abuse-mailbox:  13801199698@139.com
+auth:           # Filtered
+admin-c:        YW7266-AP
+tech-c:         JS4514-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-18T01:43:37Z
+source:         APNIC
+
+person:         Guoqiang Kang
+address:        No.2001,4thFloor,Incubation Building,Hainan Resort Software Community,
+address:        Lao Cheng High-tech Industry Demonstration area,Cheng Mai County,Hainan
+country:        CN
+phone:          +86-10-59222698
+e-mail:         bjkgq@163.cn
+nic-hdl:        JS4514-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-18T01:26:46Z
+source:         APNIC
+
+person:         Xueyong Jia
+address:        No.2001,4thFloor,Incubation Building,Hainan Resort Software Community,
+address:        Lao Cheng High-tech Industry Demonstration area,Cheng Mai County,Hainan
+country:        CN
+phone:          +86-10-59222698
+e-mail:         xueyj@century2000.cn
+nic-hdl:        YW7266-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-18T01:26:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.63.204.0 - 103.63.207.255'
+
+% Abuse contact for '103.63.204.0 - 103.63.207.255' is 'Xufuyuan@btte.net'
+
+inetnum:        103.63.204.0 - 103.63.207.255
+netname:        DXTNET
+descr:          Beijing Teletron Telecom Engineering Co., Ltd.
+descr:          Jian Guo Road, Chaoyang District, Beijing, PR.China
+country:        CN
+admin-c:        BW904-AP
+tech-c:         BW904-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-DXTNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:37Z
+source:         APNIC
+
+irt:            IRT-DXTNET-CN
+address:        Jian Guo Road, Chaoyang District, Beijing, PR.China
+e-mail:         Xufuyuan@btte.net
+abuse-mailbox:  Xufuyuan@btte.net
+admin-c:        BW904-AP
+tech-c:         BW904-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:53Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xu Fuyuan
+address:        No.11 Hepingli east Dongcheng District, Beijing,China
+country:        CN
+phone:          +86-18612964416
+e-mail:         xufuyuan@drpeng.com.cn
+nic-hdl:        BW904-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-02-20T06:10:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

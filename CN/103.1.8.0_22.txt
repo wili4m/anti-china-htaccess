@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.1.8.0 - 103.1.11.255'
+
+% Abuse contact for '103.1.8.0 - 103.1.11.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.1.8.0 - 103.1.11.255
+netname:        CAGN
+descr:          Chinese Academy of Governance
+descr:          No.6 Changchunqiao Road,Haidian District,Beijing,China
+country:        CN
+admin-c:        SZ1195-AP
+tech-c:         ZL2149-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN3
+status:         ALLOCATED PORTABLE
+last-modified:  2011-04-17T22:46:00Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN3
+address:        No.4, Zhongguancun No.4 South Street,
+address:        Haidian District, Beijing
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IPAS1-AP
+tech-c:         IPAS1-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-10-23T07:03:01Z
+source:         APNIC
+
+person:         Su Zhengquan
+address:        No.6 Changchunqiao Road,Haidian District,Beijing
+country:        CN
+phone:          +86-010-68929055
+e-mail:         szq@nsa.gov.cn
+nic-hdl:        SZ1195-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-04-15T06:04:01Z
+source:         APNIC
+
+person:         Zhang Ling
+address:        No.6 Changchunqiao Road,Haidian District,Beijing
+country:        CN
+phone:          +86-010-68929182
+e-mail:         zl@nsa.gov.cn
+nic-hdl:        ZL2149-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-04-15T06:04:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

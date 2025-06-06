@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.236.188.0 - 43.236.191.255'
+
+% Abuse contact for '43.236.188.0 - 43.236.191.255' is 'gnoc@bytedance.com'
+
+inetnum:        43.236.188.0 - 43.236.191.255
+netname:        VOLCANO-ENGINE
+descr:          Beijing Volcano Engine Technology Co., Ltd.
+descr:          1309, 13/F, Building 4, Zijin Digital Park, Haidian District, Beijing
+country:        CN
+admin-c:        YW7147-AP
+tech-c:         JS4370-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-VOLCANO-ENGINE-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2024-11-21T02:08:06Z
+source:         APNIC
+
+irt:            IRT-VOLCANO-ENGINE-CN
+address:        1309, 13/F, Building 4, Zijin Digital Park, Haidian District, Beijing
+e-mail:         gnoc@bytedance.com
+abuse-mailbox:  gnoc@bytedance.com
+auth:           # Filtered
+admin-c:        YW7147-AP
+tech-c:         JS4370-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-05-13T02:59:52Z
+source:         APNIC
+
+person:         Liu Nian
+address:        1309, 13/F, Building 4, Zijin Digital Park, Haidian District, Beijing
+country:        CN
+phone:          +86-10-13810123695
+e-mail:         zhangzhaoyang.1@bytedance.com
+nic-hdl:        JS4370-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-01-06T01:34:46Z
+source:         APNIC
+
+person:         Chen Qi
+address:        1309, 13/F, Building 4, Zijin Digital Park, Haidian District, Beijing
+country:        CN
+phone:          +86-10-13051468788
+e-mail:         gnoc@bytedance.com
+nic-hdl:        YW7147-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-01-06T01:34:08Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

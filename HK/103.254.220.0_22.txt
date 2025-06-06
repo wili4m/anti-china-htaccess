@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.254.220.0 - 103.254.223.255'
+
+% Abuse contact for '103.254.220.0 - 103.254.223.255' is '3325838799@qq.com'
+
+inetnum:        103.254.220.0 - 103.254.223.255
+netname:        COICL-HK
+descr:          Suite 2611 Office Tower Langham Place
+descr:          8 Argyle Street
+descr:          Mongkok Kowloon HK.
+country:        HK
+org:            ORG-COIC1-AP
+admin-c:        COIC1-AP
+tech-c:         COIC1-AP
+abuse-c:        AC2064-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-COICL-HK
+mnt-routes:     MAINT-COICL-HK
+mnt-irt:        IRT-COICL-HK
+last-modified:  2020-08-05T02:44:12Z
+source:         APNIC
+
+irt:            IRT-COICL-HK
+address:        Suite 2611 Office Tower Langham Place, 8 Argyle Street, Mongkok Kowloon HK., HongKong HongKong
+e-mail:         3325838799@qq.com
+abuse-mailbox:  3325838799@qq.com
+admin-c:        COIC1-AP
+tech-c:         COIC1-AP
+auth:           # Filtered
+remarks:        3325838799@qq.com was validated on 2025-04-29
+mnt-by:         MAINT-COICL-HK
+last-modified:  2025-04-29T13:54:16Z
+source:         APNIC
+
+organisation:   ORG-COIC1-AP
+org-name:       Century Oriental International Co, Ltd
+org-type:       LIR
+country:        CN
+address:        Suite 2611 Office Tower Langham Place
+address:        8 Argyle Street
+address:        Mongkok Kowloon HK.
+phone:          +8618511165680
+e-mail:         3325838799@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:17Z
+source:         APNIC
+
+role:           ABUSE COICLHK
+country:        ZZ
+address:        Suite 2611 Office Tower Langham Place, 8 Argyle Street, Mongkok Kowloon HK., HongKong HongKong
+phone:          +000000000
+e-mail:         3325838799@qq.com
+admin-c:        COIC1-AP
+tech-c:         COIC1-AP
+nic-hdl:        AC2064-AP
+remarks:        Generated from irt object IRT-COICL-HK
+remarks:        3325838799@qq.com was validated on 2025-04-29
+abuse-mailbox:  3325838799@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-29T13:54:26Z
+source:         APNIC
+
+role:           Century Oriental International Co Ltd administrat
+address:        Suite 2611 Office Tower Langham Place, 8 Argyle Street, Mongkok Kowloon HK., HongKong HongKong
+country:        HK
+phone:          +8618511165680
+fax-no:         +8618511165680
+e-mail:         3325838799@qq.com
+admin-c:        COIC1-AP
+tech-c:         COIC1-AP
+nic-hdl:        COIC1-AP
+mnt-by:         MAINT-COICL-HK
+last-modified:  2020-01-02T09:46:19Z
+source:         APNIC
+
+% Information related to '103.254.220.0/22AS55361'
+
+route:          103.254.220.0/22
+origin:         AS55361
+descr:          Century Oriental International Co, Ltd
+                Suite 2611 Office Tower Langham Place
+                8 Argyle Street
+                Mongkok Kowloon HK.
+mnt-by:         MAINT-COICL-HK
+last-modified:  2024-02-01T07:39:10Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

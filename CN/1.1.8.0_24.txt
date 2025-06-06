@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      1.0.0.0 - 1.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '1.1.8.0 - 1.1.8.255'
+
+% Abuse contact for '1.1.8.0 - 1.1.8.255' is 'hch.xie@yamu.com'
+
+inetnum:        1.1.8.0 - 1.1.8.255
+netname:        YNCL-CN
+descr:          Yamu Technologies Co., Ltd.
+country:        CN
+org:            ORG-YNCL1-AP
+admin-c:        YTCL3-AP
+tech-c:         YTCL3-AP
+abuse-c:        AY518-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-YNCL-CN
+mnt-routes:     MAINT-YNCL-CN
+mnt-irt:        IRT-YNCL-CN
+last-modified:  2021-10-26T06:50:55Z
+source:         APNIC
+
+irt:            IRT-YNCL-CN
+address:        No.180 Yizhou Road, Xuhui District, Shanghai, Shanghai Shanghai 200030
+e-mail:         he.huang@yamu.com
+abuse-mailbox:  hch.xie@yamu.com
+admin-c:        YTCL3-AP
+tech-c:         YTCL3-AP
+auth:           # Filtered
+remarks:        hch.xie@yamu.com was validated on 2025-03-05
+remarks:        he.huang@yamu.com was validated on 2025-05-18
+mnt-by:         MAINT-YNCL-CN
+last-modified:  2025-05-18T22:59:49Z
+source:         APNIC
+
+organisation:   ORG-YNCL1-AP
+org-name:       Yamu Technologies Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        No.500 Hongqiao Road, Xuhui District, Shanghai
+phone:          +862123585588
+e-mail:         apnic_contact@yamu.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-11-29T13:04:59Z
+source:         APNIC
+
+role:           ABUSE YNCLCN
+country:        ZZ
+address:        No.180 Yizhou Road, Xuhui District, Shanghai, Shanghai Shanghai 200030
+phone:          +000000000
+e-mail:         he.huang@yamu.com
+admin-c:        YTCL3-AP
+tech-c:         YTCL3-AP
+nic-hdl:        AY518-AP
+remarks:        Generated from irt object IRT-YNCL-CN
+remarks:        hch.xie@yamu.com was validated on 2025-03-05
+remarks:        he.huang@yamu.com was validated on 2025-05-18
+abuse-mailbox:  hch.xie@yamu.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-18T23:00:19Z
+source:         APNIC
+
+role:           Yamu Technologies Co Ltd administrator
+address:        No.180 Yizhou Road, Xuhui District, Shanghai, Shanghai Shanghai 200030
+country:        CN
+phone:          +862123585588
+e-mail:         hch.xie@yamu.com
+admin-c:        YTCL3-AP
+tech-c:         YTCL3-AP
+nic-hdl:        YTCL3-AP
+notify:         hch.xie@yamu.com
+mnt-by:         MAINT-YNCL-CN
+last-modified:  2021-10-26T06:50:22Z
+source:         APNIC
+
+% Information related to '1.1.8.0/24AS149511'
+
+route:          1.1.8.0/24
+origin:         AS149511
+descr:          Yamu Technologies Co., Ltd.
+                No.180 Yizhou Road, Xuhui District, Shanghai
+mnt-by:         MAINT-YNCL-CN
+last-modified:  2022-02-11T08:29:36Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

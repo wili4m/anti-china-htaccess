@@ -1,0 +1,83 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      110.0.0.0 - 110.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2008-11
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '110.173.96.0 - 110.173.127.255'
+
+% Abuse contact for '110.173.96.0 - 110.173.127.255' is 'luoliqiong@tisson.cn'
+
+inetnum:        110.173.96.0 - 110.173.127.255
+netname:        BOLU-TELECOM
+descr:          DONGGUAN BOLU TELECOM
+descr:          SCIENCE&TECHNOLOGY CORPORATINOLTD
+descr:          4F,No.1 Tower WoLin Industrial Park
+descr:          Dongcheng Mid Road
+descr:          DongGuan GuangDong PRC
+country:        CN
+admin-c:        RC352-AP
+tech-c:         RC352-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+remarks:        Send abuse reports to RED@BOLU.COM.CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BOLU-TELECOM-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:51Z
+source:         APNIC
+
+irt:            IRT-BOLU-TELECOM-CN
+address:        4F,No.1 Tower WoLin Industrial Park Dongcheng Mid Road,DongGuan GuangDong PRC
+e-mail:         luoliqiong@tisson.cn
+abuse-mailbox:  luoliqiong@tisson.cn
+auth:           # Filtered
+admin-c:        CR93-AP
+tech-c:         CR93-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:42Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         RH Chen
+nic-hdl:        RC352-AP
+e-mail:         red@bolu.com.cn
+address:        4F,No.1 Tower WoLin Industrial Park Dongcheng Mid Road,DongGuan GuangDong PRC
+phone:          +86-769-22381732
+fax-no:         +86-769-22502898
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

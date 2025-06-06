@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.241.220.0 - 103.241.223.255'
+
+% Abuse contact for '103.241.220.0 - 103.241.223.255' is 'zhuiri@cnkuai.cn'
+
+inetnum:        103.241.220.0 - 103.241.223.255
+netname:        cnkuai
+descr:          Tian Jin Zhui Ri Science & Technology development CO., LTD
+descr:          Heping District, Tianjin Fuan Street, Gigabit Trade Building D-1204
+country:        CN
+admin-c:        ZZ2715-AP
+tech-c:         ZH2198-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNKUAI-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:22Z
+source:         APNIC
+
+irt:            IRT-cnkuai-CN
+address:        Heping District, Tianjin Fuan Street,
+address:        Gigabit Trade Building D-1204
+e-mail:         zhuiri@cnkuai.cn
+abuse-mailbox:  zhuiri@cnkuai.cn
+auth:           # Filtered
+admin-c:        ZZ2715-AP
+tech-c:         ZH2198-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-24T08:47:07Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Zenghai Hu
+address:        Heping District, Tianjin Fuan Street,
+address:        Gigabit Trade Building D-1204
+country:        CN
+nic-hdl:        ZH2198-AP
+e-mail:         runzhikang@cnkuai.cn
+phone:          +86-022-022-27058066-808
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-04-22T07:12:02Z
+source:         APNIC
+
+person:         Zhihui Zang
+address:        Heping District, Tianjin Fuan Street,
+address:        Gigabit Trade Building D-1204
+country:        CN
+nic-hdl:        ZZ2715-AP
+e-mail:         zhihui@cnkuai.cn
+phone:          +86-022-27058066-822
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-04-22T07:12:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

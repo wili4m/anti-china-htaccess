@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.224.0.0 - 116.239.255.255'
+
+% Abuse contact for '116.224.0.0 - 116.239.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        116.224.0.0 - 116.239.255.255
+netname:        CHINANET-SH
+descr:          CHINANET Shanghai province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        WWQ4-AP
+tech-c:         WWQ4-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SH
+mnt-routes:     MAINT-CHINANET-SH
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:06:29Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Weng Wen Qian
+address:        Room 2405,357 Songlin Road,Shanghai 200122
+country:        CN
+phone:          +86-21-68405784
+fax-no:         +86-21-50623458
+e-mail:         shizhiming.sh@chinatelecom.cn
+nic-hdl:        WWQ4-AP
+mnt-by:         MAINT-CHINANET-SH
+last-modified:  2023-02-07T08:25:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

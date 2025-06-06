@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.229.60.0 - 103.229.63.255'
+
+% Abuse contact for '103.229.60.0 - 103.229.63.255' is '276627166@qq.com'
+
+inetnum:        103.229.60.0 - 103.229.63.255
+netname:        YTCL-CN
+descr:          RM D, 12/F, Xinhai building ,
+descr:          No. 351, The liberation of South Road,
+descr:          Hexi District
+country:        CN
+org:            ORG-YTCL4-AP
+admin-c:        YTTC1-AP
+tech-c:         YTTC1-AP
+abuse-c:        AY463-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-YTCL-CN
+mnt-routes:     MAINT-YTCL-CN
+mnt-irt:        IRT-YTCL-CN
+last-modified:  2020-06-22T12:52:41Z
+source:         APNIC
+
+irt:            IRT-YTCL-CN
+address:        12D, Xinhai Mansion, No351, The liberation of South Road, Hexi District, Tianjin, Tianjin CHINA
+e-mail:         276627166@qq.com
+abuse-mailbox:  276627166@qq.com
+admin-c:        YTTC1-AP
+tech-c:         YTTC1-AP
+auth:           # Filtered
+remarks:        276627166@qq.com is invalid
+mnt-by:         MAINT-YTCL-CN
+last-modified:  2023-07-30T15:21:36Z
+source:         APNIC
+
+organisation:   ORG-YTCL4-AP
+org-name:       Yuanwang Technology (Tianjin) Co. Ltd.
+org-type:       LIR
+country:        CN
+address:        RM D, 12/F, Xinhai building ,
+address:        No. 351, The liberation of South Road,
+address:        Hexi District
+phone:          +86 022 28230162
+e-mail:         276627166@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:55Z
+source:         APNIC
+
+role:           ABUSE YTCLCN
+address:        12D, Xinhai Mansion, No351, The liberation of South Road, Hexi District, Tianjin, Tianjin CHINA
+country:        ZZ
+phone:          +000000000
+e-mail:         276627166@qq.com
+admin-c:        YTTC1-AP
+tech-c:         YTTC1-AP
+nic-hdl:        AY463-AP
+remarks:        Generated from irt object IRT-YTCL-CN
+remarks:        276627166@qq.com is invalid
+abuse-mailbox:  276627166@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-07-30T15:22:22Z
+source:         APNIC
+
+role:           Yuanwang Technology Tianjin Co Ltd administrat
+address:        12D, Xinhai Mansion, No351, The liberation of South Road, Hexi District, Tianjin, Tianjin CHINA
+country:        CN
+phone:          +86-022-28230162
+fax-no:         +86-022-28230162
+e-mail:         276627166@qq.com
+admin-c:        YTTC1-AP
+tech-c:         YTTC1-AP
+nic-hdl:        YTTC1-AP
+mnt-by:         MAINT-YTCL-CN
+last-modified:  2016-06-15T02:32:20Z
+source:         APNIC
+
+% Information related to '103.229.60.0/22AS55933'
+
+route:          103.229.60.0/22
+origin:         AS55933
+descr:          Yuanwang Technology (Tianjin) Co. Ltd.
+                RM D, 12/F, Xinhai building ,
+                No. 351, The liberation of South Road,
+                Hexi District
+mnt-by:         MAINT-YTCL-CN
+last-modified:  2020-01-25T13:52:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

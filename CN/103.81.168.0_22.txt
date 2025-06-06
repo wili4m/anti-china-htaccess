@@ -1,0 +1,129 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.81.168.0 - 103.81.171.255'
+
+% Abuse contact for '103.81.168.0 - 103.81.171.255' is 'abuse@hanming.com'
+
+inetnum:        103.81.168.0 - 103.81.171.255
+netname:        B3NTCL-CN
+descr:          Beijing 3389 Network Technology Co Ltd
+country:        CN
+org:            ORG-BNTC1-AP
+admin-c:        TZ665-AP
+tech-c:         TZ665-AP
+abuse-c:        AB936-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-B3NTCL-CN
+mnt-routes:     MAINT-B3NTCL-CN
+mnt-irt:        IRT-B3NTCL-CN
+last-modified:  2022-04-29T03:53:16Z
+source:         APNIC
+
+irt:            IRT-B3NTCL-CN
+address:        youmajie 37HAO 1701-1703
+e-mail:         601209142@qq.com
+abuse-mailbox:  abuse@hanming.com
+admin-c:        TZ665-AP
+tech-c:         TZ665-AP
+auth:           # Filtered
+remarks:        601209142@qq.com was validated on 2025-01-31
+remarks:        abuse@hanming.com was validated on 2025-03-19
+mnt-by:         MAINT-B3NTCL-CN
+last-modified:  2025-03-19T13:32:05Z
+source:         APNIC
+
+organisation:   ORG-BNTC1-AP
+org-name:       Beijing 3389 Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        youmajie 37HAO 1701-1703
+address:        hongkong
+address:        hongkong
+address:        hongkong
+phone:          +852--23759876
+fax-no:         +852--23759876
+e-mail:         601209142@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:07Z
+source:         APNIC
+
+role:           ABUSE B3NTCLCN
+country:        ZZ
+address:        youmajie 37HAO 1701-1703
+phone:          +000000000
+e-mail:         601209142@qq.com
+admin-c:        TZ665-AP
+tech-c:         TZ665-AP
+nic-hdl:        AB936-AP
+remarks:        Generated from irt object IRT-B3NTCL-CN
+remarks:        601209142@qq.com was validated on 2025-01-31
+remarks:        abuse@hanming.com was validated on 2025-03-19
+abuse-mailbox:  abuse@hanming.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-19T13:32:47Z
+source:         APNIC
+
+person:         tianming zhang
+address:        youmajie 37HAO 1701-1703
+country:        HK
+phone:          +852 -23559876
+e-mail:         abuse@hanming.com
+nic-hdl:        TZ665-AP
+mnt-by:         MAINT-B3NTCL-CN
+last-modified:  2022-04-29T03:53:03Z
+source:         APNIC
+
+% Information related to '103.81.168.0/22AS136146'
+
+route:          103.81.168.0/22
+origin:         AS136146
+descr:          HanMing HK Limited
+                youmajie 37HAO 1701-1703
+                hongkong
+                hongkong
+                hongkong
+mnt-by:         MAINT-B3NTCL-CN
+last-modified:  2024-07-14T11:14:29Z
+source:         APNIC
+
+% Information related to '103.81.168.0/22AS206888'
+
+route:          103.81.168.0/22
+origin:         AS206888
+descr:          Beijing 3389 Network Technology Co., Ltd.
+                youmajie 37HAO 1701-1703
+                hongkong
+                hongkong
+                hongkong
+mnt-by:         MAINT-B3NTCL-CN
+last-modified:  2024-07-14T11:16:49Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

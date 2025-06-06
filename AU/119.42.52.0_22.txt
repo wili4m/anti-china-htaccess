@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      119.0.0.0 - 119.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '119.42.52.0 - 119.42.55.255'
+
+% Abuse contact for '119.42.52.0 - 119.42.55.255' is 'abuse@mammothmedia.com.au'
+
+inetnum:        119.42.52.0 - 119.42.55.255
+netname:        MAMMOTHMEDIA-AP
+descr:          Mammoth Media Pty Ltd
+descr:          Suite S04 Level 1 / 34 Coonan St Indooroopilly Qld 4068
+country:        AU
+org:            ORG-MMPL2-AP
+admin-c:        MMPL2-AP
+tech-c:         MMPL2-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AM2754-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-MAMMOTHMEDIA-AU
+mnt-routes:     MAINT-MAMMOTHMEDIA-AU
+mnt-irt:        IRT-MAMMOTHMEDIA-AU
+last-modified:  2021-10-24T23:09:32Z
+source:         APNIC
+
+irt:            IRT-MAMMOTHMEDIA-AU
+address:        Suite S04 Level 1 / 34 Coonan St Indooroopilly Qld 4068
+e-mail:         abuse@mammothmedia.com.au
+abuse-mailbox:  abuse@mammothmedia.com.au
+admin-c:        MMPL2-AP
+tech-c:         MMPL2-AP
+auth:           # Filtered
+remarks:        abuse@mammothmedia.com.au was validated on 2025-03-21
+mnt-by:         MAINT-MAMMOTHMEDIA-AU
+last-modified:  2025-03-21T02:43:44Z
+source:         APNIC
+
+organisation:   ORG-MMPL2-AP
+org-name:       Mammoth Media Pty Ltd
+org-type:       LIR
+country:        AU
+address:        BTP HUB, Level 1 Suite 3
+address:        10 Station Avenue
+phone:          +61737215000
+fax-no:         +61737215001
+e-mail:         support@mammoth.com.au
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:32Z
+source:         APNIC
+
+role:           ABUSE MAMMOTHMEDIAAU
+country:        ZZ
+address:        Suite S04 Level 1 / 34 Coonan St Indooroopilly Qld 4068
+phone:          +000000000
+e-mail:         abuse@mammothmedia.com.au
+admin-c:        MMPL2-AP
+tech-c:         MMPL2-AP
+nic-hdl:        AM2754-AP
+remarks:        Generated from irt object IRT-MAMMOTHMEDIA-AU
+remarks:        abuse@mammothmedia.com.au was validated on 2025-03-21
+abuse-mailbox:  abuse@mammothmedia.com.au
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-21T02:44:14Z
+source:         APNIC
+
+role:           Mammoth Media Pty Ltd
+address:        Suite S04 Level 1 / 34 Coonan St Indooroopilly Qld 4068
+country:        AU
+phone:          +61737215000
+e-mail:         hostmaster@mammothmedia.com.au
+admin-c:        MMPL2-AP
+tech-c:         MMPL2-AP
+nic-hdl:        MMPL2-AP
+mnt-by:         MAINT-MAMMOTHMEDIA-AU
+last-modified:  2009-05-20T00:33:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

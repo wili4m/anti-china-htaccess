@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.22.112.0 - 103.22.115.255'
+
+% Abuse contact for '103.22.112.0 - 103.22.115.255' is '18943124057@189.cn'
+
+inetnum:        103.22.112.0 - 103.22.115.255
+netname:        CHINANET-JL
+descr:          CHINANET Jilin province network
+descr:          Jilin Telecom Corporation
+descr:          No.2136,Dong-Nan-Hu Road,Changchun,130000,Jilin
+country:        CN
+admin-c:        YL1057-AP
+tech-c:         YL1057-AP
+abuse-c:        AC1933-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+notify:         ipmgr@jltele.com
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-JL
+mnt-routes:     MAINT-CHINANET-JL
+mnt-irt:        IRT-CHINANET-JL
+last-modified:  2020-07-07T05:00:28Z
+source:         APNIC
+
+irt:            IRT-CHINANET-JL
+address:        No.2136,Dong-Nan-Hu Road,Changchun,130000,Jilin
+e-mail:         18943124057@189.cn
+abuse-mailbox:  18943124057@189.cn
+admin-c:        YL1057-AP
+tech-c:         YL1057-AP
+auth:           # Filtered
+remarks:        18943124057@189.cn was validated on 2025-03-12
+mnt-by:         MAINT-CHINANET-JL
+last-modified:  2025-03-12T00:46:10Z
+source:         APNIC
+
+role:           ABUSE CHINANETJL
+country:        ZZ
+address:        No.2136,Dong-Nan-Hu Road,Changchun,130000,Jilin
+phone:          +000000000
+e-mail:         18943124057@189.cn
+admin-c:        YL1057-AP
+tech-c:         YL1057-AP
+nic-hdl:        AC1933-AP
+remarks:        Generated from irt object IRT-CHINANET-JL
+remarks:        18943124057@189.cn was validated on 2025-03-12
+abuse-mailbox:  18943124057@189.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-12T00:46:46Z
+source:         APNIC
+
+person:         YI LU
+nic-hdl:        YL1057-AP
+e-mail:         18943124057@189.cn
+address:        No.2136,Southeast lake  Street,Changchun,130042,Jilin
+phone:          +86-431-85880000
+fax-no:         +86-431-5881234
+country:        CN
+mnt-by:         MAINT-CHINANET-JL
+last-modified:  2019-11-13T03:31:49Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

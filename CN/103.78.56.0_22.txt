@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.78.56.0 - 103.78.59.255'
+
+% Abuse contact for '103.78.56.0 - 103.78.59.255' is 'Dan.Wa.Wang@bmw.com'
+
+inetnum:        103.78.56.0 - 103.78.59.255
+netname:        BMW-China-Service
+descr:          BMW China Service Ltd.
+descr:          18th Floor, Tower A, Gateway Plaza,No.18 Xia Guang Li
+descr:          North East Third Ring,Chaoyang District, Beijing 100027
+country:        CN
+admin-c:        ZM1719-AP
+tech-c:         ZM1720-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BMW-CHINA-SERVICE-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:45Z
+source:         APNIC
+
+irt:            IRT-BMW-China-Service-CN
+address:        22nd Floor, Tower B, Gateway Plaza, No. 18 Xia Guang Li North Road,
+address:        East Third Ring, Chaoyang District, Beijing 100027, PR China
+e-mail:         Dan.Wa.Wang@bmw.com
+abuse-mailbox:  Dan.Wa.Wang@bmw.com
+admin-c:        TX325-AP
+tech-c:         YC1939-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-24T09:27:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Chen Yu
+address:        18th Floor, Tower A, Gateway Plaza,No.18 Xia Guang Li
+address:        North East Third Ring,Chaoyang District, Beijing 100027
+country:        CN
+phone:          +86-010-84558470
+e-mail:         Yu.Chen@bmw.com
+nic-hdl:        ZM1719-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-10-31T04:08:01Z
+source:         APNIC
+
+person:         Gao Shawn
+address:        18th Floor, Tower A, Gateway Plaza,No.18 Xia Guang Li
+address:        North East Third Ring,Chaoyang District, Beijing 100027
+country:        CN
+phone:          +86-010-84553922
+e-mail:         Shawn.Gao@bmw.com
+nic-hdl:        ZM1720-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-10-31T04:08:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

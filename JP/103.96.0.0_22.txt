@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.96.0.0 - 103.96.3.255'
+
+% Abuse contact for '103.96.0.0 - 103.96.3.255' is 'noc@osoa.co.jp'
+
+inetnum:        103.96.0.0 - 103.96.3.255
+netname:        OSOA-JP
+descr:          OSOA Co.,LTD.
+country:        JP
+org:            ORG-OC2-AP
+admin-c:        OCA2-AP
+tech-c:         OCA2-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AO292-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-OSOA-JP
+mnt-routes:     MAINT-OSOA-JP
+mnt-irt:        IRT-OSOA-JP
+last-modified:  2025-05-29T05:52:38Z
+source:         APNIC
+
+irt:            IRT-OSOA-JP
+address:        2-20 Shiohama Koutou-ku Tokyo 135-0043
+e-mail:         noc@osoa.co.jp
+abuse-mailbox:  noc@osoa.co.jp
+admin-c:        OCA2-AP
+tech-c:         OCA2-AP
+auth:           # Filtered
+remarks:        noc@osoa.co.jp was validated on 2025-02-25
+mnt-by:         MAINT-OSOA-JP
+last-modified:  2025-02-25T13:09:09Z
+source:         APNIC
+
+organisation:   ORG-OC2-AP
+org-name:       OSOA Co.,LTD.
+org-type:       LIR
+country:        JP
+address:        1-52-15, Tatara, Higashi-ku
+phone:          +81-50-3559-7788
+e-mail:         noc@osoa.co.jp
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:22Z
+source:         APNIC
+
+role:           ABUSE OSOAJP
+country:        ZZ
+address:        2-20 Shiohama Koutou-ku Tokyo 135-0043
+phone:          +000000000
+e-mail:         noc@osoa.co.jp
+admin-c:        OCA2-AP
+tech-c:         OCA2-AP
+nic-hdl:        AO292-AP
+remarks:        Generated from irt object IRT-OSOA-JP
+remarks:        noc@osoa.co.jp was validated on 2025-02-25
+abuse-mailbox:  noc@osoa.co.jp
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-25T13:09:40Z
+source:         APNIC
+
+role:           OSOA CoLTD administrator
+address:        2-20 Shiohama Koutou-ku Tokyo 135-0043
+country:        JP
+phone:          +81-50-3559-7788
+e-mail:         noc@osoa.co.jp
+admin-c:        OCA2-AP
+tech-c:         OCA2-AP
+nic-hdl:        OCA2-AP
+mnt-by:         MAINT-OSOA-JP
+last-modified:  2019-08-23T16:59:28Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

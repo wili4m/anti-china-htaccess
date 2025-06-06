@@ -1,0 +1,61 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      46.0.0.0 - 46.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2009-09
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        46.136.129.0 - 46.136.255.255
+netname:        VODAFONE_SPAIN_NETWORK
+descr:          GLOBAL MOBILE OPERATOR
+country:        ES
+admin-c:        AIRT1-RIPE
+tech-c:         AIRT1-RIPE
+status:         ASSIGNED PA
+mnt-by:         AIRTELNET-MNT
+created:        2015-07-08T09:21:33Z
+last-modified:  2015-07-08T09:21:33Z
+source:         RIPE
+geoloc:         40 -4
+
+role:           VODAFONE ESPANA ROLE
+address:        Vodafone Spain
+address:        Avenida de América, 115
+address:        28042
+address:        Madrid
+address:        Spain
+phone:          +34 607133333
+abuse-mailbox:  abuse@corp.vodafone.es
+admin-c:        DHC4-RIPE
+admin-c:        RRV18-RIPE
+tech-c:         DHC4-RIPE
+tech-c:         RRV18-RIPE
+nic-hdl:        AIRT1-RIPE
+mnt-by:         AIRTELNET-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2024-02-21T08:43:05Z
+source:         RIPE # Filtered
+
+% Information related to '46.136.0.0/16AS12430'
+
+route:          46.136.0.0/16
+descr:          VODAFONE-SPAIN-NETWORK
+origin:         AS12430
+mnt-by:         AIRTELNET-MNT
+created:        2015-04-22T14:29:28Z
+last-modified:  2015-04-22T14:29:28Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+

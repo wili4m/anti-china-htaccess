@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.213.40.0 - 116.213.43.255'
+
+% Abuse contact for '116.213.40.0 - 116.213.43.255' is 'Kchan2789@gmail.com'
+
+inetnum:        116.213.40.0 - 116.213.43.255
+netname:        LIHGL-HK
+descr:          LANLIAN INTERNATIONAL HOLDING GROUP LIMITED
+country:        HK
+org:            ORG-LIHG1-AP
+admin-c:        GGG9-AP
+tech-c:         GGG9-AP
+abuse-c:        AL1475-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-LIHGL-HK
+mnt-routes:     MAINT-LIHGL-HK
+mnt-irt:        IRT-LIHGL-HK
+last-modified:  2020-10-10T10:03:35Z
+source:         APNIC
+
+irt:            IRT-LIHGL-HK
+address:        OFFICE 1002A, 10/F GINZA SQUARE, 567 NATHAN RD KLN, HK HK 000852
+e-mail:         kchan2789@gmail.com
+abuse-mailbox:  Kchan2789@gmail.com
+admin-c:        LIHG1-AP
+tech-c:         LIHG1-AP
+auth:           # Filtered
+remarks:        kchan2789@gmail.com
+remarks:        kchan2789@gmail.com is invalid
+mnt-by:         MAINT-LIHGL-HK
+last-modified:  2024-12-11T13:06:28Z
+source:         APNIC
+
+organisation:   ORG-LIHG1-AP
+org-name:       LANLIAN INTERNATIONAL HOLDING GROUP LIMITED
+org-type:       LIR
+country:        HK
+address:        OFFICE 1002A, 10/F GINZA SQUARE
+address:        567 NATHAN RD KLN
+phone:          +852-658533113
+fax-no:         +852-65853314
+e-mail:         kchan2789@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:10Z
+source:         APNIC
+
+role:           ABUSE LIHGLHK
+country:        ZZ
+address:        OFFICE 1002A, 10/F GINZA SQUARE, 567 NATHAN RD KLN, HK HK 000852
+phone:          +000000000
+e-mail:         kchan2789@gmail.com
+admin-c:        LIHG1-AP
+tech-c:         LIHG1-AP
+nic-hdl:        AL1475-AP
+remarks:        Generated from irt object IRT-LIHGL-HK
+remarks:        kchan2789@gmail.com is invalid
+abuse-mailbox:  Kchan2789@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-11T13:07:27Z
+source:         APNIC
+
+role:           good good good
+address:        OFFICE 1002A, 10/F GINZA SQUARE, 567 NATHAN RD KLN, HK HK 000852
+country:        HK
+phone:          +852 36970990
+e-mail:         kchan2789@gmail.com
+admin-c:        GGG9-AP
+tech-c:         GGG9-AP
+nic-hdl:        GGG9-AP
+notify:         kchan2789@gmail.com
+mnt-by:         MAINT-HK-NLIDC
+last-modified:  2020-10-10T10:03:21Z
+source:         APNIC
+
+% Information related to '116.213.40.0/22AS55020'
+
+route:          116.213.40.0/22
+origin:         AS55020
+descr:          LANLIAN INTERNATIONAL HOLDING GROUP LIMITED
+                OFFICE 1002A, 10/F GINZA SQUARE
+                567 NATHAN RD KLN
+mnt-by:         MAINT-LIHGL-HK
+last-modified:  2023-10-24T09:28:07Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

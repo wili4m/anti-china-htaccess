@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.4.56.0 - 103.4.59.255'
+
+% Abuse contact for '103.4.56.0 - 103.4.59.255' is 'wangshaokun@jdjt.net'
+
+inetnum:        103.4.56.0 - 103.4.59.255
+netname:        JDJT
+descr:          Beijing Century Union Network Technology Co.,LTD.
+descr:          3F,Space Montage, No.9, North RD.,
+descr:          Wenhuiyuan Haidian District, Beijing, China
+country:        CN
+admin-c:        WZ1852-AP
+tech-c:         JY2449-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-JDJT-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:28Z
+source:         APNIC
+
+irt:            IRT-JDJT-CN
+address:        Wenhuiyuan Haidian District, Beijing, China
+e-mail:         wangshaokun@jdjt.net
+abuse-mailbox:  wangshaokun@jdjt.net
+auth:           # Filtered
+admin-c:        WZ1852-AP
+tech-c:         WZ1852-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:26Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Jia Yong
+address:        3F,Space Montage, No.9, North RD., Wenhuiyuan
+address:        Haidian District, Beijing, China
+country:        CN
+phone:          +86-010-62217711
+e-mail:         jiayong@jdjt.net
+nic-hdl:        JY2449-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-05-16T02:56:01Z
+source:         APNIC
+
+person:         Wang Zhao
+address:        3F,Space Montage, No.9, North RD., Wenhuiyuan
+address:        Haidian District, Beijing, China
+country:        CN
+phone:          +86-010-62217711-687
+e-mail:         wangzhao@jdjt.net
+nic-hdl:        WZ1852-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-05-17T09:28:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

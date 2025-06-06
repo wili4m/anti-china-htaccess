@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      123.0.0.0 - 123.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.172.0.0 - 123.173.255.255'
+
+% Abuse contact for '123.172.0.0 - 123.173.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        123.172.0.0 - 123.173.255.255
+netname:        CHINANET-JL
+descr:          CHINANET JILIN PROVINCE NETWORK
+descr:          JILIN Telecom Corporation
+descr:          NO.2136 DONG-NAN-HU ROAD,JINGKAI
+descr:          DISTRICT,CHANGCHUN 130000
+country:        CN
+admin-c:        YL1057-AP
+tech-c:         YL1057-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-JL
+mnt-routes:     MAINT-CHINANET-JL
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:41Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         YI LU
+nic-hdl:        YL1057-AP
+e-mail:         18943124057@189.cn
+address:        No.2136,Southeast lake  Street,Changchun,130042,Jilin
+phone:          +86-431-85880000
+fax-no:         +86-431-5881234
+country:        CN
+mnt-by:         MAINT-CHINANET-JL
+last-modified:  2019-11-13T03:31:49Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

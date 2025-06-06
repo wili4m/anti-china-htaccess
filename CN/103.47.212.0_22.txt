@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.47.212.0 - 103.47.215.255'
+
+% Abuse contact for '103.47.212.0 - 103.47.215.255' is 'sdgdyyf@163.com'
+
+inetnum:        103.47.212.0 - 103.47.215.255
+netname:        SD-CLOUD
+descr:          Shandong Cloud Comb Culture CO.LTD
+country:        CN
+admin-c:        ZQ1111-AP
+tech-c:         XL3200-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SD-CLOUD-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:32Z
+source:         APNIC
+
+irt:            IRT-SD-CLOUD-CN
+address:        B5B Building, No.2000, ShunhuaRoad, Jinan, Shandong
+e-mail:         sdgdyyf@163.com
+abuse-mailbox:  sdgdyyf@163.com
+auth:           # Filtered
+admin-c:        ZQ1111-AP
+tech-c:         XL3200-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T09:01:29Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xuan Li
+address:        B5B Building, No.2000, ShunhuaRoad, Jinan, Shandong
+country:        CN
+phone:          +86-18678826593
+e-mail:         sdgdlx@163.com
+nic-hdl:        XL3200-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-12-31T09:08:01Z
+source:         APNIC
+
+person:         Zhenghao Qin
+address:        B5B Building, No.2000, ShunhuaRoad, Jinan, Shandong
+country:        CN
+phone:          +86-15866639956
+e-mail:         sdgdqzh@163.com
+nic-hdl:        ZQ1111-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-12-31T09:08:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

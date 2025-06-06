@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.38.92.0 - 103.38.95.255'
+
+% Abuse contact for '103.38.92.0 - 103.38.95.255' is 'qwertjjj@163.com'
+
+inetnum:        103.38.92.0 - 103.38.95.255
+netname:        ETOWN
+descr:          BEI JING BDA NETWORK &INFORMATION CO.,LTD
+descr:          2A, floor 5, building 1, No. A5, Rongchang East Street,
+descr:          Beijing Economic and Technological Development Zone, Beijing
+admin-c:        YW7262-AP
+tech-c:         YW7263-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-ETOWN-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-08-21T08:40:17Z
+source:         APNIC
+
+irt:            IRT-ETOWN-CN
+address:        2A, floor 5, building 1, No. A5, Rongchang East Street,
+address:        Beijing Economic and Technological Development Zone, Beijing
+e-mail:         songyonglan@ebda.cn
+abuse-mailbox:  qwertjjj@163.com
+admin-c:        YW7262-AP
+tech-c:         YW7263-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-04T08:52:29Z
+source:         APNIC
+
+person:         Song Yonglan
+address:        2A, floor 5, building 1, No. A5, Rongchang East Street,
+address:        Beijing Economic and Technological Development Zone, Beijing
+country:        CN
+phone:          +86-18513631769
+e-mail:         songyonglan@ebda.cn
+nic-hdl:        YW7262-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-04T08:49:56Z
+source:         APNIC
+
+person:         Sun Dejun
+address:        2A, floor 5, building 1, No. A5, Rongchang East Street,
+address:        Beijing Economic and Technological Development Zone, Beijing
+country:        CN
+phone:          +86-18600585968
+e-mail:         qwertjjj@163.com
+nic-hdl:        YW7263-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-04T08:49:56Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

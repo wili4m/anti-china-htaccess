@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.42.104.0 - 103.42.107.255'
+
+% Abuse contact for '103.42.104.0 - 103.42.107.255' is 'apnic@smtphub.com'
+
+inetnum:        103.42.104.0 - 103.42.107.255
+netname:        GLNTC-CN
+descr:          Guangzhou LinSeek Network Technology Co.Ltd
+country:        CN
+org:            ORG-GLNT1-AP
+admin-c:        GLNT2-AP
+tech-c:         GLNT2-AP
+abuse-c:        AG953-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-GLNTC-CN
+mnt-routes:     MAINT-GLNTC-CN
+mnt-irt:        IRT-GLNTC-CN
+last-modified:  2020-10-17T01:58:41Z
+source:         APNIC
+
+irt:            IRT-GLNTC-CN
+address:        RM 407, No.22, Daguan south Rd, Guangzhou, China
+e-mail:         apnic@smtphub.com
+abuse-mailbox:  apnic@smtphub.com
+admin-c:        GLNT2-AP
+tech-c:         GLNT2-AP
+auth:           # Filtered
+remarks:        apnic@smtphub.com was validated on 2025-02-20
+mnt-by:         MAINT-GLNTC-CN
+last-modified:  2025-02-20T05:19:15Z
+source:         APNIC
+
+organisation:   ORG-GLNT1-AP
+org-name:       Guangzhou LinSeek Network Technology Co.Ltd
+org-type:       LIR
+country:        CN
+address:        RM 407, No.22, Daguan south Rd, Guangzhou, China
+phone:          +8620-28131722
+fax-no:         +8620-28131722
+e-mail:         apnic@smtphub.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:28Z
+source:         APNIC
+
+role:           ABUSE GLNTCCN
+country:        ZZ
+address:        RM 407, No.22, Daguan south Rd, Guangzhou, China
+phone:          +000000000
+e-mail:         apnic@smtphub.com
+admin-c:        GLNT2-AP
+tech-c:         GLNT2-AP
+nic-hdl:        AG953-AP
+remarks:        Generated from irt object IRT-GLNTC-CN
+remarks:        apnic@smtphub.com was validated on 2025-02-20
+abuse-mailbox:  apnic@smtphub.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-20T05:19:50Z
+source:         APNIC
+
+role:           Guangzhou LinSeek Network Technology Co.Ltd
+address:        RM 407, No.22, Daguan south Rd, Guangzhou, China
+country:        CN
+phone:          +8620-28131722
+e-mail:         apnic@smtphub.com
+admin-c:        GLNT2-AP
+tech-c:         GLNT2-AP
+nic-hdl:        GLNT2-AP
+mnt-by:         MAINT-GLNTC-CN
+last-modified:  2023-03-15T10:51:28Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

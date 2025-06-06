@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.250.116.0 - 43.250.119.255'
+
+% Abuse contact for '43.250.116.0 - 43.250.119.255' is 'abuse-noc@hkdns.hk'
+
+inetnum:        43.250.116.0 - 43.250.119.255
+netname:        yihushuju
+descr:          Sichuan Yihu Data Technology Co.,Ltd
+descr:          Global Plaza, 99 North Section of First Ring Road, Chengdu, Sichuan, China
+admin-c:        YW7030-AP
+tech-c:         JS4224-AP
+country:        CN
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-YIHUSHUJU
+last-modified:  2023-06-13T08:27:52Z
+source:         APNIC
+
+irt:            IRT-YIHUSHUJU
+address:        Global Plaza, 99 North Section of First Ring Road, Chengdu, Sichuan, China
+e-mail:         1024537353@qq.com
+abuse-mailbox:  abuse-noc@hkdns.hk
+admin-c:        YW7030-AP
+tech-c:         JS4224-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-10-28T02:40:17Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yanping Duan
+address:        Global Plaza, 99 North Section of First Ring Road, Chengdu, Sichuan, China
+country:        CN
+phone:          +86-18980676101
+e-mail:         1024537353@qq.com
+nic-hdl:        JS4224-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-05-10T01:41:47Z
+source:         APNIC
+
+person:         Liling Yang
+address:        Global Plaza, 99 North Section of First Ring Road, Chengdu, Sichuan, China
+country:        CN
+phone:          +86-18080135005
+e-mail:         2182518@qq.com
+nic-hdl:        YW7030-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-05-10T01:41:47Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

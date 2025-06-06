@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.40.100.0 - 103.40.103.255'
+
+% Abuse contact for '103.40.100.0 - 103.40.103.255' is 'hwssecurity@huaweicloud.com'
+
+inetnum:        103.40.100.0 - 103.40.103.255
+netname:        HIPL-SG
+descr:          HUAWEI INTERNATIONAL PTE. LTD.
+descr:          15A Changi Business Park Central 1 Eightrium # 03-03/04
+country:        SG
+org:            ORG-HIPL2-AP
+admin-c:        HIPL4-AP
+tech-c:         HIPL4-AP
+abuse-c:        AH905-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HIPL-SG
+mnt-routes:     MAINT-HIPL-SG
+mnt-irt:        IRT-HIPL-SG
+last-modified:  2024-12-03T00:45:14Z
+source:         APNIC
+
+irt:            IRT-HIPL-SG
+address:        15A Changi Business Park Central 1 Eightrium # 03-03/04, Singapore 486035
+e-mail:         hwssecurity@huaweicloud.com
+abuse-mailbox:  hwssecurity@huaweicloud.com
+admin-c:        HIPL4-AP
+tech-c:         HIPL4-AP
+auth:           # Filtered
+remarks:        hwssecurity@huaweicloud.com
+remarks:        hwssecurity@huaweicloud.com was validated on 2024-11-25
+mnt-by:         MAINT-HIPL-SG
+last-modified:  2024-11-25T03:59:06Z
+source:         APNIC
+
+organisation:   ORG-HIPL2-AP
+org-name:       HUAWEI INTERNATIONAL PTE. LTD.
+org-type:       LIR
+country:        SG
+address:        15A Changi Business Park Central 1 Eightrium # 03-03/04
+phone:          +8675528560115
+e-mail:         hwssecurity@huaweicloud.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-10-09T12:55:44Z
+source:         APNIC
+
+role:           ABUSE HIPLSG
+country:        ZZ
+address:        15A Changi Business Park Central 1 Eightrium # 03-03/04, Singapore 486035
+phone:          +000000000
+e-mail:         hwssecurity@huaweicloud.com
+admin-c:        HIPL4-AP
+tech-c:         HIPL4-AP
+nic-hdl:        AH905-AP
+remarks:        Generated from irt object IRT-HIPL-SG
+remarks:        hwssecurity@huaweicloud.com was validated on 2024-11-25
+abuse-mailbox:  hwssecurity@huaweicloud.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-25T03:59:21Z
+source:         APNIC
+
+role:           HUAWEI INTERNATIONAL PTE LTD administrator
+address:        15A Changi Business Park Central 1 Eightrium #03-03/04, Singapore  486035
+country:        SG
+phone:          +8618730601505
+e-mail:         wanggang222@huawei.com
+admin-c:        HIPL7-AP
+tech-c:         HIPL7-AP
+nic-hdl:        HIPL4-AP
+mnt-by:         MAINT-HIPL-SG
+last-modified:  2021-06-04T07:42:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

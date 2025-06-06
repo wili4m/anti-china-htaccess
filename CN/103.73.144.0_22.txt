@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.73.144.0 - 103.73.147.255'
+
+% Abuse contact for '103.73.144.0 - 103.73.147.255' is '55507309@qq.com'
+
+inetnum:        103.73.144.0 - 103.73.147.255
+netname:        XYIDC
+descr:          Zhenjiang Xiangyun Network Technology Co., LTD
+country:        CN
+admin-c:        CL3180-AP
+tech-c:         CJ2532-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-XYIDC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:56:43Z
+source:         APNIC
+
+irt:            IRT-XYIDC-CN
+address:        1904,building C01,wanda plaza,runzhou district,zhenjiang city
+e-mail:         55507309@qq.com
+abuse-mailbox:  55507309@qq.com
+auth:           # Filtered
+admin-c:        CL3180-AP
+tech-c:         CL3180-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T08:54:48Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         JUN CHEN
+address:        Zhenjiang New Area Dingmao Road No. 168,
+address:        building 4, room 128, Jiangnanshijia
+country:        CN
+phone:          +86-18652888188
+e-mail:         394662@qq.com
+nic-hdl:        CJ2532-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-05T05:52:01Z
+source:         APNIC
+
+person:         MAEY CHEN
+address:        Zhenjiang New Area Dingmao Road No. 168,
+address:        building 4, room 128, Jiangnanshijia
+country:        CN
+phone:          +86-18252932668
+e-mail:         55507309@qq.com
+nic-hdl:        CL3180-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-05T05:52:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

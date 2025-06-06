@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      59.0.0.0 - 59.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2004-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '59.62.0.0 - 59.63.255.255'
+
+% Abuse contact for '59.62.0.0 - 59.63.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        59.62.0.0 - 59.63.255.255
+netname:        CHINANET-JX
+descr:          CHINANET Jiangxi province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         JN113-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-IP-WWF
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:16Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+role:           JXDCB NET
+address:        Jiangxi telecom network operation support department
+address:        No.2009, Beijing East Road , nanchangÃÂÃÂ¯ÃÂÃÂ¼ÃÂÃÂjiangxi province
+country:        CN
+phone:          +86 79186600000
+e-mail:         56561125@qq.com
+remarks:        send spam reports to 56561125@qq.com
+remarks:        and abuse reports to 56561125@qq.com
+remarks:        http://www.online.jx.cn
+admin-c:        XY1-AP
+tech-c:         WZ1-CN
+tech-c:         WW49-AP
+nic-hdl:        JN113-AP
+notify:         56561125@qq.com
+mnt-by:         MAINT-IP-WWF
+last-modified:  2020-04-02T08:23:08Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

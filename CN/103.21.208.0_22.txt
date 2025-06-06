@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.21.208.0 - 103.21.211.255'
+
+% Abuse contact for '103.21.208.0 - 103.21.211.255' is 'guochaoshangw@hotmail.com'
+
+inetnum:        103.21.208.0 - 103.21.211.255
+netname:        KGEC
+descr:          Kaifeng Guochao E-commerce Co.Ltd.
+country:        CN
+org:            ORG-KGEC1-AP
+admin-c:        KGEC1-AP
+tech-c:         KGEC1-AP
+abuse-c:        AK1193-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-KGEC-CN
+mnt-routes:     MAINT-KGEC-CN
+mnt-irt:        IRT-KGEC-CN
+last-modified:  2020-07-23T08:37:20Z
+source:         APNIC
+
+irt:            IRT-KGEC-CN
+address:        Tai Lin Pai Road, 144-150
+address:        Goldfield Industrial Centre 6Q
+e-mail:         guochaoshangw@hotmail.com
+abuse-mailbox:  guochaoshangw@hotmail.com
+admin-c:        KGEC1-AP
+tech-c:         KGEC1-AP
+auth:           # Filtered
+remarks:        guochaoshangw@hotmail.com was validated on 2025-05-09
+mnt-by:         MAINT-KGEC-CN
+last-modified:  2025-05-09T09:26:55Z
+source:         APNIC
+
+organisation:   ORG-KGEC1-AP
+org-name:       Kaifeng Guochao E-commerce Co.Ltd.
+org-type:       LIR
+country:        CN
+address:        19th Floor ,Room 1922 ,ErQi square
+address:        YouYi Building,
+phone:          +15238094188
+fax-no:         +15238094188
+e-mail:         guochaoshangw@hotmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:05Z
+source:         APNIC
+
+role:           ABUSE KGECCN
+country:        ZZ
+address:        Tai Lin Pai Road, 144-150
+address:        Goldfield Industrial Centre 6Q
+phone:          +000000000
+e-mail:         guochaoshangw@hotmail.com
+admin-c:        KGEC1-AP
+tech-c:         KGEC1-AP
+nic-hdl:        AK1193-AP
+remarks:        Generated from irt object IRT-KGEC-CN
+remarks:        guochaoshangw@hotmail.com was validated on 2025-05-09
+abuse-mailbox:  guochaoshangw@hotmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-09T09:27:19Z
+source:         APNIC
+
+role:           Kaifeng Guochao E-commerce CoLtd administrator
+address:        Tai Lin Pai Road, 144-150
+address:        Goldfield Industrial Centre 6Q
+country:        HK
+phone:          +85281912336
+fax-no:         +85281912336
+e-mail:         guochaoshangw@hotmail.com
+admin-c:        KGEC1-AP
+tech-c:         KGEC1-AP
+nic-hdl:        KGEC1-AP
+mnt-by:         MAINT-KGEC-CN
+last-modified:  2012-12-04T04:38:14Z
+source:         APNIC
+
+% Information related to '103.21.208.0/22AS36352'
+
+route:          103.21.208.0/22
+origin:         AS36352
+descr:          Kaifeng Guochao E-commerce Co.Ltd.
+                19th Floor ,Room 1922 ,ErQi square
+                YouYi Building,
+mnt-by:         MAINT-KGEC-CN
+last-modified:  2025-02-16T05:10:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

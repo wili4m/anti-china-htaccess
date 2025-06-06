@@ -1,0 +1,111 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.250.172.0 - 43.250.175.255'
+
+% Abuse contact for '43.250.172.0 - 43.250.175.255' is 'abuse@hkcloudx.com'
+
+inetnum:        43.250.172.0 - 43.250.175.255
+netname:        LGETCL-CN
+descr:          Longkou City East Street South Gate Village
+country:        CN
+org:            ORG-LGET1-AP
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+abuse-c:        AH1525-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HKUNITED-HK
+mnt-routes:     MAINT-HKUNITED-HK
+mnt-irt:        IRT-HKUNITED-HK
+last-modified:  2024-05-30T01:27:30Z
+source:         APNIC
+
+irt:            IRT-HKUNITED-HK
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+e-mail:         admin@hkcloudx.com
+abuse-mailbox:  abuse@hkcloudx.com
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+auth:           # Filtered
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+remarks:        admin@hkcloudx.com was validated on 2025-03-27
+mnt-by:         MAINT-HKUNITED-HK
+last-modified:  2025-03-27T01:29:36Z
+source:         APNIC
+
+organisation:   ORG-LGET1-AP
+org-name:       Longkou good easy Technology Co. Ltd.
+org-type:       LIR
+country:        CN
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +852-35979037
+e-mail:         admin@hkcloudx.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:28Z
+source:         APNIC
+
+role:           ABUSE HKUNITEDHK
+country:        ZZ
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +000000000
+e-mail:         admin@hkcloudx.com
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+nic-hdl:        AH1525-AP
+remarks:        Generated from irt object IRT-HKUNITED-HK
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+remarks:        admin@hkcloudx.com was validated on 2025-03-27
+abuse-mailbox:  abuse@hkcloudx.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-27T01:30:06Z
+source:         APNIC
+
+role:           DRAGON SPIRIT INVESTMENTS INTERNATIONAL CO admin
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+country:        HK
+phone:          +852-35979037
+e-mail:         abuse@hkcloudx.com
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+nic-hdl:        DSII1-AP
+mnt-by:         MAINT-VPSQUAN-HK
+last-modified:  2019-12-21T03:42:53Z
+source:         APNIC
+
+% Information related to '43.250.172.0/22AS62468'
+
+route:          43.250.172.0/22
+origin:         AS62468
+descr:          Longkou good easy Technology Co. Ltd.
+                7F,World peace center,55 wo tong tsui st,kwai chung
+mnt-by:         MAINT-HKUNITED-HK
+last-modified:  2024-09-27T03:16:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

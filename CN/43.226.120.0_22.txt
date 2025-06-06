@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.226.120.0 - 43.226.123.255'
+
+% Abuse contact for '43.226.120.0 - 43.226.123.255' is 'hewei@zanpu.com'
+
+inetnum:        43.226.120.0 - 43.226.123.255
+netname:        TJ-ZANPU
+descr:          Tianjin Zanpu Electronic Technology Co.,Ltd
+descr:          3F / 4th, Haiyi International Center,
+descr:          Rong Yuan Road 2, Park Nankai District,
+descr:          Tianjin, 300384 P.R.C
+country:        CN
+admin-c:        ML1890-AP
+tech-c:         BW729-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-TJ-ZANPU-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:54Z
+source:         APNIC
+
+irt:            IRT-TJ-ZANPU-CN
+address:        3F / 4th,Haiyi International Center,Rong Yuan Road 2,Park Nankai District,Tianjin,300384 P.R.C
+e-mail:         hewei@zanpu.com
+abuse-mailbox:  hewei@zanpu.com
+admin-c:        ML1890-AP
+tech-c:         BW729-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:50Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wei He
+address:        3F / 4th,Haiyi International Center,Rong Yuan Road 2,Park Nankai District,Tianjin,300384 P.R.C
+country:        CN
+phone:          +86-022-58635555
+e-mail:         hewei@zanpu.com
+nic-hdl:        BW729-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-05-16T06:12:02Z
+source:         APNIC
+
+person:         Haiyan Li
+address:        3F / 4th,Haiyi International Center,Rong Yuan Road 2,Park Nankai District,Tianjin,300384 P.R.C
+country:        CN
+phone:          +86-022-58635555
+e-mail:         lihy@zanpu.com
+nic-hdl:        ML1890-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-05-16T06:12:02Z
+source:         APNIC
+
+% Information related to '43.226.120.0/22AS4837'
+
+route:          43.226.120.0/22
+descr:          China Unicom China169 Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2017-05-05T06:28:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

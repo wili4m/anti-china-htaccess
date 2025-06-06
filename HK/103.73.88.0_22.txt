@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.73.88.0 - 103.73.91.255'
+
+% Abuse contact for '103.73.88.0 - 103.73.91.255' is 'hkstdd@gmail.com'
+
+inetnum:        103.73.88.0 - 103.73.91.255
+netname:        DXTL-HK
+descr:          DingFeng XinHui(HongKong) Technology Limited
+country:        HK
+org:            ORG-DXTL1-AP
+admin-c:        SH2206-AP
+tech-c:         SH2206-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AD676-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-DXTL-HK
+mnt-irt:        IRT-DXTL-HK
+last-modified:  2021-12-16T04:29:02Z
+source:         APNIC
+
+irt:            IRT-DXTL-HK
+address:        UNIT A17,9/F SILVERCORP INT'L TOWER 707-713 NATHAN RD, HONGKONG MONGKOK KLN 999077
+e-mail:         hkstdd@gmail.com
+abuse-mailbox:  hkstdd@gmail.com
+admin-c:        SH2206-AP
+tech-c:         SH2206-AP
+auth:           # Filtered
+remarks:        hkstdd@gmail.com was validated on 2025-01-15
+mnt-by:         MAINT-DXTL-HK
+last-modified:  2025-01-15T01:39:16Z
+source:         APNIC
+
+organisation:   ORG-DXTL1-AP
+org-name:       DingFeng XinHui(HongKong) Technology Limited
+org-type:       LIR
+country:        HK
+address:        UNIT A17,9/F SILVERCORP INT'L TOWER 707-713 NATHAN RD
+phone:          +00852-96669759
+e-mail:         hkstdd@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:35Z
+source:         APNIC
+
+role:           ABUSE DXTLHK
+country:        ZZ
+address:        UNIT A17,9/F SILVERCORP INT'L TOWER 707-713 NATHAN RD, HONGKONG MONGKOK KLN 999077
+phone:          +000000000
+e-mail:         hkstdd@gmail.com
+admin-c:        SH2206-AP
+tech-c:         SH2206-AP
+nic-hdl:        AD676-AP
+remarks:        Generated from irt object IRT-DXTL-HK
+remarks:        hkstdd@gmail.com was validated on 2025-01-15
+abuse-mailbox:  hkstdd@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-15T01:39:27Z
+source:         APNIC
+
+role:           ST HK
+address:        UNIT A17,9/F SILVERCORP INT'L TOWER 707-713 NATHAN RD, HONGKONG MONGKOK KLN 999077
+country:        HK
+phone:          +00852-96669759
+e-mail:         hkstdd@gmail.com
+admin-c:        SH2206-AP
+tech-c:         SH2206-AP
+nic-hdl:        SH2206-AP
+mnt-by:         MAINT-DXTL-HK
+last-modified:  2015-08-22T01:26:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

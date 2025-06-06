@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.82.52.0 - 103.82.55.255'
+
+% Abuse contact for '103.82.52.0 - 103.82.55.255' is 'huanjue1019@vip.qq.com'
+
+inetnum:        103.82.52.0 - 103.82.55.255
+netname:        BSYNTCL-CN
+descr:          Room 744, No.80 Hu Lang Road
+descr:          Tong Zhou Qu Lu Cheng Zhen
+descr:          Beijing, PRC
+country:        CN
+org:            ORG-BSYN1-AP
+admin-c:        CNTC2-AP
+tech-c:         CNTC2-AP
+abuse-c:        AB915-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BSYNTCL-CN
+mnt-routes:     MAINT-BSYNTCL-CN
+mnt-irt:        IRT-BSYNTCL-CN
+last-modified:  2020-05-19T13:04:28Z
+source:         APNIC
+
+irt:            IRT-BSYNTCL-CN
+address:        Tseung Kwun O Industrial Estate211
+e-mail:         huanjue1019@vip.qq.com
+abuse-mailbox:  huanjue1019@vip.qq.com
+admin-c:        CNTC2-AP
+tech-c:         CNTC2-AP
+auth:           # Filtered
+remarks:        huanjue1019@vip.qq.com
+remarks:        huanjue1019@vip.qq.com was validated on 2025-03-25
+mnt-by:         MAINT-BSYNTCL-CN
+last-modified:  2025-03-25T13:07:04Z
+source:         APNIC
+
+organisation:   ORG-BSYN1-AP
+org-name:       Beijing Shijihulian Yuntong Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Room 744, No.80 Hu Lang Road
+address:        Tong Zhou Qu Lu Cheng Zhen
+address:        Beijing, PRC
+phone:          +86.-010-57285895
+e-mail:         huanjue1019@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:07Z
+source:         APNIC
+
+role:           ABUSE BSYNTCLCN
+country:        ZZ
+address:        Tseung Kwun O Industrial Estate211
+phone:          +000000000
+e-mail:         huanjue1019@vip.qq.com
+admin-c:        CNTC2-AP
+tech-c:         CNTC2-AP
+nic-hdl:        AB915-AP
+remarks:        Generated from irt object IRT-BSYNTCL-CN
+remarks:        huanjue1019@vip.qq.com was validated on 2025-03-25
+abuse-mailbox:  huanjue1019@vip.qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-25T13:07:20Z
+source:         APNIC
+
+role:           Cloud Network Technology Co
+address:        Tseung Kwan O Industrial Estate
+country:        HK
+phone:          +852.-27108200
+e-mail:         huanjue1019@qq.com
+admin-c:        CNTC2-AP
+tech-c:         CNTC2-AP
+nic-hdl:        CNTC2-AP
+mnt-by:         MAINT-BSYNTCL-CN
+last-modified:  2019-12-22T02:01:35Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

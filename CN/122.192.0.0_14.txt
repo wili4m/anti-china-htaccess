@@ -1,0 +1,113 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      122.0.0.0 - 122.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.192.0.0 - 122.195.255.255'
+
+% Abuse contact for '122.192.0.0 - 122.195.255.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        122.192.0.0 - 122.195.255.255
+netname:        UNICOM-JS
+descr:          China Unicom Jiangsu province network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         LL58-AP
+abuse-c:        AC1718-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-JS
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+last-modified:  2023-10-21T03:34:31Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         hqs-ipabuse@chinaunicom.cn
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-08-17T06:13:16Z
+source:         APNIC
+
+person:         Lan Li
+nic-hdl:        LL58-AP
+e-mail:         js-cu-ipmanage@chinaunicom.cn
+address:        No. 65 Beijing West Road,Nanjing,China
+phone:          +86257900060
+fax-no:         +86252900280
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2013-08-15T02:13:11Z
+source:         APNIC
+
+% Information related to '122.192.0.0/14AS4837'
+
+route:          122.192.0.0/14
+descr:          CNC Group CHINA169 Jiangsu Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2008-09-04T07:54:52Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

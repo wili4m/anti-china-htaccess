@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.14.100.0 - 103.14.103.255'
+
+% Abuse contact for '103.14.100.0 - 103.14.103.255' is 'abuse@suteidc.com'
+
+inetnum:        103.14.100.0 - 103.14.103.255
+netname:        SUTEHULIAN-CN
+descr:          Fenglinxiaoqu No.4 20-7, Wanjiang Road, Yunyan Dist.
+country:        CN
+org:            ORG-SL27-AP
+admin-c:        SLA23-AP
+tech-c:         SLA23-AP
+abuse-c:        AS2874-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SUTEHULIAN-CN
+mnt-routes:     MAINT-SUTEHULIAN-CN
+mnt-irt:        IRT-SUTEHULIAN-HK
+last-modified:  2020-11-13T11:50:23Z
+source:         APNIC
+
+irt:            IRT-SUTEHULIAN-HK
+address:        3/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG
+e-mail:         abuse@suteidc.com
+abuse-mailbox:  abuse@suteidc.com
+admin-c:        SLA23-AP
+tech-c:         SLA23-AP
+auth:           # Filtered
+remarks:        abuse@suteidc.com was validated on 2025-01-01
+mnt-by:         MAINT-SUTEHULIAN-CN
+last-modified:  2025-01-01T13:51:35Z
+source:         APNIC
+
+organisation:   ORG-SL27-AP
+org-name:       SUTEHULIAN L.L.C
+org-type:       LIR
+country:        CN
+address:        Fenglinxiaoqu No.4 20-7, Wanjiang Road, Yunyan Dist.
+phone:          +86085184858610
+fax-no:         +86085184858610
+e-mail:         abuse@suteidc.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:45Z
+source:         APNIC
+
+role:           ABUSE SUTEHULIANHK
+country:        ZZ
+address:        3/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG
+phone:          +000000000
+e-mail:         abuse@suteidc.com
+admin-c:        SLA23-AP
+tech-c:         SLA23-AP
+nic-hdl:        AS2874-AP
+remarks:        Generated from irt object IRT-SUTEHULIAN-HK
+remarks:        abuse@suteidc.com was validated on 2025-01-01
+abuse-mailbox:  abuse@suteidc.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-01T13:52:01Z
+source:         APNIC
+
+role:           SUTEHULIAN LLC administrator
+address:        3/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG
+country:        HK
+phone:          +852 9638 7469
+fax-no:         +852 9638 7469
+e-mail:         abuse@suteidc.com
+admin-c:        SLA23-AP
+tech-c:         SLA23-AP
+nic-hdl:        SLA23-AP
+mnt-by:         MAINT-SUTEHULIAN-CN
+last-modified:  2015-11-22T18:48:21Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

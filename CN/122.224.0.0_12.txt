@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      122.0.0.0 - 122.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.224.0.0 - 122.239.255.255'
+
+% Abuse contact for '122.224.0.0 - 122.239.255.255' is 'antispam_zjnoc@163.com'
+
+inetnum:        122.224.0.0 - 122.239.255.255
+netname:        CHINANET-ZJ
+descr:          CHINANET Zhejiang province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CZ61-AP
+abuse-c:        AC1602-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-ZJ
+mnt-routes:     MAINT-CHINANET-ZJ
+mnt-irt:        IRT-CHINANET-ZJ
+last-modified:  2020-05-14T11:25:41Z
+source:         APNIC
+
+irt:            IRT-CHINANET-ZJ
+address:        Hangzhou, 288 fucun Road, China
+e-mail:         antispam_zjnoc@163.com
+abuse-mailbox:  antispam_zjnoc@163.com
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+auth:           # Filtered
+remarks:        antispam_zjnoc@163.com was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2025-04-24T05:53:54Z
+source:         APNIC
+
+role:           ABUSE CHINANETZJ
+country:        ZZ
+address:        Hangzhou, 288 fucun Road, China
+phone:          +000000000
+e-mail:         antispam_zjnoc@163.com
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+nic-hdl:        AC1602-AP
+remarks:        Generated from irt object IRT-CHINANET-ZJ
+remarks:        antispam_zjnoc@163.com was validated on 2025-04-24
+abuse-mailbox:  antispam_zjnoc@163.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T05:55:18Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+person:         CHINANET ZJMASTER
+nic-hdl:        CZ61-AP
+e-mail:         antispam_zjnoc@163.com
+address:        No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066
+phone:          +86-571-86814778
+fax-no:         +86-571-86988329
+country:        CN
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2024-02-05T08:46:31Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

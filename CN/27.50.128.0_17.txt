@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      27.0.0.0 - 27.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '27.50.128.0 - 27.50.255.255'
+
+% Abuse contact for '27.50.128.0 - 27.50.255.255' is '980660174@qq.com'
+
+inetnum:        27.50.128.0 - 27.50.255.255
+netname:        HNXTXX
+descr:          HENAN XINTOU INFORMATION INDUSTRY CO.,LTD
+descr:          No. 1625, Xiner Street, High-tech Zone, Xinxiang City, Henan
+admin-c:        YW7269-AP
+tech-c:         YW7269-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-HNXTXX-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2022-12-27T02:54:46Z
+source:         APNIC
+
+irt:            IRT-HNXTXX-CN
+address:        No. 1625, Xiner Street, High-tech Zone, Xinxiang City, Henan
+e-mail:         980660174@qq.com
+abuse-mailbox:  980660174@qq.com
+auth:           # Filtered
+admin-c:        YW7269-AP
+tech-c:         YW7269-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-12-27T02:29:08Z
+source:         APNIC
+
+person:         Linghao Meng
+address:        No. 1625, Xiner Street, High-tech Zone, Xinxiang City, Henan
+country:        CN
+phone:          +86-0373-3515608
+e-mail:         980660174@qq.com
+nic-hdl:        YW7269-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-12-27T02:24:05Z
+source:         APNIC
+
+% Information related to '27.50.128.0/17AS4837'
+
+route:          27.50.128.0/17
+descr:          China Unicom Henan Province network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2010-09-13T01:42:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

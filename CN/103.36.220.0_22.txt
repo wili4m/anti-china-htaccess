@@ -1,0 +1,81 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.36.220.0 - 103.36.223.255'
+
+% Abuse contact for '103.36.220.0 - 103.36.223.255' is '1085868291@qq.com'
+
+inetnum:        103.36.220.0 - 103.36.223.255
+netname:        RUITONGHL-COM
+descr:          Inner Mongolia Ruitong Network Technology Co., Ltd
+descr:          West House, 3/F, unit 1, building 5, Daqing Road, Qizhan West Street,
+descr:          Huimin District, Hohhot City, Inner Mongolia Autonomous Region
+country:        CN
+admin-c:        YW7164-AP
+tech-c:         YW7164-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-RUITONGHL-COM-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:27Z
+source:         APNIC
+
+irt:            IRT-RUITONGHL-COM-CN
+address:        West House, 3/F, unit 1, building 5, Daqing Road, Qizhan West Street,
+address:        Huimin District, Hohhot City, Inner Mongolia Autonomous Region
+e-mail:         1085868291@qq.com
+abuse-mailbox:  1085868291@qq.com
+admin-c:        YW7164-AP
+tech-c:         YW7164-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-09T07:38:58Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xue Rui
+address:        West House, 3/F, unit 1, building 5, Daqing Road, Qizhan West Street,
+address:        Huimin District, Hohhot City, Inner Mongolia Autonomous Region
+country:        CN
+phone:          +86-0471-5619505
+e-mail:         1085868291@qq.com
+nic-hdl:        YW7164-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-02-20T07:30:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

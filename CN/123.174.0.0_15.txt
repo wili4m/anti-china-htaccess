@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      123.0.0.0 - 123.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.174.0.0 - 123.175.255.255'
+
+% Abuse contact for '123.174.0.0 - 123.175.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        123.174.0.0 - 123.175.255.255
+netname:        CHINANET-SX
+descr:          CHINANET shangxi province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        SA49-AP
+tech-c:         ST53-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-SX
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:51Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         shanxitele admin
+nic-hdl:        SA49-AP
+e-mail:         sxipadmin@shanxitele.com
+address:        no.217 nanneihuan street
+address:        taiyuan city 030012
+phone:          +86-351-5609863
+fax-no:         +86-351-5609868
+country:        cn
+mnt-by:         MAINT-CHINANET-SX
+last-modified:  2008-09-04T08:55:34Z
+source:         APNIC
+
+person:         shanxitele tech
+nic-hdl:        ST53-AP
+e-mail:         sxiptech@shanxitele.com
+address:        no.217 nanneihuan street
+address:        taiyuan city 030012
+phone:          +86-351-5609963
+fax-no:         +86-351-5609868
+country:        cn
+mnt-by:         MAINT-CHINATELECOM-SX
+last-modified:  2008-09-04T07:31:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

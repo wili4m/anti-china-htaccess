@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.30.228.0 - 103.30.231.255'
+
+% Abuse contact for '103.30.228.0 - 103.30.231.255' is 'duanyijie@linkcircle.cn'
+
+inetnum:        103.30.228.0 - 103.30.231.255
+netname:        CQT
+descr:          Beijing ChengQiTong Technology Co.,Ltd.
+descr:          BoYue 6606,No.5 ChangWa Street,Haidian District,
+descr:          Beijing,China
+country:        CN
+admin-c:        ML2358-AP
+tech-c:         BW873-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CQT-CN
+last-modified:  2022-06-10T09:19:25Z
+source:         APNIC
+
+irt:            IRT-CQT-CN
+address:        Room 6606 BoYue Business Building No.5 ChangWa Road Haidian district,Beijing
+e-mail:         duanyijie@linkcircle.cn
+abuse-mailbox:  duanyijie@linkcircle.cn
+admin-c:        ML2358-AP
+tech-c:         BW873-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Nathan Niu
+address:        Room 6606 BoYue Business Building No.5 ChangWa Road Haidian district,Beijing
+country:        CN
+phone:          +86-18631166838
+e-mail:         niuhongfei@wdxnet.com
+nic-hdl:        BW873-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-11-26T09:24:01Z
+source:         APNIC
+
+person:         YiJie Duan
+address:        Room 6606 BoYue Business Building No.5 ChangWa Road Haidian district,Beijing
+country:        CN
+phone:          +86-010-68920517
+e-mail:         duanyijie@linkcircle.cn
+nic-hdl:        ML2358-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-11-26T09:24:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

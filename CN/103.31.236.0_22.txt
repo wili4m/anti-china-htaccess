@@ -1,0 +1,72 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.31.236.0 - 103.31.239.255'
+
+% Abuse contact for '103.31.236.0 - 103.31.239.255' is 'abuse@u5u5.com'
+
+inetnum:        103.31.236.0 - 103.31.239.255
+netname:        JPXXJSFW
+descr:          JiuPeng Network Co.Ltd
+admin-c:        FQ235-AP
+tech-c:         ZC2255-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-PXIPNET-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2021-06-09T02:20:17Z
+source:         APNIC
+
+irt:            IRT-PXIPNET-CN
+address:        7#9 HuiZhanJiaYuan Hotel of HaEr'Bin
+e-mail:         abuse@u5u5.com
+abuse-mailbox:  abuse@u5u5.com
+admin-c:        ZC2255-AP
+tech-c:         ZC2255-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-09T01:27:17Z
+source:         APNIC
+
+person:         Fu QingShui
+address:        7#9 HuiZhanJiaYuan Hotel of HaEr'Bin
+country:        CN
+phone:          +86-0453-8348666
+e-mail:         fqs@ne5k.com
+nic-hdl:        FQ235-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-12-04T07:52:04Z
+source:         APNIC
+
+person:         Zhang Changgong
+address:        7#9 HuiZhanJiaYuan Hotel of HaEr'Bin
+country:        CN
+phone:          +86-0453-8922388
+e-mail:         zcg@ne5k.com
+nic-hdl:        ZC2255-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-12-04T07:52:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

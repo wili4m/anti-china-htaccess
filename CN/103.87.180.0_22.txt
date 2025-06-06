@@ -1,0 +1,75 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.87.180.0 - 103.87.183.255'
+
+% Abuse contact for '103.87.180.0 - 103.87.183.255' is '2851391893@qq.com'
+
+inetnum:        103.87.180.0 - 103.87.183.255
+netname:        PGYIDC
+descr:          Suqian Pugongying Network Service Co.,Ltd
+admin-c:        YW5840-AP
+tech-c:         YL3404-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-PGYIDC-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-09-04T03:15:57Z
+source:         APNIC
+
+irt:            IRT-PGYIDC-CN
+address:        Room 1301, #3, Yijinghuating S.R.
+address:        Xingfu Suqing Jiangsu
+e-mail:         2851391893@qq.com
+abuse-mailbox:  2851391893@qq.com
+auth:           # Filtered
+admin-c:        YW5840-AP
+tech-c:         YL3404-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T08:37:53Z
+source:         APNIC
+
+person:         Yang Long
+address:        Room 1301,#3, Yijinghuating S.R.
+address:        Xingfu Suqing Jiangsu
+country:        CN
+phone:          +86-0527-84224055
+e-mail:         yangleon@vip.qq.com
+nic-hdl:        YL3404-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-08-20T02:40:01Z
+source:         APNIC
+
+person:         Yang Wenshan
+address:        Room 1301,#3, Yijinghuating S.R.
+address:        Xingfu Suqing Jiangsu
+country:        CN
+phone:          +86-0527-84224055
+e-mail:         ywssl@tom.com
+nic-hdl:        YW5840-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-08-20T02:40:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,85 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      84.0.0.0 - 84.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2003-11
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        84.41.110.40 - 84.41.110.47
+netname:        SOFTNETLTD
+descr:          Softnet d.o.o.
+country:        SI
+admin-c:        SOFT666-RIPE
+tech-c:         SOFT666-RIPE
+remarks:        ****************************************************
+remarks:        INFRA-AW
+remarks:        ****************************************************
+remarks:        ABUSE CONTACT: abuse@softnet.si
+remarks:        IN CASE OF HACK ATTACKS ILLEGAL ACTIVITY, VIOLATION,
+remarks:        SCANS, PROBES, SPAM, ETC.
+remarks:        ****************************************************
+remarks:        All abuse complaints sent to addresses other then above
+remarks:        abuse contacts, will be silently discarded and not read.
+remarks:        ****************************************************
+status:         ASSIGNED PA
+mnt-by:         AS9119-MNT
+created:        2021-09-02T06:07:06Z
+last-modified:  2023-12-13T12:04:51Z
+source:         RIPE # Filtered
+
+role:           Softnet NOC - Ripe
+address:        Softnet d.o.o.
+address:        Borovec 2
+address:        SI-1236 Trzin
+address:        Slovenia
+abuse-mailbox:  abuse@softnet.si
+remarks:        ###############################################################
+remarks:        Contact phone:   +386 1 8100100
+remarks:        Contact fax:     +386 1 8100101
+remarks:        Contact e-mail:  noc(a)softnet.si
+remarks:        Peering e-mail:  peering(a)softnet.si
+remarks:        Abuse e-mail:    abuse(a)softnet.si
+remarks:        Peering details: http://as9119.peeringdb.com
+remarks:        Peering details: whois -h whois.peeringdb.com AS9119
+remarks:        ###############################################################
+remarks:        ABUSE CONTACT: abuse@softnet.si
+remarks:        IN CASE OF HACK ATTACKS ILLEGAL ACTIVITY, VIOLATION,
+remarks:        SCANS, PROBES, SPAM, ETC.
+remarks:        ###############################################################
+remarks:        All abuse complaints sent to addresses other then
+remarks:        abuse(a)softnet.si, will be silently discarded and not
+remarks:        read.
+remarks:        ###############################################################
+admin-c:        PJ1317-RIPE
+admin-c:        AB1312-RIPE
+tech-c:         PJ1317-RIPE
+tech-c:         AB1312-RIPE
+nic-hdl:        SOFT666-RIPE
+mnt-by:         AS9119-MNT
+created:        2007-02-02T10:31:42Z
+last-modified:  2010-11-24T10:44:46Z
+source:         RIPE # Filtered
+
+% Information related to '84.41.110.0/24AS9119'
+
+route:          84.41.110.0/24
+descr:          Softnet
+origin:         AS9119
+mnt-by:         AS9119-MNT
+created:        2007-03-19T09:04:27Z
+last-modified:  2021-09-17T08:08:03Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (DEXTER)
+
+

@@ -1,0 +1,117 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.72.164.0 - 103.72.167.255'
+
+% Abuse contact for '103.72.164.0 - 103.72.167.255' is 'qianyunkai@niaoyun.com'
+
+inetnum:        103.72.164.0 - 103.72.167.255
+netname:        OURDOMAINS-HK
+descr:          Unit 2209,22/F.,Wu Chung House,
+descr:          213 Queen's Road East, Wanchai,
+descr:          Hong kong, China
+country:        HK
+org:            ORG-OL1-AP
+admin-c:        OLA8-AP
+tech-c:         OLA8-AP
+abuse-c:        AO414-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-OURDOMAINS-HK
+mnt-routes:     MAINT-OURDOMAINS-HK
+mnt-irt:        IRT-OURDOMAINS-HK1
+last-modified:  2021-01-28T06:48:37Z
+source:         APNIC
+
+irt:            IRT-OURDOMAINS-HK1
+address:        Unit 2209,22/F.,Wu Chung House, 213 Queen''s Road East, Wanchai, Hong kong
+e-mail:         qianyunkai@niaoyun.com
+abuse-mailbox:  qianyunkai@niaoyun.com
+admin-c:        OLA8-AP
+tech-c:         OLA8-AP
+auth:           # Filtered
+remarks:        qianyunkai@niaoyun.com was validated on 2024-12-13
+mnt-by:         MAINT-OURDOMAINS-HK
+last-modified:  2024-12-13T02:17:11Z
+source:         APNIC
+
+organisation:   ORG-OL1-AP
+org-name:       Ourdomains Limited
+org-type:       LIR
+country:        HK
+address:        Unit 2209,22/F.,Wu Chung House,
+address:        213 Queen's Road East,
+address:        Wanchai,
+phone:          +852-30697011
+fax-no:         +852-30697012
+e-mail:         abuse@ourdomains.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:24Z
+source:         APNIC
+
+role:           ABUSE OURDOMAINSHK1
+country:        ZZ
+address:        Unit 2209,22/F.,Wu Chung House, 213 Queen''s Road East, Wanchai, Hong kong
+phone:          +000000000
+e-mail:         qianyunkai@niaoyun.com
+admin-c:        OLA8-AP
+tech-c:         OLA8-AP
+nic-hdl:        AO414-AP
+remarks:        Generated from irt object IRT-OURDOMAINS-HK1
+remarks:        qianyunkai@niaoyun.com was validated on 2024-12-13
+abuse-mailbox:  qianyunkai@niaoyun.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-13T02:17:44Z
+source:         APNIC
+
+role:           Ourdomains Limited administrator
+address:        Unit 2209,22/F.,Wu Chung House, 213 Queen''s Road East, Wanchai, Hong kong
+country:        HK
+phone:          +852-30697011
+fax-no:         +852-30697012
+e-mail:         abuse@ourdomains.com
+admin-c:        OLA8-AP
+tech-c:         OLA8-AP
+nic-hdl:        OLA8-AP
+mnt-by:         MAINT-OURDOMAINS-HK
+last-modified:  2021-01-28T07:10:56Z
+source:         APNIC
+
+% Information related to '103.72.164.0/22AS135386'
+
+route:          103.72.164.0/22
+origin:         AS135386
+descr:          Ourdomains Limited
+                Unit 2209,22/F.,Wu Chung House,
+                213 Queen's Road East,
+                Wanchai,
+mnt-by:         MAINT-OURDOMAINS-HK
+last-modified:  2019-12-24T05:54:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

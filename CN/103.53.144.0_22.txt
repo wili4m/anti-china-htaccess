@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.53.144.0 - 103.53.147.255'
+
+% Abuse contact for '103.53.144.0 - 103.53.147.255' is 'wanggenying@nawang.cn'
+
+inetnum:        103.53.144.0 - 103.53.147.255
+netname:        NAWANG
+descr:          NAWANG TECHNOLOGiES CO.,LTD
+descr:          Suite 201,No.45,WangHai Road,Software Park II,Xiamen
+country:        CN
+admin-c:        YW6222-AP
+tech-c:         JS3454-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-NAWANG-CN
+last-modified:  2021-11-02T07:48:08Z
+source:         APNIC
+
+irt:            IRT-NAWANG-CN
+address:        Suite 201,No.45,WangHai Road,Software Park II,Xiamen
+e-mail:         wanggenying@nawang.cn
+abuse-mailbox:  wanggenying@nawang.cn
+admin-c:        YW6222-AP
+tech-c:         JS3454-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:10:40Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wang Genying
+address:        Suite 201,No.45,WangHai Road,Software Park II,Xiamen
+country:        CN
+phone:          +86-18650106069
+e-mail:         wanggenying@nawang.cn
+nic-hdl:        JS3454-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-03-24T03:12:02Z
+source:         APNIC
+
+person:         Chen Yingfeng
+address:        Suite 201,No.45,WangHai Road,Software Park II,Xiamen
+country:        CN
+phone:          +86-13600939686
+e-mail:         chen@nawang.cn
+nic-hdl:        YW6222-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-03-24T03:12:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

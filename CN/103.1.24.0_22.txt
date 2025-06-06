@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.1.24.0 - 103.1.27.255'
+
+% Abuse contact for '103.1.24.0 - 103.1.27.255' is 'andy.yan@link-net.com.cn'
+
+inetnum:        103.1.24.0 - 103.1.27.255
+netname:        SHMBN
+descr:          Shanghai MBN telecommunication technology Co., LTD.
+descr:          Room 235, Building 2, 853 Minjing Road, Yangpu District, Shanghai
+country:        CN
+admin-c:        YW7039-AP
+tech-c:         JS4231-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SHMBN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:55:47Z
+source:         APNIC
+
+irt:            IRT-SHMBN-CN
+address:        Room 235, Building 2, 853 Minjing Road, Yangpu District, Shanghai
+e-mail:         andy.yan@link-net.com.cn
+abuse-mailbox:  andy.yan@link-net.com.cn
+auth:           # Filtered
+admin-c:        YW7039-AP
+tech-c:         JS4231-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-24T06:48:37Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Andy Yan
+address:        Room 235, Building 2, 853 Minjing Road, Yangpu District, Shanghai
+country:        CN
+phone:          +86-021-36207008
+e-mail:         andy.yan@link-net.com.cn
+nic-hdl:        JS4231-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-06-13T06:26:59Z
+source:         APNIC
+
+person:         Jing jin
+address:        Room 235, Building 2, 853 Minjing Road, Yangpu District, Shanghai
+country:        CN
+phone:          +86-021-36207015
+e-mail:         jing.jin@link-net.com.cn
+nic-hdl:        YW7039-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-06-13T06:26:59Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

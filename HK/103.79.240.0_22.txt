@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.79.240.0 - 103.79.243.255'
+
+% Abuse contact for '103.79.240.0 - 103.79.243.255' is 'sales@superline.hk'
+
+inetnum:        103.79.240.0 - 103.79.243.255
+netname:        STC-HK
+descr:          SuperLine Technology Co.,Limited
+country:        HK
+org:            ORG-STC1-AP
+admin-c:        STCA1-AP
+tech-c:         STCA1-AP
+abuse-c:        AS2541-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-STC-HK
+mnt-routes:     MAINT-STC-HK
+mnt-irt:        IRT-STC-HK
+last-modified:  2024-03-27T01:45:52Z
+source:         APNIC
+
+irt:            IRT-STC-HK
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO.33 MONG KOK ROAD,KOWLOON,HK., HK
+e-mail:         sales@superline.hk
+abuse-mailbox:  sales@superline.hk
+admin-c:        STCA1-AP
+tech-c:         STCA1-AP
+auth:           # Filtered
+remarks:        sales@superline.hk was validated on 2025-01-02
+mnt-by:         MAINT-STC-HK
+last-modified:  2025-01-02T15:43:08Z
+source:         APNIC
+
+organisation:   ORG-STC1-AP
+org-name:       SuperLine Technology Co.,Limited
+org-type:       LIR
+country:        HK
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO.33 MONG KOK ROAD,KOWLOON,
+phone:          +852-51190507
+fax-no:         +852-3590-2333
+e-mail:         noc@superline.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:34Z
+source:         APNIC
+
+role:           ABUSE STCHK
+country:        ZZ
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO.33 MONG KOK ROAD,KOWLOON,HK., HK
+phone:          +000000000
+e-mail:         sales@superline.hk
+admin-c:        STCA1-AP
+tech-c:         STCA1-AP
+nic-hdl:        AS2541-AP
+remarks:        Generated from irt object IRT-STC-HK
+remarks:        sales@superline.hk was validated on 2025-01-02
+abuse-mailbox:  sales@superline.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-02T15:43:29Z
+source:         APNIC
+
+role:           SuperLine Technology CoLimited administrator
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO.33 MONG KOK ROAD,KOWLOON,HK., HK
+country:        HK
+phone:          +852-51190507
+fax-no:         +852-2793-5511
+e-mail:         sales@superline.hk
+admin-c:        STCA1-AP
+tech-c:         STCA1-AP
+nic-hdl:        STCA1-AP
+mnt-by:         MAINT-STC-HK
+last-modified:  2019-05-08T06:55:38Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

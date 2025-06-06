@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      124.0.0.0 - 124.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2005-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.108.8.0 - 124.108.15.255'
+
+% Abuse contact for '124.108.8.0 - 124.108.15.255' is 'liu.xiaobo@opg.cn'
+
+inetnum:        124.108.8.0 - 124.108.15.255
+netname:        OPM
+descr:          Shanghai Oriental Pearl Media Co.,Ltd
+descr:          BesTV Building, No.757 Yishan Road
+descr:          Xuhui District, Shanghai P.R China 200233
+country:        CN
+admin-c:        ZM1741-AP
+tech-c:         ZM1742-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-OPM-CN
+last-modified:  2023-11-28T00:57:04Z
+source:         APNIC
+
+irt:            IRT-OPM-CN
+address:        Xuhui District, Shanghai P.R China 200233
+e-mail:         liu.xiaobo@opg.cn
+abuse-mailbox:  liu.xiaobo@opg.cn
+auth:           # Filtered
+admin-c:        ZM1741-AP
+tech-c:         ZM1741-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:30Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lu Wenyan
+address:        BesTV Building, No.757 Yishan Road
+address:        Xuhui District, Shanghai P.R China 200233
+country:        CN
+phone:          +86-021-33396666
+e-mail:         lu.wenyan@oriental-pearl.cn
+nic-hdl:        ZM1741-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-12-08T07:06:01Z
+source:         APNIC
+
+person:         Wang Feiran
+address:        BesTV Building, No.757 Yishan Road
+address:        Xuhui District, Shanghai P.R China 200233
+country:        CN
+phone:          +86-021-33396666
+e-mail:         wang.feiran@oriental-pearl.cn
+nic-hdl:        ZM1742-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-12-08T07:06:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

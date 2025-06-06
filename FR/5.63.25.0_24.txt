@@ -1,0 +1,95 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      5.0.0.0 - 5.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-11
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        5.63.25.0 - 5.63.25.255
+netname:        SPLIO-MAIL-FR
+descr:          SPLIO-MAIL
+descr:          Static pool
+descr:          -----BEGIN CERTIFICATE-----MIIDfzCCAmegAwIBAgIUBzzlQHMczCvazC0hqw611faqgp4wDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCRlIxDDAKBgNVBAgMA0lERjEOMAwGA1UEBwwFUGFyaXMxDjAMBgNVBAoMBVNQTElPMRIwEAYDVQQDDAlzcGxpby5jb20wHhcNMjMwNjI2MDg0MDU3WhcNMjQwNjI1MDg0MDU3WjBPMQswCQYDVQQGEwJGUjEMMAoGA1UECAwDSURGMQ4wDAYDVQQHDAVQYXJpczEOMAwGA1UECgwFU1BMSU8xEjAQBgNVBAMMCXNwbGlvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANUhucBzvENirmGql6rPRuADUz48V3cRBKz8u2uAaSqIL1kS3O09SQsuMptOuz9Nq8l0b+zKJLv1YQCMjZyQa4ieDABprhUIMj4UOU+Cq0PWm1pSf8SsIQDTXkO74sGZE64gaUttj+bpN6d9E4yaMAPBYrBlThy6CCSQNIvstwK//Jb/wSilhPeFN+JT3KU8oiQ30X6dbaYT+BrNHJdl17FK19MVFmLTlYobw8EwXMdp94RiOQ+MZT1RDE3efLYmcXDVSBIGiqZkbNyvWkZBTnpEFRwKtl2mcwQtwmBBjHu9cGz8lyDlklBaK8xjc/cClxJzYmis82J0CRpjCCK+0V0CAwEAAaNTMFEwHQYDVR0OBBYEFOxshRVaemuyA44Ibm05v7TUB8T9MB8GA1UdIwQYMBaAFOxshRVaemuyA44Ibm05v7TUB8T9MA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAB54WEzh3nzzqmxdcjq2ZAWIr3fG8wO5UUA3u8roTwnCAZ6GYcrTc66ykpiAPsDqnBMbz6b509TAk1Ujj00bayAp+eaYFSVrd8h23+SmfyvEitsIpIOFjfCte0iRAVjhVZNpRARjFW77Jws7Fb86OPKipMHZRPOIhm69GYU7gYJ3/tCyP7U7nCXWTq99kJ6roS/nglf7TZ/WJO6URQVwt9Upl9Ci1rtzWEKR8T41c9F8PRqD/zDE7+1oSc9P3ThF4GXTyAm6NjPM+NrDnd08w6EsipOCoIAm+MsdFm61Yifp1P/UhtiZ902ANH9SjO4O2gGTja3ifagK9SPLFCxiSk4=-----END CERTIFICATE-----
+country:        FR
+admin-c:        AS49378-RIPE
+tech-c:         TS42568-RIPE
+status:         ASSIGNED PA
+remarks:        Spam issues: abuse@tech.splio.com
+mnt-by:         SPLIO-MNT
+mnt-routes:     SPLIO-MNT
+mnt-domains:    SPLIO-MNT
+mnt-lower:      SPLIO-MNT
+created:        2012-10-08T07:59:07Z
+last-modified:  2025-01-23T06:59:12Z
+source:         RIPE
+
+role:           Administrator Splio
+address:        27 boulevard des Italiens
+address:        75002 Paris
+address:        France
+phone:          +33 184731111
+admin-c:        JB22373-RIPE
+nic-hdl:        AS49378-RIPE
+mnt-by:         SPLIO-MNT
+created:        2025-01-22T09:07:13Z
+last-modified:  2025-01-22T09:11:04Z
+source:         RIPE # Filtered
+
+role:           Tech Splio
+address:        27 boulevard des Italiens
+address:        75002 Paris
+address:        France
+phone:          +33 184731111
+admin-c:        PD11419-RIPE
+admin-c:        RC21512-RIPE
+admin-c:        YL1328-RIPE
+nic-hdl:        TS42568-RIPE
+mnt-by:         SPLIO-MNT
+created:        2025-01-23T06:42:09Z
+last-modified:  2025-01-23T06:43:09Z
+source:         RIPE # Filtered
+
+% Information related to '5.63.24.0/21AS31688'
+
+route:          5.63.24.0/21
+org:            ORG-SD11-RIPE
+descr:          route Splio
+origin:         AS31688
+mnt-by:         SPLIO-MNT
+created:        2012-06-13T12:26:28Z
+last-modified:  2012-06-13T12:26:28Z
+source:         RIPE
+
+organisation:   ORG-SD11-RIPE
+org-name:       SPLIO SAS
+country:        FR
+org-type:       LIR
+address:        27 boulevard des Italiens
+address:        75002
+address:        PARIS
+address:        FRANCE
+phone:          +33184731111
+fax-no:         +33184731109
+admin-c:        AS49378-RIPE
+mnt-ref:        SPLIO-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         SPLIO-MNT
+abuse-c:        SAD69-RIPE
+created:        2006-12-20T12:59:40Z
+last-modified:  2025-01-24T10:36:56Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+

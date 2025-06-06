@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.2.164.0 - 103.2.167.255'
+
+% Abuse contact for '103.2.164.0 - 103.2.167.255' is '36206540@qq.com'
+
+inetnum:        103.2.164.0 - 103.2.167.255
+netname:        CNIXP
+descr:          ShenZhen QianHai New-Type Internet Exchange Point Co.,Ltd
+descr:          Group A 4F, Qianhai Shenzhen-Hong Kong Innovation Center,
+descr:          Menghai Rd. 4008, Qianhai Cooperation Zone, Shenzhen
+country:        CN
+admin-c:        YW7181-AP
+tech-c:         JS4414-AP
+abuse-c:        JS4414-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNIXP-CN
+last-modified:  2022-04-12T06:38:34Z
+source:         APNIC
+
+irt:            IRT-CNIXP-CN
+address:        Group A 4F, Qianhai Shenzhen-Hong Kong Innovation Center,
+address:        Menghai Rd. 4008, Qianhai Cooperation Zone, Shenzhen
+e-mail:         36206540@qq.com
+abuse-mailbox:  36206540@qq.com
+auth:           # Filtered
+admin-c:        YW7181-AP
+tech-c:         JS4414-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T08:49:32Z
+source:         APNIC
+
+person:         Yuanqi Wu
+address:        Group A 4F, Qianhai Shenzhen-Hong Kong Innovation Center,
+address:        Menghai Rd. 4008, Qianhai Cooperation Zone, Shenzhen
+country:        CN
+phone:          +86-010-18676656165
+e-mail:         36206540@qq.com
+nic-hdl:        JS4414-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T08:41:14Z
+source:         APNIC
+
+person:         Yifei Zhang
+address:        Group A 4F, Qianhai Shenzhen-Hong Kong Innovation Center,
+address:        Menghai Rd. 4008, Qianhai Cooperation Zone, Shenzhen
+country:        CN
+phone:          +86-010-19928709698
+e-mail:         402201994@qq.com
+nic-hdl:        YW7181-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T08:41:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

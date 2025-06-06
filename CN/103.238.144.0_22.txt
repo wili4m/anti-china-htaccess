@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.238.144.0 - 103.238.147.255'
+
+% Abuse contact for '103.238.144.0 - 103.238.147.255' is 'shangyq1@chinaunicom.cn'
+
+inetnum:        103.238.144.0 - 103.238.147.255
+netname:        BGTELECOM
+descr:          China UNICOM, Beijing Branch
+descr:          9-1 YANGFANGDIAN Road, Haidian District, Beijing, China
+country:        CN
+admin-c:        YW7199-AP
+tech-c:         YW7199-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-BGTELECOM-CN
+last-modified:  2021-11-02T07:47:44Z
+source:         APNIC
+
+irt:            IRT-BGTELECOM-CN
+address:        9-1 YANGFANGDIAN Road, Haidian District, Beijing, China
+e-mail:         shangyq1@chinaunicom.cn
+abuse-mailbox:  shangyq1@chinaunicom.cn
+admin-c:        YW7199-AP
+tech-c:         YW7199-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-11-02T06:27:32Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Shang Yongqian
+address:        9-1 YANGFANGDIAN Road, Haidian District, Beijing, China
+country:        CN
+phone:          +86-010-63999788
+e-mail:         shangyq1@chinaunicom.cn
+nic-hdl:        YW7199-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-11-02T06:22:44Z
+source:         APNIC
+
+% Information related to '103.238.144.0/22AS4808'
+
+route:          103.238.144.0/22
+descr:          China Unicom Beijing Province Network
+country:        CN
+origin:         AS4808
+mnt-by:         MAINT-CNCGROUP-RR
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2016-05-25T01:10:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

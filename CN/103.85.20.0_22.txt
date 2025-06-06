@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.85.20.0 - 103.85.23.255'
+
+% Abuse contact for '103.85.20.0 - 103.85.23.255' is 'sleep520@qq.com'
+
+inetnum:        103.85.20.0 - 103.85.23.255
+netname:        ZQHWL-CN
+descr:          NO.41, Xing Long Street
+country:        CN
+org:            ORG-ZQHW1-AP
+admin-c:        ZQHW1-AP
+tech-c:         ZQHW1-AP
+abuse-c:        AZ400-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-ZQHWL-CN
+mnt-irt:        IRT-ZQHWL-CN
+last-modified:  2020-06-22T06:39:18Z
+source:         APNIC
+
+irt:            IRT-ZQHWL-CN
+address:        Xing Long Jie 41 Hao, Zhong Shan Shi Guang Dong Sheng 528400
+e-mail:         sleep520@qq.com
+abuse-mailbox:  sleep520@qq.com
+admin-c:        ZQHW1-AP
+tech-c:         ZQHW1-AP
+auth:           # Filtered
+remarks:        sleep520@qq.com was validated on 2025-01-28
+mnt-by:         MAINT-ZQHWL-CN
+last-modified:  2025-01-28T13:08:38Z
+source:         APNIC
+
+organisation:   ORG-ZQHW1-AP
+org-name:       ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
+org-type:       LIR
+country:        CN
+address:        NO.41, Xing Long Street
+phone:          +86076088335516
+fax-no:         +86076088335516
+e-mail:         sleep520@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:03Z
+source:         APNIC
+
+role:           ABUSE ZQHWLCN
+country:        ZZ
+address:        Xing Long Jie 41 Hao, Zhong Shan Shi Guang Dong Sheng 528400
+phone:          +000000000
+e-mail:         sleep520@qq.com
+admin-c:        ZQHW1-AP
+tech-c:         ZQHW1-AP
+nic-hdl:        AZ400-AP
+remarks:        Generated from irt object IRT-ZQHWL-CN
+remarks:        sleep520@qq.com was validated on 2025-01-28
+abuse-mailbox:  sleep520@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-28T13:08:59Z
+source:         APNIC
+
+role:           ZhongShanShi QiYi HuDong WangLuoKeJi Ltd administr
+address:        Xing Long Jie 41 Hao, Zhong Shan Shi Guang Dong Sheng 528400
+country:        CN
+phone:          +86076088335516
+fax-no:         +86076088335516
+e-mail:         sleep520@qq.com
+admin-c:        ZQHW1-AP
+tech-c:         ZQHW1-AP
+nic-hdl:        ZQHW1-AP
+mnt-by:         MAINT-ZQHWL-CN
+last-modified:  2017-02-03T04:30:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,121 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.255.56.0 - 103.255.59.255'
+
+% Abuse contact for '103.255.56.0 - 103.255.59.255' is 'abuse@e.softbank.co.jp'
+
+inetnum:        103.255.56.0 - 103.255.59.255
+netname:        RUN-CN
+descr:          room 1017 dongsitiao street NO.25 Kuancheng district
+country:        CN
+org:            ORG-JPCN1-AP
+admin-c:        JPCN1-AP
+tech-c:         JPCN1-AP
+abuse-c:        AR1002-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-RUN-CN
+mnt-routes:     MAINT-RUN-CN
+mnt-irt:        IRT-SOFTBANK-JP1
+last-modified:  2024-09-13T21:40:23Z
+source:         APNIC
+
+irt:            IRT-SOFTBANK-JP1
+address:        Tokyo Portcity Takeshiba Office Tower 22F
+address:        1-7-1, Kaigan
+address:        Minatoku,Tokyo, Japan
+e-mail:         abuse@e.softbank.co.jp
+abuse-mailbox:  abuse@e.softbank.co.jp
+admin-c:        KF291-AP
+tech-c:         KF291-AP
+auth:           # Filtered
+remarks:        abuse@e.softbank.co.jp was validated on 2025-04-30
+mnt-by:         MAINT-RUN-CN
+last-modified:  2025-04-30T03:07:34Z
+source:         APNIC
+
+organisation:   ORG-JPCN1-AP
+org-name:       JiLin province ChenXun network technology company limited
+org-type:       LIR
+country:        CN
+address:        room 1017 dongsitiao street NO.25 Kuancheng district
+phone:          +852-55781278
+fax-no:         +852-55781278
+e-mail:         217118@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:56Z
+source:         APNIC
+
+role:           ABUSE RUNCN
+country:        ZZ
+address:        Unit 1604, Perfect Industrial Building,, 31st Tai Yau Street, San Po Kong
+phone:          +000000000
+e-mail:         it@217118.net
+admin-c:        JPCN1-AP
+tech-c:         JPCN1-AP
+nic-hdl:        AR1002-AP
+remarks:        Generated from irt object IRT-RUN-CN
+remarks:        it@217118.net was validated on 2024-12-31
+abuse-mailbox:  it@217118.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-31T13:18:04Z
+source:         APNIC
+
+role:           JiLin province ChenXun network technology company
+address:        room 1017Ã¯Â¼Âdongsitiao street NO.25 Kuancheng district, Changchun Jilin 130000
+country:        CN
+phone:          +86-0755-4000115905
+fax-no:         +86-0755-4000115905
+e-mail:         mail@xfisp.com
+admin-c:        JPCN1-AP
+tech-c:         JPCN1-AP
+nic-hdl:        JPCN1-AP
+mnt-by:         MAINT-RUN-CN
+last-modified:  2016-06-21T08:33:09Z
+source:         APNIC
+
+% Information related to '103.255.56.0/22AS138968'
+
+route:          103.255.56.0/22
+origin:         AS138968
+descr:          Japan Network Information Center
+mnt-by:         MAINT-RUN-CN
+last-modified:  2024-09-13T21:41:41Z
+source:         APNIC
+
+% Information related to '103.255.56.0/22AS55933'
+
+route:          103.255.56.0/22
+origin:         AS55933
+descr:          Japan Network Information Center
+mnt-by:         MAINT-RUN-CN
+last-modified:  2024-09-13T21:42:05Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

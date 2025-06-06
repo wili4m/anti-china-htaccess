@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.30.200.0 - 103.30.203.255'
+
+% Abuse contact for '103.30.200.0 - 103.30.203.255' is '13929738828@139.com'
+
+inetnum:        103.30.200.0 - 103.30.203.255
+netname:        QY
+descr:          QY NETWORK MAOMING CO.LTD
+country:        CN
+org:            ORG-QNMC1-AP
+admin-c:        QNMC1-AP
+tech-c:         QNMC1-AP
+abuse-c:        AQ125-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-QY-CN
+mnt-irt:        IRT-QY-CN
+last-modified:  2020-05-20T13:03:35Z
+source:         APNIC
+
+irt:            IRT-QY-CN
+address:        ZhongHai Building 15F Gao Lian, MaoMing Guangdong 525000
+e-mail:         13929738828@139.com
+abuse-mailbox:  13929738828@139.com
+admin-c:        QNMC1-AP
+tech-c:         QNMC1-AP
+auth:           # Filtered
+remarks:        13929738828@139.com is invalid
+mnt-by:         MAINT-QY-CN
+last-modified:  2023-12-13T13:06:14Z
+source:         APNIC
+
+organisation:   ORG-QNMC1-AP
+org-name:       QY NETWORK MAOMING CO.LTD
+org-type:       LIR
+country:        CN
+address:        Room 1501,1st NO.12 Compound Gaoliang South Road,
+phone:          +86-13929738828
+fax-no:         +86-668-2555-000
+e-mail:         13929738828@139.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:05Z
+source:         APNIC
+
+role:           ABUSE QYCN
+address:        ZhongHai Building 15F Gao Lian, MaoMing Guangdong 525000
+country:        ZZ
+phone:          +000000000
+e-mail:         13929738828@139.com
+admin-c:        QNMC1-AP
+tech-c:         QNMC1-AP
+nic-hdl:        AQ125-AP
+remarks:        Generated from irt object IRT-QY-CN
+remarks:        13929738828@139.com is invalid
+abuse-mailbox:  13929738828@139.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-12-13T13:06:44Z
+source:         APNIC
+
+role:           QY NETWORK MAOMING COLTD administrator
+address:        ZhongHai Building 15F Gao Lian, MaoMing Guangdong 525000
+country:        CN
+phone:          +86 150 896 081 52
+fax-no:         +86 150 896 081 52
+e-mail:         15089608152@139.com
+admin-c:        QNMC1-AP
+tech-c:         QNMC1-AP
+nic-hdl:        QNMC1-AP
+mnt-by:         MAINT-QY-CN
+last-modified:  2012-11-12T06:02:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

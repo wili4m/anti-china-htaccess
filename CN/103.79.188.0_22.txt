@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.79.188.0 - 103.79.191.255'
+
+% Abuse contact for '103.79.188.0 - 103.79.191.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.79.188.0 - 103.79.191.255
+netname:        HZXYNET
+descr:          Hangzhou xuyuan information technology co., LTD
+descr:          room 604,building 1,qiuyi road,DongGuan hi-tech park
+descr:          binjiang,Hangzhou
+country:        CN
+admin-c:        YW6686-AP
+tech-c:         JS3917-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:32:16Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Ren Shu
+address:        room 604,building 1,qiuyi road,DongGuan hi-tech park
+address:        binjiang,Hangzhou
+country:        CN
+phone:          +86-0571-88288888-605
+e-mail:         renshu@supwall.com
+nic-hdl:        JS3917-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-11-21T02:20:02Z
+source:         APNIC
+
+person:         Gu Hengtao
+address:        room 604,building 1,qiuyi road,DongGuan hi-tech park
+address:        binjiang,Hangzhou
+country:        CN
+phone:          +86-057188288888-603
+e-mail:         guhengtao@supwall.com
+nic-hdl:        YW6686-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-11-21T02:20:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

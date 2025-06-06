@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.81.184.0 - 103.81.187.255'
+
+% Abuse contact for '103.81.184.0 - 103.81.187.255' is 'abuse@corelink.io'
+
+inetnum:        103.81.184.0 - 103.81.187.255
+netname:        CORELINK-CN
+descr:          Shijiazhuang Xuding Technology Co., Ltd
+country:        CN
+org:            ORG-SXTC1-AP
+admin-c:        CA441-AP
+tech-c:         CA441-AP
+abuse-c:        AC2077-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+remarks:        OCITOKEN::103.81.184.0/22:66f0e604e646b85c1c4b07b2940b356fe95a5f0955124e6416085bfd96bc02c1
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CORELINK-CN
+mnt-routes:     MAINT-CORELINK-CN
+mnt-irt:        IRT-CL-028
+last-modified:  2021-07-21T06:23:19Z
+source:         APNIC
+
+irt:            IRT-CL-028
+address:        1 Chome-9 Edagawa, Koto, Tokyo
+e-mail:         noc@corelink.io
+abuse-mailbox:  abuse@corelink.io
+admin-c:        CA441-AP
+tech-c:         CA441-AP
+auth:           # Filtered
+remarks:        noc@corelink.io was validated on 2024-12-12
+remarks:        abuse@corelink.io is invalid
+mnt-by:         MAINT-CORELINK-AP
+last-modified:  2025-03-05T13:10:44Z
+source:         APNIC
+
+organisation:   ORG-SXTC1-AP
+org-name:       Shijiazhuang Xuding Technology Co., Ltd
+org-type:       LIR
+country:        CN
+address:        Door 717, No. 192, Yuhua Road, Qiaoxi District
+phone:          +86-13291895762
+e-mail:         vminy@corelink.io
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:06Z
+source:         APNIC
+
+role:           ABUSE CL028
+country:        ZZ
+address:        1 Chome-9 Edagawa, Koto, Tokyo
+phone:          +000000000
+e-mail:         noc@corelink.io
+admin-c:        CA441-AP
+tech-c:         CA441-AP
+nic-hdl:        AC2077-AP
+remarks:        Generated from irt object IRT-CL-028
+remarks:        noc@corelink.io was validated on 2024-12-12
+remarks:        abuse@corelink.io is invalid
+abuse-mailbox:  abuse@corelink.io
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-05T13:11:47Z
+source:         APNIC
+
+role:           CoreLink Asia
+address:        1 Chome-9 Edagawa, Koto, Tokyo
+country:        JP
+phone:          +852-58089293
+e-mail:         noc@corelink.io
+admin-c:        CA441-AP
+tech-c:         CA441-AP
+nic-hdl:        CA441-AP
+mnt-by:         MAINT-CORELINK-AP
+last-modified:  2016-12-14T16:39:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

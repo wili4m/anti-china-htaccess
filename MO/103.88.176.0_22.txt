@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.88.176.0 - 103.88.179.255'
+
+% Abuse contact for '103.88.176.0 - 103.88.179.255' is 'ito.network@must.edu.mo'
+
+inetnum:        103.88.176.0 - 103.88.179.255
+netname:        MUST-MO
+descr:          Macau University of Science and Technology
+country:        MO
+org:            ORG-MUOS1-AP
+admin-c:        MUOS1-AP
+tech-c:         MUOS1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AM2506-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-MUST-MO
+mnt-routes:     MAINT-MUST-MO
+mnt-irt:        IRT-MUST-MO
+last-modified:  2023-10-13T09:24:06Z
+source:         APNIC
+
+irt:            IRT-MUST-MO
+address:        Avenida Wai Long, Block N, Room N419, Taipa, Macau, Macau
+e-mail:         ito.network@must.edu.mo
+abuse-mailbox:  ito.network@must.edu.mo
+admin-c:        MUOS1-AP
+tech-c:         MUOS1-AP
+auth:           # Filtered
+remarks:        ito.network@must.edu.mo was validated on 2025-02-18
+mnt-by:         MAINT-MUST-MO
+last-modified:  2025-02-18T13:11:37Z
+source:         APNIC
+
+organisation:   ORG-MUOS1-AP
+org-name:       Macau University of Science and Technology
+org-type:       LIR
+country:        MO
+address:        Avenida Wai Long, Block N, Room N419, Taipa, Macau
+phone:          +853-88972080
+e-mail:         it.lic@must.edu.mo
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:34Z
+source:         APNIC
+
+role:           ABUSE MUSTMO
+country:        ZZ
+address:        Avenida Wai Long, Block N, Room N419, Taipa, Macau, Macau
+phone:          +000000000
+e-mail:         ito.network@must.edu.mo
+admin-c:        MUOS1-AP
+tech-c:         MUOS1-AP
+nic-hdl:        AM2506-AP
+remarks:        Generated from irt object IRT-MUST-MO
+remarks:        ito.network@must.edu.mo was validated on 2025-02-18
+abuse-mailbox:  ito.network@must.edu.mo
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-18T13:11:57Z
+source:         APNIC
+
+role:           Macau University of Science and Technology adminis
+address:        Avenida Wai Long, Block N, Room N419, Taipa, Macau, Macau
+country:        MO
+phone:          +853-88972080
+fax-no:         +853-88972080
+e-mail:         ito.network@must.edu.mo
+admin-c:        MUOS1-AP
+tech-c:         MUOS1-AP
+nic-hdl:        MUOS1-AP
+mnt-by:         MAINT-MUST-MO
+last-modified:  2018-08-28T23:34:30Z
+source:         APNIC
+
+% Information related to '103.88.176.0/22AS138164'
+
+route:          103.88.176.0/22
+origin:         AS138164
+descr:          Macau University of Science and Technology
+                Avenida Wai Long, Block N, Room N419, Taipa, Macau
+mnt-by:         MAINT-MUST-MO
+last-modified:  2023-11-28T07:08:16Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

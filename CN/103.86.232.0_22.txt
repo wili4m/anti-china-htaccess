@@ -1,0 +1,79 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.86.232.0 - 103.86.235.255'
+
+% Abuse contact for '103.86.232.0 - 103.86.235.255' is 'fengweixin@didichuxing.com'
+
+inetnum:        103.86.232.0 - 103.86.235.255
+netname:        HDXM
+descr:          Huidi(Tianjin)Business Service Co., Ltd-Xiamen Branch
+country:        CN
+admin-c:        FS671-AP
+tech-c:         FS671-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-DIDI-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:47Z
+source:         APNIC
+
+irt:            IRT-DIDI-CN
+address:        Beiqu 1, Floor 5, Building 1, No 9 Shangdi East Road,
+address:        Haidian District, Beijing, China
+e-mail:         fengweixin@didichuxing.com
+abuse-mailbox:  fengweixin@didichuxing.com
+auth:           # Filtered
+admin-c:        FW799-AP
+tech-c:         FW799-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-17T02:32:05Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Feng Sichun
+address:        Floor 22,Unit 5,No 611 Sishui Road,Huli District,
+address:        Xiamen,Fujian Province,PR. China
+country:        CN
+phone:          +86-18610137580
+e-mail:         milkyway315@126.com
+nic-hdl:        FS671-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-03-02T08:22:03Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

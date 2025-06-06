@@ -1,0 +1,86 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.249.244.0 - 103.249.247.255'
+
+% Abuse contact for '103.249.244.0 - 103.249.247.255' is 'ly@topnew.cn'
+
+inetnum:        103.249.244.0 - 103.249.247.255
+netname:        TopnewInfoNET
+descr:          Beijing Topnew Info & Tech Co.,Ltd
+descr:          No.31,Tiantan East Road, Dongcheng District, Beijing, China
+country:        CN
+admin-c:        ZM868-AP
+tech-c:         ZM869-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-TOPNEWINFONET-CN
+last-modified:  2023-11-28T00:56:24Z
+source:         APNIC
+
+irt:            IRT-TopnewInfoNET-CN
+address:        No.31, Tiantan East Road, Dongcheng District, Beijing, China
+e-mail:         ly@topnew.cn
+abuse-mailbox:  ly@topnew.cn
+auth:           # Filtered
+admin-c:        ZM868-AP
+tech-c:         ZM868-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:22Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yi Liu
+address:        No.31, Tiantan East Road, Dongcheng District, Beijing, China
+country:        CN
+phone:          +86-010-52186999
+e-mail:         ly@topnew.cn
+nic-hdl:        ZM868-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-06-14T06:08:01Z
+source:         APNIC
+
+person:         Lei Gao
+address:        No.31, Tiantan East Road, Dongcheng District, Beijing, China
+country:        CN
+phone:          +86-010-52186999
+e-mail:         gaolei@topnewinfo.cn
+nic-hdl:        ZM869-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-06-14T06:08:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      5.0.0.0 - 5.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-11
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        5.198.251.168 - 5.198.251.175
+netname:        ACUIT-HOSTING-ID1464
+descr:          CUSTOMER ASSIGNED NETWORK
+country:        CN
+admin-c:        VJ613-RIPE
+tech-c:         VJ613-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-ACUIT
+mnt-lower:      MNT-ACUIT
+mnt-domains:    MNT-ACUIT
+mnt-routes:     MNT-ACUIT
+created:        2012-12-04T13:48:57Z
+last-modified:  2012-12-04T13:48:57Z
+source:         RIPE # Filtered
+
+person:         Victor Jerlin
+address:        Flat 14, Mirage Court, 9 Triq Ghar Il-Lembi
+address:        Sliema, SLM1562
+address:        Malta
+phone:          +356.99990125
+nic-hdl:        VJ613-RIPE
+mnt-by:         VJ19049-MNT
+created:        2011-06-03T15:23:18Z
+last-modified:  2011-06-03T15:23:19Z
+source:         RIPE # Filtered
+
+% Information related to '5.198.248.0/21AS42708'
+
+route:          5.198.248.0/21
+descr:          Acuit Systems IP-RANGE
+origin:         AS42708
+mnt-by:         MNT-ACUIT
+created:        2012-08-31T11:51:01Z
+last-modified:  2012-08-31T11:51:01Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (SHETLAND)
+
+

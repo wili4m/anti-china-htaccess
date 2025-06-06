@@ -1,0 +1,121 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.242.132.0 - 103.242.135.255'
+
+% Abuse contact for '103.242.132.0 - 103.242.135.255' is 'abuse@cloudmanagementllc.com'
+
+inetnum:        103.242.132.0 - 103.242.135.255
+netname:        HJEATC-CN
+descr:          No.9-F, CaiFuDaSha, No.396 Heping Road
+descr:          Hanshan District
+country:        CN
+org:            ORG-HJEA1-AP
+admin-c:        HJEA1-AP
+tech-c:         HJEA1-AP
+abuse-c:        AH943-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-HJEATC-CN
+mnt-irt:        IRT-HJEATC-CN
+last-modified:  2020-06-30T13:07:23Z
+source:         APNIC
+
+irt:            IRT-HJEATC-CN
+address:        No.9-F, CaiFuDaSha, No.396 Heping Road, Hanshan District, Handan Hebei 056001
+e-mail:         noc@cloudmanagementllc.com
+abuse-mailbox:  abuse@cloudmanagementllc.com
+admin-c:        HJEA1-AP
+tech-c:         HJEA1-AP
+auth:           # Filtered
+remarks:        abuse@cloudmanagementllc.com was validated on 2025-04-23
+remarks:        noc@cloudmanagementllc.com was validated on 2025-04-23
+mnt-by:         MAINT-HJEATC-CN
+last-modified:  2025-04-23T20:38:48Z
+source:         APNIC
+
+organisation:   ORG-HJEA1-AP
+org-name:       Hebei Jiateng Electronics and Technology Co.,Ltd.
+org-type:       LIR
+country:        CN
+address:        30 N Gould St Ste 4492
+phone:          +85255730001
+e-mail:         noc@cloudmanagementllc.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:14Z
+source:         APNIC
+
+role:           ABUSE HJEATCCN
+country:        ZZ
+address:        No.9-F, CaiFuDaSha, No.396 Heping Road, Hanshan District, Handan Hebei 056001
+phone:          +000000000
+e-mail:         noc@cloudmanagementllc.com
+admin-c:        HJEA1-AP
+tech-c:         HJEA1-AP
+nic-hdl:        AH943-AP
+remarks:        Generated from irt object IRT-HJEATC-CN
+remarks:        abuse@cloudmanagementllc.com was validated on 2025-04-23
+remarks:        noc@cloudmanagementllc.com was validated on 2025-04-23
+abuse-mailbox:  abuse@cloudmanagementllc.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-23T20:39:00Z
+source:         APNIC
+
+role:           Hebei Jiateng Electronics and Technology CoLtd
+address:        No.9-F, CaiFuDaSha, No.396 Heping Road, Hanshan District, Handan Hebei 056001
+country:        CN
+phone:          +852 55730001
+e-mail:         abuse@cloudmanagementllc.com
+admin-c:        HJEA1-AP
+tech-c:         HJEA1-AP
+nic-hdl:        HJEA1-AP
+mnt-by:         MAINT-HJEATC-CN
+last-modified:  2019-12-25T18:54:15Z
+source:         APNIC
+
+% Information related to '103.242.132.0/22AS55933'
+
+route:          103.242.132.0/22
+origin:         AS55933
+descr:          Hebei Jiateng Electronics and Technology Co.,Ltd.
+                30 N Gould St Ste 4492
+mnt-by:         MAINT-HJEATC-CN
+last-modified:  2024-10-07T16:37:07Z
+source:         APNIC
+
+% Information related to '103.242.132.0/22AS6134'
+
+route:          103.242.132.0/22
+origin:         AS6134
+descr:          Hebei Jiateng Electronics and Technology Co.,Ltd.
+                30 N Gould St Ste 4492
+mnt-by:         MAINT-HJEATC-CN
+last-modified:  2024-10-07T16:38:03Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

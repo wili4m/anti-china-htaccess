@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.95.28.0 - 103.95.31.255'
+
+% Abuse contact for '103.95.28.0 - 103.95.31.255' is 'info@leonhosting.com'
+
+inetnum:        103.95.28.0 - 103.95.31.255
+netname:        LEONCOLTD-JP
+descr:          LEON CO.LTD
+country:        JP
+org:            ORG-LC1-AP
+admin-c:        LCA14-AP
+tech-c:         LCA14-AP
+status:         ASSIGNED PORTABLE
+abuse-c:        AL1441-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-LEONCOLTD-JP
+mnt-routes:     MAINT-LEONCOLTD-JP
+mnt-irt:        IRT-LEONCOLTD-JP
+last-modified:  2022-09-16T04:55:55Z
+source:         APNIC
+
+irt:            IRT-LEONCOLTD-JP
+address:        408,9-11,Minaminagasaki 3-chome,Toshima-ku,Tokyo, Tokyo Toshima 171-0052
+e-mail:         info@leonhosting.com
+abuse-mailbox:  info@leonhosting.com
+admin-c:        LCA14-AP
+tech-c:         LCA14-AP
+auth:           # Filtered
+remarks:        info@leonhosting.com was validated on 2025-05-06
+mnt-by:         MAINT-LEONCOLTD-JP
+last-modified:  2025-05-06T13:10:31Z
+source:         APNIC
+
+organisation:   ORG-LC1-AP
+org-name:       LEON CO.LTD
+org-type:       LIR
+country:        JP
+address:        Tensho Ikebukuro West Exit Building, Ikebukuro 2-13-4 ,
+address:        Toshima-ku,
+phone:          +81335656076
+fax-no:         +81-3-3565-6076
+e-mail:         info@leonhosting.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:53Z
+source:         APNIC
+
+role:           ABUSE LEONCOLTDJP
+country:        ZZ
+address:        408,9-11,Minaminagasaki 3-chome,Toshima-ku,Tokyo, Tokyo Toshima 171-0052
+phone:          +000000000
+e-mail:         info@leonhosting.com
+admin-c:        LCA14-AP
+tech-c:         LCA14-AP
+nic-hdl:        AL1441-AP
+remarks:        Generated from irt object IRT-LEONCOLTD-JP
+remarks:        info@leonhosting.com was validated on 2025-05-06
+abuse-mailbox:  info@leonhosting.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-06T13:11:09Z
+source:         APNIC
+
+role:           LEON COLTD administrator
+address:        408,9-11,Minaminagasaki 3-chome,Toshima-ku,Tokyo, Tokyo Toshima 171-0052
+country:        JP
+phone:          +81-3-3565-6076
+fax-no:         +81-3-3565-6076
+e-mail:         info@leonhosting.net
+admin-c:        LCA14-AP
+tech-c:         LCA14-AP
+nic-hdl:        LCA14-AP
+mnt-by:         MAINT-LEONCOLTD-JP
+last-modified:  2016-04-22T00:33:53Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

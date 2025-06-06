@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      118.0.0.0 - 118.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '118.195.128.0 - 118.195.255.255'
+
+% Abuse contact for '118.195.128.0 - 118.195.255.255' is 'tencent_noc@tencent.com'
+
+inetnum:        118.195.128.0 - 118.195.255.255
+netname:        TENCENT-CN
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+descr:          Floor 6, Yinke Building, 38 Haidian St, Haidian District
+country:        CN
+org:            ORG-TCCC1-AP
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+abuse-c:        AT992-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-TENCENT-CN
+mnt-routes:     MAINT-TENCENT-CN
+mnt-irt:        IRT-TENCENT-CN
+last-modified:  2020-07-22T13:11:00Z
+source:         APNIC
+
+irt:            IRT-TENCENT-CN
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+e-mail:         tencent_noc@tencent.com
+abuse-mailbox:  tencent_noc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+auth:           # Filtered
+remarks:        tencent_noc@tencent.com was validated on 2025-03-07
+mnt-by:         MAINT-COMSENZ1-CN
+last-modified:  2025-03-07T07:43:08Z
+source:         APNIC
+
+organisation:   ORG-TCCC1-AP
+org-name:       Tencent Cloud Computing (Beijing) Co., Ltd
+org-type:       LIR
+country:        CN
+address:        309 West Zone, 3F. 49 Zhichun Road. Haidian District.
+phone:          +86-10-62671299
+fax-no:         +86-10-82602088-41299
+e-mail:         tencent_idc@tencent.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:21Z
+source:         APNIC
+
+role:           ABUSE TENCENTCN
+country:        ZZ
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+phone:          +000000000
+e-mail:         tencent_noc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+nic-hdl:        AT992-AP
+remarks:        Generated from irt object IRT-TENCENT-CN
+remarks:        tencent_noc@tencent.com was validated on 2025-03-07
+abuse-mailbox:  tencent_noc@tencent.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-07T07:43:37Z
+source:         APNIC
+
+role:           Tencent Cloud administrator
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+country:        CN
+phone:          +86-10-62671299
+e-mail:         tencent_idc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+nic-hdl:        TCA15-AP
+mnt-by:         MAINT-AP-DIALPAD
+fax-no:         +86-10-62671299
+last-modified:  2017-04-04T10:34:03Z
+source:         APNIC
+
+% Information related to '118.195.128.0/17AS45090'
+
+route:          118.195.128.0/17
+origin:         AS45090
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+                309 West Zone, 3F. 49 Zhichun Road. Haidian District.
+mnt-by:         MAINT-TENCENT-CN
+last-modified:  2020-02-24T07:35:42Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

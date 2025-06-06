@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.90.116.0 - 103.90.119.255'
+
+% Abuse contact for '103.90.116.0 - 103.90.119.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.90.116.0 - 103.90.119.255
+netname:        ZJ-Ninestar
+descr:          Zhejiang nine star media co., LTD
+descr:          Room 2708,Building NO.25,Tiyuchang road No.178,
+descr:          Hangzhou,Zhejiang
+country:        CN
+admin-c:        YW6737-AP
+tech-c:         JS3960-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:29:17Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Huafei Ye
+address:        Room 2708,Building NO.25,Tiyuchang road No.178,
+address:        Hangzhou,Zhejiang
+country:        CN
+phone:          +86-13148316579
+e-mail:         444732332@qq.com
+nic-hdl:        JS3960-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-12T17:40:02Z
+source:         APNIC
+
+person:         Cheng Qing
+address:        Room 2708,Building NO.25,Tiyuchang road No.178,
+address:        Hangzhou,Zhejiang
+country:        CN
+phone:          +86-0571-85312307
+e-mail:         jiuxingchuanmei@yeah.net
+nic-hdl:        YW6737-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-12T17:40:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

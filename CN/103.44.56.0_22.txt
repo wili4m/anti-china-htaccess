@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.44.56.0 - 103.44.59.255'
+
+% Abuse contact for '103.44.56.0 - 103.44.59.255' is 'fanxiaojing@qiyi.com'
+
+inetnum:        103.44.56.0 - 103.44.59.255
+netname:        IQIYI-CN
+descr:          12/F, Metropolis Tower, No.2, Haidian North 1st Street
+country:        CN
+org:            ORG-BIST1-AP
+admin-c:        BITC1-AP
+tech-c:         BITC1-AP
+abuse-c:        AI733-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-IQIYI-CN
+mnt-irt:        IRT-IQIYI-CN
+last-modified:  2020-12-02T13:06:01Z
+source:         APNIC
+
+irt:            IRT-IQIYI-CN
+address:        12/F, Metropolis Tower, No.2, Haidian North 1st Street, Beijing Beijing 100080
+e-mail:         fanxiaojing@qiyi.com
+abuse-mailbox:  fanxiaojing@qiyi.com
+admin-c:        BITC1-AP
+tech-c:         BITC1-AP
+auth:           # Filtered
+remarks:        fanxiaojing@qiyi.com is invalid
+mnt-by:         MAINT-IQIYI-CN
+last-modified:  2023-08-01T02:12:31Z
+source:         APNIC
+
+organisation:   ORG-BIST1-AP
+org-name:       Beijing IQIYI Science & Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        12/F, Metropolis Tower, No.2, Haidian North 1st Street
+phone:          +86-10-62677210
+fax-no:         +86-10-62677000
+e-mail:         fanxiaojing@qiyi.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:26Z
+source:         APNIC
+
+role:           ABUSE IQIYICN
+address:        12/F, Metropolis Tower, No.2, Haidian North 1st Street, Beijing Beijing 100080
+country:        ZZ
+phone:          +000000000
+e-mail:         fanxiaojing@qiyi.com
+admin-c:        BITC1-AP
+tech-c:         BITC1-AP
+nic-hdl:        AI733-AP
+remarks:        Generated from irt object IRT-IQIYI-CN
+remarks:        fanxiaojing@qiyi.com is invalid
+abuse-mailbox:  fanxiaojing@qiyi.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-08-01T02:13:21Z
+source:         APNIC
+
+role:           Beijing iQIYI Technology Co Ltd administrator
+address:        12/F, Metropolis Tower, No.2, Haidian North 1st Street, Beijing Beijing 100080
+country:        CN
+phone:          +86-10-62677210
+fax-no:         +86-10-62677210
+e-mail:         fanxiaojing@qiyi.com
+admin-c:        BITC1-AP
+tech-c:         BITC1-AP
+nic-hdl:        BITC1-AP
+mnt-by:         MAINT-IQIYI-CN
+last-modified:  2014-12-01T02:31:03Z
+source:         APNIC
+
+% Information related to '103.44.56.0/22AS133865'
+
+route:          103.44.56.0/22
+origin:         AS133865
+descr:          Beijing IQIYI Science & Technology Co., Ltd.
+                12/F, Metropolis Tower, No.2, Haidian North 1st Street
+mnt-by:         MAINT-IQIYI-CN
+last-modified:  2019-04-25T12:52:43Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

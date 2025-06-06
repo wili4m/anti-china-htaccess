@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.56.140.0 - 103.56.143.255'
+
+% Abuse contact for '103.56.140.0 - 103.56.143.255' is 'wengsiyi@runxun.com'
+
+inetnum:        103.56.140.0 - 103.56.143.255
+netname:        CMData
+descr:          ShenZhenRunXunShuJuTongXinYouXianGongSi
+descr:          1302, Shangmei science and technology building, 2009 Shahe West Road, Nanshan District, Shenzhen
+country:        CN
+admin-c:        YW7120-AP
+tech-c:         YW7120-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CMDATA-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:35Z
+source:         APNIC
+
+irt:            IRT-CMData-CN
+address:        1302, Shangmei science and technology building,
+address:        2009 Shahe West Road, Nanshan District, Shenzhen
+e-mail:         wengsiyi@runxun.com
+abuse-mailbox:  wengsiyi@runxun.com
+auth:           # Filtered
+admin-c:        YW7120-AP
+tech-c:         YW7120-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T09:01:30Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lin YingHua
+address:        ShenZhenRunXunShuJuTongXinYouXianGongSi
+country:        CN
+phone:          +86-10-13632822815
+e-mail:         linyinghua@runxun.com
+nic-hdl:        YW7120-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-08-12T07:07:00Z
+source:         APNIC
+
+% Information related to '103.56.140.0/22AS149628'
+
+route:          103.56.140.0/22
+origin:         AS149628
+descr:          China Internet Network Information Center
+                Floor1, Building No.1 C/-Chinese Academy of Sciences
+                4, South 4th Street
+                Haidian District,
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-07-20T05:52:58Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

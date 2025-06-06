@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.77.132.0 - 103.77.135.255'
+
+% Abuse contact for '103.77.132.0 - 103.77.135.255' is 'Zhangyuhuai@cfca.com.cn'
+
+inetnum:        103.77.132.0 - 103.77.135.255
+netname:        CPCN
+descr:          China Payment & Clearing Network Co., Ltd.
+descr:          No.2 building, No.20 KeChuang fourteen Street,
+descr:          Yizhuang Economic Development Zone,Beijing,
+country:        CN
+admin-c:        YW6665-AP
+tech-c:         JS3898-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CPCN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:44Z
+source:         APNIC
+
+irt:            IRT-CPCN-CN
+address:        No.2 building, No.20 KeChuang fourteen Street,
+address:        Yizhuang Economic Development Zone,Beijing,
+e-mail:         Zhangyuhuai@cfca.com.cn
+abuse-mailbox:  Zhangyuhuai@cfca.com.cn
+admin-c:        YW6665-AP
+tech-c:         JS3898-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:14:10Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yuhuai Zhang
+address:        No.2 building, No.20 KeChuang fourteen Street,
+address:        Yizhuang Economic Development Zone,Beijing,
+country:        CN
+phone:          +86-18001275133
+e-mail:         Zhangyuhuai@cfca.com.cn
+nic-hdl:        JS3898-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-10-19T07:16:02Z
+source:         APNIC
+
+person:         Chao Wang
+address:        No.2 building, No.20 KeChuang fourteen Street,
+address:        Yizhuang Economic Development Zone,Beijing,
+country:        CN
+phone:          +86-010-50867005
+e-mail:         Wangchao@cfca.com.cn
+nic-hdl:        YW6665-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-10-19T07:16:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

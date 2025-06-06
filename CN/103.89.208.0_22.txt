@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.89.208.0 - 103.89.211.255'
+
+% Abuse contact for '103.89.208.0 - 103.89.211.255' is '328245521@qq.com'
+
+inetnum:        103.89.208.0 - 103.89.211.255
+netname:        HBBTNQHD
+descr:          Hebei Broadcasting&TV Network Qinhuangdao Co., Ltd
+country:        CN
+admin-c:        QM269-AP
+tech-c:         WZ3466-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HEBBTN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:48Z
+source:         APNIC
+
+irt:            IRT-HEBBTN-CN
+address:        100, Jianhua South Street, City of Shijiazhuang, Hebei, China
+e-mail:         328245521@qq.com
+abuse-mailbox:  328245521@qq.com
+auth:           # Filtered
+admin-c:        LG778-AP
+tech-c:         LW1900-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-04-01T00:49:43Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         qin mou
+address:        Baoding City Heng Road No. 99 building B
+country:        CN
+phone:          +86- 0311-89658970
+e-mail:         qm0809@126.com
+nic-hdl:        QM269-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-05T09:16:02Z
+source:         APNIC
+
+person:         wang zixai
+address:        Baoding City Heng Road No. 99 building B
+country:        CN
+phone:          +86- 0311-89868371
+e-mail:         wzxdcyy@foxmail.com
+nic-hdl:        WZ3466-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-05T09:16:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

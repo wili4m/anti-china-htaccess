@@ -1,0 +1,111 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.37.248.0 - 103.37.251.255'
+
+% Abuse contact for '103.37.248.0 - 103.37.251.255' is 'guochaogroup@gmail.com'
+
+inetnum:        103.37.248.0 - 103.37.251.255
+netname:        GGL-HK
+descr:          Guochao Group limited
+country:        HK
+org:            ORG-GGL1-AP
+admin-c:        YT1053-AP
+tech-c:         YT1053-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AG868-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-GGL-HK
+mnt-routes:     MAINT-GGL-HK
+mnt-irt:        IRT-GGL-HK
+last-modified:  2024-05-17T07:35:15Z
+source:         APNIC
+
+irt:            IRT-GGL-HK
+address:        UNIT 04 ,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD, Hong Kong KL
+e-mail:         guochaogroup@gmail.com
+abuse-mailbox:  guochaogroup@gmail.com
+admin-c:        YT1053-AP
+tech-c:         YT1053-AP
+auth:           # Filtered
+remarks:        guochaogroup@gmail.com is invalid
+mnt-by:         MAINT-GGL-HK
+last-modified:  2025-05-07T13:07:13Z
+source:         APNIC
+
+organisation:   ORG-GGL1-AP
+org-name:       Guochao Group limited
+org-type:       LIR
+country:        HK
+address:        UNIT 04 ,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD
+phone:          +85281912336
+fax-no:         +85281912336
+e-mail:         guochaogroup@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:10Z
+source:         APNIC
+
+role:           ABUSE GGLHK
+country:        ZZ
+address:        UNIT 04 ,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD, Hong Kong KL
+phone:          +000000000
+e-mail:         guochaogroup@gmail.com
+admin-c:        YT1053-AP
+tech-c:         YT1053-AP
+nic-hdl:        AG868-AP
+remarks:        Generated from irt object IRT-GGL-HK
+remarks:        guochaogroup@gmail.com is invalid
+abuse-mailbox:  guochaogroup@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-07T13:08:26Z
+source:         APNIC
+
+role:           YUETING TECHNOLONY
+address:        UNIT 04 ,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD, Hong Kong KL
+country:        HK
+phone:          +85281912336
+e-mail:         yuetingkeji@outlook.com
+admin-c:        YT1053-AP
+tech-c:         YT1053-AP
+nic-hdl:        YT1053-AP
+notify:         yuetingkeji@outlook.com
+mnt-by:         MAINT-GGL-HK
+last-modified:  2024-03-14T07:39:56Z
+source:         APNIC
+
+% Information related to '103.37.248.0/22AS153494'
+
+route:          103.37.248.0/22
+origin:         AS153494
+descr:          Guochao Group limited
+                UNIT 04 ,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD
+mnt-by:         MAINT-GGL-HK
+last-modified:  2025-01-17T03:44:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

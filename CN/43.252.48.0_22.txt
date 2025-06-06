@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.252.48.0 - 43.252.51.255'
+
+% Abuse contact for '43.252.48.0 - 43.252.51.255' is 'yujj@cernet.com'
+
+inetnum:        43.252.48.0 - 43.252.51.255
+netname:        CNTCL-AS-AP
+descr:          CERNET New Technology Co., Ltd
+descr:          CERNET Tower, Tsinghua Science Park Building 8
+country:        CN
+org:            ORG-CNTC2-AP
+admin-c:        CNTC1-AP
+tech-c:         CNTC1-AP
+abuse-c:        AC1576-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CNTCL-CN
+mnt-irt:        IRT-CNTCL-CN
+last-modified:  2020-12-31T02:48:52Z
+source:         APNIC
+
+irt:            IRT-CNTCL-CN
+address:        CERNET Tower, Tsinghua Science Park Building 8, Beijing Haidian District 100084
+e-mail:         yujj@cernet.com
+abuse-mailbox:  yujj@cernet.com
+admin-c:        CNTC1-AP
+tech-c:         CNTC1-AP
+auth:           # Filtered
+remarks:        yujj@cernet.com was validated on 2025-04-17
+mnt-by:         MAINT-CNTCL-CN
+last-modified:  2025-04-17T05:50:27Z
+source:         APNIC
+
+organisation:   ORG-CNTC2-AP
+org-name:       CERNET New Technology Co., Ltd
+org-type:       LIR
+country:        CN
+address:        CERNET Tower, Tsinghua Science Park Building 8
+phone:          +8610-62603340
+fax-no:         +86-010-62601898
+e-mail:         ningxy@cernet.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:19Z
+source:         APNIC
+
+role:           ABUSE CNTCLCN
+country:        ZZ
+address:        CERNET Tower, Tsinghua Science Park Building 8, Beijing Haidian District 100084
+phone:          +000000000
+e-mail:         yujj@cernet.com
+admin-c:        CNTC1-AP
+tech-c:         CNTC1-AP
+nic-hdl:        AC1576-AP
+remarks:        Generated from irt object IRT-CNTCL-CN
+remarks:        yujj@cernet.com was validated on 2025-04-17
+abuse-mailbox:  yujj@cernet.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-17T05:50:42Z
+source:         APNIC
+
+role:           CERNET New Technology Co Ltd administrator
+address:        CERNET Tower, Tsinghua Science Park Building 8, Beijing Haidian District 100084
+country:        CN
+phone:          +86-010-62603421
+fax-no:         +86-010-62603421
+e-mail:         ningxy@cernet.com
+admin-c:        CNTC1-AP
+tech-c:         CNTC1-AP
+nic-hdl:        CNTC1-AP
+mnt-by:         MAINT-CNTCL-CN
+last-modified:  2014-02-21T00:01:49Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

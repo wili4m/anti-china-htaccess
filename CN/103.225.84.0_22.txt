@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.225.84.0 - 103.225.87.255'
+
+% Abuse contact for '103.225.84.0 - 103.225.87.255' is 'ourip.abuse@gmail.com'
+
+inetnum:        103.225.84.0 - 103.225.87.255
+netname:        GCHSATCL-CN
+descr:          Fashion Dongfeng Road, Zhengzhou City apartment
+country:        CN
+org:            ORG-GCHS1-AP
+admin-c:        GCHS1-AP
+tech-c:         GCHS1-AP
+abuse-c:        AG965-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-GCHSATCL-CN
+mnt-routes:     MAINT-GCHSATCL-CN
+mnt-irt:        IRT-GCHSATCL-CN
+last-modified:  2020-10-21T13:04:32Z
+source:         APNIC
+
+irt:            IRT-GCHSATCL-CN
+address:        2 Dai Hei Street, Tai Po Industrial Park, Tai Po, N.T.,Hong Kong
+e-mail:         ourip.abuse@gmail.com
+abuse-mailbox:  ourip.abuse@gmail.com
+admin-c:        GCHS1-AP
+tech-c:         GCHS1-AP
+auth:           # Filtered
+remarks:        ourip.abuse@gmail.com is invalid
+mnt-by:         MAINT-GCHSATCL-CN
+last-modified:  2022-10-26T13:05:05Z
+source:         APNIC
+
+organisation:   ORG-GCHS1-AP
+org-name:       Guan Chen Henan Science and Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Fashion Dongfeng Road, Zhengzhou City apartment
+phone:          +86-18876513111
+e-mail:         2880428090@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:19Z
+source:         APNIC
+
+role:           ABUSE GCHSATCLCN
+address:        2 Dai Hei Street, Tai Po Industrial Park, Tai Po, N.T.,Hong Kong
+country:        ZZ
+phone:          +000000000
+e-mail:         ourip.abuse@gmail.com
+admin-c:        GCHS1-AP
+tech-c:         GCHS1-AP
+nic-hdl:        AG965-AP
+remarks:        Generated from irt object IRT-GCHSATCL-CN
+remarks:        ourip.abuse@gmail.com is invalid
+abuse-mailbox:  ourip.abuse@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2022-10-26T13:06:47Z
+source:         APNIC
+
+role:           Guan Chen Henan Science and Technology Co Ltd a
+address:        2 Dai Hei Street, Tai Po Industrial Park, Tai Po, N.T.,Hong Kong
+country:        HK
+phone:          +86-059522113999
+fax-no:         +86-059522113999
+e-mail:         sjl@qg.net
+admin-c:        GCHS1-AP
+tech-c:         GCHS1-AP
+nic-hdl:        GCHS1-AP
+mnt-by:         MAINT-GCHSATCL-CN
+last-modified:  2018-09-17T06:54:27Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

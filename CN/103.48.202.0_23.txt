@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.48.202.0 - 103.48.203.255'
+
+% Abuse contact for '103.48.202.0 - 103.48.203.255' is 'noc@gilead.com'
+
+inetnum:        103.48.202.0 - 103.48.203.255
+netname:        GSI-AP
+descr:          Gilead Sciences, Inc.
+country:        CN
+org:            ORG-GSI1-AP
+admin-c:        GSIA1-AP
+tech-c:         GSIA1-AP
+abuse-c:        AG1020-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-GSI-AP
+mnt-irt:        IRT-GSI-AP
+last-modified:  2021-01-12T02:15:21Z
+source:         APNIC
+
+irt:            IRT-GSI-AP
+address:        333 Lakeside Drive, Foster City CA 94404
+e-mail:         noc@gilead.com
+abuse-mailbox:  noc@gilead.com
+admin-c:        GSIA1-AP
+tech-c:         GSIA1-AP
+auth:           # Filtered
+remarks:        noc@gilead.com is invalid
+mnt-by:         MAINT-GSI-AP
+last-modified:  2024-05-15T13:08:13Z
+source:         APNIC
+
+organisation:   ORG-GSI1-AP
+org-name:       Gilead Sciences, Inc.
+org-type:       LIR
+country:        US
+address:        333 Lakeside Drive
+phone:          +16504770123
+e-mail:         noc@gilead.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:30Z
+source:         APNIC
+
+role:           ABUSE GSIAP
+address:        333 Lakeside Drive, Foster City CA 94404
+country:        ZZ
+phone:          +000000000
+e-mail:         noc@gilead.com
+admin-c:        GSIA1-AP
+tech-c:         GSIA1-AP
+nic-hdl:        AG1020-AP
+remarks:        Generated from irt object IRT-GSI-AP
+remarks:        noc@gilead.com is invalid
+abuse-mailbox:  noc@gilead.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-05-15T13:13:38Z
+source:         APNIC
+
+role:           Gilead Sciences Inc administrator
+address:        333 Lakeside Drive, Foster City CA 94404
+country:        US
+phone:          +16503727618
+fax-no:         +16503727618
+e-mail:         noc@gilead.com
+admin-c:        GSIA1-AP
+tech-c:         GSIA1-AP
+nic-hdl:        GSIA1-AP
+mnt-by:         MAINT-GSI-AP
+last-modified:  2014-12-05T00:39:37Z
+source:         APNIC
+
+% Information related to '103.48.202.0/23AS133900'
+
+route:          103.48.202.0/23
+descr:          Gilead Sciences
+origin:         AS133900
+mnt-by:         MAINT-GSI-AP
+last-modified:  2015-01-29T16:50:41Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

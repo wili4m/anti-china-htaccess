@@ -1,0 +1,95 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.60.0.0 - 116.63.255.255'
+
+% Abuse contact for '116.60.0.0 - 116.63.255.255' is 'ipas@cnnic.cn'
+
+inetnum:        116.60.0.0 - 116.63.255.255
+netname:        KUANCOM
+descr:          Beijing Kuancom Network Technology Co.,Ltd.
+descr:          A Building Haibo Masion, No.136 Xisihuan North Road
+descr:          Beijing, China, 100089
+country:        CN
+admin-c:        ZC379-AP
+tech-c:         SZ345-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:31:33Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Shen Zheng
+nic-hdl:        SZ345-AP
+e-mail:         wangxl@kuancom.com
+address:        A Building Haibo Masion, No.136 Xisihuan North Road,
+address:        Beijing, China, 100089
+phone:          +86-010-88465327
+fax-no:         +86-10-88466667
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:35:34Z
+source:         APNIC
+
+person:         Zhang Chi
+nic-hdl:        ZC379-AP
+e-mail:         mailzhangchi@263.net
+address:        A Building Haibo Masion, No.136 Xisihuan North Road,
+address:        Beijing, China, 100089
+phone:          +86-010-88463335
+fax-no:         +86-010-88465327
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:35:34Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

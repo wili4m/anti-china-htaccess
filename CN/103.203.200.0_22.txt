@@ -1,0 +1,93 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.203.200.0 - 103.203.203.255'
+
+% Abuse contact for '103.203.200.0 - 103.203.203.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.203.200.0 - 103.203.203.255
+netname:        DLTTCNET
+descr:          Dalian Tiantu Cable Television Network Co.,Ltd
+descr:          Room 401 Jiusan Street No60 Xigang District Dalian City Liaoning Province
+country:        CN
+admin-c:        YW6408-AP
+tech-c:         JS3665-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:33:22Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Liu Yisen
+address:        Room 401 Jiusan Street No60 Xigang District
+address:        Dalian City Liaoning Province
+country:        CN
+phone:          +86-18640876790
+e-mail:         ceo100@163.com
+nic-hdl:        JS3665-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-12-02T02:32:01Z
+source:         APNIC
+
+person:         Gong Jian
+address:        Room 401 Jiusan Street No60 Xigang District
+address:        Dalian City Liaoning Province
+country:        CN
+phone:          +86-13940900425
+e-mail:         dltt_gxj@163.com
+nic-hdl:        YW6408-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-12-02T02:36:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

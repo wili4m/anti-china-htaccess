@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      59.0.0.0 - 59.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2004-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '59.153.60.0 - 59.153.63.255'
+
+% Abuse contact for '59.153.60.0 - 59.153.63.255' is 'app@kinponet.org'
+
+inetnum:        59.153.60.0 - 59.153.63.255
+netname:        PODUNETWORKCN-CN
+descr:          Shenzhen Poudu network technology co., LTD
+descr:          Baiyun Meteorological Bureau,
+descr:          Bai Yun Nan Lu Baiyun Qu,
+country:        CN
+org:            ORG-SPNT1-AP
+admin-c:        PA290-AP
+tech-c:         PA290-AP
+abuse-c:        AP924-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-PODUNETWORKCN-CN
+mnt-routes:     MAINT-PODUNETWORKCN-CN
+mnt-irt:        IRT-PODUNETWORKCN-CN
+last-modified:  2020-07-18T06:29:23Z
+source:         APNIC
+
+irt:            IRT-PODUNETWORKCN-CN
+address:        Baiyun Meteorological Bureau, Bai Yun Nan Lu Baiyun Qu, Guiyang, Guizhou
+e-mail:         app@kinponet.org
+abuse-mailbox:  app@kinponet.org
+admin-c:        PA290-AP
+tech-c:         PA290-AP
+auth:           # Filtered
+remarks:        app@kinponet.org was validated on 2025-03-05
+mnt-by:         MAINT-PODUNETWORKCN-CN
+last-modified:  2025-03-05T13:15:00Z
+source:         APNIC
+
+organisation:   ORG-SPNT1-AP
+org-name:       Shenzhen Poudu network technology co., LTD
+org-type:       LIR
+country:        CN
+address:        Baiyun Meteorological Bureau,
+address:        Bai Yun Nan Lu Baiyun Qu,
+phone:          +8613603320001
+e-mail:         736318776@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2025-05-01T12:57:28Z
+source:         APNIC
+
+role:           ABUSE PODUNETWORKCNCN
+country:        ZZ
+address:        Baiyun Meteorological Bureau, Bai Yun Nan Lu Baiyun Qu, Guiyang, Guizhou
+phone:          +000000000
+e-mail:         app@kinponet.org
+admin-c:        PA290-AP
+tech-c:         PA290-AP
+nic-hdl:        AP924-AP
+remarks:        Generated from irt object IRT-PODUNETWORKCN-CN
+remarks:        app@kinponet.org was validated on 2025-03-05
+abuse-mailbox:  app@kinponet.org
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-05T13:15:34Z
+source:         APNIC
+
+role:           Podunetwork-cn administrator
+address:        520APP
+country:        JP
+phone:          +19166109299
+fax-no:         +19166109299
+e-mail:         app@ikcache.org
+admin-c:        PA290-AP
+tech-c:         PA290-AP
+nic-hdl:        PA290-AP
+mnt-by:         MAINT-PODUNETWORKCN-CN
+last-modified:  2022-05-13T12:44:00Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

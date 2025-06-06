@@ -1,0 +1,106 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      111.0.0.0 - 111.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2008-11
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '111.235.160.0 - 111.235.191.255'
+
+% Abuse contact for '111.235.160.0 - 111.235.191.255' is 'fouryw@163.com'
+
+inetnum:        111.235.160.0 - 111.235.191.255
+netname:        AP-CONAC-CN
+descr:          Beifa Mansion, Block D, Building 6, Compound 15, Xueyuan Nanlu,
+descr:          Beijing District, China
+country:        CN
+org:            ORG-CONA1-AP
+admin-c:        CCON1-AP
+tech-c:         CCON1-AP
+abuse-c:        AA1917-AP
+status:         ALLOCATED PORTABLE
+remarks:        Used for Other
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AP-CONAC-CN
+mnt-irt:        IRT-AP-CONAC-CN
+last-modified:  2020-07-29T13:14:17Z
+source:         APNIC
+
+irt:            IRT-AP-CONAC-CN
+address:        Beifa Mansion, Block D, Building 6, Compound 15,
+address:        Xueyuan Nanlu, Beijing District, China
+e-mail:         fouryw@163.com
+abuse-mailbox:  fouryw@163.com
+admin-c:        CCON1-AP
+tech-c:         CCON1-AP
+auth:           # Filtered
+remarks:        fouryw@163.com is invalid
+mnt-by:         MAINT-AP-CONAC-CN
+last-modified:  2024-08-21T13:11:27Z
+source:         APNIC
+
+organisation:   ORG-CONA1-AP
+org-name:       CONAC (China Organizational Name Administration Center)
+org-type:       LIR
+country:        CN
+address:        Beifa Mansion, Block D, Building 6, Compound 15,
+address:        Xueyuan Nanlu, Haidian District
+phone:          +8610-69001156
+fax-no:         +8610-69001153
+e-mail:         technical_cn@163.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:34Z
+source:         APNIC
+
+role:           ABUSE APCONACCN
+country:        ZZ
+address:        Beifa Mansion, Block D, Building 6, Compound 15,
+address:        Xueyuan Nanlu, Beijing District, China
+phone:          +000000000
+e-mail:         fouryw@163.com
+admin-c:        CCON1-AP
+tech-c:         CCON1-AP
+nic-hdl:        AA1917-AP
+remarks:        Generated from irt object IRT-AP-CONAC-CN
+remarks:        fouryw@163.com is invalid
+abuse-mailbox:  fouryw@163.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-08-21T13:13:51Z
+source:         APNIC
+
+role:           CONAC CHINA ORGANIZATIONAL NAME ADMINISTRATION CE
+address:        Beifa Mansion, Block D, Building 6, Compound 15,
+address:        Xueyuan Nanlu, Haidian District, Beijing
+country:        CN
+phone:          +86-10-6900-1156
+fax-no:         +86-10-6900-1153
+e-mail:         technical_cn@163.com
+admin-c:        CCON1-AP
+tech-c:         CCON1-AP
+nic-hdl:        CCON1-AP
+mnt-by:         MAINT-AP-CONAC-CN
+last-modified:  2020-05-26T08:31:38Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

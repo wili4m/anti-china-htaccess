@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      122.0.0.0 - 122.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.201.48.0 - 122.201.63.255'
+
+% Abuse contact for '122.201.48.0 - 122.201.63.255' is 'daimingquan@staff.cntv.cn'
+
+inetnum:        122.201.48.0 - 122.201.63.255
+netname:        CNTV
+descr:          CCTV international network Co., LTD
+descr:          No.10, Xisanhuan mid rd,Haidian District,Beijing,China
+country:        CN
+admin-c:        CM2101-AP
+tech-c:         GL1199-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNTV-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:02Z
+source:         APNIC
+
+irt:            IRT-CNTV-CN
+address:        No.10, Xisanhuan mid rd,Haidian District,Beijing,China
+e-mail:         daimingquan@staff.cntv.cn
+abuse-mailbox:  daimingquan@staff.cntv.cn
+auth:           # Filtered
+admin-c:        CM2101-AP
+tech-c:         CM2101-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:26Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Cheng Ming
+address:        No.10, Xisanhuan mid rd,Haidian District,Beijing,China
+country:        CN
+phone:          +86-10-88046531
+fax-no:         +86-10-88046686
+e-mail:         chengming@cntv.cn
+nic-hdl:        CM2101-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-01-21T01:38:01Z
+source:         APNIC
+
+person:         Guo Liu
+address:        No.10, Xisanhuan mid rd,Haidian District,Beijing,China
+country:        CN
+phone:          +86-10-88046673
+fax-no:         +86-10-88046686
+e-mail:         guoliu@cntv.cn
+nic-hdl:        GL1199-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-01-21T01:38:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

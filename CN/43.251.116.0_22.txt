@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.251.116.0 - 43.251.119.255'
+
+% Abuse contact for '43.251.116.0 - 43.251.119.255' is 'abuse@hkcloudx.com'
+
+inetnum:        43.251.116.0 - 43.251.119.255
+netname:        SHENZHEN-CN
+descr:          Room 301, Heping No 12
+descr:          Ping Shan Road, PingShan District ShenZhen, China.
+country:        CN
+org:            ORG-SYCN1-AP
+admin-c:        HUTD2-AP
+tech-c:         HUTD2-AP
+abuse-c:        AS2766-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SHENZHEN-CN
+mnt-routes:     MAINT-SHENZHEN-CN
+mnt-irt:        IRT-SHENZHEN-CN
+last-modified:  2024-05-25T03:36:17Z
+source:         APNIC
+
+irt:            IRT-SHENZHEN-CN
+address:        21F,World peace center,55 wo tong tsui st,kwai chung
+e-mail:         admin@hkcloudx.com
+abuse-mailbox:  abuse@hkcloudx.com
+admin-c:        HUTD2-AP
+tech-c:         HUTD2-AP
+auth:           # Filtered
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+remarks:        admin@hkcloudx.com was validated on 2025-03-27
+mnt-by:         MAINT-SHENZHEN-CN
+last-modified:  2025-03-27T01:29:36Z
+source:         APNIC
+
+organisation:   ORG-SYCN1-AP
+org-name:       Shenzhen Yi cloud Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +852-93794836
+e-mail:         admin@hkcloudx.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-05-25T12:57:52Z
+source:         APNIC
+
+role:           ABUSE SHENZHENCN
+country:        ZZ
+address:        21F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +000000000
+e-mail:         admin@hkcloudx.com
+admin-c:        HUTD2-AP
+tech-c:         HUTD2-AP
+nic-hdl:        AS2766-AP
+remarks:        Generated from irt object IRT-SHENZHEN-CN
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+remarks:        admin@hkcloudx.com was validated on 2025-03-27
+abuse-mailbox:  abuse@hkcloudx.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-27T01:30:05Z
+source:         APNIC
+
+role:           HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+country:        HK
+phone:          +852-35979037
+e-mail:         abuse@hkcloudx.com
+admin-c:        HUT1-AP
+tech-c:         HUT1-AP
+nic-hdl:        HUTD2-AP
+notify:         abuse@hkcloudx.com
+mnt-by:         MAINT-HKUNITED-HK
+last-modified:  2024-05-30T01:19:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

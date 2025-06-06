@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.61.188.0 - 103.61.191.255'
+
+% Abuse contact for '103.61.188.0 - 103.61.191.255' is 'hostmaster@cypresstel.com'
+
+inetnum:        103.61.188.0 - 103.61.191.255
+netname:        CYPRESSTEL
+descr:          CYPRESS TELECOM (CHINA) LIMITED
+country:        CN
+admin-c:        LX2386-AP
+tech-c:         LX2386-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CYPRESSTEL-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:36Z
+source:         APNIC
+
+irt:            IRT-CYPRESSTEL-CN
+address:        Room 809B, 8/F, Modern International Building, No.3038
+address:        Jintian Road,Futian CBD, Shenzhen, Guangdong China
+e-mail:         hostmaster@cypresstel.com
+abuse-mailbox:  hostmaster@cypresstel.com
+admin-c:        LX2386-AP
+tech-c:         LX2386-AP
+auth:           # Filtered
+remarks:        hostmaster@cypresstel.com was validated on 2025-04-11
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-11T02:16:05Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lilian Xion
+address:        Room 809B, 8/F, Modern International Building, No.3038 Jintian Road,Futian CBD, Shenzhen, Guangdong China
+country:        CN
+phone:          +86-0755-83257688
+fax-no:         +86-0755-83257688
+e-mail:         hostmaster@cypresstel.com
+nic-hdl:        LX2386-AP
+notify:         hostmaster@cypresstel.com
+abuse-mailbox:  yuanlong.guo@cypresstel.com
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-12-28T07:43:41Z
+source:         APNIC
+
+% Information related to '103.61.188.0/22AS55996'
+
+route:          103.61.188.0/22
+origin:         AS55996
+descr:          China Internet Network Information Center
+                Floor1, Building No.1 C/-Chinese Academy of Sciences
+                4, South 4th Street
+                Haidian District,
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-11-22T01:50:43Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

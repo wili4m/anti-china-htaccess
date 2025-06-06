@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.251.12.0 - 43.251.15.255'
+
+% Abuse contact for '43.251.12.0 - 43.251.15.255' is 'hk-abuse@chinaunicom.cn'
+
+inetnum:        43.251.12.0 - 43.251.15.255
+netname:        UNICOM-HK
+descr:          China Unicom (Hong Kong) Operations Limited
+country:        HK
+org:            ORG-CUKO1-AP
+admin-c:        NW165-AP
+tech-c:         NW165-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AU99-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HK-UNICOM
+mnt-routes:     MAINT-HK-UNICOM
+mnt-irt:        IRT-UNICOM-HK
+last-modified:  2022-12-28T03:28:29Z
+source:         APNIC
+
+irt:            IRT-UNICOM-HK
+address:        28/F, Tower 1, The gateway, 25 Canton road, TST, Hong Kong
+e-mail:         wongnicholas@chinaunicom.cn
+abuse-mailbox:  hk-abuse@chinaunicom.cn
+admin-c:        NW165-AP
+tech-c:         NW165-AP
+auth:           # Filtered
+remarks:        wongnicholas@chinaunicom.cn
+remarks:        wongnicholas@chinaunicom.cn was validated on 2025-01-14
+remarks:        hk-abuse@chinaunicom.cn was validated on 2025-02-13
+mnt-by:         MAINT-HK-UNICOM
+last-modified:  2025-02-13T15:16:56Z
+source:         APNIC
+
+organisation:   ORG-CUKO1-AP
+org-name:       China Unicom (Hong Kong) Operations Limited
+org-type:       LIR
+country:        HK
+address:        28F, Tower 1, The gateway
+address:        25 Canton Road
+address:        Tsim Sha Tsui
+phone:          +852-26268766
+fax-no:         +852-26268844
+e-mail:         wongnicholas@chinaunicom.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:48Z
+source:         APNIC
+
+role:           ABUSE UNICOMHK
+country:        ZZ
+address:        28/F, Tower 1, The gateway, 25 Canton road, TST, Hong Kong
+phone:          +000000000
+e-mail:         wongnicholas@chinaunicom.cn
+admin-c:        NW165-AP
+tech-c:         NW165-AP
+nic-hdl:        AU99-AP
+remarks:        Generated from irt object IRT-UNICOM-HK
+remarks:        wongnicholas@chinaunicom.cn was validated on 2025-01-14
+remarks:        hk-abuse@chinaunicom.cn was validated on 2025-02-13
+abuse-mailbox:  hk-abuse@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-13T15:17:23Z
+source:         APNIC
+
+person:         Nicholas Wong
+address:        28/F, Tower 1, The gateway, 25 Canton road, TST, Hong Kong
+country:        HK
+phone:          +852 26268881
+e-mail:         wongnicholas@chinaunicom.cn
+nic-hdl:        NW165-AP
+notify:         wongnicholas@chinaunicom.cn
+mnt-by:         MAINT-HK-UNICOM
+last-modified:  2018-03-09T01:50:33Z
+source:         APNIC
+
+% Information related to '43.251.12.0/22AS10099'
+
+route:          43.251.12.0/22
+origin:         AS10099
+descr:          China Unicom (Hong Kong) Operations Limited
+                28F, Tower 1, The gateway
+                25 Canton Road
+                Tsim Sha Tsui
+mnt-by:         MAINT-HK-UNICOM
+last-modified:  2024-12-12T03:05:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

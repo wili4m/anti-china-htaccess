@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.85.224.0 - 103.85.227.255'
+
+% Abuse contact for '103.85.224.0 - 103.85.227.255' is 'tyuweb@foxmail.com'
+
+inetnum:        103.85.224.0 - 103.85.227.255
+netname:        BXYNTCL-CN
+descr:          Room 192, 18 Zhuang
+descr:          No.139 Ba Zhuang Zi,
+descr:          Feng Tai Qu, Beijing, PRC
+country:        CN
+org:            ORG-BXYN1-AP
+admin-c:        BXYN1-AP
+tech-c:         BXYN1-AP
+abuse-c:        AB1193-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BXYNTCL-CN
+mnt-routes:     MAINT-BXYNTCL-CN
+mnt-irt:        IRT-BXYNTCL-CN
+last-modified:  2020-08-04T15:19:55Z
+source:         APNIC
+
+irt:            IRT-BXYNTCL-CN
+address:        Primary mailing address: Massachusetts Hall Cambridge, MA 00000
+e-mail:         tyuweb@foxmail.com
+abuse-mailbox:  tyuweb@foxmail.com
+admin-c:        BXYN1-AP
+tech-c:         BXYN1-AP
+auth:           # Filtered
+remarks:        tyuweb@foxmail.com was validated on 2025-03-25
+mnt-by:         MAINT-BXYNTCL-CN
+last-modified:  2025-03-25T13:06:47Z
+source:         APNIC
+
+organisation:   ORG-BXYN1-AP
+org-name:       Beijing Xiangyun Youxin Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Massachusetts Hall
+address:        Cambridge
+address:        MA 00000
+phone:          +617-415-1985
+e-mail:         tyuweb@foxmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:09Z
+source:         APNIC
+
+role:           ABUSE BXYNTCLCN
+country:        ZZ
+address:        Primary mailing address: Massachusetts Hall Cambridge, MA 00000
+phone:          +000000000
+e-mail:         tyuweb@foxmail.com
+admin-c:        BXYN1-AP
+tech-c:         BXYN1-AP
+nic-hdl:        AB1193-AP
+remarks:        Generated from irt object IRT-BXYNTCL-CN
+remarks:        tyuweb@foxmail.com was validated on 2025-03-25
+abuse-mailbox:  tyuweb@foxmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-25T13:07:16Z
+source:         APNIC
+
+role:           Beijing Xiangyun Youxin Network Technology Co Lt
+address:        Room 192, 18 Zhuang, No.139 Ba Zhuang Zi,, Feng Tai Qu, Beijing, PRC, Beijing  100070
+country:        CN
+phone:          +86.-010-57285308
+fax-no:         +86.-010-57285308
+e-mail:         gaobin@xiangyunvps.com
+admin-c:        BXYN1-AP
+tech-c:         BXYN1-AP
+nic-hdl:        BXYN1-AP
+mnt-by:         MAINT-BXYNTCL-CN
+last-modified:  2017-02-14T04:32:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

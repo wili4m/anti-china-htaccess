@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.36.224.0 - 103.36.227.255'
+
+% Abuse contact for '103.36.224.0 - 103.36.227.255' is 'hex@51eidc.com'
+
+inetnum:        103.36.224.0 - 103.36.227.255
+netname:        Xisiyun-Syscloud
+descr:          syscloud(Suzhou)technology limited
+descr:          Room 501, building 2,99 commercial road, Huaqiao town,
+descr:          Kunshan City, Suzhou Province, China
+country:        CN
+admin-c:        YW7259-AP
+tech-c:         JS4508-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-Syscloud-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2022-10-28T08:35:43Z
+source:         APNIC
+
+irt:            IRT-Syscloud-CN
+address:        A801 South ZiGuang Development Building,11#
+address:        HuiXin East Street Chao Yang District,Beijing, China
+e-mail:         hex@51eidc.com
+abuse-mailbox:  hex@51eidc.com
+admin-c:        XC1969-AP
+tech-c:         HX1713-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:53Z
+source:         APNIC
+
+person:         Xin he
+address:        Room 501, building 2,99 commercial road, Huaqiao town,
+address:        Kunshan City, Suzhou Province, China
+country:        CN
+phone:          +86-18910029637
+e-mail:         hex@syscloud.cn
+nic-hdl:        JS4508-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-10-28T07:56:45Z
+source:         APNIC
+
+person:         Huijuan han
+address:        Room 501, building 2,99 commercial road, Huaqiao town,
+address:        Kunshan City, Suzhou Province, China
+country:        CN
+phone:          +86-18610113313
+e-mail:         hanhj@syscloud.cn
+nic-hdl:        YW7259-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-10-28T07:56:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

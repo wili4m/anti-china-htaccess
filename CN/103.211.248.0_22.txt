@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.211.248.0 - 103.211.251.255'
+
+% Abuse contact for '103.211.248.0 - 103.211.251.255' is '179652237@qq.com'
+
+inetnum:        103.211.248.0 - 103.211.251.255
+netname:        GDHRUI
+descr:          GUANGDONG HENGRUI TECHNOLOGY CO.,LTD
+country:        CN
+admin-c:        DF522-AP
+tech-c:         JL5879-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-GDHRUI-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:08Z
+source:         APNIC
+
+irt:            IRT-GDHRUI-CN
+address:        2nd Floor,No.122,Yuejin RD.,Pengjiang Dist.,
+address:        Jiangmen Guangdong Province China
+e-mail:         179652237@qq.com
+abuse-mailbox:  179652237@qq.com
+auth:           # Filtered
+admin-c:        DF522-AP
+tech-c:         JL5879-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-26T07:08:53Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Dijun Feng
+address:        2nd Floor,No.122,Yuejin RD.,Pengjiang Dist.,
+address:        Jiangmen Guangdong Province China
+country:        CN
+phone:          +86-0750-3969898
+e-mail:         179652237@qq.com
+nic-hdl:        DF522-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-03-22T01:10:01Z
+source:         APNIC
+
+person:         Jenson Lee
+address:        2nd Floor,No.122,Yuejin RD.,Pengjiang Dist.,
+address:        Jiangmen Guangdong Province China
+country:        CN
+phone:          +86-0750-3969898
+e-mail:         jensen_lee@qq.com
+nic-hdl:        JL5879-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-03-22T01:10:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

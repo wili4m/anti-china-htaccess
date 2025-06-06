@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.82.236.0 - 103.82.239.255'
+
+% Abuse contact for '103.82.236.0 - 103.82.239.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.82.236.0 - 103.82.239.255
+netname:        ifc
+descr:          Fast cloud Telecom (Beijing) Co., Ltd.
+descr:          room 220,Lingxiu building block B
+descr:          No.1 Gucheng street, Shijingshan District, Beijing
+country:        CN
+admin-c:        ZM1752-AP
+tech-c:         ZM1753-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:30:53Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Li Yuan
+address:        room 220,Lingxiu building block B
+address:        No.1 Gucheng street, Shijingshan District, Beijing
+country:        CN
+phone:          +86-13366596667
+e-mail:         ya.li@ifastcloud.com
+nic-hdl:        ZM1752-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-01-05T01:36:01Z
+source:         APNIC
+
+person:         Li Yuqi
+address:        room 220,Lingxiu building block B
+address:        No.1 Gucheng street, Shijingshan District, Beijing
+country:        CN
+phone:          +86-15611097779
+e-mail:         yq.li@ifastcloud.com
+nic-hdl:        ZM1753-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-01-05T01:36:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

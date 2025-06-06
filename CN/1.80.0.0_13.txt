@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      1.0.0.0 - 1.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '1.80.0.0 - 1.87.255.255'
+
+% Abuse contact for '1.80.0.0 - 1.87.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        1.80.0.0 - 1.87.255.255
+netname:        CHINANET-SN
+descr:          CHINANET SHAANXI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.56,gaoxin street
+descr:          Beijing 100032
+country:        CN
+admin-c:        XC9-AP
+tech-c:         XC9-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SHAANXI
+mnt-routes:     MAINT-CHINANET-SHAANXI
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:04:55Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Xianghong Cao
+address:        Shanxi provice data communication Bureau
+address:        185# zhuque Road
+address:        Xi'an city, Shanxi provice 710061
+country:        CN
+phone:          +8629-523-3633
+fax-no:         +8629-522-8093
+e-mail:         sxic@public.xa.sn.cn
+nic-hdl:        XC9-AP
+mnt-by:         MAINT-CHINANET
+last-modified:  2017-03-17T01:44:04Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

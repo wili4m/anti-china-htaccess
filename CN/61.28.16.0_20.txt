@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      61.0.0.0 - 61.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1997-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.28.0.0 - 61.28.127.255'
+
+% Abuse contact for '61.28.0.0 - 61.28.127.255' is '18929560856@qq.com'
+
+inetnum:        61.28.0.0 - 61.28.127.255
+netname:        ETFiberNet
+descr:          3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou
+admin-c:        HT357-AP
+tech-c:         ZQ611-AP
+abuse-c:        AC1601-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-ETFiberNet-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2021-11-05T07:25:19Z
+source:         APNIC
+
+irt:            IRT-ETFiberNet-CN
+address:        3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou
+e-mail:         18929560856@qq.com
+abuse-mailbox:  18929560856@qq.com
+auth:           # Filtered
+admin-c:        HT357-AP
+tech-c:         ZQ611-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-14T03:24:43Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Huang Tao
+nic-hdl:        HT357-AP
+e-mail:         tauler@21cn.com
+address:        3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou
+phone:          +86-20-61397980
+fax-no:         +86-20-61397887
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-12-12T09:10:03Z
+source:         APNIC
+
+person:         Zheng Qian
+nic-hdl:        ZQ611-AP
+e-mail:         5075175@qq.com
+address:        3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou
+phone:          +86-20-61387981
+fax-no:         +86-20-61397887
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-12-12T09:12:03Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

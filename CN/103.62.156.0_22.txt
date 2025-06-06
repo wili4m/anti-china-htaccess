@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.62.156.0 - 103.62.159.255'
+
+% Abuse contact for '103.62.156.0 - 103.62.159.255' is 'TAO.LI@YUN-IDC.COM'
+
+inetnum:        103.62.156.0 - 103.62.159.255
+netname:        QIANYUNTIMES-CN
+descr:          QIANYUN TIMES
+country:        CN
+org:            ORG-QT1-AP
+admin-c:        QTA1-AP
+tech-c:         QTA1-AP
+abuse-c:        AQ178-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-QIANYUNTIMES-CN
+mnt-routes:     MAINT-QIANYUNTIMES-CN
+mnt-irt:        IRT-QIANYUNTIMES-CN
+last-modified:  2022-03-18T07:53:05Z
+source:         APNIC
+
+irt:            IRT-QIANYUNTIMES-CN
+address:        NO.9, Dongranbeijie, Haidian District, BEIJING 100195
+e-mail:         TAO.LI@YUN-IDC.COM
+abuse-mailbox:  TAO.LI@YUN-IDC.COM
+admin-c:        QTA1-AP
+tech-c:         QTA1-AP
+auth:           # Filtered
+remarks:        tao.li@yun-idc.com is invalid
+mnt-by:         MAINT-QIANYUNTIMES-CN
+last-modified:  2024-02-21T13:11:51Z
+source:         APNIC
+
+organisation:   ORG-QT1-AP
+org-name:       QIANYUN TIMES
+org-type:       LIR
+country:        CN
+address:        401 RAYLAND ST STE 200-A, Reno, NV 89502, USA
+phone:          +1-213-375-3998
+e-mail:         llawrence@urbanconnectedcloud.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:38Z
+source:         APNIC
+
+role:           ABUSE QIANYUNTIMESCN
+address:        NO.9, Dongranbeijie, Haidian District, BEIJING 100195
+country:        ZZ
+phone:          +000000000
+e-mail:         TAO.LI@YUN-IDC.COM
+admin-c:        QTA1-AP
+tech-c:         QTA1-AP
+nic-hdl:        AQ178-AP
+remarks:        Generated from irt object IRT-QIANYUNTIMES-CN
+remarks:        tao.li@yun-idc.com is invalid
+abuse-mailbox:  TAO.LI@YUN-IDC.COM
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-02-21T13:15:17Z
+source:         APNIC
+
+role:           QIANYUN TIMES administrator
+address:        401 RAYLAND ST STE 200-A, Reno, NV 89502, USA
+country:        US
+phone:          +1-213-375-3998
+fax-no:         +1-213-375-3998
+e-mail:         llawrence@urbanconnectedcloud.com
+admin-c:        QTA1-AP
+tech-c:         QTA1-AP
+nic-hdl:        QTA1-AP
+mnt-by:         MAINT-QIANYUNTIMES-CN
+last-modified:  2022-03-18T07:56:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

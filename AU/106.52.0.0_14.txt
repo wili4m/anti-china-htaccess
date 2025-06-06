@@ -1,0 +1,132 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      106.0.0.0 - 106.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '106.0.0.0 - 106.255.255.255'
+
+% Abuse contact for '106.0.0.0 - 106.255.255.255' is 'helpdesk@apnic.net'
+
+inetnum:        106.0.0.0 - 106.255.255.255
+netname:        APNIC-AP
+descr:          Asia Pacific Network Information Centre
+descr:          Regional Internet Registry for the Asia-Pacific Region
+descr:          6 Cordelia Street
+descr:          PO Box 3646
+descr:          South Brisbane, QLD 4101
+descr:          Australia
+country:        AU
+org:            ORG-APNI3-AP
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+abuse-c:        AA1452-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      APNIC-HM
+mnt-irt:        IRT-APNIC-AP
+last-modified:  2023-09-05T01:46:02Z
+source:         APNIC
+
+irt:            IRT-APNIC-AP
+address:        Brisbane, Australia
+e-mail:         helpdesk@apnic.net
+abuse-mailbox:  helpdesk@apnic.net
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+auth:           # Filtered
+remarks:        APNIC is a Regional Internet Registry.
+remarks:        We do not operate the referring network and
+remarks:        are unable to investigate complaints of network abuse.
+remarks:        For information about IRT, see www.apnic.net/irt
+remarks:        helpdesk@apnic.net was validated on 2020-02-03
+mnt-by:         APNIC-HM
+last-modified:  2023-08-18T00:42:38Z
+source:         APNIC
+
+organisation:   ORG-APNI3-AP
+org-name:       Asia Pacific Network Information Center, Pty. Ltd.
+org-type:       RIR
+country:        AU
+address:        Level 1 - 33 Park Road
+e-mail:         helpdesk@apnic.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T13:05:31Z
+source:         APNIC
+
+role:           ABUSE APNICAP
+address:        Brisbane, Australia
+country:        ZZ
+phone:          +000000000
+e-mail:         helpdesk@apnic.net
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+nic-hdl:        AA1452-AP
+remarks:        Generated from irt object IRT-APNIC-AP
+remarks:        helpdesk@apnic.net was validated on 2020-02-03
+abuse-mailbox:  helpdesk@apnic.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-08-18T19:08:30Z
+source:         APNIC
+
+role:           APNIC Hostmaster
+address:        6 Cordelia Street
+address:        South Brisbane
+address:        QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+fax-no:         +61 7 3858 3199
+e-mail:         helpdesk@apnic.net
+admin-c:        AMS11-AP
+tech-c:         AH256-AP
+nic-hdl:        HM20-AP
+remarks:        Administrator for APNIC
+notify:         hostmaster@apnic.net
+mnt-by:         MAINT-APNIC-AP
+last-modified:  2013-10-23T04:06:51Z
+source:         APNIC
+
+person:         APNIC Network Operations
+address:        6 Cordelia Street
+address:        South Brisbane
+address:        QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+fax-no:         +61 7 3858 3199
+e-mail:         netops@apnic.net
+nic-hdl:        NO4-AP
+remarks:        Administrator for APNIC Network Operations
+notify:         helpdesk@apnic.net
+mnt-by:         MAINT-APNIC-AP
+last-modified:  2023-11-29T22:50:07Z
+source:         APNIC
+
+% Information related to '106.52.0.0/14AS45090'
+
+route:          106.52.0.0/14
+descr:          Shenzhen Tencent Computer Systems Company Limited
+country:        CN
+origin:         AS45090
+notify:         jimmyxiao@tencent.com
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-04-18T03:50:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

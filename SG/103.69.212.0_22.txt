@@ -1,0 +1,111 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.69.212.0 - 103.69.215.255'
+
+% Abuse contact for '103.69.212.0 - 103.69.215.255' is 'abuse@alphanetworks.global'
+
+inetnum:        103.69.212.0 - 103.69.215.255
+netname:        AXCLUSIVE-SG
+descr:          AXCLUSIVE PTE. LTD.
+country:        SG
+org:            ORG-ANSP1-AP
+admin-c:        APLA58-AP
+tech-c:         APLA58-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AA1993-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AXCLUSIVE-SG
+mnt-routes:     MAINT-AXCLUSIVE-SG
+mnt-irt:        IRT-AXCLUSIVE-SG
+last-modified:  2024-01-11T10:20:43Z
+source:         APNIC
+
+irt:            IRT-AXCLUSIVE-SG
+address:        20 Ayer Rajah Crescent, Singapore 139964
+e-mail:         abuse@alphanetworks.global
+abuse-mailbox:  abuse@alphanetworks.global
+admin-c:        APLA58-AP
+tech-c:         APLA58-AP
+auth:           # Filtered
+remarks:        abuse@alphanetworks.global was validated on 2025-03-05
+mnt-by:         MAINT-AXCLUSIVE-SG
+last-modified:  2025-03-05T06:05:12Z
+source:         APNIC
+
+organisation:   ORG-ANSP1-AP
+org-name:       AXCLUSIVE PTE. LTD.
+org-type:       LIR
+country:        SG
+address:        8 Ubi Road 2
+address:        # 03-27 & 03-28 ZERVEX
+phone:          +65 60111719
+e-mail:         support@axclusive.com.sg
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-01-11T13:04:05Z
+source:         APNIC
+
+role:           ABUSE ANSPLSG
+country:        ZZ
+address:        20 Ayer Rajah Crescent, Singapore 139964
+phone:          +000000000
+e-mail:         abuse@alphanetworks.global
+admin-c:        APLA58-AP
+tech-c:         APLA58-AP
+nic-hdl:        AA1993-AP
+remarks:        Generated from irt object IRT-ANSPL-SG
+remarks:        abuse@alphanetworks.global was validated on 2025-03-05
+abuse-mailbox:  abuse@alphanetworks.global
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-05T06:05:39Z
+source:         APNIC
+
+role:           Axclusive PTE LTD administrator
+address:        8 Ubi Road 2, Zervex 03-27/28, 408538
+country:        SG
+phone:          +6560111711
+e-mail:         abuse@axclusive.com.sg
+admin-c:        APLA58-AP
+tech-c:         APLA58-AP
+nic-hdl:        APLA58-AP
+mnt-by:         MAINT-ANSPL-SG
+last-modified:  2024-01-03T06:57:44Z
+source:         APNIC
+
+% Information related to '103.69.212.0/22AS132337'
+
+route:          103.69.212.0/22
+origin:         AS132337
+descr:          ALPHA NETWORKS SOLUTION PTE. LTD.
+                8 Ubi Road 2
+                #03-27 & #03-28 ZERVEX
+mnt-by:         MAINT-ANSPL-SG
+last-modified:  2022-10-10T04:28:53Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

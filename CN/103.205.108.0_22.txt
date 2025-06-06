@@ -1,0 +1,120 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.205.108.0 - 103.205.111.255'
+
+% Abuse contact for '103.205.108.0 - 103.205.111.255' is 'abuse@chinamobile.com'
+
+inetnum:        103.205.108.0 - 103.205.111.255
+netname:        CMNET
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+org:            ORG-CM1-AP
+admin-c:        ct74-AP
+tech-c:         HL1318-AP
+abuse-c:        AC2006-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CMCC
+mnt-routes:     MAINT-CN-CMCC
+mnt-irt:        IRT-CHINAMOBILE-CN
+last-modified:  2020-10-20T00:58:46Z
+source:         APNIC
+
+irt:            IRT-CHINAMOBILE-CN
+address:        China Mobile Communications Corporation
+address:        29, Jinrong Ave., Xicheng District, Beijing, 100032
+e-mail:         abuse@chinamobile.com
+abuse-mailbox:  abuse@chinamobile.com
+admin-c:        CT74-AP
+tech-c:         CT74-AP
+auth:           # Filtered
+remarks:        abuse@chinamobile.com was validated on 2025-03-07
+mnt-by:         MAINT-CN-CMCC
+last-modified:  2025-03-07T06:38:53Z
+source:         APNIC
+
+organisation:   ORG-CM1-AP
+org-name:       China Mobile
+org-type:       LIR
+country:        CN
+address:        29, Jinrong Ave.
+phone:          +86-10-5268-6688
+fax-no:         +86-10-5261-6187
+e-mail:         hostmaster@chinamobile.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:48Z
+source:         APNIC
+
+role:           ABUSE CHINAMOBILECN
+country:        ZZ
+address:        China Mobile Communications Corporation
+address:        29, Jinrong Ave., Xicheng District, Beijing, 100032
+phone:          +000000000
+e-mail:         abuse@chinamobile.com
+admin-c:        CT74-AP
+tech-c:         CT74-AP
+nic-hdl:        AC2006-AP
+remarks:        Generated from irt object IRT-CHINAMOBILE-CN
+remarks:        abuse@chinamobile.com was validated on 2025-03-07
+abuse-mailbox:  abuse@chinamobile.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-07T06:39:27Z
+source:         APNIC
+
+role:           chinamobile tech
+address:        29, Jinrong Ave.,Xicheng district
+address:        Beijing
+country:        CN
+phone:          +86 5268 6688
+fax-no:         +86 5261 6187
+e-mail:         hostmaster@chinamobile.com
+admin-c:        HL1318-AP
+tech-c:         HL1318-AP
+nic-hdl:        ct74-AP
+notify:         hostmaster@chinamobile.com
+mnt-by:         MAINT-cn-cmcc
+abuse-mailbox:  abuse@chinamobile.com
+last-modified:  2016-11-29T09:37:27Z
+source:         APNIC
+
+person:         haijun li
+nic-hdl:        HL1318-AP
+e-mail:         hostmaster@chinamobile.com
+address:        29,Jinrong Ave, Xicheng district,beijing,100032
+phone:          +86 1052686688
+fax-no:         +86 10 52616187
+country:        CN
+mnt-by:         MAINT-CN-CMCC
+abuse-mailbox:  abuse@chinamobile.com
+last-modified:  2016-11-29T09:38:38Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.88.188.0 - 103.88.191.255'
+
+% Abuse contact for '103.88.188.0 - 103.88.191.255' is 'abuse@hostease.com'
+
+inetnum:        103.88.188.0 - 103.88.191.255
+netname:        NETEY-AP
+descr:          Netey Networks LLC
+country:        HK
+org:            ORG-NNL7-AP
+admin-c:        NNLA3-AP
+tech-c:         NNLA3-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AN705-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NETEY-AP
+mnt-routes:     MAINT-NETEY-AP
+mnt-irt:        IRT-NETEY-AP
+last-modified:  2023-06-12T14:41:20Z
+source:         APNIC
+
+irt:            IRT-NETEY-AP
+address:        311 E Valley Blvd # 112 PMB26 San Gabriel CA 91776
+phone:          +1 8183015026
+fax-no:         +1 8183015026
+e-mail:         admin@hostease.com
+abuse-mailbox:  abuse@hostease.com
+admin-c:        NNLA3-AP
+tech-c:         NNLA3-AP
+auth:           # Filtered
+remarks:        abuse@hostease.com was validated on 2025-04-23
+remarks:        admin@hostease.com was validated on 2025-05-07
+mnt-by:         MAINT-NETEY-AP
+last-modified:  2025-05-07T01:19:07Z
+source:         APNIC
+
+organisation:   ORG-NNL7-AP
+org-name:       Netey Networks LLC
+org-type:       LIR
+country:        US
+address:        311 E Valley Blvd # 112 PMB26
+address:        San Gabriel
+phone:          +1-8183015026
+e-mail:         brian@hostease.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:40Z
+source:         APNIC
+
+role:           ABUSE NETEYAP
+country:        ZZ
+address:        311 E Valley Blvd # 112 PMB26 San Gabriel CA 91776
+phone:          +1 8183015026
+e-mail:         admin@hostease.com
+admin-c:        NNLA3-AP
+tech-c:         NNLA3-AP
+nic-hdl:        AN705-AP
+remarks:        Generated from irt object IRT-NETEY-AP
+remarks:        abuse@hostease.com was validated on 2025-04-23
+remarks:        admin@hostease.com was validated on 2025-05-07
+abuse-mailbox:  abuse@hostease.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-07T01:19:28Z
+source:         APNIC
+
+role:           Netey Networks LLC administrator
+address:        UNIT C, 9/F WINNING HOUSE,, NO.72-76 WING LOK STREET,, SHEUNG WAN, HONG KONG HONG KONG 999077
+country:        US
+phone:          +1-351-888-1334
+fax-no:         +1-351-888-1334
+e-mail:         abuse@hostease.com
+admin-c:        NNLA3-AP
+tech-c:         NNLA3-AP
+nic-hdl:        NNLA3-AP
+mnt-by:         MAINT-NETEY-AP
+last-modified:  2023-11-08T05:09:58Z
+source:         APNIC
+
+% Information related to '103.88.188.0/22AS398478'
+
+route:          103.88.188.0/22
+origin:         AS398478
+descr:          Netey Networks LLC
+                311 E Valley Blvd #112 PMB26
+                San Gabriel
+mnt-by:         MAINT-NETEY-AP
+last-modified:  2023-06-16T01:25:09Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

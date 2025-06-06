@@ -1,0 +1,119 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      49.0.0.0 - 49.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '49.64.0.0 - 49.95.255.255'
+
+% Abuse contact for '49.64.0.0 - 49.95.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        49.64.0.0 - 49.95.255.255
+netname:        CHINANET-JS
+descr:          CHINANET jiangsu province network
+descr:          China Telecom
+descr:          260 Zhongyang Road,Nanjing 210037
+country:        CN
+admin-c:        CH360-AP
+tech-c:         CS306-AP
+tech-c:         CN142-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+notify:         jsipmanager@163.com
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-JS
+mnt-routes:     MAINT-CHINANET-JS
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2022-04-26T07:40:27Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         CHINANET-JS Hostmaster
+nic-hdl:        CH360-AP
+e-mail:         jsipmanager@163.com
+address:        Room 1001#, 260 Zhongyang Road, Nanjing,Jiangsu Province
+phone:          +86-25-86588231
+phone:          +86-25-86588745
+fax-no:         +86-25-86588104
+country:        CN
+mnt-by:         MAINT-CHINANET-JS
+last-modified:  2022-03-15T07:08:59Z
+source:         APNIC
+
+person:         CHINANET-JS Network Operations
+nic-hdl:        CN142-AP
+e-mail:         jsipmanager@163.com
+address:        Room 1001#, 260 Zhongyang Road, Nanjing,Jiangsu Province
+phone:          +86-25-86588721
+phone:          +86-25-86788130
+phone:          +86-25-86788122
+phone:          +86-25-86588787
+fax-no:         +86-25-86588104
+country:        CN
+mnt-by:         MAINT-CHINANET-JS
+last-modified:  2022-03-15T07:09:00Z
+source:         APNIC
+
+person:         CHINANET-JS Security Administrater
+nic-hdl:        CS306-AP
+e-mail:         jsipmanager@163.com
+address:        Room 1001#, 260 Zhongyang Road, Nanjing,Jiangsu Province
+phone:          +86-25-86588745
+phone:          +86-25-86588231
+fax-no:         +86-25-86588104
+country:        CN
+mnt-by:         MAINT-CHINANET-JS
+last-modified:  2022-03-15T07:09:00Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

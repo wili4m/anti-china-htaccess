@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.41.16.0 - 103.41.19.255'
+
+% Abuse contact for '103.41.16.0 - 103.41.19.255' is 'harry.soyx@gmail.com'
+
+inetnum:        103.41.16.0 - 103.41.19.255
+netname:        HUAJIASALES-CN
+descr:          SEG Plaza, 1405
+country:        CN
+org:            ORG-HJS1-AP
+admin-c:        HJSA1-AP
+tech-c:         HJSA1-AP
+abuse-c:        AH1121-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HUAJIASALES-CN
+mnt-routes:     MAINT-HUAJIASALES-CN
+mnt-irt:        IRT-HUAJIASALES-CN
+last-modified:  2020-09-22T13:31:36Z
+source:         APNIC
+
+irt:            IRT-HUAJIASALES-CN
+address:        guang dong sheng fu tian qu
+e-mail:         harry.soyx@gmail.com
+abuse-mailbox:  harry.soyx@gmail.com
+admin-c:        HJSA1-AP
+tech-c:         HJSA1-AP
+auth:           # Filtered
+remarks:        harry.soyx@gmail.com
+remarks:        harry.soyx@gmail.com was validated on 2024-11-20
+mnt-by:         MAINT-HUAJIASALES-CN
+last-modified:  2024-11-20T15:32:12Z
+source:         APNIC
+
+organisation:   ORG-HJS1-AP
+org-name:       hua jia Sales
+org-type:       LIR
+country:        CN
+address:        Huaqiang North Road, Futian District, Shenzhen
+address:        area 1, 4th floor, SEG Electronic Plaza
+phone:          +852-31884588
+fax-no:         +852-31884588
+e-mail:         harry.soyx@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:23Z
+source:         APNIC
+
+role:           ABUSE HUAJIASALESCN
+country:        ZZ
+address:        guang dong sheng fu tian qu
+phone:          +000000000
+e-mail:         harry.soyx@gmail.com
+admin-c:        HJSA1-AP
+tech-c:         HJSA1-AP
+nic-hdl:        AH1121-AP
+remarks:        Generated from irt object IRT-HUAJIASALES-CN
+remarks:        harry.soyx@gmail.com was validated on 2024-11-20
+abuse-mailbox:  harry.soyx@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-20T15:32:29Z
+source:         APNIC
+
+role:           hua jia Sales administrator
+address:        guang dong sheng fu tian qu
+country:        CN
+phone:          +852 31884588
+fax-no:         +852 31884588
+e-mail:         harry.soyx@gmail.com
+admin-c:        HJSA1-AP
+tech-c:         HJSA1-AP
+nic-hdl:        HJSA1-AP
+mnt-by:         MAINT-HUAJIASALES-CN
+last-modified:  2022-02-11T09:21:43Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

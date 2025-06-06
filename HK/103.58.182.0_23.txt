@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.58.182.0 - 103.58.183.255'
+
+% Abuse contact for '103.58.182.0 - 103.58.183.255' is 'noc@orbis.com'
+
+inetnum:        103.58.182.0 - 103.58.183.255
+netname:        OIAHK-HK
+descr:          Suites 1802-1805 18/F
+descr:          Charter House
+descr:          8 Connaught Road Central
+country:        HK
+org:            ORG-OIMK1-AP
+geoloc:         22.2821732 114.1581357
+admin-c:        OIMH1-AP
+tech-c:         OIMH1-AP
+abuse-c:        AO287-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-OIMHK-HK
+mnt-irt:        IRT-OIMHK-HK
+last-modified:  2020-11-25T06:31:27Z
+source:         APNIC
+
+irt:            IRT-OIMHK-HK
+address:        Suites 1802-1805 18/F, Charter House, 8 Connaught Road Central, Hong Kong
+e-mail:         noc@orbis.com
+abuse-mailbox:  noc@orbis.com
+admin-c:        OIMH1-AP
+tech-c:         OIMH1-AP
+auth:           # Filtered
+remarks:        noc@orbis.com was validated on 2025-05-22
+mnt-by:         MAINT-OIMHK-HK
+last-modified:  2025-05-22T13:12:50Z
+source:         APNIC
+
+organisation:   ORG-OIMK1-AP
+org-name:       Orbis Investment Management (Hong Kong) Limited
+org-type:       LIR
+country:        HK
+address:        Suites 1802-1805 18/F
+address:        Charter House
+address:        8 Connaught Road Central
+phone:          +852-3401-3000
+e-mail:         noc@orbis.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:37Z
+source:         APNIC
+
+role:           ABUSE OIMHKHK
+country:        ZZ
+address:        Suites 1802-1805 18/F, Charter House, 8 Connaught Road Central, Hong Kong
+phone:          +000000000
+e-mail:         noc@orbis.com
+admin-c:        OIMH1-AP
+tech-c:         OIMH1-AP
+nic-hdl:        AO287-AP
+remarks:        Generated from irt object IRT-OIMHK-HK
+remarks:        noc@orbis.com was validated on 2025-05-22
+abuse-mailbox:  noc@orbis.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-22T13:12:54Z
+source:         APNIC
+
+role:           Orbis Investment Management Hong Kong Limited - Administrator
+address:        Suites 1802-1805 18/F, Charter House, 8 Connaught Road Central, Hong Kong
+country:        HK
+phone:          + 852 3401 3000
+e-mail:         noc@orbis.com
+admin-c:        OIMH1-AP
+tech-c:         OIMH1-AP
+nic-hdl:        OIMH1-AP
+mnt-by:         MAINT-OIMHK-HK
+last-modified:  2018-08-02T01:43:16Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

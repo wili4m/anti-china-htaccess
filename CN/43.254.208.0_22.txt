@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.254.208.0 - 43.254.211.255'
+
+% Abuse contact for '43.254.208.0 - 43.254.211.255' is 'shy@nwnet.com.cn'
+
+inetnum:        43.254.208.0 - 43.254.211.255
+netname:        NWNET
+descr:          Beijing North a network of technology development limited company
+descr:          Room 613,Xinwenhua Building,No.11 Chongwenmenwai Street,Dongcheng District,Beijing,China
+country:        CN
+admin-c:        ML1813-AP
+tech-c:         BW669-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NWNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:04Z
+source:         APNIC
+
+irt:            IRT-NWNET-CN
+address:        202.Tower 1,No,10.Hongda North Road,BDA,Beijing,China
+e-mail:         shy@nwnet.com.cn
+abuse-mailbox:  shy@nwnet.com.cn
+auth:           # Filtered
+admin-c:        ML1813-AP
+tech-c:         ML1813-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:24Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yang Su
+address:        Room 613,Xinwenhua Building,No.11 Chongwenmenwai Street,Dongcheng District,Beijing,China
+country:        CN
+phone:          +86-01067088866
+e-mail:         suyang@nwnet.com.cn
+nic-hdl:        BW669-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-11-07T02:58:01Z
+source:         APNIC
+
+person:         HongYi Sun
+address:        Room 613,Xinwenhua Building,No.11 Chongwenmenwai Street,Dongcheng District,Beijing,China
+country:        CN
+phone:          +86-01067088866
+e-mail:         shy@nwnet.com.cn
+nic-hdl:        ML1813-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-11-07T02:58:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

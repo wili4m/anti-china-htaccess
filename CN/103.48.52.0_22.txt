@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.48.52.0 - 103.48.55.255'
+
+% Abuse contact for '103.48.52.0 - 103.48.55.255' is 'lyndameng@sina.com'
+
+inetnum:        103.48.52.0 - 103.48.55.255
+netname:        HXDNET
+descr:          Beijing haixunda Communication Co., Ltd
+country:        CN
+admin-c:        YW7117-AP
+tech-c:         YW7117-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HXDNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:32Z
+source:         APNIC
+
+irt:            IRT-HXDNET-CN
+address:        65 Fuyou st, Xicheng District, Beijing
+e-mail:         lyndameng@sina.com
+abuse-mailbox:  lyndameng@sina.com
+auth:           # Filtered
+admin-c:        YW7117-AP
+tech-c:         YW7117-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-17T02:15:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lynda Meng
+address:        65 Fuyou st, Xicheng District, Beijing
+country:        CN
+phone:          +8610-13911263223
+e-mail:         lyndameng@sina.com
+nic-hdl:        YW7117-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-08-07T01:56:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

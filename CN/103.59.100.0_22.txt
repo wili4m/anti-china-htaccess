@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.59.100.0 - 103.59.103.255'
+
+% Abuse contact for '103.59.100.0 - 103.59.103.255' is '460656068@qq.com'
+
+inetnum:        103.59.100.0 - 103.59.103.255
+netname:        QYSHTNTCL-CN
+descr:          Qingdao City, Chengyang Zhengyang Middle Road 165
+country:        CN
+org:            ORG-QYSH1-AP
+admin-c:        QYSH1-AP
+tech-c:         QYSH1-AP
+abuse-c:        AQ181-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-QYSHTNTCL-CN
+mnt-routes:     MAINT-QYSHTNTCL-CN
+mnt-irt:        IRT-QYSHTNTCL-CN
+last-modified:  2021-01-13T22:50:42Z
+source:         APNIC
+
+irt:            IRT-QYSHTNTCL-CN
+address:        Chengyang Zhengyang Middle Road 165
+e-mail:         460656068@qq.com
+abuse-mailbox:  460656068@qq.com
+admin-c:        YNTC1-AP
+tech-c:         YNTC1-AP
+auth:           # Filtered
+remarks:        460656068@qq.com
+remarks:        460656068@qq.com is invalid
+mnt-by:         MAINT-CLOUD-YISUHUTONG
+last-modified:  2024-08-02T14:19:35Z
+source:         APNIC
+
+organisation:   ORG-QYSH1-AP
+org-name:       Qingdao yi su hu tong Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Qingdao City, Chengyang Zhengyang Middle Road 165
+phone:          +086-15166665869
+e-mail:         8cuo@163.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:37Z
+source:         APNIC
+
+role:           ABUSE QYSHTNTCLCN
+country:        ZZ
+address:        Chengyang Zhengyang Middle Road 165
+phone:          +000000000
+e-mail:         460656068@qq.com
+admin-c:        YNTC1-AP
+tech-c:         YNTC1-AP
+nic-hdl:        AQ181-AP
+remarks:        Generated from irt object IRT-QYSHTNTCL-CN
+remarks:        460656068@qq.com is invalid
+abuse-mailbox:  460656068@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-08-02T13:57:58Z
+source:         APNIC
+
+role:           Qingdao yi su hu tong Network Technology Co Ltd
+address:        Chengyang Zhengyang Middle Road 165
+country:        CN
+phone:          +8653286635030
+e-mail:         contact118@163.com
+admin-c:        YNTC1-AP
+tech-c:         YNTC1-AP
+nic-hdl:        QYSH1-AP
+mnt-by:         MAINT-QYSHTNTCL-CN
+last-modified:  2024-08-23T11:26:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

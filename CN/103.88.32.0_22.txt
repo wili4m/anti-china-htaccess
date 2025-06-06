@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.88.32.0 - 103.88.35.255'
+
+% Abuse contact for '103.88.32.0 - 103.88.35.255' is 'noc@nbgaofang.com'
+
+inetnum:        103.88.32.0 - 103.88.35.255
+netname:        nbgaofang
+descr:          Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd
+descr:          1088-13 No.1558 Jiangnan Road,NingBo,China
+country:        CN
+admin-c:        YW7352-AP
+tech-c:         JS3943-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NBGAOFANG-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2024-06-24T06:41:30Z
+source:         APNIC
+
+irt:            IRT-nbgaofang-CN
+address:        1088-13 No.1558 Jiangnan Road,NingBo,China
+e-mail:         noc@nbgaofang.com
+abuse-mailbox:  noc@nbgaofang.com
+admin-c:        YW7352-AP
+tech-c:         JS3943-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-06-24T06:41:30Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Tianyuan Wu
+address:        1088-13 No.1558 Jiangnan Road,NingBo,China
+country:        CN
+phone:          +86-0574-88093323
+e-mail:         noc@nbgaofang.com
+nic-hdl:        JS3943-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-03-16T01:56:02Z
+source:         APNIC
+
+person:         sean lin
+address:        088-13 No.1558 Jiangnan Road,NingBo,China
+country:        CN
+phone:          +86-18067210136
+e-mail:         op@6736.com
+nic-hdl:        YW7352-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-06-24T07:52:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

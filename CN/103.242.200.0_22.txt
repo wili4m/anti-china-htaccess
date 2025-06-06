@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.242.200.0 - 103.242.203.255'
+
+% Abuse contact for '103.242.200.0 - 103.242.203.255' is 'meng.li@sinoinstinct.com'
+
+inetnum:        103.242.200.0 - 103.242.203.255
+netname:        instinct
+descr:          Instinct (Beijing) Technology Co., Ltd
+country:        CN
+admin-c:        ZM902-AP
+tech-c:         ZM903-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-INSTINCT-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:22Z
+source:         APNIC
+
+irt:            IRT-instinct-CN
+address:        25F, No.9 Tianjuyuan, Media village, Chaoyang, Beijing
+e-mail:         meng.li@sinoinstinct.com
+abuse-mailbox:  meng.li@sinoinstinct.com
+auth:           # Filtered
+admin-c:        ZM902-AP
+tech-c:         ZM902-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:21Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Meng Li
+address:        25F, No.9 Tianjuyuan, Media village, Chaoyang, Beijing
+country:        CN
+phone:          +86-021-56229959
+e-mail:         meng.li@sinoinstinct.com
+nic-hdl:        ZM902-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-09-24T01:04:02Z
+source:         APNIC
+
+person:         Gang Liu
+address:        25F, No.9 Tianjuyuan, Media village, Chaoyang, Beijing
+country:        CN
+phone:          +86-021-56229959
+e-mail:         gang.liu@sinoinstinct.com
+nic-hdl:        ZM903-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-09-24T01:04:03Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

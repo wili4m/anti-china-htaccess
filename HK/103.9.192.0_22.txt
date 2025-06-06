@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.9.192.0 - 103.9.195.255'
+
+% Abuse contact for '103.9.192.0 - 103.9.195.255' is 'abuse@linkchina.com.cn'
+
+inetnum:        103.9.192.0 - 103.9.195.255
+netname:        LTG-HK
+descr:          LinkChina Telecom Global Limited
+country:        HK
+org:            ORG-LTGL1-AP
+admin-c:        LTGL2-AP
+tech-c:         LTGL2-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AL1469-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-LTG-HK
+mnt-routes:     MAINT-LTG-HK
+mnt-irt:        IRT-LTG-HK
+last-modified:  2022-12-18T23:44:03Z
+source:         APNIC
+
+irt:            IRT-LTG-HK
+address:        FLAT/RM A 9/F, SILVERCORP INTERNATIONAL TOWER, 707-713 NATHAN ROAD, MONGKOK KL, HONG KONG HONG KONG
+e-mail:         abuse@linkchina.com.cn
+abuse-mailbox:  abuse@linkchina.com.cn
+admin-c:        LTGL2-AP
+tech-c:         LTGL2-AP
+auth:           # Filtered
+remarks:        abuse@linkchina.com.cn was validated on 2025-04-03
+mnt-by:         MAINT-LTG-HK
+last-modified:  2025-04-03T02:01:23Z
+source:         APNIC
+
+organisation:   ORG-LTGL1-AP
+org-name:       LinkChina Telecom Global Limited.
+org-type:       LIR
+country:        HK
+address:        FLAT/RM A 9/F
+address:        SILVERCORP INTERNATIONAL TOWER
+address:        707-713 NATHAN ROAD, MONGKOK KL
+phone:          +86-138-2363-0808
+e-mail:         abuse@linkchina.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:54Z
+source:         APNIC
+
+role:           ABUSE LTGHK
+country:        ZZ
+address:        FLAT/RM A 9/F, SILVERCORP INTERNATIONAL TOWER, 707-713 NATHAN ROAD, MONGKOK KL, HONG KONG HONG KONG
+phone:          +000000000
+e-mail:         abuse@linkchina.com.cn
+admin-c:        LTGL2-AP
+tech-c:         LTGL2-AP
+nic-hdl:        AL1469-AP
+remarks:        Generated from irt object IRT-LTG-HK
+remarks:        abuse@linkchina.com.cn was validated on 2025-04-03
+abuse-mailbox:  abuse@linkchina.com.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-03T02:01:50Z
+source:         APNIC
+
+role:           LinkChina Telecom Global Limited administrator
+address:        FLAT/RM A 9/F, SILVERCORP INTERNATIONAL TOWER, 707-713 NATHAN ROAD, MONGKOK  KL, HONG KONG HONG KONG
+country:        HK
+phone:          +852-6941-1697
+fax-no:         +852-6941-1697
+e-mail:         abuse@linkchina.hk
+admin-c:        LTGL2-AP
+tech-c:         LTGL2-AP
+nic-hdl:        LTGL2-AP
+mnt-by:         MAINT-LTG-HK
+last-modified:  2016-04-29T05:33:47Z
+source:         APNIC
+
+% Information related to '103.9.192.0/22AS135386'
+
+route:          103.9.192.0/22
+origin:         AS135386
+descr:          Shenzhen Qianhai cloud and Big data limited company
+                Shenzhen Qianhai cloud & Big data limited company
+                Baisha 3011 Science and Technology Industrial Park,
+                8th Floor Area V, Shahe West Road,
+mnt-by:         MAINT-LTG-HK
+last-modified:  2022-12-18T23:44:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

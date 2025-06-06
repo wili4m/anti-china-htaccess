@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.37.16.0 - 103.37.19.255'
+
+% Abuse contact for '103.37.16.0 - 103.37.19.255' is '3111238496@qq.com'
+
+inetnum:        103.37.16.0 - 103.37.19.255
+netname:        ZHEJIANGZHIYUN
+descr:          Zhejiang zhi cloud information technology co., LTD
+country:        CN
+admin-c:        ZRT4-AP
+tech-c:         ZRT4-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-ZHEJIANGZHIYUN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:28Z
+source:         APNIC
+
+irt:            IRT-ZHEJIANGZHIYUN-CN
+address:        Room 105 ofSheJiFang,No.76,Lane55,HongYuan Road,LuCheng District,WenZhou City
+e-mail:         3111238496@qq.com
+abuse-mailbox:  3111238496@qq.com
+auth:           # Filtered
+admin-c:        ZRT4-AP
+tech-c:         ZRT4-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:21Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Zhang Ren Tie
+address:        Room 105 ofSheJiFang,No.76,Lane55,HongYuan Road,LuCheng District,WenZhou City
+country:        CN
+phone:          +86-13738067205
+e-mail:         3111238496@qq.com
+nic-hdl:        ZRT4-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2018-04-02T03:30:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

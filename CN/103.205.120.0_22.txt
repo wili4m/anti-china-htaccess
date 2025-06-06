@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.205.120.0 - 103.205.123.255'
+
+% Abuse contact for '103.205.120.0 - 103.205.123.255' is 'abuse@veri2.com'
+
+inetnum:        103.205.120.0 - 103.205.123.255
+netname:        BHICL-CN
+descr:          No.1301,103 # Huizhongli, Chaoyang District
+country:        CN
+org:            ORG-BHIC1-AP
+admin-c:        RN444-AP
+tech-c:         RN444-AP
+abuse-c:        AB947-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BHICL-CN
+mnt-routes:     MAINT-BHICL-CN
+mnt-irt:        IRT-BHICL-CN
+last-modified:  2021-12-12T13:42:48Z
+source:         APNIC
+
+irt:            IRT-BHICL-CN
+address:        36 North Third Ring Road East, Dongcheng Dist, Beijing 100013
+e-mail:         asip@veri2.com
+abuse-mailbox:  abuse@veri2.com
+admin-c:        RN444-AP
+tech-c:         RN444-AP
+auth:           # Filtered
+remarks:        To report abuse and illegal activity: https://veri2.com/support
+remarks:        abuse@veri2.com was validated on 2025-04-22
+remarks:        asip@veri2.com was validated on 2025-04-22
+mnt-by:         MAINT-BHICL-CN
+last-modified:  2025-04-22T15:00:53Z
+source:         APNIC
+
+organisation:   ORG-BHIC1-AP
+org-name:       Bit Huitong (Beijing) Information Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        36 North Third Ring Road East
+address:        Dongcheng Dist
+phone:          +86-010-57163222
+e-mail:         asip@veri2.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-10-03T12:55:54Z
+source:         APNIC
+
+role:           ABUSE BHICLCN
+country:        ZZ
+address:        36 North Third Ring Road East, Dongcheng Dist, Beijing 100013
+phone:          +000000000
+e-mail:         asip@veri2.com
+admin-c:        RN444-AP
+tech-c:         RN444-AP
+nic-hdl:        AB947-AP
+remarks:        Generated from irt object IRT-BHICL-CN
+remarks:        abuse@veri2.com was validated on 2025-04-22
+remarks:        asip@veri2.com was validated on 2025-04-22
+abuse-mailbox:  abuse@veri2.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-22T15:01:21Z
+source:         APNIC
+
+role:           RT Network
+address:        36 North Third Ring Road East Dongcheng Dist Beijing, 100013
+country:        CN
+phone:          +86-010-57163222
+e-mail:         asip@veri2.com
+admin-c:        RN444-AP
+tech-c:         RN444-AP
+nic-hdl:        RN444-AP
+mnt-by:         MAINT-BHICL-CN
+last-modified:  2023-10-02T16:47:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

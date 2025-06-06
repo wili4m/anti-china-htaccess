@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.14.32.0 - 103.14.35.255'
+
+% Abuse contact for '103.14.32.0 - 103.14.35.255' is 'abuse@zenlayer.com'
+
+inetnum:        103.14.32.0 - 103.14.35.255
+netname:        ZEN-SG
+descr:          Zenlayer (Singapore) PTE. LTD
+country:        SG
+org:            ORG-ZPL6-AP
+admin-c:        ZSPL3-AP
+tech-c:         ZSPL3-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AZ383-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ZEN-SG
+mnt-routes:     MAINT-ZEN-SG
+mnt-irt:        IRT-ZEN-SG
+last-modified:  2024-10-17T09:36:40Z
+geofeed:        https://geofeed.zenlayer.net/geofeed.csv
+source:         APNIC
+
+irt:            IRT-ZEN-SG
+address:        67 Ubi Road 1, # 10-02, Oxley Bizhub, Singapore 408730, singapore singapore 408730
+e-mail:         abuse@zenlayer.com
+abuse-mailbox:  abuse@zenlayer.com
+admin-c:        ZSPL3-AP
+tech-c:         ZG1152-AP
+auth:           # Filtered
+remarks:        abuse@zenlayer.com was validated on 2025-03-25
+mnt-by:         MAINT-ZEN-SG
+last-modified:  2025-03-25T07:24:38Z
+source:         APNIC
+
+organisation:   ORG-ZPL6-AP
+org-name:       Zenlayer (Singapore) PTE. LTD
+org-type:       LIR
+country:        SG
+address:        101 Thomson Rd, # 22-01
+address:        United Square
+address:        Singapore 307591
+phone:          +15088349572
+e-mail:         howard.zhao@zenlayer.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-08-28T13:06:01Z
+source:         APNIC
+
+role:           ABUSE ZENSG
+country:        ZZ
+address:        67 Ubi Road 1, # 10-02, Oxley Bizhub, Singapore 408730, singapore singapore 408730
+phone:          +000000000
+e-mail:         abuse@zenlayer.com
+admin-c:        ZSPL3-AP
+tech-c:         ZG1152-AP
+nic-hdl:        AZ383-AP
+remarks:        Generated from irt object IRT-ZEN-SG
+remarks:        abuse@zenlayer.com was validated on 2025-03-25
+abuse-mailbox:  abuse@zenlayer.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-25T07:25:04Z
+source:         APNIC
+
+role:           Zenlayer Singapore PTE LTD administrator
+address:        67 Ubi Road 1, #10-02, Oxley Bizhub, Singapore 408730, singapore singapore 408730
+country:        SG
+phone:          +19097183558
+e-mail:         abuse@zenlayer.com
+admin-c:        ZSPL3-AP
+tech-c:         ZSPL3-AP
+nic-hdl:        ZSPL3-AP
+mnt-by:         MAINT-ZEN-SG
+last-modified:  2019-06-27T01:42:58Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

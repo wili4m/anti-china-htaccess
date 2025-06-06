@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.72.112.0 - 103.72.115.255'
+
+% Abuse contact for '103.72.112.0 - 103.72.115.255' is 'domain.admin@ge.com'
+
+inetnum:        103.72.112.0 - 103.72.115.255
+netname:        GECHINANET
+descr:          GE (China) Co.,Ltd
+descr:          1 Hua Tuo Road ZhangJiang Hi-Tech Park Shanghai 201203 China
+country:        CN
+admin-c:        YW6631-AP
+tech-c:         JS3860-AP
+abuse-c:        JS3860-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-GECHINANET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2024-06-03T07:50:31Z
+source:         APNIC
+
+irt:            IRT-GECHINANET-CN
+address:        1 Hua Tuo Road ZhangJiang Hi-Tech Park
+address:        Shanghai 201203 China
+e-mail:         domain.admin@ge.com
+abuse-mailbox:  domain.admin@ge.com
+admin-c:        YW6631-AP
+tech-c:         JS3860-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-01T08:09:31Z
+source:         APNIC
+
+person:         David Xu
+address:        1 Hua Tuo Road ZhangJiang Hi-Tech Park
+address:        Shanghai 201203 China
+country:        CN
+phone:          +86-17702162829
+e-mail:         david.xu1@gehealthcare.com
+nic-hdl:        JS3860-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-06-03T07:38:10Z
+source:         APNIC
+
+person:         Ivan Sun
+address:        1 Hua Tuo Road ZhangJiang Hi-Tech Park
+address:        Shanghai 201203 China
+country:        CN
+phone:          +86-18101130099
+e-mail:         ivan.sun@ge.com
+nic-hdl:        YW6631-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-18T02:28:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.241.88.0 - 43.241.91.255'
+
+% Abuse contact for '43.241.88.0 - 43.241.91.255' is 'sinnet-irt@sinnet.com.cn'
+
+inetnum:        43.241.88.0 - 43.241.91.255
+netname:        SINNET
+descr:          Beijing Guanghuan Xinwang Digital Technology co.Ltd
+descr:          2A-2F,Tower A,East Gate Plaza,NO.9 Dong Zhong Street,
+descr:          Dong Cheng Dstrict,Beijing
+country:        CN
+admin-c:        CH471-AP
+tech-c:         WH271-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SINNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:00Z
+source:         APNIC
+
+irt:            IRT-SINNET-CN
+address:        2A-2F,Tower A,East Gate Plaza,NO.9 Dong Zhong Street,
+address:        Dong Cheng Dstrict,Beijing
+e-mail:         sinnet-irt@sinnet.com.cn
+abuse-mailbox:  sinnet-irt@sinnet.com.cn
+auth:           # Filtered
+admin-c:        CH471-AP
+tech-c:         WH271-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-24T07:37:59Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Chen hao
+nic-hdl:        CH471-AP
+e-mail:         lichao@sinnet.com.cn
+address:        Langfang university Langfang Development Area
+phone:          +86-13311166160
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:29:22Z
+source:         APNIC
+
+person:         Wang Huijun
+nic-hdl:        WH271-AP
+e-mail:         chenbincb@sinnet.com.cn
+address:        Langfang university Langfang Development Area
+phone:          +86-13311166160
+fax-no:         +86-64181819
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:29:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

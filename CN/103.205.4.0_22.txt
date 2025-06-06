@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.205.4.0 - 103.205.7.255'
+
+% Abuse contact for '103.205.4.0 - 103.205.7.255' is 'wjj@vzidc.com'
+
+inetnum:        103.205.4.0 - 103.205.7.255
+netname:        wznt
+descr:          Jiangsu Weizi Network Technology Co?Ltd
+country:        CN
+admin-c:        WJJ48-AP
+tech-c:         WJJ48-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-WZNT-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:56:07Z
+source:         APNIC
+
+irt:            IRT-wznt-CN
+address:        Changzhou Wujin Hutang Maoye Thai urban business cubic room 2708
+e-mail:         wjj@vzidc.com
+abuse-mailbox:  wjj@vzidc.com
+auth:           # Filtered
+admin-c:        WJJ48-AP
+tech-c:         WJJ48-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:29Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Jian jun wang
+address:        Changzhou Wujin Hutang Maoye Thai urban business cubic room 2708
+country:        CN
+phone:          +86-18115006622
+e-mail:         wjj@vzidc.com
+nic-hdl:        WJJ48-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2018-05-25T07:42:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

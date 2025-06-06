@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.66.176.0 - 116.66.179.255'
+
+% Abuse contact for '116.66.176.0 - 116.66.179.255' is 'luowx@yun-gu.com'
+
+inetnum:        116.66.176.0 - 116.66.179.255
+netname:        CVTL-HK
+descr:          CLOUD VALLEY TECHNOLOGY LIMITED
+country:        HK
+org:            ORG-CVTL1-AP
+admin-c:        CVTL1-AP
+tech-c:         CVTL1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AC1858-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CVTL-HK
+mnt-routes:     MAINT-CVTL-HK
+mnt-irt:        IRT-CVTL-HK
+last-modified:  2024-08-12T03:15:07Z
+source:         APNIC
+
+irt:            IRT-CVTL-HK
+address:        RM 1401 CAMBRIDGE HSE 26-28, CAMERON RD TST KLN, hong kong HONG KONG
+e-mail:         luowx@yun-gu.com
+abuse-mailbox:  luowx@yun-gu.com
+admin-c:        CVTL1-AP
+tech-c:         CVTL1-AP
+auth:           # Filtered
+remarks:        luowx@yun-gu.com was validated on 2024-07-17
+mnt-by:         MAINT-CVTL-HK
+last-modified:  2024-07-17T13:27:24Z
+source:         APNIC
+
+organisation:   ORG-CVTL1-AP
+org-name:       CLOUD VALLEY TECHNOLOGY LIMITED
+org-type:       LIR
+country:        HK
+address:        RM 1401 CAMBRIDGE HSE 26-28
+address:        CAMERON RD TST KLN
+phone:          +852-6915-7149
+e-mail:         account@yun-gu.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-06-04T12:55:47Z
+source:         APNIC
+
+role:           ABUSE CVTLHK
+address:        RM 1401 CAMBRIDGE HSE 26-28, CAMERON RD TST KLN, hong kong HONG KONG
+country:        ZZ
+phone:          +000000000
+e-mail:         luowx@yun-gu.com
+admin-c:        CVTL1-AP
+tech-c:         CVTL1-AP
+nic-hdl:        AC1858-AP
+remarks:        Generated from irt object IRT-CVTL-HK
+remarks:        luowx@yun-gu.com was validated on 2024-07-17
+abuse-mailbox:  luowx@yun-gu.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-17T13:28:16Z
+source:         APNIC
+
+role:           CLOUD VALLEY TECHNOLOGY LIMITED administrator
+address:        RM 1401 CAMBRIDGE HSE 26-28, CAMERON RD TST KLN, hong kong HONG KONG
+country:        HK
+phone:          +852-6915-7149
+fax-no:         +852-6915-7149
+e-mail:         luowx@yun-gu.com
+admin-c:        CVTL1-AP
+tech-c:         CVTL1-AP
+nic-hdl:        CVTL1-AP
+mnt-by:         MAINT-CVTL-HK
+last-modified:  2016-01-15T00:32:24Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.229.196.0 - 43.229.199.255'
+
+% Abuse contact for '43.229.196.0 - 43.229.199.255' is '1004380529@qq.com'
+
+inetnum:        43.229.196.0 - 43.229.199.255
+netname:        YIJIANET
+descr:          Shanghai Yi frame network science and technology limited company
+descr:          Room E2-E3,19 floor,Junyao International
+descr:          Plaza,No789,Zhao Jia Bang Road,Shanghai,China
+country:        CN
+admin-c:        ML1843-AP
+tech-c:         BW694-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-YIJIANET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:57Z
+source:         APNIC
+
+irt:            IRT-YIJIANET-CN
+address:        Room E2-E3,19 floor,Junyao International Plaza,No789,Zhao Jia Bang Road,Shanghai,China
+e-mail:         1004380529@qq.com
+abuse-mailbox:  1004380529@qq.com
+admin-c:        ML1843-AP
+tech-c:         BW694-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:48Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         lumei Sun
+address:        Room E2-E3,19 floor,Junyao International Plaza,No789,Zhao Jia Bang Road,Shanghai,China
+country:        CN
+phone:          +86-18910692009
+e-mail:         1004380529@qq.com
+nic-hdl:        BW694-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-01-21T05:14:01Z
+source:         APNIC
+
+person:         jinglong Wang
+address:        Room E2-E3,19 floor,Junyao International Plaza,No789,Zhao Jia Bang Road,Shanghai,China
+country:        CN
+phone:          +86-13764897706
+e-mail:         312350553@qq.com
+nic-hdl:        ML1843-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-01-21T05:14:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

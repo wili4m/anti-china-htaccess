@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.248.0.0 - 103.248.1.255'
+
+% Abuse contact for '103.248.0.0 - 103.248.1.255' is 'root@9du.org'
+
+inetnum:        103.248.0.0 - 103.248.1.255
+netname:        YONGWANG
+descr:          ChangTong Net Tech Ltd.
+descr:          # 2 Unit 1
+descr:          ZhangWeiZhaiStree 166
+descr:          ErQi Qu
+country:        CN
+org:            ORG-CNTL2-AP
+admin-c:        YW5426-AP
+tech-c:         YW5426-AP
+abuse-c:        AH1218-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+notify:         tispabuse@gmail.com
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HK-HTFNET
+mnt-routes:     MAINT-HK-HTFNET
+mnt-irt:        IRT-HTF-HK
+last-modified:  2021-01-11T22:15:52Z
+source:         APNIC
+
+irt:            IRT-HTF-HK
+address:        31F, 399 Chai Wan Road, Chai Wan, Hong Kong, HK
+e-mail:         root@9du.org
+abuse-mailbox:  root@9du.org
+admin-c:        CILA1-AP
+tech-c:         CILA1-AP
+auth:           # Filtered
+remarks:        root@9du.org is invalid
+mnt-by:         MAINT-HK-HTFNET
+last-modified:  2023-08-01T20:14:57Z
+source:         APNIC
+
+organisation:   ORG-CNTL2-AP
+org-name:       ChangTong Net Tech Ltd.
+org-type:       LIR
+country:        CN
+address:        # 2 Unit 1
+address:        ZhangWeiZhaiStree 166
+address:        ErQi Qu
+phone:          +86-18911728285
+fax-no:         +8601082608183
+e-mail:         yong@cloudrely.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:09Z
+source:         APNIC
+
+role:           ABUSE HTFHK
+address:        31F, 399 Chai Wan Road, Chai Wan, Hong Kong, HK
+country:        ZZ
+phone:          +000000000
+e-mail:         root@9du.org
+admin-c:        CILA1-AP
+tech-c:         CILA1-AP
+nic-hdl:        AH1218-AP
+remarks:        Generated from irt object IRT-HTF-HK
+remarks:        root@9du.org is invalid
+abuse-mailbox:  root@9du.org
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-08-01T20:15:44Z
+source:         APNIC
+
+person:         yong wang
+nic-hdl:        YW5426-AP
+e-mail:         htfap@9du.org
+address:        A2 . 4307 SuZhuStree BJ
+phone:          +86 18911728285
+country:        cn
+mnt-by:         MAINT-NEW
+last-modified:  2013-04-02T12:58:02Z
+source:         APNIC
+
+% Information related to '103.248.0.0/23AS63888'
+
+route:          103.248.0.0/23
+origin:         AS63888
+descr:          ChangTong Net Tech Ltd.
+                #2  Unit 1
+                ZhangWeiZhaiStree 166
+                ErQi Qu
+mnt-by:         MAINT-HK-HTFNET
+last-modified:  2019-07-02T17:40:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

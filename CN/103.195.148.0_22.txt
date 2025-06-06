@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.195.148.0 - 103.195.151.255'
+
+% Abuse contact for '103.195.148.0 - 103.195.151.255' is 'admin@80vps.com'
+
+inetnum:        103.195.148.0 - 103.195.151.255
+netname:        NANNING-CN
+descr:          100 University Avenue
+country:        CN
+org:            ORG-NYNT2-AP
+admin-c:        NYNT2-AP
+tech-c:         NYNT2-AP
+abuse-c:        AN870-AP
+status:         ASSIGNED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        To report network abuse, please contact the IRT
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        For assistance, please contact the APNIC Helpdesk
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-NANNING-CN
+mnt-irt:        IRT-NANNING-CN
+last-modified:  2020-07-07T13:52:42Z
+source:         APNIC
+
+irt:            IRT-NANNING-CN
+address:        100 University Avenue, Nanning Guangxi 530000
+e-mail:         admin@80vps.com
+abuse-mailbox:  admin@80vps.com
+admin-c:        NYNT2-AP
+tech-c:         NYNT2-AP
+auth:           # Filtered
+remarks:        admin@80vps.com was validated on 2025-04-24
+mnt-by:         MAINT-NANNING-CN
+last-modified:  2025-04-24T01:05:26Z
+source:         APNIC
+
+organisation:   ORG-NYNT2-AP
+org-name:       Nanning Youmi Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        100 University Avenue
+phone:          +86 18677119027
+e-mail:         admin@80vps.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:42Z
+source:         APNIC
+
+role:           ABUSE NANNINGCN
+country:        ZZ
+address:        100 University Avenue, Nanning Guangxi 530000
+phone:          +000000000
+e-mail:         admin@80vps.com
+admin-c:        NYNT2-AP
+tech-c:         NYNT2-AP
+nic-hdl:        AN870-AP
+remarks:        Generated from irt object IRT-NANNING-CN
+remarks:        admin@80vps.com was validated on 2025-04-24
+abuse-mailbox:  admin@80vps.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T01:06:05Z
+source:         APNIC
+
+role:           Nanning Youmi Network Technology Co Ltd adminis
+address:        100 University Avenue, Nanning Guangxi 530000
+country:        CN
+phone:          +86-18677119027
+fax-no:         +86-18677119027
+e-mail:         admin@80vps.com
+admin-c:        NYNT2-AP
+tech-c:         NYNT2-AP
+nic-hdl:        NYNT2-AP
+mnt-by:         MAINT-NANNING-CN
+last-modified:  2015-09-10T00:34:27Z
+source:         APNIC
+
+% Information related to '103.195.148.0/22AS133731'
+
+route:          103.195.148.0/22
+descr:          Colocation at Xinyuan Interconnect
+origin:         AS133731
+mnt-by:         MAINT-NANNING-CN
+last-modified:  2015-09-15T19:45:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

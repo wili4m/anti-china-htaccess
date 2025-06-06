@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      122.0.0.0 - 122.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.10.128.0 - 122.10.131.255'
+
+% Abuse contact for '122.10.128.0 - 122.10.131.255' is 'support@cnispgroup.com'
+
+inetnum:        122.10.128.0 - 122.10.131.255
+netname:        CNISP-CN
+descr:          Beijing CNISP Technology Co., Ltd.
+country:        CN
+country:        CN
+org:            ORG-BCTC1-AP
+admin-c:        CM2275-AP
+tech-c:         CM2275-AP
+abuse-c:        AC1910-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AP-CNISP
+mnt-irt:        IRT-CNISP-CN
+last-modified:  2020-07-07T04:54:16Z
+source:         APNIC
+
+irt:            IRT-CNISP-CN
+address:        Beijing CNISP Technology Co., Ltd
+e-mail:         support@cnispgroup.com
+abuse-mailbox:  support@cnispgroup.com
+admin-c:        CM2275-AP
+tech-c:         CM2275-AP
+auth:           # Filtered
+remarks:        support@cnispgroup.com was validated on 2025-05-15
+mnt-by:         MAINT-AP-CNISP
+last-modified:  2025-05-15T03:22:05Z
+source:         APNIC
+
+organisation:   ORG-BCTC1-AP
+org-name:       Beijing CNISP Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Room 704, Building D, Shangdi Xinxi Road
+address:        Pioneering Park, Haidian District
+phone:          +86-10-82893336
+fax-no:         +86-10-82893337
+e-mail:         ip@cnispgroup.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:37Z
+source:         APNIC
+
+role:           ABUSE CNISPCN
+country:        ZZ
+address:        Beijing CNISP Technology Co., Ltd
+phone:          +000000000
+e-mail:         support@cnispgroup.com
+admin-c:        CM2275-AP
+tech-c:         CM2275-AP
+nic-hdl:        AC1910-AP
+remarks:        Generated from irt object IRT-CNISP-CN
+remarks:        support@cnispgroup.com was validated on 2025-05-15
+abuse-mailbox:  support@cnispgroup.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-15T03:22:21Z
+source:         APNIC
+
+role:           CNISP Management
+address:        Building D, No.2 Xinxi Road, Haidian, China
+country:        CN
+phone:          +86-10-82893336
+fax-no:         +86-10-82893337
+e-mail:         ip@cnisp.org.cn
+admin-c:        QH677-AP
+tech-c:         QH677-AP
+nic-hdl:        CM2275-AP
+mnt-by:         MAINT-AP-CNISP
+last-modified:  2024-12-10T06:21:16Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

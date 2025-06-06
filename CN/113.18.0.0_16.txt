@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      113.0.0.0 - 113.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2008-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.18.0.0 - 113.18.255.255'
+
+% Abuse contact for '113.18.0.0 - 113.18.255.255' is '13960903401@139.com'
+
+inetnum:        113.18.0.0 - 113.18.255.255
+netname:        Chinafic
+descr:          FuJian Internet Communications Co.,LTD.
+descr:          No.57, WuYi Road, Fuzhou, Fujian..China
+country:        CN
+admin-c:        MS1059-AP
+tech-c:         KH528-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CHINAFIC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:53Z
+source:         APNIC
+
+irt:            IRT-Chinafic-CN
+address:        No.57, WuYi Road, Fuzhou,Fujian,China
+e-mail:         13960903401@139.com
+abuse-mailbox:  13960903401@139.com
+auth:           # Filtered
+admin-c:        MS1059-AP
+tech-c:         MS1059-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:36Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Kun He
+address:        20th Floor, Building 3, Area F, Software Park, Tongpan Road, Gulou District, Fuzhou, Fujian, China
+country:        CN
+phone:          +86-13960903401
+e-mail:         13960903401@139.com
+nic-hdl:        KH528-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-12-02T08:54:03Z
+source:         APNIC
+
+person:         Mingtang Shangguan
+address:        20th Floor, Building 3, Area F, Software Park, Tongpan Road, Gulou District, Fuzhou, Fujian, China
+country:        CN
+phone:          +86-13805054296
+e-mail:         13805054296@139.com
+nic-hdl:        MS1059-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-12-03T02:06:03Z
+source:         APNIC
+
+% Information related to '113.18.0.0/16AS4837'
+
+route:          113.18.0.0/16
+descr:          China Unicom Zhejiang Province network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2009-06-16T01:36:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

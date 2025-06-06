@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.94.12.0 - 103.94.15.255'
+
+% Abuse contact for '103.94.12.0 - 103.94.15.255' is 'aron@bfsu.edu.cn'
+
+inetnum:        103.94.12.0 - 103.94.15.255
+netname:        BFSUNET
+descr:          Beijing Foreign Studies University
+country:        CN
+admin-c:        YY3334-AP
+tech-c:         XL3526-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BFSUNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:49Z
+source:         APNIC
+
+irt:            IRT-BFSUNET-CN
+address:        2W 3rd Ring Road North, Beijing
+e-mail:         aron@bfsu.edu.cn
+abuse-mailbox:  aron@bfsu.edu.cn
+auth:           # Filtered
+admin-c:        YY3334-AP
+tech-c:         YY3334-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:28Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Liang Xu
+address:        2W 3rd Ring Road North, Beijing
+country:        CN
+phone:          +86-18810567844
+e-mail:         aron@bfsu.edu.cn
+nic-hdl:        XL3526-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-05-30T23:20:01Z
+source:         APNIC
+
+person:         Yue Yang
+address:        2W 3rd Ring Road North, Beijing
+country:        CN
+phone:          +86-18618242858
+e-mail:         yangyue@bfsu.edu.cn
+nic-hdl:        YY3334-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-05-30T23:20:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

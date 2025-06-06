@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.254.196.0 - 103.254.196.255'
+
+% Abuse contact for '103.254.196.0 - 103.254.196.255' is 'noc@chtsc.net'
+
+inetnum:        103.254.196.0 - 103.254.196.255
+netname:        CHTLC-CN
+descr:          Connections Hub Technology (Shanghai) Ltd. Company
+descr:          Rm.1011, # 2993 GongHeXin Rd, Zhabei.
+country:        CN
+org:            ORG-CHTL1-AP
+admin-c:        CHTS2-AP
+tech-c:         CHTS2-AP
+abuse-c:        AC1884-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHTLC-CN
+mnt-routes:     MAINT-CHTLC-CN
+mnt-irt:        IRT-CHTLC-CN
+last-modified:  2020-07-01T05:04:41Z
+source:         APNIC
+
+irt:            IRT-CHTLC-CN
+address:        2993 GongHeXin Rd, Suite 1011, Jing'an, 200070, Shanghai
+e-mail:         noc@chtsc.net
+abuse-mailbox:  noc@chtsc.net
+admin-c:        CHTS2-AP
+tech-c:         CHTS2-AP
+auth:           # Filtered
+remarks:        noc@chtsc.net
+remarks:        noc@chtsc.net is invalid
+mnt-by:         MAINT-CHTLC-CN
+last-modified:  2024-08-21T13:11:25Z
+source:         APNIC
+
+organisation:   ORG-CHTL1-AP
+org-name:       Connections Hub Technology (Shanghai) Ltd. Company
+org-type:       LIR
+country:        CN
+address:        Ste1011, # 2993 GongHeXin Rd, Zhabei.
+phone:          +86-21-61962525
+fax-no:         +86-21-61962520
+e-mail:         noc@chtsc.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:17Z
+source:         APNIC
+
+role:           ABUSE CHTLCCN
+country:        ZZ
+address:        2993 GongHeXin Rd, Suite 1011, Jing'an, 200070, Shanghai
+phone:          +000000000
+e-mail:         noc@chtsc.net
+admin-c:        CHTS2-AP
+tech-c:         CHTS2-AP
+nic-hdl:        AC1884-AP
+remarks:        Generated from irt object IRT-CHTLC-CN
+remarks:        noc@chtsc.net is invalid
+abuse-mailbox:  noc@chtsc.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-08-21T13:13:49Z
+source:         APNIC
+
+role:           Connections Hub Technology Shanghai Ltd Company
+address:        Rm.1011, #2993 GongHeXin Rd, Zhabei., Shanghai  200072
+country:        CN
+phone:          +86 21 61962525
+fax-no:         +86 21 61962525
+e-mail:         noc@connectionshub.co
+admin-c:        CHTS2-AP
+tech-c:         CHTS2-AP
+nic-hdl:        CHTS2-AP
+mnt-by:         MAINT-CHTLC-CN
+last-modified:  2013-12-10T04:33:54Z
+source:         APNIC
+
+% Information related to '103.254.196.0/24AS133194'
+
+route:          103.254.196.0/24
+origin:         AS133194
+descr:          Connections Hub Technology (Shanghai) Ltd. Company
+                Ste1011, #2993 GongHeXin Rd, Zhabei.
+mnt-by:         MAINT-CHTLC-CN
+last-modified:  2018-10-31T16:20:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

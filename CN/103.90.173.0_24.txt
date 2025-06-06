@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.90.173.0 - 103.90.173.255'
+
+% Abuse contact for '103.90.173.0 - 103.90.173.255' is 'ASI-Gts-Hcs-Support@sgcib.com'
+
+inetnum:        103.90.173.0 - 103.90.173.255
+netname:        SG-CHINA-CN
+descr:          Societe Generale (China) Limited
+country:        CN
+org:            ORG-SGL5-AP
+admin-c:        SGCL1-AP
+tech-c:         SGCL1-AP
+abuse-c:        AS2344-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-SG-CHINA-CN
+mnt-irt:        IRT-SG-CHINA-CN
+last-modified:  2020-06-22T05:51:39Z
+source:         APNIC
+
+irt:            IRT-SG-CHINA-CN
+address:        2, Wudinghou street, Beijing, CHINA 100140
+e-mail:         ASI-Gts-Hcs-Support@sgcib.com
+abuse-mailbox:  ASI-Gts-Hcs-Support@sgcib.com
+admin-c:        SGCL1-AP
+tech-c:         SGCL1-AP
+auth:           # Filtered
+remarks:        asi-gts-hcs-support@sgcib.com was validated on 2025-03-04
+mnt-by:         MAINT-SG-CHINA-CN
+last-modified:  2025-03-04T14:59:55Z
+source:         APNIC
+
+organisation:   ORG-SGL5-AP
+org-name:       Societe Generale (China) Limited
+org-type:       LIR
+country:        CN
+address:        8 Xinyuan South Road
+address:        15F West Tower Genesis Beijing
+phone:          +86-10-58513088
+fax-no:         +86-10-58513088
+e-mail:         john.zhao@socgen.com.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:34Z
+source:         APNIC
+
+role:           ABUSE SGCHINACN
+country:        ZZ
+address:        2, Wudinghou street, Beijing, CHINA 100140
+phone:          +000000000
+e-mail:         ASI-Gts-Hcs-Support@sgcib.com
+admin-c:        SGCL1-AP
+tech-c:         SGCL1-AP
+nic-hdl:        AS2344-AP
+remarks:        Generated from irt object IRT-SG-CHINA-CN
+remarks:        asi-gts-hcs-support@sgcib.com was validated on 2025-03-04
+abuse-mailbox:  ASI-Gts-Hcs-Support@sgcib.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-04T15:00:34Z
+source:         APNIC
+
+role:           SOCIETE GENERALE CHINA LIMITED - network admini
+address:        2, Wudinghou street, Beijing, CHINA 100140
+country:        CN
+phone:          +86 10 58513183
+e-mail:         CN-GTS-TFO-NTS@sgcib.com
+admin-c:        SGCL1-AP
+tech-c:         SGCL1-AP
+nic-hdl:        SGCL1-AP
+mnt-by:         MAINT-SG-CHINA-CN
+last-modified:  2009-08-24T02:53:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

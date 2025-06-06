@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.211.96.0 - 103.211.99.255'
+
+% Abuse contact for '103.211.96.0 - 103.211.99.255' is 'bjnkzj@163.com'
+
+inetnum:        103.211.96.0 - 103.211.99.255
+netname:        HuaYuShiTong
+descr:          BeiJing HuaYu ShiTong Telecom technology co., LTD
+descr:          Room 1509 B 12 Kuntai International Building
+descr:          Chaowai street,ChaoYang District,Beijing,China
+country:        CN
+admin-c:        ZM1484-AP
+tech-c:         ZM1485-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HUAYUSHITONG-CN
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:56:08Z
+source:         APNIC
+
+irt:            IRT-HuaYuShiTong-CN
+address:        Chaowai street,ChaoYang District,Beijing,China
+e-mail:         bjnkzj@163.com
+abuse-mailbox:  bjnkzj@163.com
+auth:           # Filtered
+admin-c:        ZM1484-AP
+tech-c:         ZM1484-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-01T00:41:12Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Hong Du
+address:        Room 1509 B 12 Kuntai International Building
+address:        Chaowai street,ChaoYang District,Beijing,China
+country:        CN
+phone:          +86-13611224699
+e-mail:         bjnkzj@163.com
+nic-hdl:        ZM1484-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-03-14T03:30:02Z
+source:         APNIC
+
+person:         Jie Li
+address:        Room 1509 B 12 Kuntai International Building
+address:        Chaowai street,ChaoYang District,Beijing,China
+country:        CN
+phone:          +86-15001257863
+e-mail:         ietfpro@126.com
+nic-hdl:        ZM1485-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-03-14T03:30:02Z
+source:         APNIC
+
+% Information related to '103.211.96.0/22AS4837'
+
+route:          103.211.96.0/22
+descr:          China Unicom China169 Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2017-05-05T06:28:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

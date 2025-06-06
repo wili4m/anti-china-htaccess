@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.57.136.0 - 103.57.139.255'
+
+% Abuse contact for '103.57.136.0 - 103.57.139.255' is '506426272@qq.com'
+
+inetnum:        103.57.136.0 - 103.57.139.255
+netname:        NCN
+descr:          The North United Cable Network.Inc
+country:        CN
+admin-c:        ZX3410-AP
+tech-c:         DG515-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NCN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:36Z
+source:         APNIC
+
+irt:            IRT-NCN-CN
+address:        No.2 Zhongjie Road, Shenhe District,
+address:        Shenyang City, Liaoning Province, China
+e-mail:         506426272@qq.com
+abuse-mailbox:  506426272@qq.com
+auth:           # Filtered
+admin-c:        ZX3410-AP
+tech-c:         DG515-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T09:01:30Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Dai Guanghui
+address:        No.2 Zhongjie Road, Shenhe District,
+address:        Shenyang City, Liaoning Province, China
+country:        CN
+phone:          +86-024-31855044
+e-mail:         nicholas-tai@163.com
+nic-hdl:        DG515-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-05-18T06:06:01Z
+source:         APNIC
+
+person:         Zhang Xin
+address:        No.2 Zhongjie Road, Shenhe District,
+address:        Shenyang City, Liaoning Province, China
+country:        CN
+phone:          +86-024-31855167
+e-mail:         3116444521@qq.com
+nic-hdl:        ZX3410-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-05-18T06:06:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

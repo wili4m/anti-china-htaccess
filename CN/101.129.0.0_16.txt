@@ -1,0 +1,93 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      101.0.0.0 - 101.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '101.129.0.0 - 101.129.255.255'
+
+% Abuse contact for '101.129.0.0 - 101.129.255.255' is 'wangyuanjing@cctv.com'
+
+inetnum:        101.129.0.0 - 101.129.255.255
+netname:        CRI
+descr:          China Central Television
+descr:          No.11 Fuxing Road,Beijing, China
+country:        CN
+admin-c:        GJ828-AP
+tech-c:         GJ828-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CRI-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:51:46Z
+source:         APNIC
+
+irt:            IRT-CRI-CN
+address:        16A Shijingshan Road, Shijingshan District, BEIJING
+e-mail:         wangyuanjing@cctv.com
+abuse-mailbox:  wangyuanjing@cctv.com
+auth:           # Filtered
+admin-c:        HZ2721-AP
+tech-c:         HZ2721-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T08:37:53Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Gu Jun
+address:        Information and Communications Department
+address:        Of Technical Administration Office,
+address:        No.11 Fuxing Road, Beijing, China,
+country:        CN
+phone:          +86-10- 68506100
+fax-no:         +86-10- 68506118
+e-mail:         abuse@cctv.com
+nic-hdl:        GJ828-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-12-27T08:14:01Z
+source:         APNIC
+
+% Information related to '101.129.0.0/16AS45075'
+
+route:          101.129.0.0/16
+origin:         AS45075
+descr:          China Internet Network Information Center
+                Floor1, Building No.1 C/-Chinese Academy of Sciences
+                4, South 4th Street
+                Haidian District,
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-07-16T03:18:35Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

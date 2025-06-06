@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.218.92.0 - 103.218.95.255'
+
+% Abuse contact for '103.218.92.0 - 103.218.95.255' is '1838003355@qq.com'
+
+inetnum:        103.218.92.0 - 103.218.95.255
+netname:        XINGSHANGYUN
+descr:          Henan Xingshangyun Network Technology Co., Ltd.
+descr:          No. 1905, 19th Floor, Building 2, Xincheng Road North and
+descr:          Holiday West Road East, Huiji District, Zhengzhou City, Henan
+country:        CN
+admin-c:        YW7249-AP
+tech-c:         YW7249-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-XINGSHANGYUN-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-12-27T07:27:06Z
+source:         APNIC
+
+irt:            IRT-XINGSHANGYUN-CN
+address:        No. 1905, 19th Floor, Building 2, Xincheng Road North and
+address:        Holiday West Road East, Huiji District, Zhengzhou City, Henan
+e-mail:         1838003355@qq.com
+abuse-mailbox:  1838003355@qq.com
+auth:           # Filtered
+admin-c:        YW7249-AP
+tech-c:         YW7249-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-08-15T02:51:03Z
+source:         APNIC
+
+person:         Aihu Liang
+address:        No. 1905, 19th Floor, Building 2, Xincheng Road North and
+address:        Holiday West Road East, Huiji District, Zhengzhou City, Henan
+country:        CN
+phone:          +86-371-61877349
+e-mail:         1838003355@qq.com
+nic-hdl:        YW7249-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-08-15T02:20:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

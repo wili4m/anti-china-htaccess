@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      119.0.0.0 - 119.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '119.235.128.0 - 119.235.191.255'
+
+% Abuse contact for '119.235.128.0 - 119.235.191.255' is 'wind.dong@freecomm.cn'
+
+inetnum:        119.235.128.0 - 119.235.191.255
+netname:        FREENET
+descr:          Freecomm Corporation
+descr:          Rm.305, No.2077, Yan An Road (W), Shanghai
+country:        CN
+admin-c:        ZW556-AP
+tech-c:         DF122-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-FREENET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:58Z
+source:         APNIC
+
+irt:            IRT-FREENET-CN
+address:        Rm.305, No.2077, Yan An Road (W), Shanghai
+e-mail:         wind.dong@freecomm.cn
+abuse-mailbox:  wind.dong@freecomm.cn
+auth:           # Filtered
+admin-c:        ZW556-AP
+tech-c:         ZW556-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:39Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Dong Feng
+nic-hdl:        DF122-AP
+e-mail:         wind.dong@freecomm.cn
+address:        Rm.305, No.2077, Yan An Road (W), Shanghai
+phone:          +86-21-62708020
+fax-no:         +86-21-62708030
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:24Z
+source:         APNIC
+
+person:         Zheng Wei
+nic-hdl:        ZW556-AP
+e-mail:         cathy.zheng@freecomm.cn
+address:        Rm.305, No.2077, Yan An Road (W), Shanghai
+phone:          +86-21-62708020
+fax-no:         +86-21-62708030
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:24Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

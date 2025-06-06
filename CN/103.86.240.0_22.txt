@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.86.240.0 - 103.86.243.255'
+
+% Abuse contact for '103.86.240.0 - 103.86.243.255' is 'fengweixin@didichuxing.com'
+
+inetnum:        103.86.240.0 - 103.86.243.255
+netname:        HDQD
+descr:          Huidi(Tianjin)Business Service Co., Ltd-Qingdao Branch
+country:        CN
+admin-c:        FB229-AP
+tech-c:         FB229-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-DIDI-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:47Z
+source:         APNIC
+
+irt:            IRT-DIDI-CN
+address:        Beiqu 1, Floor 5, Building 1, No 9 Shangdi East Road,
+address:        Haidian District, Beijing, China
+e-mail:         fengweixin@didichuxing.com
+abuse-mailbox:  fengweixin@didichuxing.com
+auth:           # Filtered
+admin-c:        FW799-AP
+tech-c:         FW799-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-17T02:32:05Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Fan Bin
+address:        Floor 8,No. 5 Hall,Qingdao International
+address:        Convention&Exhibition Center, No.9 Miaoling Road,
+address:        Laoshan District,Qingdao,Shandong Province
+country:        CN
+phone:          +86-15175060344
+e-mail:         819135143@qq.com
+nic-hdl:        FB229-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-03-02T08:28:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

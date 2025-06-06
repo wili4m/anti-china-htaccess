@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      121.0.0.0 - 121.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '121.54.188.0 - 121.54.191.255'
+
+% Abuse contact for '121.54.188.0 - 121.54.191.255' is 'abuse@hkcloudx.com'
+
+inetnum:        121.54.188.0 - 121.54.191.255
+netname:        ZLPMCL-CN
+descr:          Zhenjiang District of Dantu City Hengshun Road No. 105
+country:        CN
+org:            ORG-ZLPM1-AP
+admin-c:        ZLPM1-AP
+tech-c:         ZLPM1-AP
+abuse-c:        AZ427-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ZLPMCL-CN
+mnt-routes:     MAINT-ZLPMCL-CN
+mnt-irt:        IRT-ZLPMCL-CN
+last-modified:  2020-09-18T02:55:34Z
+source:         APNIC
+
+irt:            IRT-ZLPMCL-CN
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+e-mail:         abuse@hkcloudx.com
+abuse-mailbox:  abuse@hkcloudx.com
+admin-c:        ZLPM1-AP
+tech-c:         ZLPM1-AP
+auth:           # Filtered
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+mnt-by:         MAINT-ZLPMCL-CN
+last-modified:  2025-02-20T03:13:59Z
+source:         APNIC
+
+organisation:   ORG-ZLPM1-AP
+org-name:       Zhenjiang lvhai packing material Co. Ltd
+org-type:       LIR
+country:        CN
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +852-35979037
+e-mail:         admin@hkcloudx.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:57Z
+source:         APNIC
+
+role:           ABUSE ZLPMCLCN
+country:        ZZ
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +000000000
+e-mail:         abuse@hkcloudx.com
+admin-c:        ZLPM1-AP
+tech-c:         ZLPM1-AP
+nic-hdl:        AZ427-AP
+remarks:        Generated from irt object IRT-ZLPMCL-CN
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+abuse-mailbox:  abuse@hkcloudx.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-20T03:14:20Z
+source:         APNIC
+
+role:           Zhenjiang lvhai packing material Co Ltd administr
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+country:        HK
+phone:          +85251187918
+fax-no:         +85251187918
+e-mail:         abuse@vpsquan.com
+admin-c:        ZLPM1-AP
+tech-c:         ZLPM1-AP
+nic-hdl:        ZLPM1-AP
+mnt-by:         MAINT-ZLPMCL-CN
+last-modified:  2016-11-23T16:10:41Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

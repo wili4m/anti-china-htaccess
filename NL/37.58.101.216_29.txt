@@ -1,0 +1,70 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      37.0.0.0 - 37.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-11
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        37.58.64.0 - 37.58.127.255
+netname:        NL-SOFTLAYER-EU-20120116
+country:        NL
+org:            ORG-SDHB1-RIPE
+admin-c:        SA8109-RIPE
+tech-c:         SA8109-RIPE
+status:         ALLOCATED PA
+remarks:        SOFTLAYER-RIPE-4-2
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MAINT-SOFTLAYER-RIPE
+mnt-lower:      MAINT-SOFTLAYER-RIPE
+mnt-domains:    MAINT-SOFTLAYER-RIPE
+mnt-routes:     MAINT-SOFTLAYER-RIPE
+created:        2012-01-16T13:30:08Z
+last-modified:  2016-05-24T10:28:16Z
+source:         RIPE # Filtered
+
+organisation:   ORG-SDHB1-RIPE
+org-name:       IBM Cloud International B.V.
+country:        NL
+org-type:       LIR
+address:        Johan Huizingalaan 765
+address:        1066 VH
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +12144420600
+fax-no:         +12144420601
+admin-c:        DDR122-RIPE
+admin-c:        SA8109-RIPE
+admin-c:        EK2310-RIPE
+admin-c:        RM12291-RIPE
+abuse-c:        SLAB
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MAINT-SOFTLAYER-RIPE
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MAINT-SOFTLAYER-RIPE
+created:        2011-08-05T09:16:23Z
+last-modified:  2023-08-14T14:12:15Z
+source:         RIPE # Filtered
+
+person:         SoftLayer IP Administrator
+address:        Paul van Vlissingenstraat 16
+address:        1096 BK Amsterdam, The Netherlands
+phone:          +1-281-714-3958
+nic-hdl:        SA8109-RIPE
+mnt-by:         MAINT-SOFTLAYER-RIPE
+created:        2011-09-01T12:09:35Z
+last-modified:  2012-01-25T12:12:47Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (DEXTER)
+
+

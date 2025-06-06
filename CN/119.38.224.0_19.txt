@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      119.0.0.0 - 119.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '119.38.224.0 - 119.38.255.255'
+
+% Abuse contact for '119.38.224.0 - 119.38.255.255' is 'ying.lh@global-ict.cn'
+
+inetnum:        119.38.224.0 - 119.38.255.255
+netname:        Global-ICT
+descr:          Global ICT Solutions (ShangHai) CO.,LTD
+descr:          Room 1908-1909,no.138,RD.pinxing pass, shanghai, china
+admin-c:        LY3452-AP
+tech-c:         YZ4032-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-Global-ICT-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-08-28T02:12:21Z
+source:         APNIC
+
+irt:            IRT-Global-ICT-CN
+address:        Room 1908-1909,no.138,RD.pinxing pass, shanghai, china
+e-mail:         ying.lh@global-ict.cn
+abuse-mailbox:  ying.lh@global-ict.cn
+auth:           # Filtered
+admin-c:        LY3452-AP
+tech-c:         YZ4032-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T07:15:43Z
+source:         APNIC
+
+person:         LUCY YING
+address:        Room 1908-1909,no.138,RD.pinxing pass, shanghai, china
+country:        CN
+phone:          +86-18602112386
+e-mail:         ying.lh@global-ict.cn
+nic-hdl:        LY3452-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-06-23T01:38:01Z
+source:         APNIC
+
+person:         Yanggen Zhang
+address:        Room 1908-1909,no.138,RD.pinxing pass, shanghai, china
+country:        CN
+phone:          +86-18601607493
+e-mail:         pd@global-ict.cn
+nic-hdl:        YZ4032-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-06-23T01:38:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

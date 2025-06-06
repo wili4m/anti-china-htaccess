@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      91.0.0.0 - 91.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2005-06
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        91.234.36.0 - 91.234.36.255
+netname:        MYSIKER-CN
+descr:          cloud group router and online office service
+country:        EU
+org:            ORG-OA446-RIPE
+admin-c:        ZL338-RIPE
+abuse-c:        HA4233-RIPE
+tech-c:         ZL338-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         MNT-MYSIKER
+mnt-by:         netutils-mnt
+mnt-routes:     MNT-MYSIKER
+mnt-domains:    MNT-MYSIKER
+created:        2011-12-22T10:28:36Z
+last-modified:  2025-02-12T15:32:59Z
+source:         RIPE
+
+organisation:   ORG-OA446-RIPE
+org-name:       MYSIKER electrical co,ltd
+country:        CN
+descr:          MYSIKER electrical co,ltd
+org-type:       OTHER
+address:        #1 huangpu road Guangzhou
+address:        51000
+address:        GuangDong
+address:        China
+abuse-c:        AR27097-RIPE
+mnt-ref:        MNT-MYSIKER
+mnt-by:         MNT-MYSIKER
+created:        2011-12-12T17:58:09Z
+last-modified:  2022-12-01T16:40:33Z
+source:         RIPE # Filtered
+
+person:         May Lee
+address:        31 SHOREHAM STREET
+address:        SHEFFIELD
+address:        ENGLAND
+address:        S2 4FA
+phone:          +44114315005
+nic-hdl:        ZL338-RIPE
+mnt-by:         MNT-MYSIKER
+created:        2011-12-22T13:28:03Z
+last-modified:  2016-11-14T21:07:00Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+

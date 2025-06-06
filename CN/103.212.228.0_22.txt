@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.212.228.0 - 103.212.231.255'
+
+% Abuse contact for '103.212.228.0 - 103.212.231.255' is 'harry.soyx@gmail.com'
+
+inetnum:        103.212.228.0 - 103.212.231.255
+netname:        SGMHECCL-CN
+descr:          313 xixiang street,
+descr:          haoyeyayuan,
+country:        CN
+org:            ORG-SGMH1-AP
+admin-c:        SGMH1-AP
+tech-c:         SGMH1-AP
+abuse-c:        AS2773-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SGMHECCL-CN
+mnt-routes:     MAINT-SGMHECCL-CN
+mnt-irt:        IRT-SGMHECCL-CN
+last-modified:  2020-09-22T13:31:37Z
+source:         APNIC
+
+irt:            IRT-SGMHECCL-CN
+address:        baoanquxixiangjiedaobieshu313, Shenzhen
+e-mail:         harry.soyx@gmail.com
+abuse-mailbox:  harry.soyx@gmail.com
+admin-c:        SGMH1-AP
+tech-c:         SGMH1-AP
+auth:           # Filtered
+remarks:        harry.soyx@gmail.com
+remarks:        harry.soyx@gmail.com was validated on 2024-11-20
+mnt-by:         MAINT-SGMHECCL-CN
+last-modified:  2024-11-20T15:32:12Z
+source:         APNIC
+
+organisation:   ORG-SGMH1-AP
+org-name:       Shenzhen grass mud horse electronic commerce co., LTD
+org-type:       LIR
+country:        CN
+address:        313 xixiang street,
+address:        haoyeyayuan,
+phone:          +852-31884588
+e-mail:         harry.soyx@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:51Z
+source:         APNIC
+
+role:           ABUSE SGMHECCLCN
+country:        ZZ
+address:        baoanquxixiangjiedaobieshu313, Shenzhen
+phone:          +000000000
+e-mail:         harry.soyx@gmail.com
+admin-c:        SGMH1-AP
+tech-c:         SGMH1-AP
+nic-hdl:        AS2773-AP
+remarks:        Generated from irt object IRT-SGMHECCL-CN
+remarks:        harry.soyx@gmail.com was validated on 2024-11-20
+abuse-mailbox:  harry.soyx@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-20T15:32:28Z
+source:         APNIC
+
+role:           Shenzhen grass mud horse electronic commerce co
+address:        baoanquxixiangjiedaobieshu313, Shenzhen
+country:        CN
+phone:          +852 31884588
+fax-no:         +852 31884588
+e-mail:         harry.soyx@gmail.com
+admin-c:        SGMH1-AP
+tech-c:         SGMH1-AP
+nic-hdl:        SGMH1-AP
+mnt-by:         MAINT-SGMHECCL-CN
+last-modified:  2022-02-11T09:08:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.239.24.0 - 43.239.27.255'
+
+% Abuse contact for '43.239.24.0 - 43.239.27.255' is 'wangbin@xinnet.com'
+
+inetnum:        43.239.24.0 - 43.239.27.255
+netname:        XinnetIDC
+descr:          XinNet Technology Corp.
+descr:          Sino-i Campus,No.1 Disheng West Street,Beijing Economic-Technological Development Area,
+descr:          Beijing,P.R.China
+country:        CN
+admin-c:        ML1867-AP
+tech-c:         BW719-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-XinnetIDC-CN
+last-modified:  2021-11-02T08:06:36Z
+source:         APNIC
+
+irt:            IRT-XinnetIDC-CN
+address:        Sino-i Campus,No.1 Disheng West Street,Beijing Economic-Technological Development Area,
+address:        Beijing,P.R.China
+e-mail:         wangbin@xinnet.com
+abuse-mailbox:  wangbin@xinnet.com
+admin-c:        ML1867-AP
+tech-c:         BW719-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:56Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Bin Wang
+address:        Sino-i Campus,No.1 Disheng West Street,Beijing Economic-Technological Development Area,
+address:        Beijing,P.R.China
+country:        CN
+phone:          +86-010-87128161
+e-mail:         wangbin@xinnet.com
+nic-hdl:        BW719-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-04-02T03:30:03Z
+source:         APNIC
+
+person:         Bin Wang
+address:        Sino-i Campus,No.1 Disheng West Street,Beijing Economic-Technological Development Area,
+address:        Beijing,P.R.China
+country:        CN
+phone:          +86-010-87128161
+e-mail:         wangbin@xinnet.com
+nic-hdl:        ML1867-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-04-02T03:30:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

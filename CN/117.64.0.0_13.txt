@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      117.0.0.0 - 117.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.64.0.0 - 117.71.255.255'
+
+% Abuse contact for '117.64.0.0 - 117.71.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        117.64.0.0 - 117.71.255.255
+netname:        CHINANET-AH
+descr:          CHINANET anhui province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        JW89-AP
+tech-c:         JW89-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-AH
+mnt-routes:     MAINT-CHINANET-AH
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:24Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Jinneng Wang
+address:        17/F, Postal Building No.120 Changjiang
+address:        Middle Road, Hefei, Anhui, China
+country:        CN
+phone:          +86-551-2659073
+fax-no:         +86-551-2659287
+e-mail:         ahdata@189.cn
+nic-hdl:        JW89-AP
+mnt-by:         MAINT-CHINANET-AH
+last-modified:  2014-02-21T01:19:43Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

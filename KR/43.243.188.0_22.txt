@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.243.188.0 - 43.243.191.255'
+
+% Abuse contact for '43.243.188.0 - 43.243.191.255' is 'report@moack.net'
+
+inetnum:        43.243.188.0 - 43.243.191.255
+netname:        MOACKCOLTD-KR
+descr:          MOACK.Co.LTD
+country:        KR
+org:            ORG-MA68-AP
+admin-c:        MA1307-AP
+tech-c:         MA1307-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AM2438-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-MOACKCOLTD-KR
+mnt-routes:     MAINT-MOACKCOLTD-KR
+mnt-irt:        IRT-MOACKCOLTD-KR
+last-modified:  2021-07-13T00:35:16Z
+source:         APNIC
+
+irt:            IRT-MOACKCOLTD-KR
+address:        6, Dogok-ro 8-gil, Gangnam-gu, Seoul, Republic of Korea, Seoul Seoul 06259
+e-mail:         noc@moack.net
+abuse-mailbox:  report@moack.net
+admin-c:        MA1307-AP
+tech-c:         MA1307-AP
+auth:           # Filtered
+remarks:        noc@moack.net was validated on 2025-05-13
+remarks:        report@moack.net is invalid
+mnt-by:         MAINT-MOACKCOLTD-KR
+last-modified:  2025-05-28T13:06:25Z
+source:         APNIC
+
+organisation:   ORG-MA68-AP
+org-name:       MOACK.Co.LTD
+org-type:       LIR
+country:        KR
+address:        6, Dogok-ro 8-gil, Gangnam-gu, Seoul, Republic of Korea
+phone:          +82-1058961903
+e-mail:         noc@moack.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:42Z
+source:         APNIC
+
+role:           ABUSE MOACKCOLTDKR
+country:        ZZ
+address:        6, Dogok-ro 8-gil, Gangnam-gu, Seoul, Republic of Korea, Seoul Seoul 06259
+phone:          +000000000
+e-mail:         noc@moack.net
+admin-c:        MA1307-AP
+tech-c:         MA1307-AP
+nic-hdl:        AM2438-AP
+remarks:        Generated from irt object IRT-MOACKCOLTD-KR
+remarks:        noc@moack.net was validated on 2025-05-13
+remarks:        report@moack.net is invalid
+abuse-mailbox:  report@moack.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-28T13:07:25Z
+source:         APNIC
+
+role:           MOACKCoLTD administrator
+address:        6, Dogok-ro 8-gil, Gangnam-gu, Seoul, Republic of Korea, Seoul Seoul 06259
+country:        KR
+phone:          +82-1058961903
+e-mail:         noc@moack.net
+admin-c:        MA1307-AP
+tech-c:         MA1307-AP
+nic-hdl:        MA1307-AP
+mnt-by:         MAINT-MOACKCOLTD-KR
+last-modified:  2021-01-28T15:53:32Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

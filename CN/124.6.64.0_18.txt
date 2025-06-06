@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      124.0.0.0 - 124.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2005-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.6.64.0 - 124.6.127.255'
+
+% Abuse contact for '124.6.64.0 - 124.6.127.255' is 'lh_panqiming@cnpc.com.cn'
+
+inetnum:        124.6.64.0 - 124.6.127.255
+netname:        LiaoHe-HuaYu
+descr:          LiaoHe Oilfield Telecommunication Company
+descr:          76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing
+country:        CN
+admin-c:        QZ62-AP
+tech-c:         QZ62-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-LIAOHE-HUAYU-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     maint-cncgroup-rr
+last-modified:  2023-11-28T00:57:05Z
+source:         APNIC
+
+irt:            IRT-LiaoHe-HuaYu-CN
+address:        76# Oil Street of LiaoHe Oilfield, PanJin, LiaoNing
+e-mail:         lh_panqiming@cnpc.com.cn
+abuse-mailbox:  lh_panqiming@cnpc.com.cn
+auth:           # Filtered
+admin-c:        QZ62-AP
+tech-c:         QZ62-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-06T04:01:17Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         qingyuan zhang
+nic-hdl:        QZ62-AP
+e-mail:         lh_panqiming@cnpc.com.cn
+address:        LiaoHe Oilfield Telecommunication Company
+address:        76# Oil Street of LiaoHe Oilfield, PanJin, LiaoNing
+phone:          +86-427-7826810
+fax-no:         +86-427-7826536
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-11-02T07:06:49Z
+source:         APNIC
+
+% Information related to '124.6.64.0/18AS4837'
+
+route:          124.6.64.0/18
+descr:          China Unicom China169 Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2017-05-05T06:28:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

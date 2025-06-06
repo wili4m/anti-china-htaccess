@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.85.24.0 - 103.85.27.255'
+
+% Abuse contact for '103.85.24.0 - 103.85.27.255' is 'master@svm.net'
+
+inetnum:        103.85.24.0 - 103.85.27.255
+netname:        SWNL-CN
+descr:          1003A Jing Hua Building, No. 3 Long Feng Road,
+descr:          Da Lang Street, Long Hua New District
+country:        CN
+org:            ORG-SWNL1-AP
+admin-c:        HWNL2-AP
+tech-c:         HWNL2-AP
+abuse-c:        AS2359-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SWNL-CN
+mnt-routes:     MAINT-SWNL-CN
+mnt-irt:        IRT-SWNL-CN
+last-modified:  2020-06-22T08:00:29Z
+source:         APNIC
+
+irt:            IRT-SWNL-CN
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,, 707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+e-mail:         master@svm.net
+abuse-mailbox:  master@svm.net
+admin-c:        HWNL2-AP
+tech-c:         HWNL2-AP
+auth:           # Filtered
+remarks:        master@svm.net was validated on 2025-05-04
+mnt-by:         MAINT-SWNL-CN
+last-modified:  2025-05-04T07:05:14Z
+source:         APNIC
+
+organisation:   ORG-SWNL1-AP
+org-name:       Shenzhen Wenjing Network Limited
+org-type:       LIR
+country:        CN
+address:        1003A Jing Hua Building, No. 3 Long Feng Road,
+address:        Da Lang Street, Long Hua New District
+phone:          +8618899799788
+e-mail:         master@zji.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:09Z
+source:         APNIC
+
+role:           ABUSE SWNLCN
+country:        ZZ
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,, 707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+phone:          +000000000
+e-mail:         master@svm.net
+admin-c:        HWNL2-AP
+tech-c:         HWNL2-AP
+nic-hdl:        AS2359-AP
+remarks:        Generated from irt object IRT-SWNL-CN
+remarks:        master@svm.net was validated on 2025-05-04
+abuse-mailbox:  master@svm.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-04T07:05:29Z
+source:         APNIC
+
+role:           Hongkong WenJing Network Limited administrator
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,, 707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+country:        HK
+phone:          +85253005175
+e-mail:         master@svm.net
+admin-c:        HWNL2-AP
+tech-c:         HWNL2-AP
+nic-hdl:        HWNL2-AP
+notify:         master@svm.net
+mnt-by:         MAINT-SWNL-CN
+last-modified:  2018-12-02T01:51:52Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

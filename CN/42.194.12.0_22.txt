@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      42.0.0.0 - 42.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '42.194.12.0 - 42.194.15.255'
+
+% Abuse contact for '42.194.12.0 - 42.194.15.255' is 'steven.wang@thomsonreuters.com'
+
+inetnum:        42.194.12.0 - 42.194.15.255
+netname:        TRLCNET
+descr:          Thomson Reuters (Beijing) Technology Development Co., Ltd.
+descr:          Unit 03-06, 7/F Tower 1 China Central Place No. 81 Jianguolu,Chaoyang District, Beijing, China
+country:        CN
+admin-c:        WL3094-AP
+tech-c:         WL3094-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-TRLCNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:53Z
+source:         APNIC
+
+irt:            IRT-TRLCNET-CN
+address:        C208,CentralTowerF2,ChemsunnyWorldTradeCenter,No.28FuxingmenneiStreet,XiChengDistrict,Beijing
+e-mail:         steven.wang@thomsonreuters.com
+abuse-mailbox:  steven.wang@thomsonreuters.com
+auth:           # Filtered
+admin-c:        WL3094-AP
+tech-c:         WL3094-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T00:34:48Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         WANG LI
+address:        C208, Central Tower F2, Chemsunny World Trade Center, No. 28 Fuxingmennei Street, Xi Cheng District, Beijing, 100031, China
+country:        CN
+phone:          +86-13701335927
+e-mail:         steven.wang@thomsonreuters.com
+nic-hdl:        WL3094-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-30T01:38:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

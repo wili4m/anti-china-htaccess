@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.252.172.0 - 103.252.175.255'
+
+% Abuse contact for '103.252.172.0 - 103.252.175.255' is 'network-apnic@duke.edu'
+
+inetnum:        103.252.172.0 - 103.252.175.255
+netname:        DKU-CN
+descr:          1699 Zuchongzhi Road
+descr:          Kunshan, Jiangsu, China
+country:        CN
+org:            ORG-DKU1-AP
+admin-c:        DKUA1-AP
+tech-c:         DKUA1-AP
+abuse-c:        AD1006-AP
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-DKU-CN
+mnt-routes:     MAINT-DKU-CN
+mnt-irt:        IRT-DKU-CN
+last-modified:  2020-11-10T13:11:02Z
+source:         APNIC
+
+irt:            IRT-DKU-CN
+address:        1699 Zuchongzhi Road, Kunshan, Jiangsu, China, Kunshan Jiangsu 215300
+e-mail:         network-apnic@duke.edu
+abuse-mailbox:  network-apnic@duke.edu
+admin-c:        DKUA1-AP
+tech-c:         DKUA1-AP
+auth:           # Filtered
+remarks:        network-apnic@duke.edu was validated on 2025-03-11
+mnt-by:         MAINT-DKU-CN
+last-modified:  2025-03-11T14:25:10Z
+source:         APNIC
+
+organisation:   ORG-DKU1-AP
+org-name:       Duke Kunshan University
+org-type:       LIR
+country:        CN
+address:        No. 8 Duke Avenue
+address:        Kunshan, Jiangsu, China
+phone:          +86 512 36657044
+fax-no:         +86 512 57728899
+e-mail:         richard.biever@duke.edu
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:16Z
+source:         APNIC
+
+role:           ABUSE DKUCN
+country:        ZZ
+address:        1699 Zuchongzhi Road, Kunshan, Jiangsu, China, Kunshan Jiangsu 215300
+phone:          +000000000
+e-mail:         network-apnic@duke.edu
+admin-c:        DKUA1-AP
+tech-c:         DKUA1-AP
+nic-hdl:        AD1006-AP
+remarks:        Generated from irt object IRT-DKU-CN
+remarks:        network-apnic@duke.edu was validated on 2025-03-11
+abuse-mailbox:  network-apnic@duke.edu
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-11T14:25:18Z
+source:         APNIC
+
+role:           Duke Kunshan University administrator
+address:        1699 Zuchongzhi Road, Kunshan, Jiangsu, China, Kunshan Jiangsu 215300
+country:        CN
+phone:          +1 919 684 8121
+fax-no:         +1 919 684 8121
+e-mail:         richard.biever@duke.edu
+admin-c:        DKUA1-AP
+tech-c:         DKUA1-AP
+nic-hdl:        DKUA1-AP
+mnt-by:         MAINT-DKU-CN
+last-modified:  2013-10-20T08:06:14Z
+source:         APNIC
+
+% Information related to '103.252.172.0/22AS133465'
+
+route:          103.252.172.0/22
+descr:          Route object for 103.252.172.0/22
+origin:         AS133465
+mnt-by:         MAINT-DKU-CN
+country:        CN
+last-modified:  2017-12-18T04:00:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

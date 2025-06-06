@@ -1,0 +1,124 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.39.108.0 - 103.39.111.255'
+
+% Abuse contact for '103.39.108.0 - 103.39.111.255' is 'abuse@cloudie.hk'
+
+inetnum:        103.39.108.0 - 103.39.111.255
+netname:        CLOUDIE-AS-AP
+descr:          Cloudie Limited
+country:        HK
+org:            ORG-CL18-AP
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+status:         ASSIGNED PORTABLE
+abuse-c:        AC1977-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CLOUDIE-HK
+mnt-irt:        IRT-CLOUDIE1-HK
+last-modified:  2022-08-09T01:24:34Z
+source:         APNIC
+
+irt:            IRT-CLOUDIE1-HK
+address:        Unit 04, 7/F Bright Way Tower, 33 Mong Kok Road
+e-mail:         admin@cloudie.hk
+abuse-mailbox:  abuse@cloudie.hk
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+auth:           # Filtered
+remarks:        abuse@cloudie.hk was validated on 2024-12-04
+remarks:        admin@cloudie.hk was validated on 2025-04-25
+mnt-by:         MAINT-CLOUDIE-HK
+last-modified:  2025-04-25T06:48:56Z
+source:         APNIC
+
+organisation:   ORG-CL18-AP
+org-name:       Cloudie Limited
+org-type:       LIR
+country:        HK
+address:        Unit 1604, Perfect Industrial Building,
+address:        31st Tai Yau Street
+phone:          +852-61725306
+e-mail:         admin@cloudie.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:32Z
+source:         APNIC
+
+role:           ABUSE CLOUDIE1HK
+country:        ZZ
+address:        Unit 04, 7/F Bright Way Tower, 33 Mong Kok Road
+phone:          +000000000
+e-mail:         admin@cloudie.hk
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+nic-hdl:        AC1977-AP
+remarks:        Generated from irt object IRT-CLOUDIE1-HK
+remarks:        abuse@cloudie.hk was validated on 2024-12-04
+remarks:        admin@cloudie.hk was validated on 2025-04-25
+abuse-mailbox:  abuse@cloudie.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-25T06:49:26Z
+source:         APNIC
+
+role:           Cloudie Limited administrator
+address:        Unit 1604, Perfect Industrial Building,, 31st Tai Yau Street, San Po Kong Kowloon NA
+country:        HK
+phone:          +852-61725306
+fax-no:         +852-61725306
+e-mail:         admin@cloudie.hk
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+nic-hdl:        CLA17-AP
+mnt-by:         MAINT-CLOUDIE-HK
+last-modified:  2019-04-03T05:09:03Z
+abuse-mailbox:  abuse@cloudie.hk
+abuse-mailbox:  abuse@cloudie.hk
+source:         APNIC
+
+% Information related to '103.39.108.0/22AS133731'
+
+route:          103.39.108.0/22
+descr:          TOINTER IDC
+origin:         AS133731
+mnt-by:         MAINT-CLOUDIE-HK
+last-modified:  2022-08-09T02:06:31Z
+source:         APNIC
+
+% Information related to '103.39.108.0/22AS55933'
+
+route:          103.39.108.0/22
+origin:         AS55933
+descr:          Cloudie Limited
+                Unit 1604, Perfect Industrial Building,
+                31st Tai Yau Street
+mnt-by:         MAINT-CLOUDIE-HK
+last-modified:  2024-11-04T08:09:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

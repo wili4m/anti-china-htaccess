@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.21.136.0 - 103.21.139.255'
+
+% Abuse contact for '103.21.136.0 - 103.21.139.255' is 'kelphon@itaoyun.co.nz'
+
+inetnum:        103.21.136.0 - 103.21.139.255
+netname:        ZZNET1-CN
+descr:          Roan 900
+descr:          North Huting Road
+country:        CN
+org:            ORG-SZIC1-AP
+admin-c:        ZTHL1-AP
+tech-c:         ZTHL1-AP
+abuse-c:        AZ414-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ITAOYUN-NZ
+mnt-routes:     MAINT-ITAOYUN-NZ
+mnt-irt:        IRT-ZZNET-CN
+last-modified:  2022-05-30T00:08:34Z
+source:         APNIC
+
+irt:            IRT-ZZNET-CN
+address:        Roan 900,North Huting Road,Shanghai,China
+e-mail:         kelphon@itaoyun.co.nz
+abuse-mailbox:  kelphon@itaoyun.co.nz
+admin-c:        ZTHL1-AP
+tech-c:         ZTHL1-AP
+auth:           # Filtered
+remarks:        kelphon@itaoyun.co.nz was validated on 2025-01-01
+mnt-by:         MAINT-ITAOYUN-NZ
+last-modified:  2025-01-01T04:58:20Z
+source:         APNIC
+
+organisation:   ORG-SZIC1-AP
+org-name:       Shanghai Zongzhi InfoTech Co.,Ltd
+org-type:       LIR
+country:        CN
+address:        Roan 900
+address:        North Huting Road
+phone:          +86-2137705997
+e-mail:         kelphon@kingstor.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:02Z
+source:         APNIC
+
+role:           ABUSE ZZNETCN
+country:        ZZ
+address:        Roan 900,North Huting Road,Shanghai,China
+phone:          +000000000
+e-mail:         kelphon@itaoyun.co.nz
+admin-c:        ZTHL1-AP
+tech-c:         ZTHL1-AP
+nic-hdl:        AZ414-AP
+remarks:        Generated from irt object IRT-ZZNET-CN
+remarks:        kelphon@itaoyun.co.nz was validated on 2025-01-01
+abuse-mailbox:  kelphon@itaoyun.co.nz
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-01T04:58:58Z
+source:         APNIC
+
+role:           ZhongTong Telcommunications HK Limited administr
+address:        11 Castlederg Drive
+country:        NZ
+phone:          +64272802834
+e-mail:         abuse@itaoyun.co.nz
+admin-c:        ZTHL1-AP
+tech-c:         ZTHL1-AP
+nic-hdl:        ZTHL1-AP
+mnt-by:         MAINT-ZHONGTONG-HK
+last-modified:  2022-05-30T09:20:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

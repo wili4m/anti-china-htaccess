@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.94.180.0 - 103.94.183.255'
+
+% Abuse contact for '103.94.180.0 - 103.94.183.255' is 'mynv@telemor.tl'
+
+inetnum:        103.94.180.0 - 103.94.183.255
+netname:        VIETTELTIMORLESTE-TL
+descr:          Timor Plaza II, Comoro Dili, Timor Leste
+country:        TL
+org:            ORG-VTL1-AP
+admin-c:        VTLA2-AP
+tech-c:         VTLA2-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AV399-AP
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        To report network abuse, please contact the IRT
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        For assistance, please contact the APNIC Helpdesk
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-VIETTELTIMORLESTE-TL
+mnt-routes:     MAINT-VIETTELTIMORLESTE-TL
+mnt-irt:        IRT-VIETTELTIMORLESTE-TL
+last-modified:  2022-11-03T23:42:59Z
+source:         APNIC
+
+irt:            IRT-VIETTELTIMORLESTE-TL
+address:        Timor Plaza II, Comoro Dili, Timor Leste, Dili Dili 55431
+e-mail:         mynv@telemor.tl
+abuse-mailbox:  mynv@telemor.tl
+admin-c:        VTLA2-AP
+tech-c:         VTLA2-AP
+auth:           # Filtered
+remarks:        mynv@telemor.tl was validated on 2025-02-20
+mnt-by:         MAINT-VIETTELTIMORLESTE-TL
+last-modified:  2025-02-20T06:24:34Z
+source:         APNIC
+
+organisation:   ORG-VTL1-AP
+org-name:       Viettel Timor Leste
+org-type:       LIR
+country:        TL
+address:        Timor Plaza II, Comoro Dili, Timor Leste
+phone:          +67076839999
+e-mail:         mynv@telemor.tl
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:24Z
+source:         APNIC
+
+role:           ABUSE VIETTELTIMORLESTETL
+country:        ZZ
+address:        Timor Plaza II, Comoro Dili, Timor Leste, Dili Dili 55431
+phone:          +000000000
+e-mail:         mynv@telemor.tl
+admin-c:        VTLA2-AP
+tech-c:         VTLA2-AP
+nic-hdl:        AV399-AP
+remarks:        Generated from irt object IRT-VIETTELTIMORLESTE-TL
+remarks:        mynv@telemor.tl was validated on 2025-02-20
+abuse-mailbox:  mynv@telemor.tl
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-20T06:25:09Z
+source:         APNIC
+
+role:           Viettel Timor Leste administrator
+address:        Timor Plaza II, Comoro Dili, Timor Leste, Dili Dili 55431
+country:        TL
+phone:          +67076839999
+fax-no:         +67076839999
+e-mail:         mynv@telemor.tl
+admin-c:        VTLA2-AP
+tech-c:         VTLA2-AP
+nic-hdl:        VTLA2-AP
+mnt-by:         MAINT-VIETTELTIMORLESTE-TL
+last-modified:  2022-11-23T07:58:12Z
+source:         APNIC
+
+% Information related to '103.94.180.0/22AS133606'
+
+route:          103.94.180.0/22
+origin:         AS133606
+descr:          Viettel Timor Leste
+                Timor Plaza II, Comoro Dili, Timor Leste
+mnt-by:         MAINT-VIETTELTIMORLESTE-TL
+last-modified:  2022-11-15T13:23:27Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

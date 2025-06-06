@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.62.52.0 - 103.62.55.255'
+
+% Abuse contact for '103.62.52.0 - 103.62.55.255' is 'abuse@58863.com'
+
+inetnum:        103.62.52.0 - 103.62.55.255
+netname:        SHANMEI-CN
+descr:          china henansheng nanyangshi 616hao
+country:        CN
+org:            ORG-SNPL2-AP
+admin-c:        SA800-AP
+tech-c:         SA800-AP
+abuse-c:        AS2353-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SHANMEI-CN
+mnt-routes:     MAINT-SHANMEI-CN
+mnt-irt:        IRT-SHANMEI-CN
+last-modified:  2020-06-22T06:42:28Z
+source:         APNIC
+
+irt:            IRT-SHANMEI-CN
+address:        china henansheng nanyangshi 616hao, nanyang henan 473001
+e-mail:         abuse@58863.com
+abuse-mailbox:  abuse@58863.com
+admin-c:        SA800-AP
+tech-c:         SA800-AP
+auth:           # Filtered
+remarks:        abuse@58863.com was validated on 2025-02-11
+mnt-by:         MAINT-SHANMEI-CN
+last-modified:  2025-02-11T13:14:51Z
+source:         APNIC
+
+organisation:   ORG-SNPL2-AP
+org-name:       Shanmei Net Pty Ltd
+org-type:       LIR
+country:        CN
+address:        china henansheng zhengzhoushi 616hao
+phone:          +8616637708778
+fax-no:         +8618538969202
+e-mail:         abuse@58863.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-11-20T12:55:57Z
+source:         APNIC
+
+role:           ABUSE SHANMEICN
+country:        ZZ
+address:        china henansheng nanyangshi 616hao, nanyang henan 473001
+phone:          +000000000
+e-mail:         abuse@58863.com
+admin-c:        SA800-AP
+tech-c:         SA800-AP
+nic-hdl:        AS2353-AP
+remarks:        Generated from irt object IRT-SHANMEI-CN
+remarks:        abuse@58863.com was validated on 2025-02-11
+abuse-mailbox:  abuse@58863.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-11T13:15:19Z
+source:         APNIC
+
+role:           shanmei administrator
+address:        china henansheng nanyangshi  616hao, nanyang henan 473001
+country:        CN
+phone:          +8618538969202
+fax-no:         +8618538969202
+e-mail:         abuse@58863.com
+admin-c:        SA800-AP
+tech-c:         SA800-AP
+nic-hdl:        SA800-AP
+mnt-by:         MAINT-SHANMEI-CN
+last-modified:  2015-07-03T13:32:36Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

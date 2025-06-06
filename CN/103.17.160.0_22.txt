@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.17.160.0 - 103.17.163.255'
+
+% Abuse contact for '103.17.160.0 - 103.17.163.255' is 'yangdongyue@yovole.com'
+
+inetnum:        103.17.160.0 - 103.17.163.255
+netname:        fuyun
+descr:          Shanghai fuyun Networks Inc.
+descr:          5F, No.3 Building, No.323, Guoding Road
+descr:          Shanghai, China
+country:        CN
+admin-c:        ML1855-AP
+tech-c:         BW708-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-FUYUN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:00Z
+source:         APNIC
+
+irt:            IRT-fuyun-CN
+address:        5F,No.3 Building,No.323,Guoding Road,Shanghai,China
+e-mail:         yangdongyue@yovole.com
+abuse-mailbox:  yangdongyue@yovole.com
+admin-c:        ML1855-AP
+tech-c:         BW708-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:49Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Dongyue Yang
+address:        5F,No.3 Building,No.323,Guoding Road,Shanghai,China
+country:        CN
+phone:          +86-13381797776
+e-mail:         yangdongyue@yovole.com
+nic-hdl:        BW708-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-03-01T02:00:02Z
+source:         APNIC
+
+person:         Ronglong Shao
+address:        5F,No.3 Building,No.323,Guoding Road,Shanghai,China
+country:        CN
+phone:          +86-13564929241
+e-mail:         shaoronglong@yovole.com
+nic-hdl:        ML1855-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-03-01T02:00:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

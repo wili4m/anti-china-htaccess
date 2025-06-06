@@ -1,0 +1,93 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.8.156.0 - 103.8.159.255'
+
+% Abuse contact for '103.8.156.0 - 103.8.159.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.8.156.0 - 103.8.159.255
+netname:        GTBN
+descr:          Beijing Guantao High Tech Co. Ltd
+descr:          Fengtai District, Beijing West Fourth Ring Road Countries embellish commercial building B Block 6 layer
+country:        CN
+admin-c:        CW1522-AP
+tech-c:         ZL2360-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:26:02Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Chaogang  Wang
+address:        Fengtai District, Beijing  West Fourth Ring Road
+address:        Countries embellish commercial building B Block 6 layer
+country:        CN
+phone:          +86-010-51901234
+e-mail:         celeron3640@sina.com
+nic-hdl:        CW1522-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-04-23T02:52:01Z
+source:         APNIC
+
+person:         Zhigang Liu
+address:        Fengtai District, Beijing  West Fourth Ring Road
+address:        Countries embellish commercial building B Block 6 layer
+country:        CN
+phone:          +86-010-51901234
+e-mail:         iloveyouxiaowan@hotmail.com
+nic-hdl:        ZL2360-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-04-23T02:52:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

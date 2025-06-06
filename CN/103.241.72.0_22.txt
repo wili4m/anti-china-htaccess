@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.241.72.0 - 103.241.75.255'
+
+% Abuse contact for '103.241.72.0 - 103.241.75.255' is 'cc-cs@snw.hk'
+
+inetnum:        103.241.72.0 - 103.241.75.255
+netname:        SHANGHAI-CN
+descr:          Room 1710, LinDun Plaza
+descr:          No 100, North Hengfeng Road
+country:        CN
+org:            ORG-SGEI1-AP
+admin-c:        SHCL2-AP
+tech-c:         SHCL2-AP
+abuse-c:        AS3017-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SHANGHAI-CN
+mnt-routes:     MAINT-SHANGHAI-CN
+mnt-irt:        IRT-SHANGHAI-CN
+last-modified:  2022-07-18T09:08:46Z
+source:         APNIC
+
+irt:            IRT-SHANGHAI-CN
+address:        Flat 1, 3/F, Trans Asia Ctr, 18 Kin Hong St, Kwai Chung
+e-mail:         cc-cs@snw.hk
+abuse-mailbox:  cc-cs@snw.hk
+admin-c:        SHCL2-AP
+tech-c:         SHCL2-AP
+auth:           # Filtered
+remarks:        cc-cs@snw.hk is invalid
+mnt-by:         MAINT-SHANGHAI-CN
+last-modified:  2023-10-18T13:07:08Z
+source:         APNIC
+
+organisation:   ORG-SGEI1-AP
+org-name:       Shanghai Group Entropy IT Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        B1, 20 # Wu Fang Street, Xin Pu Gang
+phone:          +852 91225789
+fax-no:         +86 2161070984
+e-mail:         support@sun.net.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-10-31T12:57:44Z
+source:         APNIC
+
+role:           ABUSE SHANGHAICN
+address:        Flat 1, 3/F, Trans Asia Ctr, 18 Kin Hong St, Kwai Chung
+country:        ZZ
+phone:          +000000000
+e-mail:         cc-cs@snw.hk
+admin-c:        SHCL2-AP
+tech-c:         SHCL2-AP
+nic-hdl:        AS3017-AP
+remarks:        Generated from irt object IRT-SHANGHAI-CN
+remarks:        cc-cs@snw.hk is invalid
+abuse-mailbox:  cc-cs@snw.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-10-18T13:08:28Z
+source:         APNIC
+
+role:           SUN Hongkong Co Ltd
+address:        160 Robinson Road, #14-04 Singapore Business Federation Centre Singapore (068914)
+country:        CN
+phone:          +852 3611 0789
+e-mail:         cc-cs@snw.hk
+admin-c:        SHCL2-AP
+tech-c:         SHCL2-AP
+nic-hdl:        SHCL2-AP
+notify:         cc-cs@snw.hk
+mnt-by:         MAINT-SHANGHAI-CN
+last-modified:  2022-07-18T09:08:34Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.248.228.0 - 43.248.231.255'
+
+% Abuse contact for '43.248.228.0 - 43.248.231.255' is 'sljh@shec.edu.cn'
+
+inetnum:        43.248.228.0 - 43.248.231.255
+netname:        SHERNET
+descr:          Information Center of Shanghai Municipal Education Commission
+descr:          100 Da Gu Road, Shanghai, China
+country:        CN
+admin-c:        ML1775-AP
+tech-c:         BW648-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SHERNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:03Z
+source:         APNIC
+
+irt:            IRT-SHERNET-CN
+address:        100 Da Gu Road, Shanghai, China
+e-mail:         sljh@shec.edu.cn
+abuse-mailbox:  sljh@shec.edu.cn
+auth:           # Filtered
+admin-c:        ML1775-AP
+tech-c:         ML1775-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:25Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yuhong Zhu
+address:        100 Da Gu Road, Shanghai, China
+country:        CN
+phone:          +86-021-55066180
+e-mail:         cyh@shec.edu.cn
+nic-hdl:        BW648-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-06-29T09:02:03Z
+source:         APNIC
+
+person:         Lingjie Shen
+address:        100 Da Gu Road, Shanghai, China
+country:        CN
+phone:          +86-021-55066122
+e-mail:         sljh@shec.edu.cn
+nic-hdl:        ML1775-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-06-29T09:02:02Z
+source:         APNIC
+
+% Information related to '43.248.228.0/22AS56004'
+
+route:          43.248.228.0/22
+descr:          Shanghai Education and Research Network
+country:        CN
+origin:         AS56004
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-06T04:04:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

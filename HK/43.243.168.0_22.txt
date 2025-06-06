@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.243.168.0 - 43.243.171.255'
+
+% Abuse contact for '43.243.168.0 - 43.243.171.255' is '34566088@qq.com'
+
+inetnum:        43.243.168.0 - 43.243.171.255
+netname:        CNIPV4-HK
+descr:          Asia Pacific Cloud (Hong Kong) Holdings Limited
+country:        HK
+org:            ORG-APCK1-AP
+admin-c:        APCH1-AP
+tech-c:         APCH1-AP
+abuse-c:        AC2036-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNIPV4-HK
+mnt-routes:     MAINT-CNIPV4-HK
+mnt-irt:        IRT-CNIPV4-HK
+last-modified:  2021-01-06T05:27:03Z
+source:         APNIC
+
+irt:            IRT-CNIPV4-HK
+address:        FLAT/RM A,9/F SIL VERCORP INTERNATIONAL TOWER,, 707-713 NATHAN ROAD,MONGKOK,KOWLOON,HONG KONG., HONG
+e-mail:         34566088@qq.com
+abuse-mailbox:  34566088@qq.com
+admin-c:        APCH1-AP
+tech-c:         APCH1-AP
+auth:           # Filtered
+remarks:        34566088@qq.com
+remarks:        34566088@qq.com was validated on 2025-02-27
+mnt-by:         MAINT-CNIPV4-HK
+last-modified:  2025-02-27T02:53:57Z
+source:         APNIC
+
+organisation:   ORG-APCK1-AP
+org-name:       Asia Pacific Cloud (Hong Kong) Holdings Limited
+org-type:       LIR
+country:        HK
+address:        FLAT/RM A,9/F SIL VERCORP INTERNATIONAL TOWER,
+address:        707-713 NATHAN ROAD,MONGKOK,KOWLOON,HONG KONG.
+phone:          +13681818645
+fax-no:         +13681818645
+e-mail:         34566088@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:07Z
+source:         APNIC
+
+role:           ABUSE CNIPV4HK
+country:        ZZ
+address:        FLAT/RM A,9/F SIL VERCORP INTERNATIONAL TOWER,, 707-713 NATHAN ROAD,MONGKOK,KOWLOON,HONG KONG., HONG
+phone:          +000000000
+e-mail:         34566088@qq.com
+admin-c:        APCH1-AP
+tech-c:         APCH1-AP
+nic-hdl:        AC2036-AP
+remarks:        Generated from irt object IRT-CNIPV4-HK
+remarks:        34566088@qq.com was validated on 2025-02-27
+abuse-mailbox:  34566088@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-27T02:54:32Z
+source:         APNIC
+
+role:           Asia Pacific Cloud Hong Kong Holdings Limited ad
+address:        FLAT/RM A,9/F SIL VERCORP INTERNATIONAL TOWER,, 707-713 NATHAN ROAD,MONGKOK,KOWLOON,HONG KONG., HONG
+country:        HK
+phone:          +13681818645
+fax-no:         +13681818645
+e-mail:         34566088@qq.com
+admin-c:        APCH1-AP
+tech-c:         APCH1-AP
+nic-hdl:        APCH1-AP
+mnt-by:         MAINT-CNIPV4-HK
+last-modified:  2017-04-18T08:31:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

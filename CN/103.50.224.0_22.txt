@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.50.224.0 - 103.50.227.255'
+
+% Abuse contact for '103.50.224.0 - 103.50.227.255' is 'abuse@22.cn'
+
+inetnum:        103.50.224.0 - 103.50.227.255
+netname:        Aiming
+descr:          22NET, INC.
+country:        CN
+admin-c:        ZM1271-AP
+tech-c:         ZM1272-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-AIMING-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:33Z
+source:         APNIC
+
+irt:            IRT-Aiming-CN
+address:        Zhuantang Technology Economic District,Hangzhou
+e-mail:         abuse@22.cn
+abuse-mailbox:  abuse@22.cn
+auth:           # Filtered
+admin-c:        ZM1271-AP
+tech-c:         ZM1271-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-20T00:03:07Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         He Jianguo
+address:        Rm.15118,Unit1,Building2,
+address:        Zhuantang Technology Economic District,Hangzhou
+country:        CN
+phone:          +86-0571-87756881
+e-mail:         domain@22.cn
+nic-hdl:        ZM1271-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-02-11T06:34:02Z
+source:         APNIC
+
+person:         Wang Yujia
+address:        Rm.15118,Unit1,Building2,
+address:        Zhuantang Technology Economic District,Hangzhou
+country:        CN
+phone:          +86-0571-87756005
+e-mail:         wyj@22.cn
+nic-hdl:        ZM1272-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-02-11T06:34:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

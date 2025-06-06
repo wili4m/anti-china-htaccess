@@ -1,0 +1,69 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.93.121.0 - 103.93.121.255'
+
+% Abuse contact for '103.93.121.0 - 103.93.121.255' is 'alfred_teknisi@iftalink.net'
+
+inetnum:        103.93.121.0 - 103.93.121.255
+netname:        IDNIC-IFTALINK-ID
+descr:          PT Iftalink Media Karya
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. jend sudirman no 26
+descr:          Kab. Takalar, Sulawesi Selatan
+admin-c:        MM1992-AP
+tech-c:         MM1992-AP
+remarks:        Send Spam & Abuse Reports to: alfred_teknisi@iftalink.net
+country:        ID
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-IFTALINK
+mnt-irt:        IRT-IFTALINK-ID
+mnt-routes:     MAINT-ID-IFTALINK
+status:         ALLOCATED PORTABLE
+last-modified:  2022-11-15T09:51:22Z
+source:         APNIC
+
+irt:            IRT-IFTALINK-ID
+address:        Jl. Jend Sudirman No 26
+address:        Kab, Takalar, Sulawesi Selatan
+address:        Indonesia
+e-mail:         pt.iftalink@iftalink.net
+abuse-mailbox:  alfred_teknisi@iftalink.net
+admin-c:        MM1992-AP
+tech-c:         MM1992-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-IFTALINK
+last-modified:  2022-11-15T09:37:46Z
+source:         APNIC
+
+person:         MUSHAWWIR MUSHAWWIR
+address:        JALAN JENDERAL SUDIRMAN NO. 26
+address:        Kab. Takalar, Provinsi Sulawesi Selatan, Indonesia
+country:        ID
+phone:          +62-853-9988-0099
+e-mail:         pt.iftalink@iftalink.net
+nic-hdl:        MM1992-AP
+mnt-by:         MAINT-ID-IFTALINK
+last-modified:  2022-11-15T09:41:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

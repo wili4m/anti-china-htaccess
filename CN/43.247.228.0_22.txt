@@ -1,0 +1,79 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.247.228.0 - 43.247.231.255'
+
+% Abuse contact for '43.247.228.0 - 43.247.231.255' is 'stnet@163.com'
+
+inetnum:        43.247.228.0 - 43.247.231.255
+netname:        NBLnet
+descr:          BeiJing New-Billion Telecom Technology Co.,Ltd
+descr:          No.26 Chaowai Str. Chaoyang District,Beijing,P.R.C
+country:        CN
+admin-c:        RS486-AP
+tech-c:         RS486-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NBLNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:02Z
+source:         APNIC
+
+irt:            IRT-NBLnet-CN
+address:        No.26 Chaowai Str. Chaoyang District,Beijing,P.R.C
+e-mail:         stnet@163.com
+abuse-mailbox:  stnet@163.com
+admin-c:        RS486-AP
+tech-c:         RS486-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:59Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Risen Sun
+nic-hdl:        RS486-AP
+e-mail:         stnet@163.com
+address:        No.22 Jiangguomenwai Avenue Beijing,China
+phone:          +86-010-65661862
+fax-no:         +86-010-65660882
+country:        cn
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:46:35Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

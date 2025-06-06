@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.232.188.0 - 103.232.191.255'
+
+% Abuse contact for '103.232.188.0 - 103.232.191.255' is 'nicwind@qq.com'
+
+inetnum:        103.232.188.0 - 103.232.191.255
+netname:        NICWIND-CN
+descr:          Nantong Moonshine Information Technology Co., Ltd.
+country:        CN
+org:            ORG-NMIT1-AP
+admin-c:        NMIT1-AP
+tech-c:         NMIT1-AP
+abuse-c:        AN919-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NICWIND-CN
+mnt-routes:     MAINT-NICWIND-CN
+mnt-irt:        IRT-NICWIND-CN
+last-modified:  2020-07-22T03:38:24Z
+source:         APNIC
+
+irt:            IRT-NICWIND-CN
+address:        Floor 10,Building 14,Zhongnan Century,No.8,Taoyuan Road, Nantong Jiangsu 226000
+e-mail:         nicwind@qq.com
+abuse-mailbox:  nicwind@qq.com
+admin-c:        NMIT1-AP
+tech-c:         NMIT1-AP
+auth:           # Filtered
+remarks:        nicwind@qq.com was validated on 2025-03-05
+mnt-by:         MAINT-NICWIND-CN
+last-modified:  2025-03-05T02:37:36Z
+source:         APNIC
+
+organisation:   ORG-NMIT1-AP
+org-name:       Nantong Moonshine Information Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Floor 10,Building 14,Zhongnan Century,No.8,Taoyuan Road
+address:        Nantong City,Jiangsu Province
+phone:          +86.051385039007
+fax-no:         +86.051385039007
+e-mail:         nicwind@qq.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:57Z
+source:         APNIC
+
+role:           ABUSE NICWINDCN
+country:        ZZ
+address:        Floor 10,Building 14,Zhongnan Century,No.8,Taoyuan Road, Nantong Jiangsu 226000
+phone:          +000000000
+e-mail:         nicwind@qq.com
+admin-c:        NMIT1-AP
+tech-c:         NMIT1-AP
+nic-hdl:        AN919-AP
+remarks:        Generated from irt object IRT-NICWIND-CN
+remarks:        nicwind@qq.com was validated on 2025-03-05
+abuse-mailbox:  nicwind@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-05T02:38:07Z
+source:         APNIC
+
+role:           Nantong Moonshine Information Technology Co Ltd
+address:        Floor 10,Building 14,Zhongnan Century,No.8,Taoyuan Road, Nantong Jiangsu 226000
+country:        CN
+phone:          +86-13-9214-61368
+fax-no:         +86-13-9214-61368
+e-mail:         nicwind@qq.com
+admin-c:        NMIT1-AP
+tech-c:         NMIT1-AP
+nic-hdl:        NMIT1-AP
+mnt-by:         MAINT-NICWIND-CN
+last-modified:  2016-08-09T06:03:57Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

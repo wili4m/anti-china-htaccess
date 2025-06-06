@@ -1,0 +1,151 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      59.0.0.0 - 59.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2004-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '59.191.240.0 - 59.191.255.255'
+
+% Abuse contact for '59.191.240.0 - 59.191.255.255' is 'abuse@gtt.net'
+
+inetnum:        59.191.240.0 - 59.191.255.255
+netname:        GTT-HK
+descr:          GTT Communications HK Limited
+descr:          c/o Horwath Management Services Limited
+descr:          38th Floor Central Plaza, 18 Harbour Road
+country:        HK
+org:            ORG-THKL1-AP
+admin-c:        GCHL3-AP
+tech-c:         GCHL3-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AG890-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-GTT-HK
+mnt-routes:     MAINT-GTT-HK
+mnt-irt:        IRT-GTT-AP
+last-modified:  2021-03-09T01:18:31Z
+source:         APNIC
+
+irt:            IRT-GTT-AP
+address:        GTT Communications, Inc.
+address:        7900 Tysons One Place
+address:        Suite 1450
+address:        McLean, VA 22102
+address:        US
+phone:          +1 703 442 5500
+fax-no:         +1 703 442 5501
+e-mail:         noc@gtt.net
+abuse-mailbox:  abuse@gtt.net
+admin-c:        THKL1-AP
+tech-c:         THKL1-AP
+auth:           # Filtered
+remarks:        abuse@gtt.net was validated on 2025-03-21
+remarks:        noc@gtt.net is invalid
+mnt-by:         MAINT-TINET-HK
+last-modified:  2025-05-28T13:05:47Z
+source:         APNIC
+
+organisation:   ORG-THKL1-AP
+org-name:       GTT Communications HK Limited
+org-type:       LIR
+country:        HK
+address:        GTT Communications, Inc
+address:        c/o Horwath Management Services Limited
+address:        38th Floor Central Plaza, 18 Harbour Road
+phone:          +49-6102-8235-381
+fax-no:         +49-6102-8235-389
+e-mail:         netguartd@gtt.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:37Z
+source:         APNIC
+
+role:           ABUSE GTTAP
+country:        ZZ
+address:        GTT Communications, Inc.
+address:        7900 Tysons One Place
+address:        Suite 1450
+address:        McLean, VA 22102
+address:        US
+phone:          +1 703 442 5500
+e-mail:         noc@gtt.net
+admin-c:        THKL1-AP
+tech-c:         THKL1-AP
+nic-hdl:        AG890-AP
+remarks:        Generated from irt object IRT-GTT-AP
+remarks:        abuse@gtt.net was validated on 2025-03-21
+remarks:        noc@gtt.net is invalid
+abuse-mailbox:  abuse@gtt.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-28T13:06:49Z
+source:         APNIC
+
+role:           GTT Communications HK Limited - network administrator
+address:        38th Floor Central Plaza, 18 Harbour Road, Wanchai, Hong Kong
+country:        HK
+phone:          +49-6102-8235 381
+fax-no:         +49-6102-8235 389
+e-mail:         netguard@gtt.net
+admin-c:        GCHL3-AP
+tech-c:         GCHL3-AP
+nic-hdl:        GCHL3-AP
+mnt-by:         MAINT-GTT-HK
+last-modified:  2020-09-15T22:58:37Z
+source:         APNIC
+
+% Information related to '59.191.240.0/20AS3257'
+
+route:          59.191.240.0/20
+origin:         AS3257
+descr:          GTT Communications HK Limited
+                GTT Communications, Inc
+                c/o Horwath Management Services Limited
+                38th Floor Central Plaza, 18 Harbour Road
+mnt-by:         MAINT-GTT-HK
+last-modified:  2021-11-12T12:42:27Z
+source:         APNIC
+
+% Information related to '59.191.240.0/20AS4589'
+
+route:          59.191.240.0/20
+descr:          Easynet Global Services
+remarks:        global managed network, hosting, and telepresence company
+origin:         AS4589
+mnt-by:         MAINT-GTT-HK
+last-modified:  2021-03-09T01:30:18Z
+source:         APNIC
+
+% Information related to '59.191.240.0/20AS5580'
+
+route:          59.191.240.0/20
+origin:         AS5580
+descr:          GTT Communications HK Limited
+                GTT Communications, Inc
+                c/o Horwath Management Services Limited
+                38th Floor Central Plaza, 18 Harbour Road
+mnt-by:         MAINT-GTT-HK
+last-modified:  2021-11-12T12:42:52Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

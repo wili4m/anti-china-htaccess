@@ -1,0 +1,84 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      95.0.0.0 - 95.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2007-07
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        95.143.64.0 - 95.143.79.255
+netname:        FR-JAGUAR-20090821
+remarks:        JN Custom manual supernet
+country:        FR
+org:            ORG-JA30-RIPE
+admin-c:        JAGN-RIPE
+tech-c:         JAGN-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         JAGUAR-MNT
+mnt-lower:      JAGUAR-MNT
+mnt-routes:     JAGUAR-MNT
+created:        2009-08-21T09:30:06Z
+last-modified:  2019-07-08T08:17:49Z
+source:         RIPE # Filtered
+
+organisation:   ORG-JA30-RIPE
+org-name:       Free Pro SAS
+country:        FR
+org-type:       LIR
+address:        3 rue Paul Brutus
+address:        13015
+address:        Marseille
+address:        FRANCE
+phone:          +33 4 88 00 65 10
+fax-no:         +33 4 88 00 65 25
+admin-c:        JAGN-RIPE
+abuse-c:        JAGN-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        JAGUAR-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         JAGUAR-MNT
+created:        2005-06-16T09:01:32Z
+last-modified:  2024-09-23T07:50:49Z
+source:         RIPE # Filtered
+
+role:           Free Pro
+address:        3, rue Paul Brutus
+address:        13015 Marseille
+address:        France
+phone:          +33 4 88 00 65 10
+admin-c:        LFML-RIPE
+admin-c:        RB48308-RIPE
+admin-c:        BPAS1-RIPE
+tech-c:         LFML-RIPE
+tech-c:         RB48308-RIPE
+tech-c:         BPAS1-RIPE
+nic-hdl:        JAGN-RIPE
+mnt-by:         JAGUAR-MNT
+created:        2005-01-14T13:43:04Z
+last-modified:  2024-08-16T09:49:56Z
+source:         RIPE # Filtered
+abuse-mailbox:  abuse@as30781.net
+
+% Information related to '95.143.64.0/20AS30781'
+
+route:          95.143.64.0/20
+descr:          FR.JAGUAR LIR Range
+origin:         AS30781
+mnt-by:         JAGUAR-MNT
+created:        2009-08-21T09:54:49Z
+last-modified:  2009-08-21T09:54:49Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+

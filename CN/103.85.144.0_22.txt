@@ -1,0 +1,93 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.85.144.0 - 103.85.147.255'
+
+% Abuse contact for '103.85.144.0 - 103.85.147.255' is '514592@qq.com'
+
+inetnum:        103.85.144.0 - 103.85.147.255
+netname:        GZGD-ZY
+descr:          Guizhou provincial radio and television information Network Inc
+descr:          ZunYi Branch Company
+descr:          China North Road, Radio and Television Building,
+descr:          Honghuagang District Zunyi City, Guizhou Province
+country:        CN
+admin-c:        YW6715-AP
+tech-c:         JS3937-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-GZGD-ZY-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:46Z
+source:         APNIC
+
+irt:            IRT-GZGD-ZY-CN
+address:        China North Road, Radio and Television Building,
+address:        Honghuagang District Zunyi City, Guizhou Province
+e-mail:         514592@qq.com
+abuse-mailbox:  514592@qq.com
+admin-c:        YW6715-AP
+tech-c:         JS3937-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:19:23Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         He yong
+address:        China North Road, Radio and Television Building,
+address:        Honghuagang District Zunyi City, Guizhou Province
+country:        CN
+phone:          +86-0851-28839215
+e-mail:         514592@qq.com
+nic-hdl:        JS3937-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-02-10T07:14:01Z
+source:         APNIC
+
+person:         Xiao cai
+address:        China North Road, Radio and Television Building,
+address:        Honghuagang District Zunyi City, Guizhou Province
+country:        CN
+phone:          +86-0851-28839215
+e-mail:         640364293@qq.com
+nic-hdl:        YW6715-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-02-10T07:14:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

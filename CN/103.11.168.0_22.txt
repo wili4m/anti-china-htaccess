@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.11.168.0 - 103.11.171.255'
+
+% Abuse contact for '103.11.168.0 - 103.11.171.255' is '18971365499@189.cn'
+
+inetnum:        103.11.168.0 - 103.11.171.255
+netname:        whshengshi
+descr:          Wuhan Shengshi Tianyou Tech.,LTD
+descr:          2-202, Building 10, Hangtianshuangcheng, Erqi Road, Jiefang Ave,
+descr:          Jiang'an District, Wuhan, China
+admin-c:        ML2056-AP
+tech-c:         ML2056-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-wushengshi-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-08-23T08:03:28Z
+source:         APNIC
+
+irt:            IRT-wushengshi-CN
+address:        2-202, Building 10, Hangtianshuangcheng, Erqi Road, Jiefang Ave,
+address:        Jiang'an District, Wuhan, China
+e-mail:         18971365499@189.cn
+abuse-mailbox:  18971365499@189.cn
+auth:           # Filtered
+admin-c:        ML2056-AP
+tech-c:         ML2056-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-07-03T01:50:57Z
+source:         APNIC
+
+person:         Yao Lei
+address:        2-202, Building 10, Hangtianshuangcheng, Erqi Road, Jiefang Ave,
+address:        Jiang'an District, Wuhan City, P.R. China
+country:        CN
+phone:          +86-027-83800980
+e-mail:         24597076@qq.com
+nic-hdl:        ML2056-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-02-20T08:50:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

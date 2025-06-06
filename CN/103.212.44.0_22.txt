@@ -1,0 +1,126 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.212.44.0 - 103.212.47.255'
+
+% Abuse contact for '103.212.44.0 - 103.212.47.255' is 'didong.jc@alibaba-inc.com'
+
+inetnum:        103.212.44.0 - 103.212.47.255
+netname:        Taobao
+descr:          Zhejiang Taobao Network Co.,Ltd
+descr:          2nd floor, Westlake International technology Building
+descr:          391Wener Road, Hangzhou, China
+country:        CN
+admin-c:        ZM678-AP
+tech-c:         ZM877-AP
+tech-c:         ZM876-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-TAOBAO-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:08Z
+source:         APNIC
+
+irt:            IRT-Taobao-CN
+address:        2nd floor, Westlake International technology Building, 391 Wener Road, Hangzhou
+e-mail:         didong.jc@alibaba-inc.com
+abuse-mailbox:  didong.jc@alibaba-inc.com
+auth:           # Filtered
+admin-c:        ZM877-AP
+tech-c:         ZM877-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:36Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Shuo Yu
+address:        5F, Builing D, the West Lake International Plaza of S&T
+address:        No.391 Wen'er Road, Hangzhou City
+address:        Zhejiang, China, 310099
+country:        CN
+phone:          +86-0571-85022600
+e-mail:         anti-spam@list.alibaba-inc.com
+nic-hdl:        ZM678-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-04-13T23:21:57Z
+source:         APNIC
+
+person:         security trouble
+e-mail:         yitian.gaoyt@alibaba-inc.com
+address:        5th,floor,Building D,the West Lake International Plaza of S&T,391#Wen??r Road
+address:        Hangzhou, Zhejiang, China
+phone:          +86-0571-85022600
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+nic-hdl:        ZM876-AP
+last-modified:  2021-04-13T23:22:33Z
+source:         APNIC
+
+person:         Guowei Pan
+address:        5F, Builing D, the West Lake International Plaza of S&T
+address:        No.391 Wen'er Road, Hangzhou City
+address:        Zhejiang, China, 310099
+country:        CN
+phone:          +86-0571-85022088-30763
+fax-no:         +86-0571-85022600
+e-mail:         guowei.pangw@alibaba-inc.com
+nic-hdl:        ZM877-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-07-09T01:34:02Z
+source:         APNIC
+
+% Information related to '103.212.44.0/22AS37963'
+
+route:          103.212.44.0/22
+descr:          Hangzhou Alibaba Advertising Co.,Ltd.
+country:        CN
+origin:         AS37963
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-08T23:26:05Z
+source:         APNIC
+
+% Information related to '103.212.44.0/22AS45102'
+
+route:          103.212.44.0/22
+descr:          Alibaba (US) Technology Co., Ltd.
+country:        CN
+origin:         AS45102
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-08T23:26:05Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

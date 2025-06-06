@@ -1,0 +1,139 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.88.152.0 - 103.88.153.255'
+
+% Abuse contact for '103.88.152.0 - 103.88.153.255' is 'darma.dana.azis@ppa-id.com'
+
+inetnum:        103.88.152.0 - 103.88.153.255
+netname:        IDNIC-PPA-ID
+descr:          PT Putra Perkasa Abadi
+descr:          Corporate / Direct Member IDNIC
+descr:          Gedung Office 8, Lantai 8, SCBD Lot 28
+descr:          Jl. Jendral Sudirman KAV. 52-53, Senayan, Kebayoran Baru Jakarta Selatan 12190
+admin-c:        DDA6-AP
+tech-c:         DDA6-AP
+remarks:        Send Spam & Abuse Reports to: darma.dana.azis@ppa-id.com
+country:        ID
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-PPA
+mnt-irt:        IRT-PPA-ID
+mnt-routes:     MAINT-ID-PPA
+status:         ALLOCATED PORTABLE
+last-modified:  2022-08-03T08:56:55Z
+source:         APNIC
+
+irt:            IRT-PPA-ID
+address:        Putra Perkasa Abadi
+address:        Gedung Office 8, Lantai 8, SCBD Lot 28, Jl. Jendral Sudirman KAV. 52-53
+address:        Senayan, Kebayoran Baru
+address:        Jakarta Selatan 12190
+e-mail:         darma.dana.azis@ppa-id.com
+abuse-mailbox:  darma.dana.azis@ppa-id.com
+admin-c:        DDA6-AP
+tech-c:         DDA6-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-PPA
+last-modified:  2022-08-02T04:35:16Z
+source:         APNIC
+
+person:         Darma Dana Aziz
+address:        Putra Perkasa Abadi
+address:        Gedung Office 8, Lantai 8, SCBD Lot 28, Jl. Jendral Sudirman KAV. 52-53
+address:        Senayan, Kebayoran Baru
+address:        Jakarta Selatan 12190
+country:        ID
+phone:          +62-2157903456
+e-mail:         darma.dana.azis@ppa-id.com
+nic-hdl:        DDA6-AP
+mnt-by:         MAINT-ID-PPA
+last-modified:  2022-08-02T04:35:37Z
+source:         APNIC
+
+% Information related to '103.88.152.0/23AS149947'
+
+route:          103.88.152.0/23
+descr:          Route Object 103.88.152.0/23
+origin:         AS149947
+mnt-by:         MAINT-ID-PPA
+country:        ID
+last-modified:  2023-09-29T02:36:27Z
+source:         APNIC
+
+% Information related to '103.88.152.0 - 103.88.153.255'
+
+inetnum:        103.88.152.0 - 103.88.153.255
+netname:        IDNIC-PPA-ID
+descr:          PT Putra Perkasa Abadi
+descr:          Corporate / Direct Member IDNIC
+descr:          Gedung Office 8, Lantai 8, SCBD Lot 28
+descr:          Jl. Jendral Sudirman KAV. 52-53, Senayan, Kebayoran Baru Jakarta Selatan 12190
+admin-c:        DDA6-AP
+tech-c:         DDA6-AP
+remarks:        Send Spam & Abuse Reports to: darma.dana.azis@ppa-id.com
+country:        ID
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-PPA
+mnt-irt:        IRT-PPA-ID
+mnt-routes:     MAINT-ID-PPA
+status:         ALLOCATED PORTABLE
+last-modified:  2023-09-15T10:30:39Z
+source:         IDNIC
+
+irt:            IRT-PPA-ID
+address:        Putra Perkasa Abadi
+address:        Gedung Office 8, Lantai 8, SCBD Lot 28, Jl. Jendral Sudirman KAV. 52-53
+address:        Senayan, Kebayoran Baru
+address:        Jakarta Selatan 12190
+e-mail:         darma.dana.azis@ppa-id.com
+abuse-mailbox:  darma.dana.azis@ppa-id.com
+admin-c:        DDA6-AP
+tech-c:         DDA6-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-PPA
+last-modified:  2023-09-15T10:30:39Z
+source:         IDNIC
+
+person:         Darma Dana Aziz
+address:        Putra Perkasa Abadi
+address:        Gedung Office 8, Lantai 8, SCBD Lot 28, Jl. Jendral Sudirman KAV. 52-53
+address:        Senayan, Kebayoran Baru
+address:        Jakarta Selatan 12190
+country:        ID
+phone:          +62-2157903456
+e-mail:         darma.dana.azis@ppa-id.com
+nic-hdl:        DDA6-AP
+mnt-by:         MAINT-ID-PPA
+last-modified:  2023-09-15T10:30:47Z
+source:         IDNIC
+
+% Information related to '103.88.152.0/23AS149947'
+
+route:          103.88.152.0/23
+descr:          Route Object 103.88.152.0/23
+origin:         AS149947
+mnt-by:         MAINT-ID-PPA
+notify:         darma.dana.azis@ppa.co.id
+last-modified:  2025-02-10T03:53:05Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

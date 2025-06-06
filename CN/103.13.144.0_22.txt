@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.13.144.0 - 103.13.147.255'
+
+% Abuse contact for '103.13.144.0 - 103.13.147.255' is 'ian.watt@uk.mcd.com'
+
+inetnum:        103.13.144.0 - 103.13.147.255
+netname:        SAMLOW-APNIC-AP
+descr:          2111 McDonald's Dr
+country:        CN
+org:            ORG-MC2-AP
+admin-c:        MCNA4-AP
+tech-c:         MCNA4-AP
+abuse-c:        AS2363-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SAMLOW-APNIC-AP
+mnt-routes:     MAINT-SAMLOW-APNIC-AP
+mnt-irt:        IRT-SAMLOW-APNIC-AP
+last-modified:  2020-06-22T08:54:34Z
+source:         APNIC
+
+irt:            IRT-SAMLOW-APNIC-AP
+address:        110 N. Carpenter Street
+e-mail:         ian.watt@uk.mcd.com
+abuse-mailbox:  ian.watt@uk.mcd.com
+admin-c:        MCNA4-AP
+tech-c:         MCNA4-AP
+auth:           # Filtered
+remarks:        ian.watt@uk.mcd.com is invalid
+mnt-by:         MAINT-SAMLOW-APNIC-AP
+last-modified:  2025-01-22T13:05:44Z
+source:         APNIC
+
+organisation:   ORG-MC2-AP
+org-name:       McDonald's Corporation
+org-type:       LIR
+country:        US
+address:        110 N. Carpenter Street
+phone:          +442035306789
+e-mail:         aaron.watson@eu.mcd.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:00Z
+source:         APNIC
+
+role:           ABUSE SAMLOWAPNICAP
+country:        ZZ
+address:        110 N. Carpenter Street
+phone:          +000000000
+e-mail:         ian.watt@uk.mcd.com
+admin-c:        MCNA4-AP
+tech-c:         MCNA4-AP
+nic-hdl:        AS2363-AP
+remarks:        Generated from irt object IRT-SAMLOW-APNIC-AP
+remarks:        ian.watt@uk.mcd.com is invalid
+abuse-mailbox:  ian.watt@uk.mcd.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-22T13:22:06Z
+source:         APNIC
+
+role:           MCDONALDS CORPORATION - network administrator
+address:        2111 McDonald's Dr
+country:        US
+phone:          +1-630-623-2564
+e-mail:         samuel.low@us.mcd.com
+admin-c:        MCNA4-AP
+tech-c:         MCNA4-AP
+nic-hdl:        MCNA4-AP
+mnt-by:         MAINT-SAMLOW-APNIC-AP
+last-modified:  2012-07-24T04:04:25Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

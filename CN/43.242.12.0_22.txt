@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.242.12.0 - 43.242.15.255'
+
+% Abuse contact for '43.242.12.0 - 43.242.15.255' is 'ipas@cnnic.cn'
+
+inetnum:        43.242.12.0 - 43.242.15.255
+netname:        CNLINKSH
+descr:          CNlinkSH
+descr:          Room 307,CITIC Buiding TowerA,No.19 Jian Guo Men Wai Street,Beijing,China 100004
+country:        CN
+admin-c:        ML2196-AP
+tech-c:         BW842-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:26:16Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Jiang Xiaowei
+address:        Room 307,CITIC Buiding TowerA,No.19 Jian Guo Men Wai Street,Beijing,China 100004
+country:        CN
+phone:          +86-010-65653254
+e-mail:         jxw@cn.cnlink.net
+nic-hdl:        BW842-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-08-27T03:38:01Z
+source:         APNIC
+
+person:         Ma Ang
+address:        Room 307,CITIC Buiding TowerA,No.19 Jian Guo Men Wai Street,Beijing,China 100004
+country:        CN
+phone:          +86-010-85262288-883
+e-mail:         Maang@cn.cnlink.net
+nic-hdl:        ML2196-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-08-27T03:38:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

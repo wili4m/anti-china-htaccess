@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.215.100.0 - 103.215.103.255'
+
+% Abuse contact for '103.215.100.0 - 103.215.103.255' is 'sunzhongyang@dhgate.com'
+
+inetnum:        103.215.100.0 - 103.215.103.255
+netname:        CFIT-CN
+descr:          Room 1-701, 28 Chengfu Road
+descr:          Haidian District
+country:        CN
+org:            ORG-BDHI1-AP
+admin-c:        CFIT1-AP
+tech-c:         CFIT1-AP
+abuse-c:        AC2212-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CFIT-CN
+mnt-irt:        IRT-CFIT-CN
+last-modified:  2020-11-11T13:03:42Z
+source:         APNIC
+
+irt:            IRT-CFIT-CN
+address:        7F,BldgA,U-Center 28 Chengfu Road,, Beijing Beijing Haidian District, 100083
+e-mail:         sunzhongyang@dhgate.com
+abuse-mailbox:  sunzhongyang@dhgate.com
+admin-c:        CFIT1-AP
+tech-c:         CFIT1-AP
+auth:           # Filtered
+remarks:        sunzhongyang@dhgate.com was validated on 2025-03-26
+mnt-by:         MAINT-CFIT-CN
+last-modified:  2025-03-26T06:45:58Z
+source:         APNIC
+
+organisation:   ORG-BDHI1-AP
+org-name:       Chongqing Fuxuan Information Technology Co., Limited
+org-type:       LIR
+country:        CN
+address:        Room 1-701, 28 Chengfu Road
+address:        Haidian District
+phone:          +86-10-8202-8870
+fax-no:         +86-10-8202-9983
+e-mail:         sunzhongyang@dhgate.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:52Z
+source:         APNIC
+
+role:           ABUSE CFITCN
+country:        ZZ
+address:        7F,BldgA,U-Center 28 Chengfu Road,, Beijing Beijing Haidian District, 100083
+phone:          +000000000
+e-mail:         sunzhongyang@dhgate.com
+admin-c:        CFIT1-AP
+tech-c:         CFIT1-AP
+nic-hdl:        AC2212-AP
+remarks:        Generated from irt object IRT-CFIT-CN
+remarks:        sunzhongyang@dhgate.com was validated on 2025-03-26
+abuse-mailbox:  sunzhongyang@dhgate.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-26T06:46:25Z
+source:         APNIC
+
+role:           Chongqing Fuxuan Information Technology Co. Limited
+address:        7F,BldgA,U-Center 28 Chengfu Road,, Beijing Beijing Haidian District, 100083
+country:        CN
+phone:          +86-10-8202-8870
+e-mail:         sunzhongyang@dhgate.com
+admin-c:        CFIT1-AP
+tech-c:         CFIT1-AP
+nic-hdl:        CFIT1-AP
+mnt-by:         MAINT-CFIT-CN
+fax-no:         +86-10-8202-8870
+last-modified:  2018-05-09T00:51:37Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

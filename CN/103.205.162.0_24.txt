@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.205.162.0 - 103.205.162.255'
+
+% Abuse contact for '103.205.162.0 - 103.205.162.255' is '418052808@qq.com'
+
+inetnum:        103.205.162.0 - 103.205.162.255
+netname:        KBNC
+descr:          Kunming Broadcast&TV Network CO.,LTD
+country:        CN
+org:            ORG-KBNC1-AP
+admin-c:        KBNC1-AP
+tech-c:         KBNC1-AP
+abuse-c:        AK1157-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-KBNC-CN
+mnt-irt:        IRT-KBNC-CN
+last-modified:  2020-11-25T06:33:53Z
+source:         APNIC
+
+irt:            IRT-KBNC-CN
+address:        198 Dan Xia Road, Kunming city, Yunnan province, China
+e-mail:         418052808@qq.com
+abuse-mailbox:  418052808@qq.com
+admin-c:        KBNC1-AP
+tech-c:         KBNC1-AP
+auth:           # Filtered
+remarks:        418052808@qq.com is invalid
+mnt-by:         MAINT-KBNC-CN
+last-modified:  2023-07-31T02:31:43Z
+source:         APNIC
+
+organisation:   ORG-KBNC1-AP
+org-name:       Kunming Broadcast&TV Network CO.,LTD
+org-type:       LIR
+country:        CN
+address:        198 Dan Xia Road,
+phone:          +86-0871-65371723
+fax-no:         +86-0871-65371723
+e-mail:         zhang_ye@cernet.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:45Z
+source:         APNIC
+
+role:           ABUSE KBNCCN
+address:        198 Dan Xia Road, Kunming city, Yunnan province, China
+country:        ZZ
+phone:          +000000000
+e-mail:         418052808@qq.com
+admin-c:        KBNC1-AP
+tech-c:         KBNC1-AP
+nic-hdl:        AK1157-AP
+remarks:        Generated from irt object IRT-KBNC-CN
+remarks:        418052808@qq.com is invalid
+abuse-mailbox:  418052808@qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-07-31T02:32:25Z
+source:         APNIC
+
+role:           Kunming BroadcastTV Network COLTD administrator
+address:        198 Dan Xia Road, Kunming city, Yunnan province, China
+country:        CN
+phone:          +86-0871-65371723
+fax-no:         +86-0871-65371723
+e-mail:         risy007@gmail.com
+admin-c:        KBNC1-AP
+tech-c:         KBNC1-AP
+nic-hdl:        KBNC1-AP
+mnt-by:         MAINT-KBNC-CN
+last-modified:  2017-07-11T08:31:39Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

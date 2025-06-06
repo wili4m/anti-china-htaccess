@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.73.208.0 - 103.73.211.255'
+
+% Abuse contact for '103.73.208.0 - 103.73.211.255' is 'yujuan.cheng@net263.com'
+
+inetnum:        103.73.208.0 - 103.73.211.255
+netname:        BJ263
+descr:          Beijing 263 Enterprise Correspondence Co., Ltd.
+descr:          17th Floor,Jian Da Building,14 East Tucheng Road
+descr:          Hepingli Chaoyang District,Beijing 100013,P.R.C
+country:        CN
+admin-c:        ZM1676-AP
+tech-c:         ZM1677-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BJ263-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:44Z
+source:         APNIC
+
+irt:            IRT-BJ263-CN
+address:        17th Floor,Jian Da Building,14 East Tucheng Road,Hepingli Chaoyang District,Beijing 100013,P.R.C
+e-mail:         yujuan.cheng@net263.com
+abuse-mailbox:  yujuan.cheng@net263.com
+auth:           # Filtered
+admin-c:        ZM1676-AP
+tech-c:         ZM1676-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:31Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yujuan Cheng
+address:        17th Floor,Jian Da Building,14 East Tucheng Road
+address:        Hepingli Chaoyang District,Beijing 100013,P.R.C
+country:        CN
+phone:          +86-010-84291263
+e-mail:         Yujuan.cheng@net263.com
+nic-hdl:        ZM1676-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-31T03:08:01Z
+source:         APNIC
+
+person:         Wang Li
+address:        17th Floor,Jian Da Building,14 East Tucheng Road
+address:        Hepingli Chaoyang District,Beijing 100013,P.R.C
+country:        CN
+phone:          +86-010-84291263
+e-mail:         Wang.li@net263.com
+nic-hdl:        ZM1677-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-31T03:08:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

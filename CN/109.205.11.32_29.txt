@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      109.0.0.0 - 109.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2009-01
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        109.205.11.32 - 109.205.11.39
+netname:        TUN-NX
+mnt-domains:    MNT-MNS
+descr:          Hong Kong
+country:        CN
+admin-c:        JME19-RIPE
+tech-c:         MH3992-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-MNS
+created:        2012-03-20T12:17:13Z
+last-modified:  2013-10-21T06:42:36Z
+source:         RIPE
+
+role:           MNS Hostmaster
+address:        Rektor Qvigstads gate 5
+address:        9009 Tromsø
+admin-c:        JME19-RIPE
+admin-c:        RA10640-RIPE
+abuse-mailbox:  noc@vixly.com
+tech-c:         JME19-RIPE
+tech-c:         RA10640-RIPE
+nic-hdl:        MH3992-RIPE
+mnt-by:         MNT-MNS
+created:        2008-02-11T13:23:10Z
+last-modified:  2024-04-16T08:55:48Z
+source:         RIPE # Filtered
+
+person:         Jan Marius Evang
+address:        Media Network Services AS Karenslyst all? 16D 0278 Oslo
+phone:          +4799559088
+nic-hdl:        JME19-RIPE
+created:        2004-09-02T13:45:55Z
+last-modified:  2024-04-16T08:56:37Z
+source:         RIPE # Filtered
+mnt-by:         MNT-MNS
+
+% Information related to '109.205.11.0/24AS44654'
+
+route:          109.205.11.0/24
+descr:          MNS-route
+origin:         AS44654
+mnt-by:         MNT-MNS
+created:        2012-01-28T20:55:32Z
+last-modified:  2012-01-28T20:55:32Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (BUSA)
+
+

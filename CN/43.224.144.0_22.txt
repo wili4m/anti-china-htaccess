@@ -1,0 +1,105 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.224.144.0 - 43.224.147.255'
+
+% Abuse contact for '43.224.144.0 - 43.224.147.255' is 'ec2-abuse@amazon.com'
+
+inetnum:        43.224.144.0 - 43.224.147.255
+netname:        AMAZON-CN
+descr:          Amazon Connection Technology Services (Beijing) Co., LTD
+descr:          West No. 10, 2nd Floor, Yangyan Road, Yanqi Economic Develop
+country:        CN
+org:            ORG-ACTS1-AP
+admin-c:        ACTS2-AP
+tech-c:         ACTS2-AP
+abuse-c:        AA2059-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AMAZON-CN
+mnt-routes:     MAINT-AMAZON-CN
+mnt-irt:        IRT-AMAZON-CN
+last-modified:  2020-10-28T11:38:13Z
+source:         APNIC
+
+irt:            IRT-AMAZON-CN
+address:        West No. 10, 2nd Floor, Yangya, Beijing Huairou District
+phone:          +1 206 266 4064
+e-mail:         ipmanagement@amazon.com
+abuse-mailbox:  ec2-abuse@amazon.com
+admin-c:        ACTS2-AP
+tech-c:         ACTS2-AP
+auth:           # Filtered
+remarks:        ec2-abuse@amazon.com was validated on 2025-01-03
+remarks:        ipmanagement@amazon.com was validated on 2025-02-11
+mnt-by:         MAINT-AMAZON-CN
+last-modified:  2025-02-11T00:21:27Z
+source:         APNIC
+
+organisation:   ORG-ACTS1-AP
+org-name:       Amazon Connection Technology Services (Beijing) Co., LTD
+org-type:       LIR
+country:        CN
+address:        West No. 10, 2nd Floor, Yangyan Road, Yanqi Economic Develop
+phone:          +1-206-226-4064
+fax-no:         +1-206-922-6091
+e-mail:         aes-noc@amazon.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:05Z
+source:         APNIC
+
+role:           ABUSE AMAZONCN
+country:        ZZ
+address:        West No. 10, 2nd Floor, Yangya, Beijing Huairou District
+phone:          +1 206 266 4064
+e-mail:         ipmanagement@amazon.com
+admin-c:        ACTS2-AP
+tech-c:         ACTS2-AP
+nic-hdl:        AA2059-AP
+remarks:        Generated from irt object IRT-AMAZON-CN
+remarks:        ec2-abuse@amazon.com was validated on 2025-01-03
+remarks:        ipmanagement@amazon.com was validated on 2025-02-11
+abuse-mailbox:  ec2-abuse@amazon.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-11T00:21:40Z
+source:         APNIC
+
+role:           Amazon Connection Technology Services Beijing Co
+address:        West No. 10, 2nd Floor, Yangya, Beijing Huairou District
+country:        CN
+phone:          +1 206 226 4064
+fax-no:         +1 206 226 4064
+e-mail:         aes-noc@amazon.com
+admin-c:        ACTS2-AP
+tech-c:         ACTS2-AP
+nic-hdl:        ACTS2-AP
+mnt-by:         MAINT-AMAZON-CN
+last-modified:  2012-10-19T22:03:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.86.84.0 - 103.86.87.255'
+
+% Abuse contact for '103.86.84.0 - 103.86.87.255' is 'abuse@ntte.net'
+
+inetnum:        103.86.84.0 - 103.86.87.255
+netname:        SHENZHEN1-CN
+descr:          Futian Zhongchudasha
+country:        CN
+org:            ORG-SCIT1-AP
+admin-c:        SCIT3-AP
+tech-c:         SCIT3-AP
+abuse-c:        AS3044-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SHENZHEN1-CN
+mnt-routes:     MAINT-SHENZHEN1-CN
+mnt-irt:        IRT-SHENZHEN1-CN
+last-modified:  2021-01-18T23:25:33Z
+source:         APNIC
+
+irt:            IRT-SHENZHEN1-CN
+address:        CloudITIDC Global
+e-mail:         abuse@ntte.net
+abuse-mailbox:  abuse@ntte.net
+admin-c:        SCIT3-AP
+tech-c:         SCIT3-AP
+auth:           # Filtered
+remarks:        abuse@ntte.net is invalid
+mnt-by:         MAINT-SHENZHEN1-CN
+last-modified:  2025-04-16T13:06:12Z
+source:         APNIC
+
+organisation:   ORG-SCIT1-AP
+org-name:       Shenzhen Chuangyun Information Technology Co Ltd.
+org-type:       LIR
+country:        CN
+address:        Futian Zhongchudasha
+phone:          +86-17737707182
+e-mail:         abuse@2vps.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:10Z
+source:         APNIC
+
+role:           ABUSE SHENZHEN1CN
+country:        ZZ
+address:        CloudITIDC Global
+phone:          +000000000
+e-mail:         abuse@ntte.net
+admin-c:        SCIT3-AP
+tech-c:         SCIT3-AP
+nic-hdl:        AS3044-AP
+remarks:        Generated from irt object IRT-SHENZHEN1-CN
+remarks:        abuse@ntte.net is invalid
+abuse-mailbox:  abuse@ntte.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-16T13:06:58Z
+source:         APNIC
+
+role:           Shenzhen Chuangyun Information Technology Co Ltd
+address:        Futian Zhongchudasha, Shenzhen Guangdong 518000
+country:        KR
+phone:          +86-17737707182
+fax-no:         +86-17737707182
+e-mail:         abuse@ntte.net
+admin-c:        SCIT3-AP
+tech-c:         SCIT3-AP
+nic-hdl:        SCIT3-AP
+mnt-by:         MAINT-SHENZHEN1-CN
+last-modified:  2022-04-19T10:51:43Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

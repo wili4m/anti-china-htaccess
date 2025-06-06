@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.245.23.0 - 103.245.23.255'
+
+% Abuse contact for '103.245.23.0 - 103.245.23.255' is 'lichao@sinnet.com.cn'
+
+inetnum:        103.245.23.0 - 103.245.23.255
+netname:        BEIJING-CN
+descr:          Room 2A,2nd Floor,East Gate Plaza,19 Dong Zhong Jie
+country:        CN
+org:            ORG-BSTC1-AP
+admin-c:        BSTC1-AP
+tech-c:         BSTC1-AP
+abuse-c:        AB1170-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BEIJING-CN
+mnt-routes:     MAINT-BEIJING-CN
+mnt-irt:        IRT-BEIJING-CN
+last-modified:  2020-07-22T13:05:36Z
+source:         APNIC
+
+irt:            IRT-BEIJING-CN
+address:        Room 2A,2nd Floor,East Gate Plaza,19 Dong Zhong Jie
+address:        Beijing Dong Cheng District 100027
+e-mail:         lichao@sinnet.com.cn
+abuse-mailbox:  lichao@sinnet.com.cn
+admin-c:        BSTC1-AP
+tech-c:         BSTC1-AP
+auth:           # Filtered
+remarks:        lichao@sinnet.com.cn is invalid
+mnt-by:         MAINT-BEIJING-CN
+last-modified:  2024-11-06T13:05:53Z
+source:         APNIC
+
+organisation:   ORG-BSTC1-AP
+org-name:       Beijing Sinnet Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Room 2A,2nd Floor,East Gate Plaza,19 Dong Zhong Jie
+phone:          +86-18809319878
+fax-no:         +86-010-64781150-684
+e-mail:         zjy@sinnet.com.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:06Z
+source:         APNIC
+
+role:           ABUSE BEIJINGCN
+country:        ZZ
+address:        Room 2A,2nd Floor,East Gate Plaza,19 Dong Zhong Jie
+address:        Beijing Dong Cheng District 100027
+phone:          +000000000
+e-mail:         lichao@sinnet.com.cn
+admin-c:        BSTC1-AP
+tech-c:         BSTC1-AP
+nic-hdl:        AB1170-AP
+remarks:        Generated from irt object IRT-BEIJING-CN
+remarks:        lichao@sinnet.com.cn is invalid
+abuse-mailbox:  lichao@sinnet.com.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-06T13:06:29Z
+source:         APNIC
+
+role:           Beijing Sinnet Technology Co Ltd administrator
+address:        Room 2A,2nd Floor,East Gate Plaza,19 Dong Zhong Jie
+address:        Beijing Dong Cheng District 100027
+country:        CN
+phone:          +86 13910195160
+fax-no:         +86 010-64181150-601
+e-mail:         lichao@sinnet.com.cn
+admin-c:        BSTC1-AP
+tech-c:         BSTC1-AP
+nic-hdl:        BSTC1-AP
+mnt-by:         MAINT-BEIJING-CN
+last-modified:  2016-12-30T01:00:07Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

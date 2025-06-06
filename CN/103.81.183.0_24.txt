@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.81.183.0 - 103.81.183.255'
+
+% Abuse contact for '103.81.183.0 - 103.81.183.255' is 'admin@hjcns.com'
+
+inetnum:        103.81.183.0 - 103.81.183.255
+netname:        HUADREAM-CN
+descr:          # 206, Rongcheng Square, Jinrong South Road, Jianxin Town
+country:        CN
+geoloc:         26.0746495 119.2950668
+org:            ORG-FCCD2-AP
+admin-c:        FCCD2-AP
+tech-c:         FCCD2-AP
+abuse-c:        AH1059-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HUADREAM-CN
+mnt-routes:     MAINT-HUADREAM-CN
+mnt-irt:        IRT-HUADREAM-CN
+last-modified:  2020-07-29T13:12:56Z
+source:         APNIC
+
+irt:            IRT-HUADREAM-CN
+address:        # 206, Rongcheng Square, Jinrong South Road, Jianxin Town, Fuzhou Fujian 350000
+e-mail:         admin@hjcns.com
+abuse-mailbox:  admin@hjcns.com
+admin-c:        FCCD2-AP
+tech-c:         FCCD2-AP
+auth:           # Filtered
+remarks:        admin@hjcns.com is invalid
+mnt-by:         MAINT-HUADREAM-CN
+last-modified:  2022-03-16T17:16:09Z
+source:         APNIC
+
+organisation:   ORG-FCCD2-AP
+org-name:       Fuzhoushi Cangshan Cangshan District Huajing Network Company Limited
+org-type:       LIR
+country:        CN
+address:        # 206, Rongcheng Square, Jinrong South Road, Jianxin Town
+phone:          +8613515095025
+e-mail:         admin@hjcns.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:07Z
+source:         APNIC
+
+role:           ABUSE HUADREAMCN
+address:        # 206, Rongcheng Square, Jinrong South Road, Jianxin Town, Fuzhou Fujian 350000
+country:        ZZ
+phone:          +000000000
+e-mail:         admin@hjcns.com
+admin-c:        FCCD2-AP
+tech-c:         FCCD2-AP
+nic-hdl:        AH1059-AP
+remarks:        Generated from irt object IRT-HUADREAM-CN
+remarks:        admin@hjcns.com is invalid
+abuse-mailbox:  admin@hjcns.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2022-03-16T17:18:48Z
+source:         APNIC
+
+role:           Fuzhoushi Cangshan Cangshan District Huajing Netwo
+address:        #206, Rongcheng Square, Jinrong South Road, Jianxin Town, Fuzhou Fujian 350000
+country:        CN
+phone:          +8613515095025
+fax-no:         +8613515095025
+e-mail:         admin@hjcns.com
+admin-c:        FCCD2-AP
+tech-c:         FCCD2-AP
+nic-hdl:        FCCD2-AP
+mnt-by:         MAINT-HUADREAM-CN
+last-modified:  2016-12-14T15:33:00Z
+source:         APNIC
+
+% Information related to '103.81.183.0/24AS38478'
+
+route:          103.81.183.0/24
+descr:          HuaDream Software
+origin:         AS38478
+mnt-by:         MAINT-HUADREAM-CN
+last-modified:  2017-02-15T07:23:24Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

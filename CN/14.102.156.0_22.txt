@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      14.0.0.0 - 14.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      This was reserved for Public Data Networks [RFC1356].
+remarks:      Seepublic-data-network-numbers.It was recovered in
+remarks:      February 2008 and was subsequently allocated to APNIC in
+remarks:      April 2010.
+
+whois:        whois.apnic.net
+
+changed:      2010-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '14.102.156.0 - 14.102.159.255'
+
+% Abuse contact for '14.102.156.0 - 14.102.159.255' is 'info@mobiusws.com'
+
+inetnum:        14.102.156.0 - 14.102.159.255
+netname:        MOBIUS-CN
+descr:          1065-A Zhaojiabang Road
+descr:          Suite 2505
+country:        CN
+org:            ORG-MWSL1-AP
+admin-c:        MWSL1-AP
+tech-c:         MWSL1-AP
+abuse-c:        AM2603-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-MOBIUS-CN
+mnt-routes:     MAINT-MOBIUS-CN
+mnt-irt:        IRT-MOBIUS-CN
+last-modified:  2020-10-20T00:58:33Z
+source:         APNIC
+
+irt:            IRT-MOBIUS-CN
+address:        1065-A Zhaojiabang Road, Shanghai, China
+e-mail:         info@mobiusws.com
+abuse-mailbox:  info@mobiusws.com
+admin-c:        MWSL1-AP
+tech-c:         MWSL1-AP
+auth:           # Filtered
+remarks:        info@mobiusws.com was validated on 2025-04-08
+mnt-by:         MAINT-MOBIUS-CN
+last-modified:  2025-04-08T13:26:06Z
+source:         APNIC
+
+organisation:   ORG-MWSL1-AP
+org-name:       Mobius Wireless Solutions Ltd
+org-type:       LIR
+country:        CN
+address:        1065-A Zhaojiabang Road
+address:        Suite 2505
+phone:          +86-21-3368-0509
+fax-no:         +86-21-3368-0506
+e-mail:         info@mobiusws.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:43Z
+source:         APNIC
+
+role:           ABUSE MOBIUSCN
+country:        ZZ
+address:        1065-A Zhaojiabang Road, Shanghai, China
+phone:          +000000000
+e-mail:         info@mobiusws.com
+admin-c:        MWSL1-AP
+tech-c:         MWSL1-AP
+nic-hdl:        AM2603-AP
+remarks:        Generated from irt object IRT-MOBIUS-CN
+remarks:        info@mobiusws.com was validated on 2025-04-08
+abuse-mailbox:  info@mobiusws.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-08T13:26:27Z
+source:         APNIC
+
+role:           MOBIUS WIRELESS SOLUTIONS LTD - network administr
+address:        1065-A Zhaojiabang Road, Shanghai, China
+country:        CN
+phone:          +86 21 3368 0509
+fax-no:         +86 21 3368 0506
+e-mail:         noc@mobiusws.com
+admin-c:        MWSL1-AP
+tech-c:         MWSL1-AP
+nic-hdl:        MWSL1-AP
+mnt-by:         MAINT-MOBIUS-CN
+last-modified:  2010-09-23T22:38:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

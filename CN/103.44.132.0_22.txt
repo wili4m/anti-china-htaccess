@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.44.132.0 - 103.44.135.255'
+
+% Abuse contact for '103.44.132.0 - 103.44.135.255' is 'abuse@cloudddos.com'
+
+inetnum:        103.44.132.0 - 103.44.135.255
+netname:        GOTOCLOUDLIMITED-CN
+descr:          UNIT 04,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD KL
+country:        CN
+org:            ORG-GCL3-AP
+admin-c:        GCLA3-AP
+tech-c:         GCLA3-AP
+abuse-c:        AG952-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-GOTOCLOUDLIMITED-CN
+mnt-routes:     MAINT-GOTOCLOUDLIMITED-CN
+mnt-irt:        IRT-GOTOCLOUDLIMITED-CN
+last-modified:  2020-10-13T04:11:20Z
+source:         APNIC
+
+irt:            IRT-GOTOCLOUDLIMITED-CN
+address:        UNIT 04,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD KL, HongKong
+e-mail:         abuse@cloudddos.com
+abuse-mailbox:  abuse@cloudddos.com
+admin-c:        GCLA3-AP
+tech-c:         GCLA3-AP
+auth:           # Filtered
+remarks:        abuse@cloudddos.com
+remarks:        abuse@cloudddos.com
+remarks:        abuse@cloudddos.com was validated on 2024-12-21
+mnt-by:         MAINT-GOTOCLOUDLIMITED-CN
+last-modified:  2024-12-21T16:16:23Z
+source:         APNIC
+
+organisation:   ORG-GCL3-AP
+org-name:       Goto Cloud Limited
+org-type:       LIR
+country:        CN
+address:        UNIT 04,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD KL
+phone:          +852-81916567
+e-mail:         netadmin@cloudddos.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:28Z
+source:         APNIC
+
+role:           ABUSE GOTOCLOUDLIMITEDCN
+country:        ZZ
+address:        UNIT 04,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD KL, HongKong
+phone:          +000000000
+e-mail:         abuse@cloudddos.com
+admin-c:        GCLA3-AP
+tech-c:         GCLA3-AP
+nic-hdl:        AG952-AP
+remarks:        Generated from irt object IRT-GOTOCLOUDLIMITED-CN
+remarks:        abuse@cloudddos.com was validated on 2024-12-21
+abuse-mailbox:  abuse@cloudddos.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-21T16:16:55Z
+source:         APNIC
+
+role:           Goto Cloud Limited administrator
+address:        UNIT 04,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD KL, HongKong
+country:        CN
+phone:          +852-81916567
+fax-no:         +852-81916567
+e-mail:         abuse@cloudddos.com
+admin-c:        GCLA3-AP
+tech-c:         GCLA3-AP
+nic-hdl:        GCLA3-AP
+mnt-by:         MAINT-GOTOCLOUDLIMITED-CN
+last-modified:  2020-12-24T06:07:05Z
+source:         APNIC
+
+% Information related to '103.44.132.0/22AS131324'
+
+route:          103.44.132.0/22
+origin:         AS131324
+descr:          Goto Cloud Limited
+                UNIT 04,7/F BRIGHT WAY TOWER NO.33 MONG KOK RD KL
+mnt-by:         MAINT-GOTOCLOUDLIMITED-CN
+last-modified:  2021-09-02T09:26:55Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

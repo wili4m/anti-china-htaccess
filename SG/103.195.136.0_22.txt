@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.195.136.0 - 103.195.139.255'
+
+% Abuse contact for '103.195.136.0 - 103.195.139.255' is 'neteng+abuse@uber.com'
+
+inetnum:        103.195.136.0 - 103.195.139.255
+netname:        UBER-SG
+descr:          UBER SINGAPORE TECHNOLOGY PTE. LTD
+country:        SG
+org:            ORG-USTP1-AP
+admin-c:        USTP1-AP
+tech-c:         USTP1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AU252-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-UBER-SG
+mnt-irt:        IRT-UBER-SG
+last-modified:  2021-10-06T12:47:15Z
+source:         APNIC
+
+irt:            IRT-UBER-SG
+address:        20 MARTIN ROAD, # 04-01, SENG KEE BUILDING, SINGAPORE (239070), Singapore
+e-mail:         neteng+abuse@uber.com
+abuse-mailbox:  neteng+abuse@uber.com
+admin-c:        GWDS1-AP
+tech-c:         GWDS1-AP
+auth:           # Filtered
+remarks:        neteng+abuse@uber.com was validated on 2025-03-11
+mnt-by:         MAINT-UBER-SG
+last-modified:  2025-03-11T18:01:10Z
+source:         APNIC
+
+organisation:   ORG-USTP1-AP
+org-name:       UBER SINGAPORE TECHNOLOGY PTE. LTD
+org-type:       LIR
+country:        SG
+address:        20 MARTIN ROAD
+address:        # 04-01
+address:        SENG KEE BUILDING, SINGAPORE (239070)
+phone:          +1-866-576-1039
+fax-no:         +1-866-576-1039
+e-mail:         neteng@uber.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:30Z
+source:         APNIC
+
+role:           ABUSE UBERSG
+country:        ZZ
+address:        20 MARTIN ROAD, # 04-01, SENG KEE BUILDING, SINGAPORE (239070), Singapore
+phone:          +000000000
+e-mail:         neteng+abuse@uber.com
+admin-c:        GWDS1-AP
+tech-c:         GWDS1-AP
+nic-hdl:        AU252-AP
+remarks:        Generated from irt object IRT-UBER-SG
+remarks:        neteng+abuse@uber.com was validated on 2025-03-11
+abuse-mailbox:  neteng+abuse@uber.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-11T18:01:48Z
+source:         APNIC
+
+role:           UBER SINGAPORE TECHNOLOGY PTE LTD administrator
+address:        20 MARTIN ROAD, #04-01, SENG KEE BUILDING, SINGAPORE (239070), Singapore
+country:        SG
+phone:          +8618601251784
+fax-no:         +8618601251784
+e-mail:         neteng+abuse@uber.com
+admin-c:        GWDS1-AP
+tech-c:         GWDS1-AP
+nic-hdl:        USTP1-AP
+mnt-by:         MAINT-UBER-SG
+last-modified:  2015-10-09T19:14:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

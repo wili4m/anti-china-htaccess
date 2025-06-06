@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      123.0.0.0 - 123.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2006-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.58.192.0 - 123.58.223.255'
+
+% Abuse contact for '123.58.192.0 - 123.58.223.255' is 'hegui@ucloud.cn'
+
+inetnum:        123.58.192.0 - 123.58.223.255
+netname:        UCLOUD-HK
+descr:          UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+country:        HK
+org:            ORG-UITL1-AP
+admin-c:        UITH2-AP
+tech-c:         UITH2-AP
+abuse-c:        AU164-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-UCLOUD-HK
+mnt-routes:     MAINT-UCLOUD-HK
+mnt-irt:        IRT-UCLOUD-HK
+last-modified:  2022-05-16T03:40:42Z
+source:         APNIC
+
+irt:            IRT-UCLOUD-HK
+address:        FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong
+e-mail:         pn-wan@ucloud.cn
+abuse-mailbox:  hegui@ucloud.cn
+admin-c:        UITH2-AP
+tech-c:         UITH2-AP
+auth:           # Filtered
+remarks:        pn-wan@ucloud.cn was validated on 2024-11-26
+remarks:        hegui@ucloud.cn was validated on 2024-11-26
+mnt-by:         MAINT-UCLOUD-HK
+last-modified:  2024-11-26T05:46:59Z
+source:         APNIC
+
+organisation:   ORG-UITL1-AP
+org-name:       UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+org-type:       LIR
+country:        HK
+address:        FLAT/RM 603 6/F
+address:        LAWS COMMERCIAL PLAZA
+address:        788 CHEUNG SHA WAN ROAD, KL,
+phone:          +86-18221224857
+e-mail:         u-ipnic@ucloud.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:18:04Z
+source:         APNIC
+
+role:           ABUSE UCLOUDHK
+country:        ZZ
+address:        FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong
+phone:          +000000000
+e-mail:         pn-wan@ucloud.cn
+admin-c:        UITH2-AP
+tech-c:         UITH2-AP
+nic-hdl:        AU164-AP
+remarks:        Generated from irt object IRT-UCLOUD-HK
+remarks:        pn-wan@ucloud.cn was validated on 2024-11-26
+remarks:        hegui@ucloud.cn was validated on 2024-11-26
+abuse-mailbox:  hegui@ucloud.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-26T05:47:25Z
+source:         APNIC
+
+role:           UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+address:        FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong
+country:        HK
+phone:          +000000000
+e-mail:         u-ipnic@ucloud.cn
+admin-c:        UITH2-AP
+tech-c:         UITH2-AP
+nic-hdl:        UITH2-AP
+notify:         hegui@ucloud.cn
+mnt-by:         MAINT-UCLOUD-HK
+last-modified:  2022-05-16T03:54:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

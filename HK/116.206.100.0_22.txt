@@ -1,0 +1,139 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.206.100.0 - 116.206.103.255'
+
+% Abuse contact for '116.206.100.0 - 116.206.103.255' is 'tomas@shangxingtech.com'
+
+inetnum:        116.206.100.0 - 116.206.103.255
+netname:        ITACE-HK
+descr:          Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai
+country:        HK
+org:            ORG-IIL2-AP
+admin-c:        IILA1-AP
+tech-c:         IILA1-AP
+abuse-c:        AI557-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-ITACE-HK
+mnt-irt:        IRT-ITACE-HK
+last-modified:  2020-07-15T13:11:14Z
+source:         APNIC
+
+irt:            IRT-ITACE-HK
+address:        Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai, Hong Kong
+e-mail:         tomas@shangxingtech.com
+abuse-mailbox:  tomas@shangxingtech.com
+admin-c:        IILA1-AP
+tech-c:         IILA1-AP
+auth:           # Filtered
+remarks:        tomas@shangxingtech.com was validated on 2025-05-10
+mnt-by:         MAINT-ITACE-HK
+last-modified:  2025-05-10T06:50:51Z
+source:         APNIC
+
+organisation:   ORG-IIL2-AP
+org-name:       Itace International Limited
+org-type:       LIR
+country:        HK
+address:        Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai
+phone:          +85253212354
+e-mail:         ray@itace.cc
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-09-05T13:01:46Z
+source:         APNIC
+
+role:           ABUSE ITACEHK
+country:        ZZ
+address:        Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai, Hong Kong
+phone:          +000000000
+e-mail:         tomas@shangxingtech.com
+admin-c:        IILA1-AP
+tech-c:         IILA1-AP
+nic-hdl:        AI557-AP
+remarks:        Generated from irt object IRT-ITACE-HK
+remarks:        tomas@shangxingtech.com was validated on 2025-05-10
+abuse-mailbox:  tomas@shangxingtech.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-10T06:50:54Z
+source:         APNIC
+
+role:           Itace International Limited administrator
+address:        Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai, Hong Kong
+country:        US
+phone:          +1(323)545-6668
+fax-no:         +1(323)545-6668
+e-mail:         tomas@shangxingtech.com
+admin-c:        IILA1-AP
+tech-c:         IILA1-AP
+nic-hdl:        IILA1-AP
+mnt-by:         MAINT-ITACE-HK
+last-modified:  2022-04-01T05:50:31Z
+source:         APNIC
+
+% Information related to '116.206.100.0/22AS18464'
+
+route:          116.206.100.0/22
+origin:         AS18464
+descr:          Itace International Limited
+                Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai
+mnt-by:         MAINT-ITACE-HK
+last-modified:  2023-09-06T18:22:07Z
+source:         APNIC
+
+% Information related to '116.206.100.0/22AS32135'
+
+route:          116.206.100.0/22
+origin:         AS32135
+descr:          Itace International Limited
+                Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai
+mnt-by:         MAINT-ITACE-HK
+last-modified:  2025-02-19T17:43:16Z
+source:         APNIC
+
+% Information related to '116.206.100.0/22AS48024'
+
+route:          116.206.100.0/22
+origin:         AS48024
+descr:          Itace International Limited
+                Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai
+mnt-by:         MAINT-ITACE-HK
+last-modified:  2022-04-12T14:03:09Z
+source:         APNIC
+
+% Information related to '116.206.100.0/22AS49304'
+
+route:          116.206.100.0/22
+origin:         AS49304
+descr:          Itace International Limited
+                Unit A1, 7/F, Cheuk Nang Plaza 250 Hennessy Road, Wanchai
+mnt-by:         MAINT-ITACE-HK
+last-modified:  2024-09-21T15:30:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

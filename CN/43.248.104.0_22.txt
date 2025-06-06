@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.248.104.0 - 43.248.107.255'
+
+% Abuse contact for '43.248.104.0 - 43.248.107.255' is '55561723@qq.com'
+
+inetnum:        43.248.104.0 - 43.248.107.255
+netname:        JSYHIDC
+descr:          Jiangsu Yihong e-commerce Co., Ltd
+descr:          Yingjiang Road NO.6 Runzhou District Zhenjiang City Jiangsu Province
+country:        CN
+admin-c:        YW7215-AP
+tech-c:         JS4467-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-JSYHIDC-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-03-15T02:45:23Z
+source:         APNIC
+
+irt:            IRT-JSYHIDC-CN
+address:        Yingjiang Road NO.6 Runzhou District Zhenjiang City Jiangsu Province
+e-mail:         55561723@qq.com
+abuse-mailbox:  55561723@qq.com
+auth:           # Filtered
+admin-c:        YW7215-AP
+tech-c:         JS4467-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-03-10T02:06:28Z
+source:         APNIC
+
+person:         YANG WEI
+address:        Yingjiang Road NO.6 Runzhou District Zhenjiang City Jiangsu
+country:        CN
+phone:          +86-0511-85227960
+e-mail:         290157684@qq.com
+nic-hdl:        JS4467-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-03-09T08:36:05Z
+source:         APNIC
+
+person:         YANG JING
+address:        Yingjiang Road NO.6 Runzhou District Zhenjiang City Jiangsu
+country:        CN
+phone:          +86-0511-85227960
+e-mail:         55561723@qq.com
+nic-hdl:        YW7215-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-03-09T08:36:05Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

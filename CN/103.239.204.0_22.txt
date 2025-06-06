@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.239.204.0 - 103.239.207.255'
+
+% Abuse contact for '103.239.204.0 - 103.239.207.255' is 'pyf@bigone.com.cn'
+
+inetnum:        103.239.204.0 - 103.239.207.255
+netname:        LDNET
+descr:          Guangzhou LanDong Information technology co., LTD
+descr:          Room 2502,No.445(The North Tower),Dong Feng Zhong Road,Guang Zhou
+country:        CN
+admin-c:        ML2176-AP
+tech-c:         ML2176-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-LDNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:22Z
+source:         APNIC
+
+irt:            IRT-LDNET-CN
+address:        Room 2502,No.445(The North Tower),Dong Feng Zhong Road,Guang Zhou
+e-mail:         pyf@bigone.com.cn
+abuse-mailbox:  pyf@bigone.com.cn
+admin-c:        ML2176-AP
+tech-c:         ML2176-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:55Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yongfa Pan
+address:        Room 2502,No.445(The North Tower),Dong Feng Zhong Road,Guang Zhou
+country:        CN
+phone:          +86-13580336701
+e-mail:         pyf@bigone.com.cn
+nic-hdl:        ML2176-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-08-07T07:04:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.254.72.0 - 103.254.75.255'
+
+% Abuse contact for '103.254.72.0 - 103.254.75.255' is 'blosserhorace972167@gmail.com'
+
+inetnum:        103.254.72.0 - 103.254.75.255
+netname:        ZADCTL-CN
+descr:          Guancheng District 58 Sea Road on the 2nd floor, Building 18
+country:        CN
+org:            ORG-ZADC1-AP
+admin-c:        HL3596-AP
+tech-c:         HL3596-AP
+abuse-c:        AZ379-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ZADCTL-CN
+mnt-routes:     MAINT-ZADCTL-CN
+mnt-irt:        IRT-ZADCTL-CN
+last-modified:  2020-05-20T09:58:59Z
+source:         APNIC
+
+irt:            IRT-ZADCTL-CN
+address:        FLAT/RM B-01 20/F, Full WIN COMMERCIAL CENTRE, 573 NATHAN ROAD, YAU MA TEI, HONGKONG
+e-mail:         blosserhorace972167@gmail.com
+abuse-mailbox:  blosserhorace972167@gmail.com
+admin-c:        HL3595-AP
+tech-c:         HL3595-AP
+auth:           # Filtered
+remarks:        blosserhorace972167@gmail.com is invalid
+mnt-by:         MAINT-ZADCTL-CN
+last-modified:  2025-04-01T07:19:04Z
+source:         APNIC
+
+organisation:   ORG-ZADC1-AP
+org-name:       Zhengzhou, a Dream Computer Technology Limited
+org-type:       LIR
+country:        CN
+address:        UNIT B 20/F FULL WIN COMM CTR
+address:        573 NATHAN RD YAU MA TEI KLN
+phone:          +85269568805
+fax-no:         +85269568805
+e-mail:         adm@allcloud.cc
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:17Z
+source:         APNIC
+
+role:           ABUSE ZADCTLCN
+country:        ZZ
+address:        FLAT/RM B-01 20/F, Full WIN COMMERCIAL CENTRE, 573 NATHAN ROAD, YAU MA TEI, HONGKONG
+phone:          +000000000
+e-mail:         blosserhorace972167@gmail.com
+admin-c:        HL3595-AP
+tech-c:         HL3595-AP
+nic-hdl:        AZ379-AP
+remarks:        Generated from irt object IRT-ZADCTL-CN
+remarks:        blosserhorace972167@gmail.com is invalid
+abuse-mailbox:  blosserhorace972167@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-01T07:19:36Z
+source:         APNIC
+
+role:           HDTIDC LIMITED
+address:        FLAT/RM B-01 20/F, Full WIN COMMERCIAL CENTRE, 573 NATHAN ROAD, YAU MA TEI, HONGKONG
+country:        HK
+phone:          +852-30696943
+e-mail:         adm@allcloud.cc
+admin-c:        HL3596-AP
+tech-c:         HL3596-AP
+nic-hdl:        HL3596-AP
+mnt-by:         MAINT-ZADCTL-CN
+last-modified:  2020-01-08T01:10:10Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

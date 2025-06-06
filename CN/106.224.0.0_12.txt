@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      106.0.0.0 - 106.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '106.224.0.0 - 106.239.255.255'
+
+% Abuse contact for '106.224.0.0 - 106.239.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        106.224.0.0 - 106.239.255.255
+netname:        CHINANET-JX
+descr:          CHINANET JIANGXI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        XY1-AP
+tech-c:         WZ1-CN
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-IP-WWF
+mnt-routes:     MAINT-IP-WWF
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:08Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Wanshu Zhou
+address:        Data Communication Bureau  MPT
+address:        40 Xueyuan  Rd.
+address:        Beijing  China  100083
+country:        CN
+phone:          +86-10-205-3992
+fax-no:         +86-10-205-3994
+e-mail:         zhouws@public.bta.net.cn
+nic-hdl:        WZ1-CN
+notify:         zhouws@public.bta.net.cn
+notify:         zhang@usai.asiainfo.com
+mnt-by:         MAINT-NULL
+last-modified:  2011-12-22T05:14:24Z
+source:         APNIC
+
+person:         Xu Yongzhong
+address:        Data Communication Bireau
+address:        Ministry of Posts and Telecommunications
+address:        A12 Xin-jie-kou-wai Street
+address:        Beijing 100088
+country:        CN
+phone:          +86-10-62053991
+fax-no:         +86-10-62053995
+e-mail:         5656115@qq.com
+nic-hdl:        XY1-AP
+mnt-by:         MAINT-IP-WWF
+last-modified:  2021-01-05T00:59:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

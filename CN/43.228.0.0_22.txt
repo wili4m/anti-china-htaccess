@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.228.0.0 - 43.228.3.255'
+
+% Abuse contact for '43.228.0.0 - 43.228.3.255' is '18905717766@189.cn'
+
+inetnum:        43.228.0.0 - 43.228.3.255
+netname:        RUILITECHNOLOGY
+descr:          Zhejiang Ruili Information Technology Co., Ltd
+descr:          Room 1602, Southeast Technology Research and Development Center,
+descr:          No. 438 Jincheng Road, Beigan Street, Xiaoshan District, Hangzhou, Zhejiang
+country:        CN
+admin-c:        YW7338-AP
+tech-c:         JS4596-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-RUILITECHNOLOGY-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2024-05-08T02:36:36Z
+source:         APNIC
+
+irt:            IRT-RUILITECHNOLOGY-CN
+address:        Room 1602, Southeast Technology Research and Development Center,
+address:        No. 438 Jincheng Road, Beigan Street, Xiaoshan District, Hangzhou, Zhejiang
+e-mail:         18905717766@189.cn
+abuse-mailbox:  18905717766@189.cn
+auth:           # Filtered
+admin-c:        YW7338-AP
+tech-c:         JS4596-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-05-08T00:58:17Z
+source:         APNIC
+
+person:         Bao Chenyu
+address:        Room 1602, Southeast Technology Research and Development Center,
+address:        No. 438 Jincheng Road, Beigan Street, Xiaoshan District, Hangzhou, Zhejiang
+country:        CN
+phone:          +8610-18270529230
+e-mail:         18270529230@163.com
+nic-hdl:        JS4596-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-05-08T00:48:12Z
+source:         APNIC
+
+person:         Li Bin
+address:        Room 1602, Southeast Technology Research and Development Center,
+address:        No. 438 Jincheng Road, Beigan Street, Xiaoshan District, Hangzhou, Zhejiang
+country:        CN
+phone:          +8610-18905717766
+e-mail:         18905717766@189.cn
+nic-hdl:        YW7338-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-05-08T00:48:12Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

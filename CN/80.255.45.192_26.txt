@@ -1,0 +1,118 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      80.0.0.0 - 80.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2001-04
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        80.255.45.192 - 80.255.45.255
+netname:        INTELSAT-GLOBALIP-NET4
+descr:          Antenna M&C Application - HKG Teleport
+country:        CN
+admin-c:        IRA4-RIPE
+tech-c:         IRTC1-RIPE
+status:         ASSIGNED PA
+remarks:        *************************************************************
+remarks:        *                                                           *
+remarks:        *  For issues of abuse related to this IP address block,    *
+remarks:        *  including spam, please send email to Intelsat at:        *
+remarks:        *                                                           *
+remarks:        *                    abuse@intelsat.com                     *
+remarks:        *                                                           *
+remarks:        *************************************************************
+mnt-by:         AS22351-MNT
+mnt-lower:      AS22351-MNT
+mnt-routes:     AS22351-MNT
+created:        2002-08-14T14:20:10Z
+last-modified:  2002-12-16T15:29:27Z
+source:         RIPE
+
+role:           Intelsat Ripe Admin
+address:        Intelsat Global Service Corporation
+address:        7900 Tysons One Place
+address:        Mclean, VA
+address:        22102-5972
+address:        USA
+admin-c:        RR13552-RIPE
+admin-c:        RP15107-RIPE
+admin-c:        SB29124-RIPE
+admin-c:        DW5753-RIPE
+admin-c:        MF20540-RIPE
+admin-c:        WJ1271-RIPE
+abuse-mailbox:  ABUSE@INTELSAT.COM
+nic-hdl:        IRA4-RIPE
+mnt-by:         AS22351-MNT
+remarks:
+remarks:        *************************************************************
+remarks:        * *
+remarks:        * This is a generic ROLE object for an Intelsat Admin *
+remarks:        * Contact person for RIPE matters. Inquiries about RIPE *
+remarks:        * issues should be directed to the NOC-DATA@INTELSAT.COM email-box. For *
+remarks:        * operational issues, send an Email or call *
+remarks:        * the Intelsat NOC at: *
+remarks:        * *
+remarks:        * NOC-DATA@intelsat.com *
+remarks:        * +1 404 381 2900 *
+remarks:        * *
+remarks:        * For issues of network abuse, including spam, please send *
+remarks:        * email to Intelsat at: *
+remarks:        * *
+remarks:        *abuse@intelsat.com *
+remarks:        * *
+remarks:        *************************************************************
+remarks:
+created:        2002-04-25T17:29:20Z
+last-modified:  2023-06-19T14:40:02Z
+source:         RIPE # Filtered
+
+role:           Intelsat RIPE Technical Contact
+address:        Intelsat Global Service Corporation
+address:        7900 Tysons One Place
+address:        Mclean , VA
+address:        22102-5972
+address:        USA
+abuse-mailbox:  ABUSE@INTELSAT.COM
+admin-c:        IRA4-RIPE
+tech-c:         SB29124-RIPE
+tech-c:         DW5753-RIPE
+tech-c:         MF20540-RIPE
+tech-c:         RR13552-RIPE
+nic-hdl:        IRTC1-RIPE
+mnt-by:         AS22351-MNT
+remarks:
+remarks:        *************************************************************
+remarks:        * *
+remarks:        * This is a generic ROLE object for an Intelsat Technical *
+remarks:        * Contact person for RIPE matters. Inquiries about RIPE *
+remarks:        * issues should be directed to NOC-ENG-DATA@INTELSAT.COM.*
+remarks:        * for operational issues, send an Email or call *
+remarks:        * the Intelsat NOC at: *
+remarks:        * *
+remarks:        * NOC-DATA@intelsat.com *
+remarks:        * +1 404 381 2828 *
+remarks:        * *
+remarks:        * For issues of network abuse, including spam, please send *
+remarks:        * email to Intelsat at: *
+remarks:        * *
+remarks:        * ABUSE@intelsat.com *
+remarks:        * *
+remarks:        *************************************************************
+remarks:
+remarks:
+created:        2002-03-07T17:47:02Z
+last-modified:  2023-06-19T14:41:52Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.117 (BUSA)
+
+

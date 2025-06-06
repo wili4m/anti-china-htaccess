@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.214.128.0 - 116.214.255.255'
+
+% Abuse contact for '116.214.128.0 - 116.214.255.255' is 'aifengxiao@nova.net.cn'
+
+inetnum:        116.214.128.0 - 116.214.255.255
+netname:        NovaNetwork
+descr:          SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
+descr:          Shen Zhen China
+country:        CN
+admin-c:        XZ28-AP
+tech-c:         XZ28-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NOVANETWORK-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:56Z
+source:         APNIC
+
+irt:            IRT-NovaNetwork-CN
+address:        11F, JinRun Building, No.6019 Shennan Road, Futian ,Shenzhen
+e-mail:         aifengxiao@nova.net.cn
+abuse-mailbox:  aifengxiao@nova.net.cn
+auth:           # Filtered
+admin-c:        XZ28-AP
+tech-c:         XZ28-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-06T04:01:11Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         xin zhang
+nic-hdl:        XZ28-AP
+e-mail:         ipas@nova.net.cn
+address:        11F, JinRun Building, No.6019 Shennan Road, Futian District,
+address:        Shenzhen, China,518040
+phone:          +86-755-83434729
+fax-no:         +86-755-83434170
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.53.248.0 - 103.53.251.255'
+
+% Abuse contact for '103.53.248.0 - 103.53.251.255' is 'zhengkj@wy.cn'
+
+inetnum:        103.53.248.0 - 103.53.251.255
+netname:        WYNETWORK
+descr:          WeiYi Network Technology Co., Ltd
+descr:          Dongguan City, Guangdong Province, China DongZong Avenue,
+descr:          20th Floor Di Wang Commercial Center
+country:        CN
+admin-c:        YW2281-AP
+tech-c:         HW1380-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-WYNETWORK-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:35Z
+source:         APNIC
+
+irt:            IRT-WYNETWORK-CN
+address:        Dongguan City, Guangdong Province, China  DongZong Avenue,
+address:        20th Floor Di Wang Commercial Centre
+e-mail:         zhengkj@wy.cn
+abuse-mailbox:  zhengkj@wy.cn
+auth:           # Filtered
+admin-c:        YW2281-AP
+tech-c:         HW1380-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-24T02:52:04Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Huqing Wu
+nic-hdl:        HW1380-AP
+e-mail:         wuhq@wy.com.cn
+address:        Dongguan City, Guangdong Province, China  DongZong Avenue, \
+address:        20th Floor Di Wang Commercial Centre
+phone:          +86-0-18927603344
+fax-no:         +86-0769-22038766
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-09-09T02:32:02Z
+source:         APNIC
+
+person:         Yujie Wang
+nic-hdl:        YW2281-AP
+e-mail:         wyj@wy.com.cn
+address:        Dongguan City, Guangdong Province, China  DongZong Avenue, \
+address:        20th Floor Di Wang Commercial Centre
+phone:          +86-0-13559705555
+fax-no:         +86-0769-22038766
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-09-09T02:32:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

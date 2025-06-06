@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      57.0.0.0 - 57.255.255.255
+organisation: Administered by RIPE NCC
+status:       LEGACY
+
+whois:        whois.ripe.net
+
+changed:      1995-05
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        57.92.96.0 - 57.92.111.255
+netname:        OBS_SITA-INTERNET
+descr:          Orange Business Services-SITA Internet services - CN aggregate
+country:        CN
+admin-c:        OBS2018-RIPE
+tech-c:         OBS2018-RIPE
+status:         LEGACY
+remarks:        for security issues/abuse, contact soc@orange.com
+mnt-by:         OBS2016-MNT
+created:        2016-01-28T07:18:22Z
+last-modified:  2018-10-05T09:21:34Z
+source:         RIPE
+
+role:           Orange Business Services - Internet team
+address:        Equant France (Orange Business Services)
+address:        Immeuble Le GALION - 16-18 Rue Paul Lafargue
+address:        92904 PUTEAUX - La Defense 10
+address:        FRANCE
+nic-hdl:        OBS2018-RIPE
+remarks:        ------------------------------------------------------------
+remarks:        for ops issues, contact noc.peering@orange.com
+remarks:        for peering requests, contact peering@orange.com
+remarks:        for security issues, contact soc@orange.com
+remarks:        ------------------------------------------------------------
+mnt-by:         AS5583-MNT
+created:        2018-10-05T07:15:01Z
+last-modified:  2018-10-05T07:15:01Z
+source:         RIPE # Filtered
+
+% Information related to '57.92.96.0/20AS51964'
+
+route:          57.92.96.0/20
+descr:          CN aggregate
+origin:         AS51964
+mnt-by:         OBS2016-MNT
+created:        2017-10-24T11:17:01Z
+last-modified:  2017-10-24T11:17:01Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (DEXTER)
+
+

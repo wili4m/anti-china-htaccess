@@ -1,0 +1,132 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.206.176.0 - 116.206.179.255'
+
+% Abuse contact for '116.206.176.0 - 116.206.179.255' is 'master@svm.net'
+
+inetnum:        116.206.176.0 - 116.206.179.255
+netname:        WENJING-HK
+descr:          Hongkong Wen Jing Network Limited
+country:        HK
+org:            ORG-HWJN1-AP
+admin-c:        HWJN1-AP
+tech-c:         HWJN1-AP
+status:         ASSIGNED PORTABLE
+abuse-c:        AW912-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-WENJING-HK
+mnt-irt:        IRT-WENJING-HK
+last-modified:  2022-07-04T02:46:13Z
+source:         APNIC
+
+irt:            IRT-WENJING-HK
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,, 707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG,
+e-mail:         master@svm.net
+abuse-mailbox:  master@svm.net
+admin-c:        HWJN1-AP
+tech-c:         HWJN1-AP
+auth:           # Filtered
+remarks:        master@svm.net was validated on 2025-05-04
+mnt-by:         MAINT-WENJING-HK
+last-modified:  2025-05-04T07:05:14Z
+source:         APNIC
+
+organisation:   ORG-HWJN1-AP
+org-name:       Hongkong Wen Jing Network Limited
+org-type:       LIR
+country:        HK
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,
+address:        707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+phone:          +852-53005175
+e-mail:         master@svm.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:24Z
+source:         APNIC
+
+role:           ABUSE WENJINGHK
+country:        ZZ
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,, 707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG,
+phone:          +000000000
+e-mail:         master@svm.net
+admin-c:        HWJN1-AP
+tech-c:         HWJN1-AP
+nic-hdl:        AW912-AP
+remarks:        Generated from irt object IRT-WENJING-HK
+remarks:        master@svm.net was validated on 2025-05-04
+abuse-mailbox:  master@svm.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-04T07:05:29Z
+source:         APNIC
+
+role:           Hongkong Wen Jing Network Limited administrator
+address:        FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,, 707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG,
+country:        HK
+phone:          +852-53005175
+e-mail:         master@svm.net
+admin-c:        HWJN1-AP
+tech-c:         HWJN1-AP
+nic-hdl:        HWJN1-AP
+mnt-by:         MAINT-WENJING-HK
+last-modified:  2018-12-13T15:03:54Z
+source:         APNIC
+
+% Information related to '116.206.176.0/22AS137443'
+
+route:          116.206.176.0/22
+origin:         AS137443
+descr:          Hongkong Wen Jing Network Limited
+                FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,
+                707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+mnt-by:         MAINT-WENJING-HK
+last-modified:  2023-10-23T11:50:50Z
+source:         APNIC
+
+% Information related to '116.206.176.0/22AS6134'
+
+route:          116.206.176.0/22
+origin:         AS6134
+descr:          Hongkong Wen Jing Network Limited
+                FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,
+                707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+mnt-by:         MAINT-WENJING-HK
+last-modified:  2023-10-23T11:50:38Z
+source:         APNIC
+
+% Information related to '116.206.176.0/22AS932'
+
+route:          116.206.176.0/22
+origin:         AS932
+descr:          Hongkong Wen Jing Network Limited
+                FLAT/RM A30, 9/F SILVERCORP INTERNATIONAL TOWER,
+                707-713. NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG
+mnt-by:         MAINT-WENJING-HK
+last-modified:  2023-09-21T09:23:36Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

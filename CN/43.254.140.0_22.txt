@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.254.140.0 - 43.254.143.255'
+
+% Abuse contact for '43.254.140.0 - 43.254.143.255' is 'lexmei@huashubj.com'
+
+inetnum:        43.254.140.0 - 43.254.143.255
+netname:        kucloud
+descr:          Beijing kucloud wisdomain Network Technology Co., Ltd
+descr:          1603, block B, Yasheng platinum mansion, Fangzhuang South Road,
+descr:          Fengtai District, Beijing
+country:        CN
+admin-c:        YW7128-AP
+tech-c:         JS4348-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-KUCLOUD-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2024-04-10T07:28:48Z
+source:         APNIC
+
+irt:            IRT-kucloud-CN
+address:        1603, block B, Yasheng platinum mansion, Fangzhuang South Road,
+address:        Fengtai District, Beijing
+e-mail:         lexmei@huashubj.com
+abuse-mailbox:  lexmei@huashubj.com
+admin-c:        YW7128-AP
+tech-c:         JS4348-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-23T09:10:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lex Mei
+address:        1603, block B, Yasheng platinum mansion, Fangzhuang South Road,
+address:        Fengtai District, Beijing
+country:        CN
+phone:          +86-13910078468
+e-mail:         lexmei@huashubj.com
+nic-hdl:        JS4348-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-09-03T00:51:31Z
+source:         APNIC
+
+person:         Hu gu
+address:        1603, block B, Yasheng platinum mansion, Fangzhuang South Road,
+address:        Fengtai District, Beijing
+country:        CN
+phone:          +86-13381117333
+e-mail:         65415425@qq.com
+nic-hdl:        YW7128-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-09-03T00:51:31Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

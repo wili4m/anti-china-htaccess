@@ -1,0 +1,115 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.230.136.0 - 43.230.139.255'
+
+% Abuse contact for '43.230.136.0 - 43.230.139.255' is 'abuse@lonlife.cn'
+
+inetnum:        43.230.136.0 - 43.230.139.255
+netname:        ZLTL-CN
+descr:          Room3307 Unit 1 Build 2,
+descr:          Yifeng Xinduhui,
+descr:          Nongye and Tianming Road,
+descr:          Jinshui District
+country:        CN
+org:            ORG-ZLTL1-AP
+admin-c:        ZLTL1-AP
+tech-c:         ZLTL1-AP
+abuse-c:        AZ455-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ZLTL-CN
+mnt-routes:     MAINT-ZLTL-CN
+mnt-irt:        IRT-ZLTL-CN
+last-modified:  2021-01-19T01:41:19Z
+source:         APNIC
+
+irt:            IRT-ZLTL-CN
+address:        Nanyang Road, Jinshui District, Zhengzhou Henan 450000
+e-mail:         abuse@lonlife.cn
+abuse-mailbox:  abuse@lonlife.cn
+admin-c:        ZLTL1-AP
+tech-c:         ZLTL1-AP
+auth:           # Filtered
+remarks:        abuse@lonlife.cn was validated on 2025-01-23
+mnt-by:         MAINT-ZLTL-CN
+last-modified:  2025-01-23T01:12:19Z
+source:         APNIC
+
+organisation:   ORG-ZLTL1-AP
+org-name:       Zhengzhou longling technology ltd.
+org-type:       LIR
+country:        CN
+address:        Room 1609, NO.1 Building
+address:        No.11 Changchun Rd
+address:        Zhengzhou High-tech Industrial Development Zone
+phone:          +8618937194000
+fax-no:         +8618937194000
+e-mail:         abuse@lonlife.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:31Z
+source:         APNIC
+
+role:           ABUSE ZLTLCN
+country:        ZZ
+address:        Nanyang Road, Jinshui District, Zhengzhou Henan 450000
+phone:          +000000000
+e-mail:         abuse@lonlife.cn
+admin-c:        ZLTL1-AP
+tech-c:         ZLTL1-AP
+nic-hdl:        AZ455-AP
+remarks:        Generated from irt object IRT-ZLTL-CN
+remarks:        abuse@lonlife.cn was validated on 2025-01-23
+abuse-mailbox:  abuse@lonlife.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-23T01:12:45Z
+source:         APNIC
+
+role:           Zhengzhou longling technology ltd administrator
+address:        Nanyang Road, Jinshui District, Zhengzhou Henan 450000
+country:        CN
+phone:          +8618937194000
+fax-no:         +8618937194000
+e-mail:         abuse@lonlife.net
+admin-c:        ZLTL1-AP
+tech-c:         ZLTL1-AP
+nic-hdl:        ZLTL1-AP
+mnt-by:         MAINT-ZLTL-CN
+last-modified:  2015-02-05T11:32:27Z
+source:         APNIC
+
+% Information related to '43.230.136.0/22AS133952'
+
+route:          43.230.136.0/22
+descr:          lonlife
+origin:         AS133952
+mnt-by:         MAINT-ZLTL-CN
+last-modified:  2015-03-23T10:19:43Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

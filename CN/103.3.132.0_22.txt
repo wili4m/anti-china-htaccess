@@ -1,0 +1,106 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.3.132.0 - 103.3.135.255'
+
+% Abuse contact for '103.3.132.0 - 103.3.135.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        103.3.132.0 - 103.3.135.255
+netname:        UNICOM-SN
+descr:          UNICOM Shannxi Province Network
+descr:          China Unicom
+descr:          No.21, Jin-Rong Street
+descr:          Beijing 100033
+country:        CN
+admin-c:        CH679-AP
+tech-c:         CH679-AP
+abuse-c:        AC1718-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP
+mnt-lower:      MAINT-CNCGROUP-SN
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+last-modified:  2025-01-22T13:07:07Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+person:         CNCGroup-SN Hostmaster
+nic-hdl:        CH679-AP
+e-mail:         quyj@china-netcom.com
+address:        China Network Communication ,SVT
+address:        NO.2 GuangDe Road, High Tec Zone
+address:        Xi'an, Shannxi, China
+phone:          +86-29-88192060
+fax-no:         +86-29-88192037
+country:        CN
+mnt-by:         MAINT-CNCGROUP-SN
+last-modified:  2008-09-04T07:35:34Z
+source:         APNIC
+
+% Information related to '103.3.132.0/22AS4837'
+
+route:          103.3.132.0/22
+descr:          China Unicom CHINA169 Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2013-09-05T02:56:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

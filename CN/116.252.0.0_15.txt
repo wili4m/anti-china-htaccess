@@ -1,0 +1,107 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.252.0.0 - 116.253.255.255'
+
+% Abuse contact for '116.252.0.0 - 116.253.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        116.252.0.0 - 116.253.255.255
+netname:        CHINANET-GX
+descr:          CHINANET Guangxi province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CR76-AP
+tech-c:         BD37-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-GX
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:06:09Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Bin Deng
+nic-hdl:        BD37-AP
+e-mail:         nocsjz@189.cn
+address:        Guangxi data comm.Bureau
+address:        35 Minzhu Road
+address:        Nanning city
+address:        Guangxi 530015 China
+phone:          +86-771-2835112
+fax-no:         +86-771-2839278
+country:        CN
+mnt-by:         MAINT-CHINANET-GX
+last-modified:  2016-05-04T02:31:23Z
+source:         APNIC
+
+person:         Cailing Ruan
+nic-hdl:        CR76-AP
+e-mail:         nocsjz@189.cn
+address:        Guangxi data comm.Bureau
+address:        35 Minzhu Road
+address:        Nanning city
+address:        Guangxi 530015 China
+phone:          +86-771-2815987
+fax-no:         +86-771-2839278
+country:        CN
+mnt-by:         MAINT-CHINANET-GX
+last-modified:  2016-05-04T02:30:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

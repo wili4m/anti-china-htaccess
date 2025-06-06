@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.91.219.0 - 103.91.219.255'
+
+% Abuse contact for '103.91.219.0 - 103.91.219.255' is 'abuse@corenet.link'
+
+inetnum:        103.91.219.0 - 103.91.219.255
+netname:        CORENETINC-AP
+descr:          CoreNET Inc.
+country:        US
+org:            ORG-CI19-AP
+admin-c:        CIA18-AP
+tech-c:         CIA18-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AC2567-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CORENETINC-AP
+mnt-irt:        IRT-CORENETINC-AP
+last-modified:  2022-05-16T06:04:50Z
+source:         APNIC
+
+irt:            IRT-CORENETINC-AP
+address:        30 N Gould St Ste R, Sheridan Wyoming 82801
+e-mail:         abuse@corenet.link
+abuse-mailbox:  abuse@corenet.link
+admin-c:        CIA18-AP
+tech-c:         CIA18-AP
+auth:           # Filtered
+remarks:        abuse@corenet.link was validated on 2025-05-21
+mnt-by:         MAINT-CORENETINC-AP
+last-modified:  2025-05-21T09:57:14Z
+source:         APNIC
+
+organisation:   ORG-CI19-AP
+org-name:       CoreNET Inc.
+org-type:       LIR
+country:        US
+address:        1309 Coffeen Ave STE 1200
+phone:          +15136668833
+e-mail:         noc@corenet.link
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:18:51Z
+source:         APNIC
+
+role:           ABUSE CORENETINCAP
+country:        ZZ
+address:        30 N Gould St Ste R, Sheridan Wyoming 82801
+phone:          +000000000
+e-mail:         abuse@corenet.link
+admin-c:        CIA18-AP
+tech-c:         CIA18-AP
+nic-hdl:        AC2567-AP
+remarks:        Generated from irt object IRT-CORENETINC-AP
+remarks:        abuse@corenet.link was validated on 2025-05-21
+abuse-mailbox:  abuse@corenet.link
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-21T09:57:38Z
+source:         APNIC
+
+role:           CoreNET Inc administrator
+address:        30 N Gould St Ste R, Sheridan Wyoming 82801
+country:        US
+phone:          +15136668833
+e-mail:         abuse@corenet.link
+admin-c:        CIA18-AP
+tech-c:         CIA18-AP
+nic-hdl:        CIA18-AP
+mnt-by:         MAINT-CORENETINC-AP
+last-modified:  2025-02-07T16:28:06Z
+source:         APNIC
+
+% Information related to '103.91.219.0/24AS976'
+
+route:          103.91.219.0/24
+origin:         AS976
+descr:          CoreNET Inc.
+                1309 Coffeen Ave STE 1200
+mnt-by:         MAINT-CORENETINC-AP
+last-modified:  2022-07-05T10:12:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

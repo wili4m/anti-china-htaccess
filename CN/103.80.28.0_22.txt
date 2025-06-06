@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.80.28.0 - 103.80.31.255'
+
+% Abuse contact for '103.80.28.0 - 103.80.31.255' is 'abuse@lcloudhost.com'
+
+inetnum:        103.80.28.0 - 103.80.31.255
+netname:        NIPAIYI-CN
+descr:          Zhengzhou NiPaiYi network of science and Technology Co., Ltd.
+country:        CN
+org:            ORG-ZNNO1-AP
+admin-c:        HCNT2-AP
+tech-c:         HCNT2-AP
+abuse-c:        AN913-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NIPAIYI-CN
+mnt-routes:     MAINT-NIPAIYI-CN
+mnt-irt:        IRT-NIPAIYI-CN
+last-modified:  2020-07-21T13:32:11Z
+source:         APNIC
+
+irt:            IRT-NIPAIYI-CN
+address:        IDC data center, world peace centre, 41-55 Hutong Tsui street, Kwai Chung, Hong Kong international Shenglong Building, 1 unit 1302 room
+e-mail:         abuse@lcloudhost.com
+abuse-mailbox:  abuse@lcloudhost.com
+admin-c:        HCNT2-AP
+tech-c:         HCNT2-AP
+auth:           # Filtered
+remarks:        abuse@lcloudhost.com was validated on 2025-03-30
+mnt-by:         MAINT-NIPAIYI-CN
+last-modified:  2025-03-30T06:13:16Z
+source:         APNIC
+
+organisation:   ORG-ZNNO1-AP
+org-name:       Zhengzhou NiPaiYi network of science and Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        IDC data center, world peace centre,
+address:        41-55 Hutong Tsui street, Kwai Chung, Hong Kong
+address:        international Shenglong Building, 1 unit 1302 room
+phone:          +1-3239052020
+e-mail:         abuse@lcloudhost.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:06Z
+source:         APNIC
+
+role:           ABUSE NIPAIYICN
+country:        ZZ
+address:        IDC data center, world peace centre, 41-55 Hutong Tsui street, Kwai Chung, Hong Kong international Shenglong Building, 1 unit 1302 room
+phone:          +000000000
+e-mail:         abuse@lcloudhost.com
+admin-c:        HCNT2-AP
+tech-c:         HCNT2-AP
+nic-hdl:        AN913-AP
+remarks:        Generated from irt object IRT-NIPAIYI-CN
+remarks:        abuse@lcloudhost.com was validated on 2025-03-30
+abuse-mailbox:  abuse@lcloudhost.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-30T06:13:31Z
+source:         APNIC
+
+role:           HK CloudHost Network Technolog
+address:        48 financial international data center, Shatin, Hong Kong
+country:        HK
+phone:          +13239052020
+e-mail:         abuse@lcloudhost.com
+admin-c:        HCNT2-AP
+tech-c:         HCNT2-AP
+nic-hdl:        HCNT2-AP
+mnt-by:         MAINT-NIPAIYI-CN
+last-modified:  2020-01-16T18:32:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

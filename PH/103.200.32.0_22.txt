@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.200.32.0 - 103.200.35.255'
+
+% Abuse contact for '103.200.32.0 - 103.200.35.255' is 'abuse@dctv.com.ph'
+
+inetnum:        103.200.32.0 - 103.200.35.255
+netname:        DCNBSI
+descr:          DCTV Cable Network & Broadband Services Inc.
+descr:          DCTV Building
+descr:          Fr. JL Bates St., Old Albay District
+country:        PH
+geoloc:         13.1387 123.7353
+org:            ORG-DCNB1-AP
+admin-c:        DCNB1-AP
+tech-c:         DCNB1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AD900-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+notify:         arnel@dctv.com.ph
+notify:         netops@dctv.com.ph
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-DCNBSI-PH
+mnt-routes:     MAINT-DCNBSI-PH
+mnt-irt:        IRT-DCNBSI-PH
+last-modified:  2021-09-30T22:11:00Z
+source:         APNIC
+
+irt:            IRT-DCNBSI-PH
+address:        DCTV Cable Network
+e-mail:         abuse@dctv.com.ph
+abuse-mailbox:  abuse@dctv.com.ph
+admin-c:        DCNB1-AP
+tech-c:         DCNB1-AP
+auth:           # Filtered
+remarks:        abuse@dctv.com.ph was validated on 2025-05-20
+mnt-by:         MAINT-DCNBSI-PH
+last-modified:  2025-05-20T14:21:00Z
+source:         APNIC
+
+organisation:   ORG-DCNB1-AP
+org-name:       DCTV Cable Network & Broadband Services Inc.
+org-type:       LIR
+country:        PH
+address:        DCTV Building
+address:        Fr. JL Bates St., Old Albay District
+phone:          +63-52-4803288
+fax-no:         +63-52-4803054
+e-mail:         abuse@dctv.com.ph
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:19Z
+source:         APNIC
+
+role:           ABUSE DCNBSIPH
+country:        ZZ
+address:        DCTV Cable Network
+phone:          +000000000
+e-mail:         abuse@dctv.com.ph
+admin-c:        DCNB1-AP
+tech-c:         DCNB1-AP
+nic-hdl:        AD900-AP
+remarks:        Generated from irt object IRT-DCNBSI-PH
+remarks:        abuse@dctv.com.ph was validated on 2025-05-20
+abuse-mailbox:  abuse@dctv.com.ph
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-20T14:21:29Z
+source:         APNIC
+
+role:           DCTV Cable Network Broadband Services Inc admin
+address:        DCTV Building, Fr. JL Bates St., Old Albay District, Legazpi Albay 4500
+country:        PH
+phone:          +63-52-4803288
+fax-no:         +63-52-4803288
+e-mail:         abuse@dctv.com.ph
+admin-c:        DCNB1-AP
+tech-c:         DCNB1-AP
+nic-hdl:        DCNB1-AP
+mnt-by:         MAINT-DCNBSI-PH
+last-modified:  2019-10-10T16:57:07Z
+source:         APNIC
+
+% Information related to '103.200.32.0/22AS133334'
+
+route:          103.200.32.0/22
+descr:          DCTV Cable Network
+origin:         AS133334
+mnt-by:         MAINT-DCNBSI-PH
+last-modified:  2023-09-17T15:41:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

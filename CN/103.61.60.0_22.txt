@@ -1,0 +1,135 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.61.60.0 - 103.61.63.255'
+
+% Abuse contact for '103.61.60.0 - 103.61.63.255' is 'ipabuse@caict.ac.cn'
+
+inetnum:        103.61.60.0 - 103.61.63.255
+netname:        CAICTNET
+descr:          Chinese Academy of Telecommunication Research
+descr:          No.52 Hua Yuan Bei Road, Haidian District, Beijing
+country:        CN
+admin-c:        ZM1343-AP
+tech-c:         ZM1344-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CAICTNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:36Z
+source:         APNIC
+
+irt:            IRT-CAICTNET-CN
+address:        No.52 Hua Yuan Bei Road, Haidian District, Beijing
+e-mail:         ipabuse@caict.ac.cn
+abuse-mailbox:  ipabuse@caict.ac.cn
+auth:           # Filtered
+admin-c:        ZM1343-AP
+tech-c:         ZM1343-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-20T00:03:03Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yue Liu
+address:        No.52 Hua Yuan Bei Road, Haidian District, Beijing
+country:        CN
+phone:          +86-010-62304024
+e-mail:         liuyue@caict.ac.cn
+nic-hdl:        ZM1343-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-06-24T02:18:01Z
+source:         APNIC
+
+person:         Zhengju Chen
+address:        No.52 Hua Yuan Bei Road, Haidian District, Beijing
+country:        CN
+phone:          +86-010-62304319
+e-mail:         chenzhengju@caict.ac.cn
+nic-hdl:        ZM1344-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-06-24T02:18:01Z
+source:         APNIC
+
+% Information related to '103.61.60.0/22AS138457'
+
+route:          103.61.60.0/22
+descr:          China Academy of Information and Communications Technology
+origin:         AS138457
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-09-27T08:42:29Z
+source:         APNIC
+
+% Information related to '103.61.60.0/22AS139137'
+
+route:          103.61.60.0/22
+descr:          Chinese Academy of Telecommunication Research
+origin:         AS139137
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-08-10T23:22:30Z
+source:         APNIC
+
+% Information related to '103.61.60.0/22AS139140'
+
+route:          103.61.60.0/22
+descr:          Chinese Academy of Telecommunication Research
+origin:         AS139140
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-08-10T23:22:58Z
+source:         APNIC
+
+% Information related to '103.61.60.0/22AS63582'
+
+route:          103.61.60.0/22
+descr:          Chinese Academy of Telecommunication Research
+country:        CN
+origin:         AS63582
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-11-06T09:08:56Z
+source:         APNIC
+
+% Information related to '103.61.60.0/22AS63583'
+
+route:          103.61.60.0/22
+descr:          Chinese Academy of Telecommunication Research
+country:        CN
+origin:         AS63583
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-11-06T09:08:56Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

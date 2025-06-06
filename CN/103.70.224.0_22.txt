@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.70.224.0 - 103.70.227.255'
+
+% Abuse contact for '103.70.224.0 - 103.70.227.255' is 'baixiangningmeng374@gmail.com'
+
+inetnum:        103.70.224.0 - 103.70.227.255
+netname:        CYHADCL-CN
+descr:          Chongqing Jiangbei Road, No. 16 New section 32-8
+country:        CN
+org:            ORG-CYHA1-AP
+admin-c:        KHNT2-AP
+tech-c:         KHNT2-AP
+abuse-c:        AK1299-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CYHADCL-CN
+mnt-routes:     MAINT-CYHADCL-CN
+mnt-irt:        IRT-KHNT2-HK
+last-modified:  2021-01-15T03:19:41Z
+source:         APNIC
+
+irt:            IRT-KHNT2-HK
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO. 33 MONG KOK ROAD,KOWLOON, hong kong hong kong
+e-mail:         baixiangningmeng374@gmail.com
+abuse-mailbox:  baixiangningmeng374@gmail.com
+admin-c:        KHNT2-AP
+tech-c:         KHNT2-AP
+auth:           # Filtered
+remarks:        baixiangningmeng374@gmail.com is invalid
+mnt-by:         MAINT-CYHADCL-CN
+last-modified:  2025-02-12T13:07:54Z
+source:         APNIC
+
+organisation:   ORG-CYHA1-AP
+org-name:       Chongqing Yu Hai Agricultural Development Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        HK QUAN WAN QU HAI SHENG LU 56-1
+phone:          +852-6631-2312
+fax-no:         +852-6631-2312
+e-mail:         anti.fraud@lemontele.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:57Z
+source:         APNIC
+
+role:           ABUSE KHNT2HK
+country:        ZZ
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO. 33 MONG KOK ROAD,KOWLOON, hong kong hong kong
+phone:          +000000000
+e-mail:         baixiangningmeng374@gmail.com
+admin-c:        KHNT2-AP
+tech-c:         KHNT2-AP
+nic-hdl:        AK1299-AP
+remarks:        Generated from irt object IRT-KHNT2-HK
+remarks:        baixiangningmeng374@gmail.com is invalid
+abuse-mailbox:  baixiangningmeng374@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-12T13:08:32Z
+source:         APNIC
+
+role:           KWAI HING NETWORK TECHNOLOGY CO.LIMITED
+address:        UNIT 04,7/F,BRIGHT WAY TOWER,NO. 33 MONG KOK ROAD,KOWLOON, hong kong hong kong
+country:        HK
+phone:          +85227935511
+e-mail:         netcs@lemontele.com
+admin-c:        KHNT2-AP
+tech-c:         KHNT2-AP
+nic-hdl:        KHNT2-AP
+mnt-by:         MAINT-CYHADCL-CN
+last-modified:  2017-12-04T05:10:50Z
+source:         APNIC
+
+% Information related to '103.70.224.0/22AS132325'
+
+route:          103.70.224.0/22
+origin:         AS132325
+descr:          Chongqing Yu Hai Agricultural Development Co., Ltd.
+                HK QUAN WAN QU HAI SHENG LU 56-1
+mnt-by:         MAINT-CYHADCL-CN
+last-modified:  2022-05-30T08:28:41Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

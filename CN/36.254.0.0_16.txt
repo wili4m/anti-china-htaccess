@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      36.0.0.0 - 36.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.254.0.0 - 36.254.255.255'
+
+% Abuse contact for '36.254.0.0 - 36.254.255.255' is 'abuse-ip@cstnet.cn'
+
+inetnum:        36.254.0.0 - 36.254.255.255
+netname:        CSTNET-CN
+descr:          Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
+country:        CN
+org:            ORG-CA107-AP
+admin-c:        CNIC1-AP
+tech-c:         CNIC1-AP
+abuse-c:        AC2741-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CSTNET-CN
+mnt-routes:     MAINT-CSTNET-CN
+mnt-irt:        IRT-CSTNET-CN
+last-modified:  2023-10-09T02:40:02Z
+source:         APNIC
+
+irt:            IRT-CSTNET-CN
+address:        2 Dongsheng South Road, Haidian District, Beijing Beijing 100190
+e-mail:         abuse-ip@cstnet.cn
+abuse-mailbox:  abuse-ip@cstnet.cn
+admin-c:        CNIC1-AP
+tech-c:         CNIC1-AP
+auth:           # Filtered
+remarks:        abuse-ip@cstnet.cn was validated on 2024-12-19
+mnt-by:         MAINT-CSTNET-CN
+last-modified:  2024-12-19T06:26:04Z
+source:         APNIC
+
+organisation:   ORG-CA107-AP
+org-name:       CNIC-CAS
+org-type:       LIR
+country:        CN
+address:        2 Dongsheng South Road, Haidian District
+phone:          +86.10.58812266
+e-mail:         support@cnic.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:18:50Z
+source:         APNIC
+
+role:           ABUSE CSTNETCN
+country:        ZZ
+address:        2 Dongsheng South Road, Haidian District, Beijing Beijing 100190
+phone:          +000000000
+e-mail:         abuse-ip@cstnet.cn
+admin-c:        CNIC1-AP
+tech-c:         CNIC1-AP
+nic-hdl:        AC2741-AP
+remarks:        Generated from irt object IRT-CSTNET-CN
+remarks:        abuse-ip@cstnet.cn was validated on 2024-12-19
+abuse-mailbox:  abuse-ip@cstnet.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-19T06:26:26Z
+source:         APNIC
+
+role:           Computer Network Information Center of Chinese Academy of Sciences administrator
+address:        2 Dongsheng South Road, Haidian District, Beijing Beijing 100190
+country:        CN
+phone:          +86.10.58812266
+e-mail:         supervise@cnic.cn
+admin-c:        CNIC1-AP
+tech-c:         CNIC1-AP
+nic-hdl:        CNIC1-AP
+mnt-by:         MAINT-CNICOCAOS-CN
+last-modified:  2022-05-12T07:31:01Z
+source:         APNIC
+
+% Information related to '36.254.0.0/16AS7497'
+
+route:          36.254.0.0/16
+descr:          Chinese Science & Technology Network
+country:        CN
+origin:         AS7497
+mnt-by:         MAINT-CSTNET-CN
+last-modified:  2023-10-06T05:09:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

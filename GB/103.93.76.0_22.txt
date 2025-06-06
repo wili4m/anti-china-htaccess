@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.93.76.0 - 103.93.79.255'
+
+% Abuse contact for '103.93.76.0 - 103.93.79.255' is 'edgenap@gmail.com'
+
+inetnum:        103.93.76.0 - 103.93.79.255
+netname:        EDGENAP1-AP
+descr:          EDGENAP LTD
+country:        GB
+org:            ORG-EL34-AP
+admin-c:        EA224-AP
+tech-c:         EA224-AP
+abuse-c:        AE540-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-EDGENAP1-AP
+mnt-routes:     MAINT-EDGENAP1-AP
+mnt-irt:        IRT-EDGENAP1-AP
+last-modified:  2024-04-09T07:42:11Z
+source:         APNIC
+
+irt:            IRT-EDGENAP1-AP
+address:        Greater London
+e-mail:         edgenap@gmail.com
+abuse-mailbox:  edgenap@gmail.com
+admin-c:        ELA19-AP
+tech-c:         ELA19-AP
+auth:           # Filtered
+remarks:        edgenap@gmail.com was validated on 2024-12-31
+mnt-by:         MAINT-EDGENAP1-AP
+last-modified:  2024-12-31T16:31:07Z
+source:         APNIC
+
+organisation:   ORG-EL34-AP
+org-name:       EDGENAP LTD
+org-type:       LIR
+country:        GB
+address:        71-75 Shelton Street
+phone:          +16166060605
+e-mail:         contact@edgenap.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:19:16Z
+source:         APNIC
+
+role:           ABUSE EDGENAP1AP
+country:        ZZ
+address:        Greater London
+phone:          +000000000
+e-mail:         edgenap@gmail.com
+admin-c:        ELA19-AP
+tech-c:         ELA19-AP
+nic-hdl:        AE540-AP
+remarks:        Generated from irt object IRT-EDGENAP1-AP
+remarks:        edgenap@gmail.com was validated on 2024-12-31
+abuse-mailbox:  edgenap@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-31T16:31:28Z
+source:         APNIC
+
+role:           edge administrator
+address:        TOKYO
+country:        JP
+phone:          +1-6060606055
+e-mail:         edgenap@gmail.com
+admin-c:        ELA19-AP
+tech-c:         ELA19-AP
+nic-hdl:        EA224-AP
+mnt-by:         MAINT-EDGENAP1-AP
+last-modified:  2024-04-09T07:41:21Z
+source:         APNIC
+
+% Information related to '103.93.76.0/22AS61414'
+
+route:          103.93.76.0/22
+origin:         AS61414
+descr:          EDGENAP LTD
+                71-75 Shelton Street
+mnt-by:         MAINT-EDGENAP1-AP
+last-modified:  2024-04-28T07:41:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

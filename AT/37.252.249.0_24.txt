@@ -1,0 +1,86 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      37.0.0.0 - 37.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-11
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        37.252.224.0 - 37.252.255.255
+netname:        AT-ANEXIA-20120423
+country:        AT
+org:            ORG-AIG10-RIPE
+admin-c:        ANX-RIPE
+tech-c:         ANX-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         ANEXIA-MNT
+mnt-lower:      ANEXIA-MNT
+mnt-routes:     ANEXIA-MNT
+created:        2012-04-23T13:20:07Z
+last-modified:  2019-07-11T15:19:32Z
+source:         RIPE # Filtered
+
+organisation:   ORG-AIG10-RIPE
+org-name:       ANEXIA Internetdienstleistungs GmbH
+country:        AT
+org-type:       LIR
+address:        Feldkirchnerstr. 140
+address:        9020
+address:        Klagenfurt
+address:        AUSTRIA
+phone:          +43463208501
+fax-no:         +43463208501500
+admin-c:        ANX-RIPE
+tech-c:         ANXT-RIPE
+abuse-c:        aa9991
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        ANEXIA-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         ANEXIA-MNT
+created:        2009-07-31T09:54:20Z
+last-modified:  2023-02-13T21:42:05Z
+source:         RIPE # Filtered
+
+role:           ANX Group RIPE NCC Role Handle
+address:        Feldkirchner Str. 140
+address:        9020 Klagenfurt
+address:        Austria
+address:
+remarks:        For non-technical details see: https://www.anexia.com
+remarks:        For technical contact details see: https://as47147.peeringdb.com
+remarks:        For peering details/requests see: https://peering.anexia.com
+remarks:
+remarks:        All RIPE database entries are created automatically.
+remarks:
+abuse-mailbox:  abuse@anexia.at
+nic-hdl:        ANX-RIPE
+mnt-by:         ANEXIA-MNT
+created:        2019-04-10T08:24:01Z
+last-modified:  2023-02-13T21:42:22Z
+source:         RIPE # Filtered
+tech-c:         ANXT-RIPE
+
+% Information related to '37.252.249.0/24AS42473'
+
+route:          37.252.249.0/24
+descr:          Anexia
+descr:          CN - Hong Kong
+origin:         AS42473
+mnt-by:         ANEXIA-MNT
+created:        2013-03-06T07:29:00Z
+last-modified:  2016-07-04T13:15:23Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (SHETLAND)
+
+

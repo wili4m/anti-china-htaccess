@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.239.156.0 - 103.239.159.255'
+
+% Abuse contact for '103.239.156.0 - 103.239.159.255' is 'shang.ying2@21vianet.com'
+
+inetnum:        103.239.156.0 - 103.239.159.255
+netname:        ABITCOOL-CN
+descr:          aBitCool Broadband Beijing Inc.
+descr:          1501-227, Building 1, A8 Guanghua Road, Chaoyang District
+country:        CN
+org:            ORG-ABBI1-AP
+admin-c:        ABIA1-AP
+tech-c:         ABIA1-AP
+abuse-c:        AA2179-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-ABITCOOL-CN
+mnt-routes:     MAINT-ABITCOOL-CN
+mnt-irt:        IRT-ABITCOOL-CN
+last-modified:  2024-11-14T04:29:37Z
+source:         APNIC
+
+irt:            IRT-ABITCOOL-CN
+address:        M5, 1 Jiuxiaoqiao East Road, Chaoyang District, Beijing China 100016
+e-mail:         shang.ying2@21vianet.com
+abuse-mailbox:  shang.ying2@21vianet.com
+admin-c:        ABIA1-AP
+tech-c:         ABIA1-AP
+auth:           # Filtered
+remarks:        shang.ying2@21vianet.com
+mnt-by:         MAINT-ABITCOOL-CN
+last-modified:  2024-08-19T00:09:10Z
+source:         APNIC
+
+organisation:   ORG-ABBI1-AP
+org-name:       aBitCool Broadband Beijing Inc.
+org-type:       LIR
+country:        CN
+address:        M5, 1 Jiuxianqiao East Road, Chaoyang District
+phone:          +86-10-84562121
+fax-no:         +86-10-84564234
+e-mail:         wang.jianqun@21vianet.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:22Z
+source:         APNIC
+
+role:           ABUSE ABITCOOLCN
+country:        ZZ
+address:        M5, 1 Jiuxiaoqiao East Road, Chaoyang District, Beijing China 100016
+phone:          +000000000
+e-mail:         shang.ying2@21vianet.com
+admin-c:        ABIA1-AP
+tech-c:         ABIA1-AP
+nic-hdl:        AA2179-AP
+remarks:        Generated from irt object IRT-ABITCOOL-CN
+abuse-mailbox:  shang.ying2@21vianet.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-14T04:30:00Z
+source:         APNIC
+
+role:           Abitcool BroadBand Inc administrator
+address:        M5, 1 Jiuxiaoqiao East Road, Chaoyang District, Beijing China 100016
+country:        CN
+phone:          +86-10-84562121
+fax-no:         +86-10-84562121
+e-mail:         wang.jianqun@21vianet.com
+admin-c:        ABIA1-AP
+tech-c:         ABIA1-AP
+nic-hdl:        ABIA1-AP
+mnt-by:         MAINT-ABITCOOL-CN
+last-modified:  2014-05-29T23:36:56Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

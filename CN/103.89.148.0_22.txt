@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.89.148.0 - 103.89.151.255'
+
+% Abuse contact for '103.89.148.0 - 103.89.151.255' is 'zhangy@laixiukeji.com'
+
+inetnum:        103.89.148.0 - 103.89.151.255
+netname:        LAISHOWNET
+descr:          BeiJing Lai Show Technology
+country:        CN
+admin-c:        YZ4903-AP
+tech-c:         LZ3931-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-LAISHOWNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:47Z
+source:         APNIC
+
+irt:            IRT-LAISHOWNET-CN
+address:        1904 Full Tower,9 East 3rd Ring Middle Road,
+address:        Chaoyang District,Beijing
+e-mail:         zhangy@laixiukeji.com
+abuse-mailbox:  zhangy@laixiukeji.com
+auth:           # Filtered
+admin-c:        YZ4903-AP
+tech-c:         LZ3931-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-26T09:00:30Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lei Zhang
+address:        1904 Full Tower,9 East 3rd Ring Middle Road,
+address:        Chaoyang District,Beijing
+country:        CN
+phone:          +86-010-85915200
+e-mail:         zhangl@laixiukeji.com
+nic-hdl:        LZ3931-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-03-31T03:40:01Z
+source:         APNIC
+
+person:         Yan Zhang
+address:        1904 Full Tower,9 East 3rd Ring Middle Road,
+address:        Chaoyang District,Beijing
+country:        CN
+phone:          +86-010-85915200
+e-mail:         zhangy@laixiukeji.com
+nic-hdl:        YZ4903-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-03-31T03:40:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

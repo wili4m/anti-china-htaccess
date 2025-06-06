@@ -1,0 +1,121 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.67.252.0 - 103.67.255.255'
+
+% Abuse contact for '103.67.252.0 - 103.67.255.255' is 'abuse@cloudie.hk'
+
+inetnum:        103.67.252.0 - 103.67.255.255
+netname:        WAYNE-CN
+descr:          2 building a-16 huaqiangbei plaza Futian district
+country:        CN
+org:            ORG-SQTC1-AP
+admin-c:        DBL5-AP
+tech-c:         DBL5-AP
+abuse-c:        AD1162-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-WAYNE-CN
+mnt-routes:     MAINT-WAYNE-CN
+mnt-irt:        IRT-DEEPBRIGHT-HK
+last-modified:  2021-10-05T12:58:28Z
+source:         APNIC
+
+irt:            IRT-DEEPBRIGHT-HK
+address:        Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda
+address:        Chiyoda-ku, Tokyo 101-0047, Japan
+e-mail:         abuse@cloudie.hk
+abuse-mailbox:  abuse@cloudie.hk
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+auth:           # Filtered
+remarks:        abuse@cloudie.hk was validated on 2024-12-04
+mnt-by:         MAINT-WAYNE-CN
+last-modified:  2024-12-04T13:45:08Z
+source:         APNIC
+
+organisation:   ORG-SQTC1-AP
+org-name:       ShenZhen QiTeng technology company limited
+org-type:       LIR
+country:        CN
+address:        Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda
+address:        Chiyoda-ku, Tokyo 101-0047, Japan
+phone:          +81-3-5297-2311
+fax-no:         +86018686877600
+e-mail:         abuse@cloudie.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-09-14T12:57:20Z
+source:         APNIC
+
+role:           ABUSE DEEPBRIGHTHK
+country:        ZZ
+address:        Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda
+address:        Chiyoda-ku, Tokyo 101-0047, Japan
+phone:          +000000000
+e-mail:         abuse@cloudie.hk
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+nic-hdl:        AD1162-AP
+remarks:        Generated from irt object IRT-DEEPBRIGHT-HK
+remarks:        abuse@cloudie.hk was validated on 2024-12-04
+abuse-mailbox:  abuse@cloudie.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-04T13:45:49Z
+source:         APNIC
+
+role:           DEEP BRIGHT LIMITED
+address:        Room 02, 12/F.,Bonham Commercial Centre, 44 46 Bonham Strand West, Sheung Wan, Hong Kong
+country:        HK
+phone:          +852 60216944
+e-mail:         abuse@cloudie.hk
+admin-c:        SQTC1-AP
+tech-c:         SQTC1-AP
+nic-hdl:        DBL5-AP
+mnt-by:         MAINT-WAYNE-CN
+last-modified:  2023-11-06T07:04:37Z
+source:         APNIC
+
+% Information related to '103.67.252.0/22AS138968'
+
+route:          103.67.252.0/22
+origin:         AS138968
+descr:
+mnt-by:         MAINT-WAYNE-CN
+last-modified:  2024-09-29T17:15:07Z
+source:         APNIC
+
+% Information related to '103.67.252.0/22AS55933'
+
+route:          103.67.252.0/22
+origin:         AS55933
+descr:
+mnt-by:         MAINT-WAYNE-CN
+last-modified:  2024-09-29T17:13:34Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

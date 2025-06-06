@@ -1,0 +1,76 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.39.200.0 - 103.39.203.255'
+
+% Abuse contact for '103.39.200.0 - 103.39.203.255' is 'xsx@hiddos.cn'
+
+inetnum:        103.39.200.0 - 103.39.203.255
+netname:        HIDDOS
+descr:          Beijing Haiyu Technology Co. Ltd..
+country:        CN
+admin-c:        SXS19-AP
+tech-c:         SXS19-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HIDDOS-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:28Z
+source:         APNIC
+
+irt:            IRT-HIDDOS-CN
+address:        CaizhiInternationalBuilding,18ZhongguancunEastRoad,HaidianDistrict,BeijingA2007
+e-mail:         xsx@hiddos.cn
+abuse-mailbox:  xsx@hiddos.cn
+auth:           # Filtered
+admin-c:        SXS19-AP
+tech-c:         SXS19-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T00:34:47Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xu Shixiao
+address:        Caizhi International Building, 18 Zhongguancun East Road, Haidian District, Beijing A2007
+country:        CN
+phone:          +86-13911466618
+e-mail:         xsx@hiddos.cn
+nic-hdl:        SXS19-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-09-12T01:16:08Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

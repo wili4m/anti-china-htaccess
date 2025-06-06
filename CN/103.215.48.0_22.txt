@@ -1,0 +1,115 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.215.48.0 - 103.215.51.255'
+
+% Abuse contact for '103.215.48.0 - 103.215.51.255' is 'harry.soyx@gmail.com'
+
+inetnum:        103.215.48.0 - 103.215.51.255
+netname:        ZHAOHENG-CN
+descr:          International Trade Commercial Building 13/D
+country:        CN
+org:            ORG-SKHT1-AP
+admin-c:        SKHT81-AP
+tech-c:         SKHT81-AP
+abuse-c:        AZ429-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-ZHAOHENG80-CN
+mnt-irt:        IRT-ZHAOHENG80-CN
+last-modified:  2020-09-22T13:31:41Z
+source:         APNIC
+
+irt:            IRT-ZHAOHENG80-CN
+address:        Luohu District, Shenzhen City, Guangdong Province
+e-mail:         harry.soyx@gmail.com
+abuse-mailbox:  harry.soyx@gmail.com
+admin-c:        SKHT81-AP
+tech-c:         SKHT81-AP
+auth:           # Filtered
+remarks:        harry.soyx@gmail.com
+remarks:        harry.soyx@gmail.com was validated on 2024-11-20
+mnt-by:         MAINT-ZHAOHENG80-CN
+last-modified:  2024-11-20T15:32:12Z
+source:         APNIC
+
+organisation:   ORG-SKHT1-AP
+org-name:       Shenzhen Katherine Heng Technology Information Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Luohu District, Shenzhen City, Guangdong Province
+address:        3005 nanhu road
+address:        International trade commercial building
+phone:          +852-31884588
+fax-no:         +852-31884588
+e-mail:         harry.soyx@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:52Z
+source:         APNIC
+
+role:           ABUSE ZHAOHENG80CN
+country:        ZZ
+address:        Luohu District, Shenzhen City, Guangdong Province
+phone:          +000000000
+e-mail:         harry.soyx@gmail.com
+admin-c:        SKHT81-AP
+tech-c:         SKHT81-AP
+nic-hdl:        AZ429-AP
+remarks:        Generated from irt object IRT-ZHAOHENG80-CN
+remarks:        harry.soyx@gmail.com was validated on 2024-11-20
+abuse-mailbox:  harry.soyx@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-20T15:32:32Z
+source:         APNIC
+
+role:           Shenzhen Katherine Heng Technology Information Co
+address:        Luohu District, Shenzhen City, Guangdong Province
+country:        CN
+phone:          +852 31884588
+fax-no:         +852 31884588
+e-mail:         harry.soyx@gmail.com
+admin-c:        SKHT81-AP
+tech-c:         SKHT81-AP
+nic-hdl:        SKHT81-AP
+mnt-by:         MAINT-ZHAOHENG80-CN
+last-modified:  2022-02-11T09:14:10Z
+source:         APNIC
+
+% Information related to '103.215.48.0/22AS135357'
+
+route:          103.215.48.0/22
+origin:         AS135357
+descr:          Shenzhen Katherine Heng Technology Information Co., Ltd.
+                Luohu District, Shenzhen City, Guangdong Province
+                3005 nanhu road
+                International trade commercial building
+mnt-by:         MAINT-ZHAOHENG80-CN
+last-modified:  2025-03-08T03:12:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      36.0.0.0 - 36.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.51.0.0 - 36.51.255.255'
+
+% Abuse contact for '36.51.0.0 - 36.51.255.255' is 'yonggang1@staff.sina.com'
+
+inetnum:        36.51.0.0 - 36.51.255.255
+netname:        SINA
+descr:          15F,Ideal Plaza No.58 Bei Si Huan Xi Road Haidian District
+descr:          Beijing,China,100080
+country:        CN
+admin-c:        ZM644-AP
+tech-c:         ZM643-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SINA-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:53Z
+source:         APNIC
+
+irt:            IRT-SINA-CN
+address:        15F,Ideal Plaza No.58 Bei Si Huan Xi Road Haidian District
+address:        Beijing,China,100080
+e-mail:         yonggang1@staff.sina.com
+abuse-mailbox:  yonggang1@staff.sina.com
+admin-c:        ZM644-AP
+tech-c:         ZM643-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-24T09:27:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Haitao Li
+address:        15F,Ideal Plaza No.58 Bei Si Huan Xi Road Haidian District
+address:        Beijing,China,100080
+country:        CN
+phone:          +86-010-82628888-5988
+fax-no:         +86-010-82607510
+e-mail:         haitao3@staff.sina.com.cn
+nic-hdl:        ZM643-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-01-27T04:54:01Z
+source:         APNIC
+
+person:         Shuai Xiu
+nic-hdl:        ZM644-AP
+address:        15F,Ideal Plaza No.58 Bei Si Huan Xi Road Haidian District
+address:        Beijing,China,100080
+country:        CN
+phone:          +86-010-62676590
+fax-no:         +86-010-82607510
+e-mail:         xiushuai@staff.sina.com.cn
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-01-27T04:58:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

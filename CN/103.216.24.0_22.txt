@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.216.24.0 - 103.216.27.255'
+
+% Abuse contact for '103.216.24.0 - 103.216.27.255' is 'gt@lenet.com.cn'
+
+inetnum:        103.216.24.0 - 103.216.27.255
+netname:        Forest-Eternal
+descr:          Forest Eternal Communication Tech. co.ltd
+descr:          Rm.902,North Real Estate Building, Build. No.3,
+descr:          # 81Yuan,Haidian District,Beijing
+country:        CN
+admin-c:        HL2233-AP
+tech-c:         GT483-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-FOREST-ETERNAL-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:10Z
+source:         APNIC
+
+irt:            IRT-Forest-Eternal-CN
+address:        Rm.902,North Real Estate Building, Build. No.3,
+address:        #81Yuan,Haidian District,Beijing
+e-mail:         gt@lenet.com.cn
+abuse-mailbox:  gt@lenet.com.cn
+admin-c:        HL2233-AP
+tech-c:         GT483-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:31:01Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Guo Tao
+address:        Rm.902,North Real Estate Building, Build. No.3,
+address:        #81Yuan,Haidian District,Beijing
+country:        CN
+phone:          +86-010-51659311
+e-mail:         gt@lenet.com.cn
+nic-hdl:        GT483-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-06-28T07:54:02Z
+source:         APNIC
+
+person:         Hong Lei
+address:        Rm.902,North Real Estate Building, Build. No.3,
+address:        #81Yuan,Haidian District,Beijing
+country:        CN
+phone:          +86-18901136688
+e-mail:         695105546@qq.com
+nic-hdl:        HL2233-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-04-26T05:28:42Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

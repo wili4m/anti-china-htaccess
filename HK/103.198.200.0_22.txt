@@ -1,0 +1,103 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.198.200.0 - 103.198.203.255'
+
+% Abuse contact for '103.198.200.0 - 103.198.203.255' is 'abuse@kaopucloud.com'
+
+inetnum:        103.198.200.0 - 103.198.203.255
+netname:        KAOPU-HK
+descr:          KAOPU CLOUD HK LIMITED
+country:        HK
+org:            ORG-KCHL2-AP
+admin-c:        KCHL1-AP
+tech-c:         KCHL1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AK1084-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-KAOPU-HK
+mnt-routes:     MAINT-KAOPU-HK
+mnt-irt:        IRT-KAOPU-HK
+last-modified:  2021-04-26T04:07:56Z
+source:         APNIC
+
+irt:            IRT-KAOPU-HK
+address:        RM. 19C Lockhart Ctr., 301-307 Lockhart Rd., Wan Chai, HK., Hong Kong Hong Kong 999077
+e-mail:         whois@kaopucloud.com
+abuse-mailbox:  abuse@kaopucloud.com
+admin-c:        KCHL1-AP
+tech-c:         KCHL1-AP
+auth:           # Filtered
+remarks:        whois@kaopucloud.com was validated on 2024-12-05
+remarks:        abuse@kaopucloud.com was validated on 2024-12-24
+mnt-by:         MAINT-KAOPUCLOUD-HK
+last-modified:  2024-12-24T10:46:24Z
+source:         APNIC
+
+organisation:   ORG-KCHL2-AP
+org-name:       Kaopu Cloud HK Limited
+org-type:       LIR
+country:        HK
+address:        RM. 19C Lockhart Ctr., 301-307 Lockhart Rd., Wan Chai, HK.
+phone:          +00852-25988776
+fax-no:         +00852-25988909
+e-mail:         ip.as@kaopucloud.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:47Z
+source:         APNIC
+
+role:           ABUSE KAOPUHK
+country:        ZZ
+address:        RM. 19C Lockhart Ctr., 301-307 Lockhart Rd., Wan Chai, HK., Hong Kong Hong Kong 999077
+phone:          +000000000
+e-mail:         whois@kaopucloud.com
+admin-c:        KCHL1-AP
+tech-c:         KCHL1-AP
+nic-hdl:        AK1084-AP
+remarks:        Generated from irt object IRT-KAOPU-HK
+remarks:        whois@kaopucloud.com was validated on 2024-12-05
+remarks:        abuse@kaopucloud.com was validated on 2024-12-24
+abuse-mailbox:  abuse@kaopucloud.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-24T10:46:45Z
+source:         APNIC
+
+role:           Kaopu Cloud HK Limited administrator
+address:        RM. 19C Lockhart Ctr., 301-307 Lockhart Rd., Wan Chai, HK., Hong Kong Hong Kong 999077
+country:        HK
+phone:          +00852-25988776
+fax-no:         +00852-25988909
+e-mail:         ipadmin@kaopucloud.com
+admin-c:        KCHL1-AP
+tech-c:         KCHL1-AP
+nic-hdl:        KCHL1-AP
+mnt-by:         MAINT-KAOPUCLOUD-HK
+last-modified:  2019-03-25T09:34:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

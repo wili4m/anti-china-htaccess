@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      1.0.0.0 - 1.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '1.4.4.0 - 1.4.4.255'
+
+% Abuse contact for '1.4.4.0 - 1.4.4.255' is 'lwz@knet.cn'
+
+inetnum:        1.4.4.0 - 1.4.4.255
+netname:        KNET
+descr:          KNET Techonlogy (BeiJing) Co.,Ltd.
+descr:          4,South 4th treet, Zhongguancun,Haidian District,Beijing
+country:        CN
+admin-c:        ZX2975-AP
+tech-c:         WL1818-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-KNET-CN
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:51:35Z
+source:         APNIC
+
+irt:            IRT-KNET-CN
+address:        4,South 4th treet, Zhongguancun,Haidian District,Beijing
+e-mail:         lwz@knet.cn
+abuse-mailbox:  lwz@knet.cn
+admin-c:        ZX2975-AP
+tech-c:         WL1818-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:31:01Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wenzhe Lu
+address:        4,South 4th treet, Zhongguancun,Haidian District,Beijing
+country:        CN
+phone:          +86-010-58813017
+fax-no:         +86-010-58812666-126
+e-mail:         lwz@knet.cn
+nic-hdl:        WL1818-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-03-16T03:32:02Z
+source:         APNIC
+
+person:         Zhijie Xing
+address:        4,South 4th treet, Zhongguancun,Haidian District,Beijing
+country:        CN
+phone:          +86-010-58812474
+fax-no:         +86-010-58812666-126
+e-mail:         xingzhijie@knet.cn
+nic-hdl:        ZX2975-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-07-23T03:08:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

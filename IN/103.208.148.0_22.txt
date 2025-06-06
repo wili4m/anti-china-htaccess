@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.208.148.0 - 103.208.151.255'
+
+% Abuse contact for '103.208.148.0 - 103.208.151.255' is 'corpnet@uber.com'
+
+inetnum:        103.208.148.0 - 103.208.151.255
+netname:        UBER-IN
+descr:          Uber India Systems Private Limited
+country:        IN
+org:            ORG-UISP2-AP
+admin-c:        UISP3-AP
+tech-c:         UISP3-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AU295-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-UBER-IN
+mnt-routes:     MAINT-UBER-IN
+mnt-irt:        IRT-UBER-IN
+last-modified:  2021-11-06T01:05:42Z
+geoloc:         19.108446553968424 73.02352362540684
+source:         APNIC
+
+irt:            IRT-UBER-IN
+address:        Platinum Techno Park, Plot No. 17/18, Level 13, Sec 30A, Navi Mambai Maharashtra 400705
+e-mail:         corpnet@uber.com
+abuse-mailbox:  corpnet@uber.com
+admin-c:        UISP3-AP
+tech-c:         UISP3-AP
+auth:           # Filtered
+remarks:        corpnet@uber.com was validated on 2024-11-27
+mnt-by:         MAINT-UBER-IN
+last-modified:  2024-11-27T20:38:32Z
+source:         APNIC
+
+organisation:   ORG-UISP2-AP
+org-name:       Uber India Systems Private Limited
+org-type:       LIR
+country:        IN
+address:        Platinum Techno Park, Plot No. 17/18, Level 13, Sec 30A
+phone:          +16502286060
+e-mail:         corpnet@uber.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:18:40Z
+source:         APNIC
+
+role:           ABUSE UBERIN
+country:        ZZ
+address:        Platinum Techno Park, Plot No. 17/18, Level 13, Sec 30A, Navi Mambai Maharashtra 400705
+phone:          +000000000
+e-mail:         corpnet@uber.com
+admin-c:        UISP3-AP
+tech-c:         UISP3-AP
+nic-hdl:        AU295-AP
+remarks:        Generated from irt object IRT-UBER-IN
+remarks:        corpnet@uber.com was validated on 2024-11-27
+abuse-mailbox:  corpnet@uber.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-27T20:38:57Z
+source:         APNIC
+
+role:           Uber India Systems Private Limited administrator
+address:        Platinum Techno Park, Plot No. 17/18, Level 13, Sec 30A, Navi Mambai Maharashtra 400705
+country:        IN
+phone:          +16502286060
+e-mail:         corpnet@uber.com
+admin-c:        UISP3-AP
+tech-c:         UISP3-AP
+nic-hdl:        UISP3-AP
+mnt-by:         MAINT-UBER-IN
+last-modified:  2021-10-06T04:31:03Z
+source:         APNIC
+
+% Information related to '103.208.148.0/22AS147183'
+
+route:          103.208.148.0/22
+origin:         AS147183
+descr:          Uber India Systems Private Limited
+                Platinum Techno Park, Plot No. 17/18, Level 13, Sec 30A
+mnt-by:         MAINT-UBER-IN
+last-modified:  2021-11-17T18:59:58Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

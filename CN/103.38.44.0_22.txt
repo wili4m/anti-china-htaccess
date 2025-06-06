@@ -1,0 +1,81 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.38.44.0 - 103.38.47.255'
+
+% Abuse contact for '103.38.44.0 - 103.38.47.255' is 'abuse@gwbn.net.cn'
+
+inetnum:        103.38.44.0 - 103.38.47.255
+netname:        GWBN
+descr:          5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing
+admin-c:        JM97-AP
+tech-c:         JM97-AP
+abuse-c:        AC1601-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-GWBN-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2021-10-26T08:25:53Z
+source:         APNIC
+
+irt:            IRT-GWBN-CN
+address:        5F Greatwall Bldg., A38 Xueyuan Road
+address:        Haidian District,Beijing
+e-mail:         abuse@gwbn.net.cn
+abuse-mailbox:  abuse@gwbn.net.cn
+admin-c:        JM97-AP
+tech-c:         JM97-AP
+auth:           # Filtered
+mnt-by:         MAINT-CN-CNNIC-GWBN
+last-modified:  2011-04-28T02:03:33Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Jian Meng
+nic-hdl:        JM97-AP
+e-mail:         mengjian@gwbn.net.cn
+address:        2nd Floor, Building A
+address:        #9 Donghuan Plaza, Dong Zhong Street
+address:        East District, Beijing, China (100027)
+phone:          +86-10-6418-5885
+fax-no:         +86-10-64182174
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:30:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

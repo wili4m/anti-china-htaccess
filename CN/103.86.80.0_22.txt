@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.86.80.0 - 103.86.83.255'
+
+% Abuse contact for '103.86.80.0 - 103.86.83.255' is 'agaaaa@vip.qq.com'
+
+inetnum:        103.86.80.0 - 103.86.83.255
+netname:        HANTANG-CN
+descr:          quanshanqu zhongshannanlu28 # guibangcaifu 1215
+country:        CN
+org:            ORG-HNTC1-AP
+admin-c:        HNTC3-AP
+tech-c:         HNTC3-AP
+abuse-c:        AH1255-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HANTANG-CN
+mnt-routes:     MAINT-HANTANG-CN
+mnt-irt:        IRT-HANTANG-CN
+last-modified:  2021-01-18T23:25:40Z
+source:         APNIC
+
+irt:            IRT-HANTANG-CN
+address:        quanshanqu zhongshannanlu28 # guibangcaifu 1215, xuzhou jiangsu 221000
+e-mail:         agaaaa@vip.qq.com
+abuse-mailbox:  agaaaa@vip.qq.com
+admin-c:        HNTC3-AP
+tech-c:         HNTC3-AP
+auth:           # Filtered
+remarks:        agaaaa@vip.qq.com is invalid
+mnt-by:         MAINT-HANTANG-CN
+last-modified:  2024-03-20T13:07:01Z
+source:         APNIC
+
+organisation:   ORG-HNTC1-AP
+org-name:       Hantang Network Technology Co. Ltd
+org-type:       LIR
+country:        CN
+address:        quanshanqu zhongshannanlu28 # guibangcaifu 1215
+phone:          +86-18606187779
+e-mail:         vincent@suomao.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:10Z
+source:         APNIC
+
+role:           ABUSE HANTANGCN
+address:        quanshanqu zhongshannanlu28 # guibangcaifu 1215, xuzhou jiangsu 221000
+country:        ZZ
+phone:          +000000000
+e-mail:         agaaaa@vip.qq.com
+admin-c:        HNTC3-AP
+tech-c:         HNTC3-AP
+nic-hdl:        AH1255-AP
+remarks:        Generated from irt object IRT-HANTANG-CN
+remarks:        agaaaa@vip.qq.com is invalid
+abuse-mailbox:  agaaaa@vip.qq.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-03-20T13:10:55Z
+source:         APNIC
+
+role:           Hantang Network Technology Co Ltd administrator
+address:        quanshanqu zhongshannanlu28# guibangcaifu 1215, xuzhou jiangsu 221000
+country:        CN
+phone:          +86-18606187779
+fax-no:         +86-18606187779
+e-mail:         agaaaa@vip.qq.com
+admin-c:        HNTC3-AP
+tech-c:         HNTC3-AP
+nic-hdl:        HNTC3-AP
+mnt-by:         MAINT-HANTANG-CN
+last-modified:  2017-02-20T10:33:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

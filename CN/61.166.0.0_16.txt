@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      61.0.0.0 - 61.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1997-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.166.0.0 - 61.166.255.255'
+
+% Abuse contact for '61.166.0.0 - 61.166.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        61.166.0.0 - 61.166.255.255
+netname:        CHINANET-YN
+country:        CN
+descr:          CHINANET Yunnan province network
+admin-c:        ZL48-AP
+tech-c:         ZL48-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CHINANET
+last-modified:  2008-09-04T06:49:46Z
+source:         APNIC
+
+person:         zhiyong liu
+nic-hdl:        ZL48-AP
+e-mail:         ynipmail@163.com
+address:        136 beijin roadkunmingchina
+phone:          +86-871-68226585
+fax-no:         +86-871-8221536
+country:        CN
+mnt-by:         MAINT-CHINANET-YN
+last-modified:  2018-12-27T01:58:34Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

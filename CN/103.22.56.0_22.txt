@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.22.56.0 - 103.22.59.255'
+
+% Abuse contact for '103.22.56.0 - 103.22.59.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        103.22.56.0 - 103.22.59.255
+netname:        CHINANET-GS
+descr:          CHINANET Gansu province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        YZ37-AP
+tech-c:         YZ37-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+notify:         yangermy@hotmail.com
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GS
+mnt-routes:     MAINT-CHINANET-GS
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:06:20Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         Yang Zhanrong
+address:        CHINA,LANZHOU,No.405 Pingliang Road
+country:        CN
+phone:          +86-931-8395823
+e-mail:         yangmy.gsnoc@chinatelecom.cn
+nic-hdl:        YZ37-AP
+mnt-by:         MAINT-CHINANET-GS
+last-modified:  2020-03-12T07:56:08Z
+source:         APNIC
+
+% Information related to '103.22.56.0/22AS4134'
+
+route:          103.22.56.0/22
+origin:         AS4134
+descr:          China Telecom
+                Data Network Management Division
+                Network Operation & Maintenance Department
+                No 19 Chaoyangmen North Street
+                Dongcheng District
+mnt-by:         MAINT-CHINANET-GS
+last-modified:  2025-02-14T02:48:32Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,134 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.84.136.0 - 103.84.139.255'
+
+% Abuse contact for '103.84.136.0 - 103.84.139.255' is 'mark@syctnet.com'
+
+inetnum:        103.84.136.0 - 103.84.139.255
+netname:        SSCTC-CN
+descr:          Room B303, Chuangwan, Block A,
+descr:          519 Liyue Road, Minhang District,
+descr:          Shanghai, China
+country:        CN
+org:            ORG-SSCT1-AP
+admin-c:        SSCT1-AP
+tech-c:         SSCT1-AP
+abuse-c:        AS2258-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SSCTC-CN
+mnt-routes:     MAINT-SSCTC-CN
+mnt-irt:        IRT-SSCTC-CN
+last-modified:  2020-06-22T10:04:19Z
+source:         APNIC
+
+irt:            IRT-SSCTC-CN
+address:        Room B303, Chuangwan, Block A,, 519 Liyue Road, Minhang District,, Shanghai, China, shanghai shangha
+e-mail:         mark@syctnet.com
+abuse-mailbox:  mark@syctnet.com
+admin-c:        HSCT1-AP
+tech-c:         HSCT1-AP
+auth:           # Filtered
+remarks:        mark@syctnet.com was validated on 2025-05-20
+mnt-by:         MAINT-SSCTC-CN
+last-modified:  2025-05-20T13:13:52Z
+source:         APNIC
+
+organisation:   ORG-SSCT1-AP
+org-name:       Shanghai Shuangyu Communication Technology co.,Ltd.
+org-type:       LIR
+country:        CN
+address:        Room B303, Chuangwan, Block A,
+address:        519 Liyue Road, Minhang District,
+address:        Shanghai, China
+phone:          +86-15021646986
+e-mail:         mark@syctnet.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:08Z
+source:         APNIC
+
+role:           ABUSE SSCTCCN
+country:        ZZ
+address:        Room B303, Chuangwan, Block A,, 519 Liyue Road, Minhang District,, Shanghai, China, shanghai shangha
+phone:          +000000000
+e-mail:         mark@syctnet.com
+admin-c:        HSCT1-AP
+tech-c:         HSCT1-AP
+nic-hdl:        AS2258-AP
+remarks:        Generated from irt object IRT-SSCTC-CN
+remarks:        mark@syctnet.com was validated on 2025-05-20
+abuse-mailbox:  mark@syctnet.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-20T13:14:16Z
+source:         APNIC
+
+role:           Shanghai Shuangyu Communication Technology coLtd
+address:        Room B303, Chuangwan, Block A,, 519 Liyue Road, Minhang District,, Shanghai, China, shanghai shangha
+country:        HK
+phone:          +852-3891499
+fax-no:         +852-3891499
+e-mail:         liu.rodge@gmail.com
+admin-c:        SSCT1-AP
+tech-c:         SSCT1-AP
+nic-hdl:        SSCT1-AP
+mnt-by:         MAINT-SSCTC-CN
+last-modified:  2022-07-06T08:17:09Z
+source:         APNIC
+
+% Information related to '103.84.136.0/22AS136237'
+
+route:          103.84.136.0/22
+origin:         AS136237
+descr:          Hong Kong Shuangyu   Technology co.,Ltd.
+mnt-by:         MAINT-SSCTC-CN
+last-modified:  2022-07-06T08:07:27Z
+source:         APNIC
+
+% Information related to '103.84.136.0/22AS137995'
+
+route:          103.84.136.0/22
+origin:         AS137995
+descr:          Shanghai Shuangyu Communication Technology co.,Ltd.
+                Room B303, Chuangwan, Block A,
+                519 Liyue Road, Minhang District,
+                Shanghai, China
+mnt-by:         MAINT-SSCTC-CN
+last-modified:  2022-04-25T10:25:53Z
+source:         APNIC
+
+% Information related to '103.84.136.0/22AS139743'
+
+route:          103.84.136.0/22
+origin:         AS139743
+descr:          Hong Kong SY  Technology co.,Ltd.
+mnt-by:         MAINT-SSCTC-CN
+last-modified:  2022-07-06T08:10:49Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

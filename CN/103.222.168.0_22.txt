@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.222.168.0 - 103.222.171.255'
+
+% Abuse contact for '103.222.168.0 - 103.222.171.255' is 'jskf@iaiyun.com'
+
+inetnum:        103.222.168.0 - 103.222.171.255
+netname:        IAIYUN
+descr:          Guangzhou IAIYUN Information Technology Co., Ltd.
+descr:          Room1620,Wuyang Metro Plaza,Siyou xin Road 111-115,
+descr:          Yuexiu District, Guangzhou
+country:        CN
+admin-c:        YW6576-AP
+tech-c:         JS3801-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-IAIYUN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:14Z
+source:         APNIC
+
+irt:            IRT-IAIYUN-CN
+address:        Room1620,Wuyang Metro Plaza,Siyou xin Road 111-115,Yuexiu District, Guangzhou
+e-mail:         jskf@iaiyun.com
+abuse-mailbox:  jskf@iaiyun.com
+auth:           # Filtered
+admin-c:        YW6576-AP
+tech-c:         YW6576-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:31Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Zhou Xiaohua
+address:        Room1620,Wuyang Metro Plaza,Siyou xin Road 111-115,
+address:        Yuexiu District, Guangzhou
+country:        CN
+phone:          +86-18027324967
+e-mail:         jskf@iaiyun.com
+nic-hdl:        JS3801-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-06-02T02:28:01Z
+source:         APNIC
+
+person:         Pan Jianwen
+address:        Room1620,Wuyang Metro Plaza,Siyou xin Road 111-115,
+address:        Yuexiu District, Guangzhou
+country:        CN
+phone:          +86-18027307167
+e-mail:         csc@iaiyun.com
+nic-hdl:        YW6576-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-06-02T02:28:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

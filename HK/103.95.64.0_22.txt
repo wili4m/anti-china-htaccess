@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.95.64.0 - 103.95.67.255'
+
+% Abuse contact for '103.95.64.0 - 103.95.67.255' is 'noc@centuryone.hk'
+
+inetnum:        103.95.64.0 - 103.95.67.255
+netname:        HONGKONG10-HK
+descr:          HONGKONG CENTURY-ONE LIMITED
+country:        HK
+org:            ORG-HCL13-AP
+admin-c:        HCLA8-AP
+tech-c:         HCLA8-AP
+abuse-c:        AH1429-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-HONGKONG10-HK
+mnt-irt:        IRT-HONGKONG10-HK
+last-modified:  2023-02-23T13:20:24Z
+source:         APNIC
+
+irt:            IRT-HONGKONG10-HK
+address:        ROOM 517, NEW CITY CENTRE, 2 LEI YUE MUN ROAD, KWUN TONG, K, HONGKONG HONGKONG 999077
+e-mail:         noc@centuryone.hk
+abuse-mailbox:  noc@centuryone.hk
+admin-c:        HCLA8-AP
+tech-c:         HCLA8-AP
+auth:           # Filtered
+remarks:        noc@centuryone.hk was validated on 2024-11-27
+mnt-by:         MAINT-HONGKONG10-HK
+last-modified:  2024-11-27T07:30:59Z
+source:         APNIC
+
+organisation:   ORG-HCL13-AP
+org-name:       HONGKONG CENTURY-ONE LIMITED
+org-type:       LIR
+country:        HK
+address:        ROOM 517, NEW CITY CENTRE, 2 LEI YUE MUN ROAD, KWUN TONG, K
+phone:          +8618128864221
+e-mail:         noc@centuryone.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:19:05Z
+source:         APNIC
+
+role:           ABUSE HONGKONG10HK
+country:        ZZ
+address:        ROOM 517, NEW CITY CENTRE, 2 LEI YUE MUN ROAD, KWUN TONG, K, HONGKONG HONGKONG 999077
+phone:          +000000000
+e-mail:         noc@centuryone.hk
+admin-c:        HCLA8-AP
+tech-c:         HCLA8-AP
+nic-hdl:        AH1429-AP
+remarks:        Generated from irt object IRT-HONGKONG10-HK
+remarks:        noc@centuryone.hk was validated on 2024-11-27
+abuse-mailbox:  noc@centuryone.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-27T07:31:04Z
+source:         APNIC
+
+role:           HONGKONG CENTURY-ONE LIMITED administrator
+address:        ROOM 517,  NEW CITY CENTRE, 2 LEI YUE MUN ROAD, KWUN TONG, K, HONGKONG HONGKONG 999077
+country:        HK
+phone:          +8618128864221
+e-mail:         noc@centuryone.hk
+admin-c:        HCLA8-AP
+tech-c:         HCLA8-AP
+nic-hdl:        HCLA8-AP
+mnt-by:         MAINT-HONGKONG10-HK
+last-modified:  2023-01-30T04:30:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

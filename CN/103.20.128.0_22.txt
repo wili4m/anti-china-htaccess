@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.20.128.0 - 103.20.131.255'
+
+% Abuse contact for '103.20.128.0 - 103.20.131.255' is 'cm@jzid.net'
+
+inetnum:        103.20.128.0 - 103.20.131.255
+netname:        JZKJ-NET
+descr:          Juzhi technology co., ltd
+descr:          2210, Building G, Wuhan Siting Room, Jiangjun Road, Wuhan, Hubei
+admin-c:        YW7272-AP
+tech-c:         JS4518-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-JZKJ-NET-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2024-11-27T00:43:25Z
+source:         APNIC
+
+irt:            IRT-JZKJ-NET-CN
+address:        Juzhi technology co., ltd
+address:        2210, Building G, Wuhan Siting Room, Jiangjun Road, Wuhan, Hubei
+e-mail:         cm@jzid.net
+abuse-mailbox:  cm@jzid.net
+auth:           # Filtered
+admin-c:        YW7272-AP
+tech-c:         JS4518-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-05T06:21:21Z
+source:         APNIC
+
+person:         Meng Chu
+address:        2210, Building G, Wuhan Siting Room, Jiangjun Road, Wuhan, Hubei
+country:        CN
+phone:          +86-010-18972177898
+e-mail:         cm@jzid.net
+nic-hdl:        JS4518-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-05T05:43:26Z
+source:         APNIC
+
+person:         Wenjun Zhang
+address:        2210, Building G, Wuhan Siting Room, Jiangjun Road, Wuhan, Hubei
+country:        CN
+phone:          +86-010-18907197027
+e-mail:         zwj@jzid.net
+nic-hdl:        YW7272-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-05T05:43:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

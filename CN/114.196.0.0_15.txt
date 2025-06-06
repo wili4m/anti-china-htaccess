@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      114.0.0.0 - 114.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '114.196.0.0 - 114.197.255.255'
+
+% Abuse contact for '114.196.0.0 - 114.197.255.255' is 'dqrqc@sina.com'
+
+inetnum:        114.196.0.0 - 114.197.255.255
+netname:        DQTNET
+descr:          Daqing Zhongji Petroleum Communication Construction Co.,Ltd.
+descr:          No.45 xiyun street, saertu, daqing,heilongjiang province
+country:        CN
+admin-c:        ML1974-AP
+tech-c:         ZQ73-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-DQTNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:54Z
+source:         APNIC
+
+irt:            IRT-DQTNET-CN
+address:        No.45 xiyun street, saertu, daqing,heilongjiang province
+e-mail:         dqrqc@sina.com
+abuse-mailbox:  dqrqc@sina.com
+admin-c:        ML1974-AP
+tech-c:         ZQ73-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:53Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Qingchen Ren
+address:        No.25 Xiliu street Ranghulu district Daqing Heilongjiang, China
+country:        CN
+phone:          +86-18246786999
+fax-no:         +86-459-5978128
+e-mail:         dqrqc@sina.com
+nic-hdl:        ML1974-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-09-24T06:38:01Z
+source:         APNIC
+
+person:         Zhu Qingjun
+address:        No.25 Xiliu street Ranghulu district Daqing Heilongjiang, China, China
+country:        CN
+phone:          +86-13734580163
+fax-no:         +86-459-5978128
+e-mail:         zhuqj@cnpc.com.cn
+nic-hdl:        ZQ73-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-09-24T06:38:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

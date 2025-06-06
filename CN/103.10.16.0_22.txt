@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.10.16.0 - 103.10.19.255'
+
+% Abuse contact for '103.10.16.0 - 103.10.19.255' is 'ipas@cnnic.cn'
+
+inetnum:        103.10.16.0 - 103.10.19.255
+netname:        SAMYON
+descr:          Tianjin Xingyuan Tec,Inc
+descr:          No.1707,Tianjin Hedongqu Sanlian Building,China
+country:        CN
+admin-c:        LB761-AP
+tech-c:         JY2293-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN3
+status:         ALLOCATED PORTABLE
+last-modified:  2011-05-12T22:44:30Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN3
+address:        No.4, Zhongguancun No.4 South Street,
+address:        Haidian District, Beijing
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IPAS1-AP
+tech-c:         IPAS1-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-10-23T07:03:01Z
+source:         APNIC
+
+person:         Jiang Yamin
+address:        Tianjin Hedongqu Sanlian 1707
+country:        CN
+phone:          +86-022-24218868
+e-mail:         jiangyamin@btwob.net
+nic-hdl:        JY2293-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-05-12T08:00:01Z
+source:         APNIC
+
+person:         Liu Boyu
+address:        Tianjin Hedongqu Sanlian 1707
+country:        CN
+phone:          +86-022-24218808
+e-mail:         liuboyu@btwob.net
+nic-hdl:        LB761-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-05-12T08:00:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

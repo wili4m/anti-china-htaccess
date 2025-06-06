@@ -1,0 +1,63 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      61.0.0.0 - 61.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1997-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.164.0.0 - 61.164.255.255'
+
+% Abuse contact for '61.164.0.0 - 61.164.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        61.164.0.0 - 61.164.255.255
+netname:        CHINANET-ZJ
+country:        CN
+descr:          CHINANET Zhejiang province network
+descr:          Data Communication Division
+descr:          China Telecom
+admin-c:        CH93-AP
+tech-c:         CZ61-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2008-09-04T06:50:01Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+person:         CHINANET ZJMASTER
+nic-hdl:        CZ61-AP
+e-mail:         antispam_zjnoc@163.com
+address:        No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066
+phone:          +86-571-86814778
+fax-no:         +86-571-86988329
+country:        CN
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2024-02-05T08:46:31Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

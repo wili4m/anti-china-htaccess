@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.59.116.0 - 103.59.119.255'
+
+% Abuse contact for '103.59.116.0 - 103.59.119.255' is '149163208@qq.com'
+
+inetnum:        103.59.116.0 - 103.59.119.255
+netname:        Duchuang-IDC
+descr:          Hangzhou original technology co., LTD
+descr:          No.3760 Nanhuan Road,Hangzhou,Zhejiang
+country:        CN
+admin-c:        YW6292-AP
+tech-c:         JS3514-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-DUCHUANG-IDC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:56:36Z
+source:         APNIC
+
+irt:            IRT-Duchuang-IDC-CN
+address:        No.3760 Nanhuan Road,Hangzhou,Zhejiang
+e-mail:         149163208@qq.com
+abuse-mailbox:  149163208@qq.com
+auth:           # Filtered
+admin-c:        YW6292-AP
+tech-c:         YW6292-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-01T00:41:17Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         WU jiangdong
+address:        No.3760 Nanhuan Road,Hangzhou,Zhejiang
+country:        CN
+phone:          +86-0571-86819916
+e-mail:         409858978@qq.com
+nic-hdl:        JS3514-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-06-03T09:00:02Z
+source:         APNIC
+
+person:         jenny Xie
+address:        No.3760 Nanhuan Road,Hangzhou,Zhejiang
+country:        CN
+phone:          +86-0571-86819916
+e-mail:         1765808397@qq.com
+nic-hdl:        YW6292-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-06-03T09:00:02Z
+source:         APNIC
+
+% Information related to '103.59.116.0/22AS4837'
+
+route:          103.59.116.0/22
+descr:          CHINAUNICOM CHINA169 Jiangsu Province Network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2017-04-21T07:32:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

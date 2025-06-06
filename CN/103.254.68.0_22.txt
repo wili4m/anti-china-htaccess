@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.254.68.0 - 103.254.71.255'
+
+% Abuse contact for '103.254.68.0 - 103.254.71.255' is 'zj_network@126.com'
+
+inetnum:        103.254.68.0 - 103.254.71.255
+netname:        CHTCN
+descr:          Beijing horizon telecommunication
+country:        CN
+admin-c:        YL3275-AP
+tech-c:         JZ3451-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CHTCN-CN
+last-modified:  2022-02-17T06:39:08Z
+source:         APNIC
+
+irt:            IRT-CHTCN-CN
+address:        No.91 North Fourth Ring Road, Haidian District, Beijing
+e-mail:         zj_network@126.com
+abuse-mailbox:  zj_network@126.com
+auth:           # Filtered
+admin-c:        YL3275-AP
+tech-c:         JZ3451-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-24T08:47:09Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Jian Zhang
+address:        No.91 North Fourth Ring Road, Haidian District, Beijing
+country:        CN
+phone:          +86-18911611732
+e-mail:         328479235@qq.com
+nic-hdl:        JZ3451-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-11-29T02:46:01Z
+source:         APNIC
+
+person:         Yanle Liu
+address:        No.91 North Fourth Ring Road, Haidian District, Beijing
+country:        CN
+phone:          +86-18910890682
+e-mail:         490725656@QQ.COM
+nic-hdl:        YL3275-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-11-29T02:46:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

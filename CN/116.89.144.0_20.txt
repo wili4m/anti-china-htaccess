@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.89.144.0 - 116.89.159.255'
+
+% Abuse contact for '116.89.144.0 - 116.89.159.255' is 'irt@jhweian.com'
+
+inetnum:        116.89.144.0 - 116.89.159.255
+netname:        JHWA
+descr:          Jinhua Weian InfoTech Co., Ltd
+country:        CN
+admin-c:        YW7372-AP
+tech-c:         JS4627-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-JHWA-CN
+last-modified:  2024-09-11T08:41:16Z
+source:         APNIC
+
+irt:            IRT-JHWA-CN
+address:        Room 1303, building 7, No.1197 Bin'an Road, Changhe
+address:        street, Binjiang District, Hangzhou, Zhejiang
+e-mail:         irt@jhweian.com
+abuse-mailbox:  irt@jhweian.com
+auth:           # Filtered
+admin-c:        YW7165-AP
+tech-c:         JS4391-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-02-28T02:09:33Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Zhang Huijing
+address:        5/F, China Telecom Building, No.689,West section of South Huancheng
+address:        Road, Wucheng District, Jinhua City, Zhejiang Province, China
+country:        CN
+phone:          +86-0579-82828118
+e-mail:         119918657@qq.com
+nic-hdl:        JS4627-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-09-11T08:39:46Z
+source:         APNIC
+
+person:         Zhe Fang
+address:        5/F, China Telecom Building, No.689,West section of South Huancheng
+address:        Road, Wucheng District, Jinhua City, Zhejiang Province, China
+country:        CN
+phone:          +86-0579-82828118
+e-mail:         fangzhe@188idc.cn
+nic-hdl:        YW7372-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-09-11T08:39:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

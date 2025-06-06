@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.71.88.0 - 103.71.91.255'
+
+% Abuse contact for '103.71.88.0 - 103.71.91.255' is '24801810@qq.com'
+
+inetnum:        103.71.88.0 - 103.71.91.255
+netname:        HZHBY
+descr:          hang zhou hong bao yun shu ju ke ji you xian gong si
+country:        CN
+admin-c:        QH648-AP
+tech-c:         QL1326-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HZHBY-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:43Z
+source:         APNIC
+
+irt:            IRT-HZHBY-CN
+address:        No.1,TuanjieRoad,Hongshannongchang,
+address:        Xiaoshan District,Hangzhou City,Zhejiang Prov,China
+e-mail:         24801810@qq.com
+abuse-mailbox:  24801810@qq.com
+auth:           # Filtered
+admin-c:        QH648-AP
+tech-c:         QL1326-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-26T08:17:15Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Qi Huiting
+address:        No.1,TuanjieRoad,Hongshannongchang,
+address:        Xiaoshan District,Hangzhou City,Zhejiang Prov,China
+country:        CN
+phone:          +86- 0571-22820222
+e-mail:         59826218@qq.com
+nic-hdl:        QH648-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-09T02:18:01Z
+source:         APNIC
+
+person:         Qian Lifeng
+address:        No.1,TuanjieRoad,Hongshannongchang,
+address:        Xiaoshan District,Hangzhou City,Zhejiang Prov,China
+country:        CN
+phone:          +86- 0571-22822882
+e-mail:         24801810@qq.com
+nic-hdl:        QL1326-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-09T02:18:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

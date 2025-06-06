@@ -1,0 +1,104 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.35.116.0 - 103.35.119.255'
+
+% Abuse contact for '103.35.116.0 - 103.35.119.255' is 'west@isp.my'
+
+inetnum:        103.35.116.0 - 103.35.119.255
+netname:        BIGDRAGON-CN
+descr:          1st Floor 103, Wangtang Rd 22/27,
+descr:          Yangmei Village, Bantian Subdistrict
+descr:          Longgang District,
+country:        CN
+org:            ORG-RDE1-AP
+admin-c:        BDA1-AP
+tech-c:         BDA1-AP
+abuse-c:        AB1046-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BIGDRAGON-CN
+mnt-routes:     MAINT-BIGDRAGON-CN
+mnt-irt:        IRT-BIGDRAGON-CN
+last-modified:  2020-06-22T09:21:51Z
+source:         APNIC
+
+irt:            IRT-BIGDRAGON-CN
+address:        1st Floor 103, Wangtang Rd 22/27, Yangmei Village, Bantian Subdistrict, Longgang District, Shenzhen
+e-mail:         west@isp.my
+abuse-mailbox:  west@isp.my
+admin-c:        BDA1-AP
+tech-c:         BDA1-AP
+auth:           # Filtered
+remarks:        west@isp.my was validated on 2025-02-05
+mnt-by:         MAINT-BIGDRAGON-CN
+last-modified:  2025-02-05T08:54:34Z
+source:         APNIC
+
+organisation:   ORG-RDE1-AP
+org-name:       Rich Dragon E-commerce
+org-type:       LIR
+country:        CN
+address:        1st Floor 103, Wangtang Rd 22/27,
+address:        Yangmei Village, Bantian Subdistrict
+address:        Longgang District,
+phone:          +8613265583391
+e-mail:         west@isp.my
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:40Z
+source:         APNIC
+
+role:           ABUSE BIGDRAGONCN
+country:        ZZ
+address:        1st Floor 103, Wangtang Rd 22/27, Yangmei Village, Bantian Subdistrict, Longgang District, Shenzhen
+phone:          +000000000
+e-mail:         west@isp.my
+admin-c:        BDA1-AP
+tech-c:         BDA1-AP
+nic-hdl:        AB1046-AP
+remarks:        Generated from irt object IRT-BIGDRAGON-CN
+remarks:        west@isp.my was validated on 2025-02-05
+abuse-mailbox:  west@isp.my
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-05T08:54:47Z
+source:         APNIC
+
+role:           Big Dragon administrator
+address:        1st Floor 103, Wangtang Rd 22/27,  Yangmei Village, Bantian Subdistrict, Longgang District, Shenzhen
+country:        CN
+phone:          +8613265583391
+fax-no:         +8613265583391
+e-mail:         west@isp.my
+admin-c:        BDA1-AP
+tech-c:         BDA1-AP
+nic-hdl:        BDA1-AP
+mnt-by:         MAINT-BIGDRAGON-CN
+last-modified:  2015-08-14T03:32:19Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

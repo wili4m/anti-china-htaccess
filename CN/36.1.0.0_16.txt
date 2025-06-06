@@ -1,0 +1,84 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      36.0.0.0 - 36.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.1.0.0 - 36.1.255.255'
+
+% Abuse contact for '36.1.0.0 - 36.1.255.255' is 'shizhiming.sh@chinatelecom.cn'
+
+inetnum:        36.1.0.0 - 36.1.255.255
+netname:        CHINANET
+descr:          China Telecom
+descr:          Data Network Management Division
+descr:          Network Operation & Maintenance Department
+descr:          No 19 Chaoyangmen North Street
+descr:          Dongcheng District
+country:        CN
+admin-c:        FH71-AP
+tech-c:         FH71-AP
+abuse-c:        AC1591-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GD
+mnt-routes:     MAINT-CHINANET-GD
+mnt-irt:        IRT-CHINANET-SH
+last-modified:  2022-01-12T13:16:33Z
+source:         APNIC
+
+irt:            IRT-CHINANET-SH
+address:        14F NO.211,Information Building Century Avenue Shanghai, China
+e-mail:         shizhiming.sh@chinatelecom.cn
+abuse-mailbox:  shizhiming.sh@chinatelecom.cn
+admin-c:        WWQ4-AP
+tech-c:         WWQ4-AP
+auth:           # Filtered
+remarks:        shizhiming.sh@chinatelecom.cn was validated on 2025-03-20
+mnt-by:         MAINT-CHINANET-SH
+last-modified:  2025-03-20T06:53:16Z
+source:         APNIC
+
+role:           ABUSE CHINANETSH
+country:        ZZ
+address:        14F NO.211,Information Building Century Avenue Shanghai, China
+phone:          +000000000
+e-mail:         shizhiming.sh@chinatelecom.cn
+admin-c:        WWQ4-AP
+tech-c:         WWQ4-AP
+nic-hdl:        AC1591-AP
+remarks:        Generated from irt object IRT-CHINANET-SH
+remarks:        shizhiming.sh@chinatelecom.cn was validated on 2025-03-20
+abuse-mailbox:  shizhiming.sh@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-20T06:54:39Z
+source:         APNIC
+
+person:         FUJIANNET HOSTMASTER
+nic-hdl:        FH71-AP
+e-mail:         fjnic@fjdcb.fz.fj.cn
+address:        7,East Street ,Fuzhou ,Fujian ,PRC
+phone:          +86-591-83309761
+fax-no:         +86-591-83371954
+country:        CN
+mnt-by:         MAINT-CHINANET-FJ
+last-modified:  2010-01-05T07:36:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

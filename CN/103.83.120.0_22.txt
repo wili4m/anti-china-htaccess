@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.83.120.0 - 103.83.123.255'
+
+% Abuse contact for '103.83.120.0 - 103.83.123.255' is 'abuse@opera.software'
+
+inetnum:        103.83.120.0 - 103.83.123.255
+netname:        OPERA-CN
+descr:          5th Floor, Building 4, No. 37 Guanghua Road Jia,
+descr:          Chaoyang District,
+descr:          Beijing
+country:        CN
+org:            ORG-OSTC1-AP
+admin-c:        OSTB5-AP
+tech-c:         OSTB5-AP
+abuse-c:        AO427-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-OPERA4-CN
+mnt-routes:     MAINT-OPERA4-CN
+mnt-irt:        IRT-OPERA-CN
+last-modified:  2021-07-29T09:02:28Z
+source:         APNIC
+
+irt:            IRT-OPERA-CN
+address:        5th Floor, Building 4, No. 37 Guanghua Road Jia,, Chaoyang District,, Beijing, Beijing Chaoyang Dist
+e-mail:         abuse@opera.software
+abuse-mailbox:  abuse@opera.software
+admin-c:        OSTB1-AP
+tech-c:         OSTB1-AP
+auth:           # Filtered
+remarks:        abuse@opera.software was validated on 2025-02-14
+mnt-by:         MAINT-OPERA4-CN
+last-modified:  2025-02-14T10:40:52Z
+source:         APNIC
+
+organisation:   ORG-OSTC1-AP
+org-name:       Opera Software Technology (Beijing) Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        5th Floor, Building 4, No. 37 Guanghua Road Jia,
+address:        Chaoyang District,
+address:        Beijing
+phone:          +86-1065917899-8061
+e-mail:         abuse@opera.software
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:08Z
+source:         APNIC
+
+role:           ABUSE OPERACN
+country:        ZZ
+address:        5th Floor, Building 4, No. 37 Guanghua Road Jia,, Chaoyang District,, Beijing, Beijing Chaoyang Dist
+phone:          +000000000
+e-mail:         abuse@opera.software
+admin-c:        OSTB1-AP
+tech-c:         OSTB1-AP
+nic-hdl:        AO427-AP
+remarks:        Generated from irt object IRT-OPERA-CN
+remarks:        abuse@opera.software was validated on 2025-02-14
+abuse-mailbox:  abuse@opera.software
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-14T10:40:55Z
+source:         APNIC
+
+role:           Opera Software Technology Beijing Co Ltd admi
+address:        5th Floor, Building 4, No. 37 Guanghua Road Jia,, Chaoyang District,, Beijing, Beijing Chaoyang Dist
+country:        CN
+phone:          +86-1065917899-8061
+fax-no:         +86-1065917899-8061
+e-mail:         abuse@opera.software
+admin-c:        OSTB5-AP
+tech-c:         OSTB5-AP
+nic-hdl:        OSTB5-AP
+mnt-by:         MAINT-OPERA4-CN
+last-modified:  2020-11-06T09:21:30Z
+source:         APNIC
+
+% Information related to '103.83.120.0/22AS136189'
+
+route:          103.83.120.0/22
+descr:          ASIA-OPERA-SG
+descr:          Opera Software Technology Beijing
+origin:         AS136189
+mnt-by:         MAINT-OPERA4-CN
+last-modified:  2020-09-08T12:30:47Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

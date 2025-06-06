@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.242.128.0 - 103.242.131.255'
+
+% Abuse contact for '103.242.128.0 - 103.242.131.255' is 'noc@nyu.edu'
+
+inetnum:        103.242.128.0 - 103.242.131.255
+netname:        NEWYORKUNIVERISTY-AP
+descr:          New York Univeristy
+country:        CN
+org:            ORG-NYU1-AP
+admin-c:        NYUA1-AP
+tech-c:         NYUA1-AP
+abuse-c:        AN836-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NEWYORKUNIVERSITY-AP
+mnt-routes:     MAINT-NEWYORKUNIVERSITY-AP
+mnt-irt:        IRT-NEWYORKUNIVERSITY-AP
+last-modified:  2020-07-07T04:56:09Z
+source:         APNIC
+
+irt:            IRT-NEWYORKUNIVERSITY-AP
+address:        10 Astor Place - 5th Floor, New York New York 10003
+e-mail:         noc@nyu.edu
+abuse-mailbox:  noc@nyu.edu
+admin-c:        NYUA1-AP
+tech-c:         NYUA1-AP
+auth:           # Filtered
+remarks:        noc@nyu.edu was validated on 2025-05-14
+mnt-by:         MAINT-NEWYORKUNIVERSITY-AP
+last-modified:  2025-05-14T17:27:03Z
+source:         APNIC
+
+organisation:   ORG-NYU1-AP
+org-name:       New York University
+org-type:       LIR
+country:        US
+address:        10 Astor Place - 5th Floor
+phone:          +1-212-998-1196
+fax-no:         +1-212-995-4120
+e-mail:         noc@nyu.edu
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:13Z
+source:         APNIC
+
+role:           ABUSE NEWYORKUNIVERSITYAP
+country:        ZZ
+address:        10 Astor Place - 5th Floor, New York New York 10003
+phone:          +000000000
+e-mail:         noc@nyu.edu
+admin-c:        NYUA1-AP
+tech-c:         NYUA1-AP
+nic-hdl:        AN836-AP
+remarks:        Generated from irt object IRT-NEWYORKUNIVERSITY-AP
+remarks:        noc@nyu.edu was validated on 2025-05-14
+abuse-mailbox:  noc@nyu.edu
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-14T17:27:23Z
+source:         APNIC
+
+role:           New York University administrator
+address:        10 Astor Place - 5th Floor, New York New York 10003
+country:        US
+phone:          +1-212-998-1196
+fax-no:         +1-212-998-1196
+e-mail:         noc@nyu.edu
+admin-c:        NYUA1-AP
+tech-c:         NYUA1-AP
+nic-hdl:        NYUA1-AP
+mnt-by:         MAINT-NEWYORKUNIVERSITY-AP
+last-modified:  2014-05-06T01:17:40Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

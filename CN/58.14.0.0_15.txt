@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      58.0.0.0 - 58.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2004-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '58.14.0.0 - 58.15.255.255'
+
+% Abuse contact for '58.14.0.0 - 58.15.255.255' is 'Yanli2730@163.com'
+
+inetnum:        58.14.0.0 - 58.15.255.255
+netname:        CBN-JN
+descr:          China Broadcasting Shandong Network Co., Ltd. Jinan Branch
+descr:          Room702, 1 Zhuanshan West Road(Jinan Olympic Financial Center Block C),
+descr:          Lixia District,Jinan City, Shandong Province
+country:        CN
+admin-c:        YW7233-AP
+tech-c:         YW7233-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CBN-JN-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2022-06-08T08:12:32Z
+source:         APNIC
+
+irt:            IRT-CBN-JN-CN
+address:        Room702, 1 Zhuanshan West Road(Jinan Olympic Financial Center Block C),
+address:        Lixia District,Jinan City, Shandong Province
+e-mail:         Yanli2730@163.com
+abuse-mailbox:  Yanli2730@163.com
+admin-c:        YW7233-AP
+tech-c:         YW7233-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-06-08T07:54:08Z
+source:         APNIC
+
+person:         YAN LI
+address:        Room702, 1 Zhuanshan West Road(Jinan Olympic Financial Center Block C),
+address:        Lixia District,Jinan City, Shandong Province
+country:        CN
+phone:          +86-13953107833
+e-mail:         Yanli2730@163.com
+nic-hdl:        YW7233-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-06-08T07:37:23Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

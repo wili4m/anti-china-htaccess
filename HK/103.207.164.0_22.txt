@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.207.164.0 - 103.207.167.255'
+
+% Abuse contact for '103.207.164.0 - 103.207.167.255' is 'dragon.leung.one@gmail.com'
+
+inetnum:        103.207.164.0 - 103.207.167.255
+netname:        RUJI-HK
+descr:          JIN CHENGBAO TECHNOLOGY CO.,LIMITED
+country:        HK
+org:            ORG-JCTC1-AP
+admin-c:        JCTC1-AP
+tech-c:         JCTC1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AR790-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-RUJI-HK
+mnt-routes:     MAINT-RUJI-HK
+mnt-irt:        IRT-RUJI-HK
+last-modified:  2022-02-10T23:54:12Z
+source:         APNIC
+
+irt:            IRT-RUJI-HK
+address:        B/5,Gaylord Commercial Building,114-120 Lockhart Road,HK, Hong kong HONG KONG 00852
+e-mail:         dragon.leung.one@gmail.com
+abuse-mailbox:  dragon.leung.one@gmail.com
+admin-c:        JCTC1-AP
+tech-c:         JCTC1-AP
+auth:           # Filtered
+remarks:        dragon.leung.one@gmail.com is invalid
+mnt-by:         MAINT-RUJI-HK
+last-modified:  2025-05-07T13:07:11Z
+source:         APNIC
+
+organisation:   ORG-JCTC1-AP
+org-name:       JIN CHENGBAO TECHNOLOGY CO.,LIMITED
+org-type:       LIR
+country:        HK
+address:        B/5,Gaylord Commercial Building,114-120 Lockhart Road,HK
+phone:          +852 6097 0956
+e-mail:         admin@ruji.cc
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:54Z
+source:         APNIC
+
+role:           ABUSE RUJIHK
+country:        ZZ
+address:        B/5,Gaylord Commercial Building,114-120 Lockhart Road,HK, Hong kong HONG KONG 00852
+phone:          +000000000
+e-mail:         dragon.leung.one@gmail.com
+admin-c:        JCTC1-AP
+tech-c:         JCTC1-AP
+nic-hdl:        AR790-AP
+remarks:        Generated from irt object IRT-RUJI-HK
+remarks:        dragon.leung.one@gmail.com is invalid
+abuse-mailbox:  dragon.leung.one@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-07T13:08:23Z
+source:         APNIC
+
+role:           JIN CHENGBAO TECHNOLOGY COLIMITED administrator
+address:        B/5,Gaylord Commercial Building,114-120 Lockhart Road,HK, Hong kong HONG KONG 00852
+country:        HK
+phone:          +852-67427988
+e-mail:         abuse@ruji.cc
+admin-c:        JCTC1-AP
+tech-c:         JCTC1-AP
+nic-hdl:        JCTC1-AP
+mnt-by:         MAINT-RUJI-HK
+last-modified:  2019-08-12T14:37:14Z
+source:         APNIC
+
+% Information related to '103.207.164.0/22AS151796'
+
+route:          103.207.164.0/22
+origin:         AS151796
+descr:          JIN CHENGBAO TECHNOLOGY CO.,LIMITED
+                B/5,Gaylord Commercial Building,114-120 Lockhart Road,HK
+mnt-by:         MAINT-RUJI-HK
+last-modified:  2023-10-13T03:55:41Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

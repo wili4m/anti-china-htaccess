@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.252.40.0 - 43.252.43.255'
+
+% Abuse contact for '43.252.40.0 - 43.252.43.255' is 'abuse@dataport.com'
+
+inetnum:        43.252.40.0 - 43.252.43.255
+netname:        DATAPORT-HK
+descr:          DataPort Limited
+country:        HK
+org:            ORG-DL24-AP
+admin-c:        DLA19-AP
+tech-c:         DLA19-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AD701-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-DATAPORT-HK
+mnt-routes:     MAINT-DATAPORT-HK
+mnt-irt:        IRT-DATAPORT1-HK
+last-modified:  2020-09-22T05:23:34Z
+source:         APNIC
+
+irt:            IRT-DATAPORT1-HK
+address:        Unit 9A, 2/F Laurels Ind. Centre, 32 Tai Yau St., San Po Kong Kowloon
+e-mail:         abuse@dataport.com
+abuse-mailbox:  abuse@dataport.com
+admin-c:        DLA19-AP
+tech-c:         DLA19-AP
+auth:           # Filtered
+remarks:        abuse@dataport.com was validated on 2025-05-07
+mnt-by:         MAINT-DATAPORT-HK
+last-modified:  2025-05-07T01:04:41Z
+source:         APNIC
+
+organisation:   ORG-DL24-AP
+org-name:       DataPort Limited
+org-type:       LIR
+country:        HK
+address:        Unit 9A, 2/F Laurels Ind. Centre, 32 Tai Yau St.
+phone:          +852-29980838
+fax-no:         +852-29980879
+e-mail:         cs@dataport.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:18:09Z
+source:         APNIC
+
+role:           ABUSE DATAPORT1HK
+country:        ZZ
+address:        Unit 9A, 2/F Laurels Ind. Centre, 32 Tai Yau St., San Po Kong Kowloon
+phone:          +000000000
+e-mail:         abuse@dataport.com
+admin-c:        DLA19-AP
+tech-c:         DLA19-AP
+nic-hdl:        AD701-AP
+remarks:        Generated from irt object IRT-DATAPORT1-HK
+remarks:        abuse@dataport.com was validated on 2025-05-07
+abuse-mailbox:  abuse@dataport.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-07T01:04:55Z
+source:         APNIC
+
+role:           DataPort Limited administrator
+address:        Unit 9A, 2/F Laurels Ind. Centre, 32 Tai Yau St., San Po Kong Kowloon
+country:        HK
+phone:          +852-29980838
+fax-no:         +852-29980879
+e-mail:         abuse@dataport.com
+admin-c:        DLA19-AP
+tech-c:         DLA19-AP
+nic-hdl:        DLA19-AP
+mnt-by:         MAINT-DATAPORT-HK
+last-modified:  2020-05-22T02:33:41Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

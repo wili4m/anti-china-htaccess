@@ -1,0 +1,67 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.237.208.0 - 103.237.211.255'
+
+% Abuse contact for '103.237.208.0 - 103.237.211.255' is 'ren2009shuang@163.com'
+
+inetnum:        103.237.208.0 - 103.237.211.255
+netname:        HACN
+descr:          China Broadcast Henan Network Co., Ltd
+descr:          Guangdian Mansion,NO.104,Weilai Road,Jinshui District,Zhengzhou
+descr:          Henan Province,China
+country:        CN
+admin-c:        YW7196-AP
+tech-c:         YW7196-AP
+abuse-c:        YW7196-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-HACN-CN
+last-modified:  2021-10-13T02:21:55Z
+source:         APNIC
+
+irt:            IRT-HACN-CN
+address:        12th floor,Henanyouxian Mansion,NO.499,Weilai Road,Jinshui District,Zhengzhou
+address:        Henan Province,China
+e-mail:         ren2009shuang@163.com
+abuse-mailbox:  ren2009shuang@163.com
+admin-c:        ML2169-AP
+tech-c:         BW831-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:54Z
+source:         APNIC
+
+person:         Jingzhao Zhao
+address:        Guangdian Mansion,NO.104,Weilai Road,Jinshui District,Zhengzhou
+address:        Henan Province,China
+country:        CN
+phone:          +86-13598870045
+e-mail:         13598870045@139.com
+nic-hdl:        YW7196-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-10-13T01:45:52Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

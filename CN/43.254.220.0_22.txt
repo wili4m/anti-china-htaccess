@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.254.220.0 - 43.254.223.255'
+
+% Abuse contact for '43.254.220.0 - 43.254.223.255' is '2160627450@qq.com'
+
+inetnum:        43.254.220.0 - 43.254.223.255
+netname:        SOCC
+descr:          Shanghai Oriental Computing Cloud Data Service Co., Ltd
+country:        CN
+admin-c:        QJ525-AP
+tech-c:         QJ525-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SOCC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:04Z
+source:         APNIC
+
+irt:            IRT-SOCC-CN
+address:        Floor 1, Building 10, No. 1188, Huyi Road, Shanghai
+e-mail:         2160627450@qq.com
+abuse-mailbox:  2160627450@qq.com
+admin-c:        QJ525-AP
+tech-c:         QJ525-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-06-28T05:34:48Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Qian Jing
+address:        Floor 1, Building 10, No. 1188, Huyi Road, Shanghai
+country:        CN
+phone:          +86-13916191323
+e-mail:         2160627450@qq.com
+nic-hdl:        QJ525-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-06T07:07:10Z
+source:         APNIC
+
+% Information related to '43.254.220.0/22AS17621'
+
+route:          43.254.220.0/22
+descr:          CHINAUNICOM CHINA169 Shanghai Province Network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS17621
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2017-12-26T07:10:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

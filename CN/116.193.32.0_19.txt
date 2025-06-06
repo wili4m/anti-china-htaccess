@@ -1,0 +1,79 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.193.32.0 - 116.193.63.255'
+
+% Abuse contact for '116.193.32.0 - 116.193.63.255' is 'plan@svc.com.cn'
+
+inetnum:        116.193.32.0 - 116.193.63.255
+netname:        SVCNET
+descr:          SHANGHAI VSAT NETWORK SYSTEMS CO.,LTD
+descr:          1000, Chuanqiao Rd., Pudong, Shanghai,PRC
+country:        CN
+admin-c:        MZ390-AP
+tech-c:         MZ390-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SVCNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:55Z
+source:         APNIC
+
+irt:            IRT-SVCNET-CN
+address:        109,, KHIJRA APRTMENT, KHIJRA ROAD, QURESH   NAGAR, 2ND NIZAMPURA, BHIWANDI,Kalyan,Maharashtra
+e-mail:         plan@svc.com.cn
+abuse-mailbox:  plan@svc.com.cn
+auth:           # Filtered
+admin-c:        TS1137-AP
+tech-c:         TS1137-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:38Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Mattew Zhuang
+address:        1000, Chuanqiao Rd., Pudong, Shanghai,PRC
+country:        CN
+phone:          +86-021-58990780
+fax-no:         +86-021-58993630
+e-mail:         matthew@svc.com.cn
+nic-hdl:        MZ390-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-23T06:36:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

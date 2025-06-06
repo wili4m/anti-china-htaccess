@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      27.0.0.0 - 27.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '27.106.128.0 - 27.106.191.255'
+
+% Abuse contact for '27.106.128.0 - 27.106.191.255' is 'Sherry9988@126.com'
+
+inetnum:        27.106.128.0 - 27.106.191.255
+netname:        Aosida
+descr:          Shenzhen Aosida Communication Co., Ltd.
+descr:          RoomD,10th Floor,TaiBang Technology Building,
+descr:          High-Tech Park, Nanshan District,ShenZhen
+country:        CN
+admin-c:        YW6330-AP
+tech-c:         JS3535-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-AOSIDA-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:52Z
+source:         APNIC
+
+irt:            IRT-Aosida-CN
+address:        RoomD,10th Floor,TaiBang Technology Building,
+address:        High-Tech Park, Nanshan District,ShenZhen
+e-mail:         Sherry9988@126.com
+abuse-mailbox:  Sherry9988@126.com
+admin-c:        YW6330-AP
+tech-c:         JS3535-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:10:42Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         David Zhou
+address:        RoomD,10th Floor,TaiBang Technology Building,
+address:        High-Tech Park, Nanshan District,ShenZhen
+country:        CN
+phone:          +86-13129373111
+e-mail:         13760381477@139.com
+nic-hdl:        JS3535-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-07-02T07:52:01Z
+source:         APNIC
+
+person:         Sheery Gong
+address:        RoomD,10th Floor,TaiBang Technology Building,
+address:        High-Tech Park, Nanshan District,ShenZhen
+country:        CN
+phone:          +86-13823162880
+e-mail:         Sherry9988@126.com
+nic-hdl:        YW6330-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-07-02T07:52:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

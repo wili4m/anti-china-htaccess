@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.54.240.0 - 103.54.243.255'
+
+% Abuse contact for '103.54.240.0 - 103.54.243.255' is 'hnlinj@21cn.com'
+
+inetnum:        103.54.240.0 - 103.54.243.255
+netname:        CHINANET
+descr:          China Telecom
+descr:          Data Network Management Division
+descr:          Network Operation & Maintenance Department
+descr:          No 19 Chaoyangmen North Street
+descr:          Dongcheng District
+country:        CN
+admin-c:        LZ8-AP
+tech-c:         LZ8-AP
+abuse-c:        AC2533-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CHINANET-HI
+mnt-routes:     MAINT-CN-CHINANET-HI
+mnt-irt:        IRT-CHINANET-HI
+last-modified:  2022-01-12T13:25:46Z
+source:         APNIC
+
+irt:            IRT-CHINANET-HI
+address:        20th Floor,TelecomCenter Building
+address:        NanHai Avenue,HaiKou HaiNan province
+e-mail:         hnlinj@21cn.com
+abuse-mailbox:  hnlinj@21cn.com
+admin-c:        LZ8-AP
+tech-c:         LZ8-AP
+auth:           # Filtered
+remarks:        hnlinj@21cn.com was validated on 2025-06-06
+mnt-by:         MAINT-CN-CHINANET-HI
+last-modified:  2025-06-06T02:53:36Z
+source:         APNIC
+
+role:           ABUSE CHINANETHI
+country:        ZZ
+address:        20th Floor,TelecomCenter Building
+address:        NanHai Avenue,HaiKou HaiNan province
+phone:          +000000000
+e-mail:         hnlinj@21cn.com
+admin-c:        LZ8-AP
+tech-c:         LZ8-AP
+nic-hdl:        AC2533-AP
+remarks:        Generated from irt object IRT-CHINANET-HI
+remarks:        hnlinj@21cn.com was validated on 2025-06-06
+abuse-mailbox:  hnlinj@21cn.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-06-06T02:54:01Z
+source:         APNIC
+
+person:         liuqing zheng
+address:        20th Floor,TelecomCenter Building
+address:        NanHai Avenue,HaiKou HaiNan province
+country:        CN
+phone:          +86-898-66816971
+fax-no:         +86-898-66785993
+e-mail:         089866775500@189.cn
+nic-hdl:        LZ8-AP
+mnt-by:         MAINT-CN-CHINANET-HI
+last-modified:  2014-01-24T09:05:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

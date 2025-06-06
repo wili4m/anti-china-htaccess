@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.239.192.0 - 103.239.195.255'
+
+% Abuse contact for '103.239.192.0 - 103.239.195.255' is 'lxy@wjhtedu.com'
+
+inetnum:        103.239.192.0 - 103.239.195.255
+netname:        WJHTEDU
+descr:          Beijing WangJu Interworking Information Technology Co. LTD
+descr:          303, 3rd Floor, Building 3, 17 Sanyuan Street,
+descr:          Dongcheng District, Beijing
+country:        CN
+admin-c:        YW7253-AP
+tech-c:         YW7253-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-WJHTEDU-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2023-10-19T09:05:25Z
+source:         APNIC
+
+irt:            IRT-WJHTEDU-CN
+address:        303, 3rd Floor, Building 3, 17 Sanyuan Street,
+address:        Dongcheng District, Beijing
+e-mail:         lxy@wjhtedu.com
+abuse-mailbox:  lxy@wjhtedu.com
+admin-c:        YW7253-AP
+tech-c:         YW7253-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-27T02:27:48Z
+source:         APNIC
+
+person:         Lin xiyuan
+address:        303, 3rd Floor, Building 3, 17 Sanyuan Street,
+address:        Dongcheng District, Beijing
+country:        CN
+phone:          +86-15101049276
+e-mail:         lxy@wjhtedu.com
+nic-hdl:        YW7253-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-09-08T09:43:26Z
+source:         APNIC
+
+% Information related to '103.239.192.0/22AS63647'
+
+route:          103.239.192.0/22
+descr:          Beijing WangJu Interworking Information Technology Co. LTD
+country:        CN
+origin:         AS63647
+notify:         lxy@wjhtedu.com
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-04-15T02:45:05Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

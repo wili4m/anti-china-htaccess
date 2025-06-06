@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      115.0.0.0 - 115.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '115.84.0.0 - 115.84.63.255'
+
+% Abuse contact for '115.84.0.0 - 115.84.63.255' is '1007707490@qq.com'
+
+inetnum:        115.84.0.0 - 115.84.63.255
+netname:        CAPNET
+descr:          (CPIP)Beijing Information Highway Corp
+country:        CN
+admin-c:        LX223-AP
+tech-c:         CZ100-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CAPNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:55Z
+source:         APNIC
+
+irt:            IRT-CAPNET-CN
+address:        NO.11 Xi San Huan Zhong Road,Beijing
+e-mail:         1007707490@qq.com
+abuse-mailbox:  1007707490@qq.com
+auth:           # Filtered
+admin-c:        LX223-AP
+tech-c:         CZ100-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-06T04:01:11Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Cao Zheng
+address:        NO.11 Xi San Huan Zhong Road,Beijing
+country:        CN
+phone:          +86-10-88511155-5618
+fax-no:         +86-10-68475806
+e-mail:         lidi@capinfo.com.cn
+nic-hdl:        CZ100-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:30:30Z
+source:         APNIC
+
+person:         Lu Xiaohan
+address:        NO.11 Xi San Huan Zhong Road,Beijing
+country:        CN
+phone:          +86-10-88511155
+fax-no:         +86-10-68475806
+e-mail:         lixinzheng@capinfo.com.cn
+nic-hdl:        LX223-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:30:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,81 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.24.128.0 - 103.24.131.255'
+
+% Abuse contact for '103.24.128.0 - 103.24.131.255' is 'zhangbinyu@inidc.com.cn'
+
+inetnum:        103.24.128.0 - 103.24.131.255
+netname:        SHUJUJIA
+descr:          Beijing SHUJUJIA
+descr:          Bei Yuan Road, Chaoyang District, Beijing City Triumph 170
+descr:          Kai Xuan Cheng, 26th Floor, Block C
+country:        CN
+admin-c:        LL1966-AP
+tech-c:         LL1966-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SHUJUJIA-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:22Z
+source:         APNIC
+
+irt:            IRT-SHUJUJIA-CN
+address:        Triumph 170 Kai Xuan Cheng, 26th Floor, Block C
+address:        Bei Yuan Road, Chaoyang District, Beijing
+e-mail:         zhangbinyu@inidc.com.cn
+abuse-mailbox:  zhangbinyu@inidc.com.cn
+auth:           # Filtered
+admin-c:        LL1966-AP
+tech-c:         LL1966-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-24T08:10:08Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lv Le
+nic-hdl:        LL1966-AP
+e-mail:         lv_le@139.com
+address:        No. 20,  Fuxing  Road,  Beijing
+phone:          +86-10-57790119
+fax-no:         +86-10-57790119
+country:        CN
+mnt-by:         MAINT-AP-CNISP
+last-modified:  2016-12-21T06:55:42Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

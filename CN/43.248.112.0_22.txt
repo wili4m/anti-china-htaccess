@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.248.112.0 - 43.248.115.255'
+
+% Abuse contact for '43.248.112.0 - 43.248.115.255' is 'wangyuanjing@cctv.com'
+
+inetnum:        43.248.112.0 - 43.248.115.255
+netname:        CRI
+descr:          China Radio International
+country:        CN
+admin-c:        HZ2721-AP
+tech-c:         HZ2721-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CRI-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:03Z
+source:         APNIC
+
+irt:            IRT-CRI-CN
+address:        16A Shijingshan Road, Shijingshan District, BEIJING
+e-mail:         wangyuanjing@cctv.com
+abuse-mailbox:  wangyuanjing@cctv.com
+auth:           # Filtered
+admin-c:        HZ2721-AP
+tech-c:         HZ2721-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T08:37:53Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Hang ZHI
+address:        16A Shijingshan Road,Shijingshan District,BEIJING
+country:        CN
+phone:          +86-010-68891432
+e-mail:         zhihang@cri.com.cn
+nic-hdl:        HZ2721-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-09-25T01:44:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

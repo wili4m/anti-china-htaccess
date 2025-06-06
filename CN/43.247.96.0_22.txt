@@ -1,0 +1,64 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.247.96.0 - 43.247.99.255'
+
+% Abuse contact for '43.247.96.0 - 43.247.99.255' is 'sa@corp.netease.com'
+
+inetnum:        43.247.96.0 - 43.247.99.255
+netname:        Netease-Network
+descr:          Guangzhou NetEase Computer System Co., Ltd
+descr:          No.5 Siyun Road, Tianhe District, Guangzhou, China
+admin-c:        ZX3316-AP
+tech-c:         ZX3316-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-Netease-Network-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-08-31T06:02:23Z
+source:         APNIC
+
+irt:            IRT-Netease-Network-CN
+address:        NetEase Building No.16 Ke Yun Road,
+address:        Tianhe Avenue,Guangzhou,Guangdong,China.
+e-mail:         sa@corp.netease.com
+abuse-mailbox:  sa@corp.netease.com
+auth:           # Filtered
+admin-c:        ZX3316-AP
+tech-c:         ZX3316-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-11-03T07:34:16Z
+source:         APNIC
+
+person:         Zongyi Xu
+address:        No.5 Siyun Road, Tianhe District, Guangzhou, China
+country:        CN
+phone:          +86-20-85105555
+e-mail:         sa@corp.netease.com
+nic-hdl:        ZX3316-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-08-01T03:00:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

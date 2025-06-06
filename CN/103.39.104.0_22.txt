@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.39.104.0 - 103.39.107.255'
+
+% Abuse contact for '103.39.104.0 - 103.39.107.255' is 'houf@neunn.com'
+
+inetnum:        103.39.104.0 - 103.39.107.255
+netname:        Neunn
+descr:          Neunn Technology Co., Ltd
+descr:          No.139,wenhua Road,shenhe District,,Shenyang
+country:        CN
+admin-c:        ZM1064-AP
+tech-c:         ZM1065-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-NEUNN-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:28Z
+source:         APNIC
+
+irt:            IRT-Neunn-CN
+address:        No.139,wenhua Road,shenhe District,,Shenyang
+e-mail:         houf@neunn.com
+abuse-mailbox:  houf@neunn.com
+auth:           # Filtered
+admin-c:        ZM1064-AP
+tech-c:         ZM1065-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-25T08:37:53Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Willis Fu
+address:        No.139,wenhua Road,shenhe District,,Shenyang
+country:        CN
+phone:          +86-13897904178
+e-mail:         fuc@neunn.com
+nic-hdl:        ZM1064-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-09-22T05:14:01Z
+source:         APNIC
+
+person:         Seven Hu
+address:        No.139,wenhua Road,shenhe District,,Shenyang
+country:        CN
+phone:          +86-13709888889
+e-mail:         huxb@neunn.com
+nic-hdl:        ZM1065-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-09-22T05:14:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

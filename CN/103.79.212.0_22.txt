@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.79.212.0 - 103.79.215.255'
+
+% Abuse contact for '103.79.212.0 - 103.79.215.255' is 'ybcn@ngncn.com'
+
+inetnum:        103.79.212.0 - 103.79.215.255
+netname:        ngncnnet
+descr:          Beijing Expo Cloud Technology Co., Ltd
+descr:          705, Building 9, Nord Center, Automobile Museum East Road,
+descr:          Fengtai District, Beijing
+country:        CN
+admin-c:        YW7302-AP
+tech-c:         YW7302-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-ngncnnet-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2023-10-13T08:06:59Z
+source:         APNIC
+
+irt:            IRT-ngncnnet-CN
+address:        705, Building 9, Nord Center, Automobile Museum East Road,
+address:        Fengtai District, Beijing
+e-mail:         ybcn@ngncn.com
+abuse-mailbox:  ybcn@ngncn.com
+admin-c:        YW7302-AP
+tech-c:         YW7302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-10-13T07:03:36Z
+source:         APNIC
+
+person:         Yang bo
+address:        705, Building 9, Nord Center, Automobile Museum East Road,
+address:        Fengtai District, Beijing
+country:        CN
+phone:          +86-13910770872
+e-mail:         ybcn@ngncn.com
+nic-hdl:        YW7302-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-10-13T07:02:19Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

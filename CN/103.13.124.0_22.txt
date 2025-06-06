@@ -1,0 +1,82 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.13.124.0 - 103.13.127.255'
+
+% Abuse contact for '103.13.124.0 - 103.13.127.255' is 'abuse@pacnet.com.cn'
+
+inetnum:        103.13.124.0 - 103.13.127.255
+netname:        PBSL
+descr:          Pacnet Business Solutions LTD
+descr:          Block B Zondy Digital Building Keyuan Road South
+descr:          Nanshan District, Shenzhen, Guangdong, China
+country:        CN
+admin-c:        ZM732-AP
+tech-c:         ZM732-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-PBSL-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CN-PBSL
+last-modified:  2023-11-28T00:55:52Z
+source:         APNIC
+
+irt:            IRT-PBSL-CN
+address:        Block B Zondy Digital Building Keyuan Road South
+address:        Nanshan District, Shenzhen, Guangdong, China
+e-mail:         abuse@pacnet.com.cn
+abuse-mailbox:  abuse@pacnet.com.cn
+admin-c:        ZM732-AP
+tech-c:         ZM732-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:58Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Network Operation Center
+address:        Block B Zondy Digital Building Keyuan Road South
+address:        Nanshan District, Shenzhen, Guangdong, China
+country:        CN
+phone:          +86-0755-33382789
+fax-no:         +86-0755-83522250
+e-mail:         abuse@pacnet.com.cn
+nic-hdl:        ZM732-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-04-12T06:58:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

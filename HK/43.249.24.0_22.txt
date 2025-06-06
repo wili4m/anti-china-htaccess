@@ -1,0 +1,105 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.249.24.0 - 43.249.27.255'
+
+% Abuse contact for '43.249.24.0 - 43.249.27.255' is 'abuse@powerline.hk'
+
+inetnum:        43.249.24.0 - 43.249.27.255
+netname:        POWERLINE-HK
+descr:          UNIT 04,7/F,BRIGHT WAY,TOWER NO. 33 MONG KOK ROAD
+country:        HK
+org:            ORG-PLCL1-AP
+admin-c:        PLHC1-AP
+tech-c:         PLHC1-AP
+abuse-c:        AP844-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-POWERLINE-HK
+mnt-routes:     MAINT-POWERLINE-HK
+mnt-irt:        IRT-POWERLINE-HK
+last-modified:  2020-06-30T15:14:18Z
+source:         APNIC
+
+irt:            IRT-POWERLINE-HK
+address:        UNIT 04,7/F,BRIGHT WAY,TOWER NO. 33 MONG KOK ROAD, Kowloon Hong Kong 999077
+e-mail:         abuse@powerline.hk
+abuse-mailbox:  abuse@powerline.hk
+admin-c:        PLHC1-AP
+tech-c:         PLHC1-AP
+auth:           # Filtered
+remarks:        abuse@powerline.hk was validated on 2025-03-15
+mnt-by:         MAINT-POWERLINE-HK
+last-modified:  2025-03-15T05:37:36Z
+source:         APNIC
+
+organisation:   ORG-PLCL1-AP
+org-name:       POWER LINE (HK) CO., LIMITED
+org-type:       LIR
+country:        HK
+address:        UNIT 04/7F BRIGHT WAY TOWER NO.35
+phone:          +852-00000000
+e-mail:         abuse@powerline.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:01Z
+source:         APNIC
+
+role:           ABUSE POWERLINEHK
+country:        ZZ
+address:        UNIT 04,7/F,BRIGHT WAY,TOWER NO. 33 MONG KOK ROAD, Kowloon Hong Kong 999077
+phone:          +000000000
+e-mail:         abuse@powerline.hk
+admin-c:        PLHC1-AP
+tech-c:         PLHC1-AP
+nic-hdl:        AP844-AP
+remarks:        Generated from irt object IRT-POWERLINE-HK
+remarks:        abuse@powerline.hk was validated on 2025-03-15
+abuse-mailbox:  abuse@powerline.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-15T05:38:07Z
+source:         APNIC
+
+role:           POWER LINE HK COLIMITEM administrator
+address:        UNIT 04,7/F,BRIGHT WAY,TOWER NO. 33 MONG KOK ROAD, Kowloon Hong Kong 999077
+country:        HK
+phone:          +852-35250823
+fax-no:         +852-35250823
+e-mail:         abuse@powerline.hk
+admin-c:        PLHC1-AP
+tech-c:         PLHC1-AP
+nic-hdl:        PLHC1-AP
+mnt-by:         MAINT-POWERLINE-HK
+last-modified:  2020-05-09T14:53:35Z
+source:         APNIC
+
+% Information related to '43.249.24.0/22AS132839'
+
+route:          43.249.24.0/22
+origin:         AS132839
+descr:          POWER LINE (HK) CO., LIMITED
+                UNIT 04/7F BRIGHT WAY TOWER NO.35
+mnt-by:         MAINT-POWERLINE-HK
+last-modified:  2024-12-08T14:32:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

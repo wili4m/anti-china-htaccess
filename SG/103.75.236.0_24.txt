@@ -1,0 +1,113 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.75.236.0 - 103.75.236.255'
+
+% Abuse contact for '103.75.236.0 - 103.75.236.255' is 'support@jdcolo.com'
+
+inetnum:        103.75.236.0 - 103.75.236.255
+netname:        SZITL-CN
+descr:          Unit 143, Building 4th, No. 1-3,
+descr:          LANE 166,QIANCAO Road, JIADING
+country:        SG
+org:            ORG-SZIT1-AP
+admin-c:        SZIT1-AP
+tech-c:         SZIT1-AP
+abuse-c:        AS2792-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SZITL-CN
+mnt-routes:     MAINT-SZITL-CN
+mnt-irt:        IRT-SZITL-CN
+last-modified:  2020-09-30T13:02:42Z
+source:         APNIC
+
+irt:            IRT-SZITL-CN
+address:        Unit 143, Building 4th, No. 1-3,, LANE 166,QIANCAO Road, JIADING, SHANGHAI N/A 200000
+e-mail:         support@jdcolo.com
+abuse-mailbox:  support@jdcolo.com
+admin-c:        SZIT1-AP
+tech-c:         SZIT1-AP
+auth:           # Filtered
+remarks:        support@jdcolo.com is invalid
+mnt-by:         MAINT-SZITL-CN
+last-modified:  2023-04-19T13:05:52Z
+source:         APNIC
+
+organisation:   ORG-SZIT1-AP
+org-name:       SHANGHAI ZHONGCHUAN INFORMATION TECHNOLOGY Ltd.
+org-type:       LIR
+country:        CN
+address:        Unit 143, Building 4th, No. 1-3,
+address:        LANE 166,QIANCAO Road, JIADING
+phone:          +8618621685727
+fax-no:         +86-512-62870835
+e-mail:         noc@legendata.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:02Z
+source:         APNIC
+
+role:           ABUSE SZITLCN
+address:        Unit 143, Building 4th, No. 1-3,, LANE 166,QIANCAO Road, JIADING, SHANGHAI N/A 200000
+country:        ZZ
+phone:          +000000000
+e-mail:         support@jdcolo.com
+admin-c:        SZIT1-AP
+tech-c:         SZIT1-AP
+nic-hdl:        AS2792-AP
+remarks:        Generated from irt object IRT-SZITL-CN
+remarks:        support@jdcolo.com is invalid
+abuse-mailbox:  support@jdcolo.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-04-19T13:06:23Z
+source:         APNIC
+
+role:           SHANGHAI ZHONGCHUAN INFORMATION TECHNOLOGY Ltd ad
+address:        29A INTERNATIONAL BUSINESS PARK
+country:        SG
+phone:          +6594867890
+e-mail:         SUPPORT@JDCOLO.COM
+admin-c:        SZIT1-AP
+tech-c:         SZIT1-AP
+nic-hdl:        SZIT1-AP
+mnt-by:         MAINT-SZITL-CN
+last-modified:  2019-08-22T04:05:50Z
+source:         APNIC
+
+% Information related to '103.75.236.0/24AS141153'
+
+route:          103.75.236.0/24
+origin:         AS141153
+descr:          SHANGHAI ZHONGCHUAN INFORMATION TECHNOLOGY Ltd.
+                Unit 143, Building 4th, No. 1-3,
+                LANE 166,QIANCAO Road, JIADING
+mnt-by:         MAINT-SZITL-CN
+last-modified:  2024-10-16T02:44:16Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.80.24.0 - 103.80.27.255'
+
+% Abuse contact for '103.80.24.0 - 103.80.27.255' is 'abuse@kfglobal.hk'
+
+inetnum:        103.80.24.0 - 103.80.27.255
+netname:        HKKFGL-HK
+descr:          HK Kwaifong Group Limited
+country:        HK
+org:            ORG-HKIS1-AP
+admin-c:        HKGL1-AP
+tech-c:         HKGL1-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AH819-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HKKF-HK
+mnt-routes:     MAINT-HKKF-HK
+mnt-irt:        IRT-HKKF-HK
+last-modified:  2022-09-26T07:16:52Z
+source:         APNIC
+
+irt:            IRT-HKKF-HK
+address:        Kwai Chung, NT., Hong Kong
+e-mail:         abuse@kfglobal.hk
+abuse-mailbox:  abuse@kfglobal.hk
+admin-c:        HKGL1-AP
+tech-c:         HKGL1-AP
+auth:           # Filtered
+remarks:        abuse@kfglobal.hk was validated on 2025-02-20
+mnt-by:         MAINT-HKKF-HK
+last-modified:  2025-05-06T02:41:35Z
+source:         APNIC
+
+organisation:   ORG-HKIS1-AP
+org-name:       HK Kwaifong Group Limited
+org-type:       LIR
+country:        HK
+address:        Room 801 Join-In Hang Sing Centre
+address:        2-16 kai Fung Crescent
+address:        Kwai Chung, NT
+phone:          +85231885386
+e-mail:         kwaifong33@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:15Z
+source:         APNIC
+
+role:           ABUSE HKKFHK
+country:        ZZ
+address:        Kwai Chung, NT., Hong Kong
+phone:          +000000000
+e-mail:         abuse@kfglobal.hk
+admin-c:        HKGL1-AP
+tech-c:         HKGL1-AP
+nic-hdl:        AH819-AP
+remarks:        Generated from irt object IRT-HKKF-HK
+abuse-mailbox:  abuse@kfglobal.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-06T02:41:35Z
+source:         APNIC
+
+role:           HK Kwaifong Group Limited - network administrator
+address:        Kai Chung,Kow Loon, HONGKONG
+country:        HK
+phone:          +85231885386
+e-mail:         noc@kfglobal.hk
+admin-c:        HKIS1-AP
+tech-c:         HKIS1-AP
+nic-hdl:        HKGL1-AP
+mnt-by:         MAINT-HKKF-HK
+fax-no:         +85231885389
+last-modified:  2025-05-06T02:42:07Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

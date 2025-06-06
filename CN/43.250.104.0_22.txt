@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.250.104.0 - 43.250.107.255'
+
+% Abuse contact for '43.250.104.0 - 43.250.107.255' is 'abuse@foxcloud.app'
+
+inetnum:        43.250.104.0 - 43.250.107.255
+netname:        AIYUN-CN
+descr:          Aiyun Technology Co.,Ltd
+descr:          No.75 West Wenyi Road
+country:        CN
+org:            ORG-ATC1-AP
+admin-c:        FA195-AP
+tech-c:         FA195-AP
+abuse-c:        AF863-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-FOX-AP
+mnt-routes:     MAINT-FOX-AP
+mnt-irt:        IRT-FOX-AP
+last-modified:  2024-06-19T10:04:08Z
+source:         APNIC
+
+irt:            IRT-FOX-AP
+address:        Nihonbashi Hamacho 2-62-6
+address:        Chuo-ku
+address:        Tokyo
+address:        Japan
+e-mail:         admin@foxcloud.app
+abuse-mailbox:  abuse@foxcloud.app
+admin-c:        FA195-AP
+tech-c:         FA195-AP
+auth:           # Filtered
+remarks:        admin@foxcloud.app was validated on 2024-12-24
+remarks:        abuse@foxcloud.app was validated on 2025-04-08
+mnt-by:         MAINT-FOX-AP
+last-modified:  2025-04-08T13:22:18Z
+source:         APNIC
+
+organisation:   ORG-ATC1-AP
+org-name:       Aiyun Technology Co.,Ltd
+org-type:       LIR
+country:        CN
+address:        No.75 West Wenyi Road
+phone:          +8657128885885
+fax-no:         +8657128885885
+e-mail:         admin@foxcloud.app
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-06-19T12:57:00Z
+source:         APNIC
+
+role:           ABUSE FOXAP
+country:        ZZ
+address:        Nihonbashi Hamacho 2-62-6
+address:        Chuo-ku
+address:        Tokyo
+address:        Japan
+phone:          +000000000
+e-mail:         admin@foxcloud.app
+admin-c:        FA195-AP
+tech-c:         FA195-AP
+nic-hdl:        AF863-AP
+remarks:        Generated from irt object IRT-FOX-AP
+remarks:        admin@foxcloud.app was validated on 2024-12-24
+remarks:        abuse@foxcloud.app was validated on 2025-04-08
+abuse-mailbox:  abuse@foxcloud.app
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-08T13:22:57Z
+source:         APNIC
+
+role:           Foxcloud Administrator
+address:        Saitama-Ken Kawaguchi-Shi Aoki 1-10-3-609
+country:        JP
+phone:          +1-803-999-2233
+e-mail:         admin@foxcloud.app
+admin-c:        KS1340-AP
+tech-c:         KS1340-AP
+nic-hdl:        FA195-AP
+mnt-by:         MAINT-FOX-AP
+last-modified:  2024-06-19T09:30:54Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

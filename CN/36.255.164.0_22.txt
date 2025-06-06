@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      36.0.0.0 - 36.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.255.164.0 - 36.255.167.255'
+
+% Abuse contact for '36.255.164.0 - 36.255.167.255' is 'chenxiaojun@cm-tong.com'
+
+inetnum:        36.255.164.0 - 36.255.167.255
+netname:        GWLink
+descr:          Shenzhen cyberlink Century Investment Co., Ltd.
+country:        CN
+admin-c:        SH2278-AP
+tech-c:         LJ3717-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-GWLINK-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:53Z
+source:         APNIC
+
+irt:            IRT-GWLink-CN
+address:        Guangdong province Shenzhen city Futian district meilinzhongkang
+address:        road Excellent city a period of 2 building,Room 401
+e-mail:         chenxiaojun@cm-tong.com
+abuse-mailbox:  chenxiaojun@cm-tong.com
+auth:           # Filtered
+admin-c:        SH2278-AP
+tech-c:         LJ3717-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-26T07:08:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Li jiaxuan
+address:        Guangdong province Shenzhen city Futian district
+address:        meilinzhongkang road Excellent city a period of 2 building,Room 401
+country:        CN
+phone:          +86-0755-28160001
+e-mail:         lijiaxuan@cm-tong.com
+nic-hdl:        LJ3717-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-02-22T05:46:01Z
+source:         APNIC
+
+person:         Su Hong
+address:        Guangdong province Shenzhen city Futian district
+address:        meilinzhongkang road Excellent city a period of 2 building,Room 401
+country:        CN
+phone:          +86-0755-28160001
+e-mail:         suhong@cm-tong.com
+nic-hdl:        SH2278-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-02-22T05:46:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

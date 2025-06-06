@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.212.32.0 - 103.212.35.255'
+
+% Abuse contact for '103.212.32.0 - 103.212.35.255' is 'admin@itsidc.com'
+
+inetnum:        103.212.32.0 - 103.212.35.255
+netname:        RAINBOWIDC-JP
+descr:          Rainbow Network Limited
+country:        JP
+org:            ORG-RNL4-AP
+admin-c:        RNLA4-AP
+tech-c:         RNLA4-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AR846-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-RAINBOWIDC-JP
+mnt-routes:     MAINT-RAINBOWIDC-JP
+mnt-irt:        IRT-RAINBOWIDC-JP
+last-modified:  2022-11-21T05:30:45Z
+source:         APNIC
+
+irt:            IRT-RAINBOWIDC-JP
+address:        3-11-5 Ueno, Taito-ku, Tokyo 277-0843 Japan
+e-mail:         admin@itsidc.com
+abuse-mailbox:  admin@itsidc.com
+admin-c:        RNLA4-AP
+tech-c:         RNLA4-AP
+auth:           # Filtered
+remarks:        admin@itsidc.com was validated on 2025-01-07
+mnt-by:         MAINT-RAINBOWIDC-JP
+last-modified:  2025-01-07T13:34:49Z
+source:         APNIC
+
+organisation:   ORG-RNL4-AP
+org-name:       rainbow network limited
+org-type:       LIR
+country:        JP
+address:        3-11-5 Ueno, Taito-ku, Tokyo
+address:        277-0843
+phone:          +81-3-4560-4490
+fax-no:         +81-3-4560-4490
+e-mail:         admin@itsidc.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:46Z
+source:         APNIC
+
+role:           ABUSE RAINBOWIDCJP
+country:        ZZ
+address:        3-11-5 Ueno, Taito-ku, Tokyo 277-0843 Japan
+phone:          +000000000
+e-mail:         admin@itsidc.com
+admin-c:        RNLA4-AP
+tech-c:         RNLA4-AP
+nic-hdl:        AR846-AP
+remarks:        Generated from irt object IRT-RAINBOWIDC-JP
+remarks:        admin@itsidc.com was validated on 2025-01-07
+abuse-mailbox:  admin@itsidc.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-07T13:35:10Z
+source:         APNIC
+
+role:           Rainbow Network Limited administrator
+address:        3-11-5 Ueno, Taito-ku, Tokyo 277-0843
+country:        JP
+phone:          +081 3 4560 4490
+fax-no:         +081 3 4560 4490
+e-mail:         admin@itsidc.com
+admin-c:        RNLA4-AP
+tech-c:         RNLA4-AP
+nic-hdl:        RNLA4-AP
+mnt-by:         MAINT-RAINBOWIDC-JP
+last-modified:  2022-11-18T13:01:28Z
+source:         APNIC
+
+% Information related to '103.212.32.0/22AS55933'
+
+route:          103.212.32.0/22
+origin:         AS55933
+descr:          ShenZhen rainbow Computer Network company Limited
+                Room 1115, international culture building, Futian District
+mnt-by:         MAINT-RAINBOWIDC-JP
+last-modified:  2022-11-21T05:33:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

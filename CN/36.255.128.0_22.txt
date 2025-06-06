@@ -1,0 +1,77 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      36.0.0.0 - 36.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.255.128.0 - 36.255.131.255'
+
+% Abuse contact for '36.255.128.0 - 36.255.131.255' is 'GANKAIMING610@pingan.com.cn'
+
+inetnum:        36.255.128.0 - 36.255.131.255
+netname:        YQBNET
+descr:          Ping An Pay Science Technology Service Co., Ltd.
+country:        CN
+admin-c:        GKM4-AP
+tech-c:         GKM4-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-YQBNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:53Z
+source:         APNIC
+
+irt:            IRT-YQBNET-CN
+address:        8F, Block A, Shanghai Pingan Tower, No.206 Kaibin Road, Xuhui District, Shanghai
+e-mail:         GANKAIMING610@pingan.com.cn
+abuse-mailbox:  GANKAIMING610@pingan.com.cn
+auth:           # Filtered
+admin-c:        GKM4-AP
+tech-c:         GKM4-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-31T00:11:21Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Gan Kaiming
+address:        8F, Block A, Shanghai Pingan Tower, No.206 Kaibin Road, Xuhui District, Shanghai
+country:        CN
+phone:          +86-13661803995
+e-mail:         GANKAIMING610@pingan.com.cn
+nic-hdl:        GKM4-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-11-01T22:36:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

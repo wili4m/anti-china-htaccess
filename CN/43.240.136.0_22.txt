@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.240.136.0 - 43.240.139.255'
+
+% Abuse contact for '43.240.136.0 - 43.240.139.255' is 'lxy@wjhtedu.com'
+
+inetnum:        43.240.136.0 - 43.240.139.255
+netname:        WJHTEDU
+descr:          Beijing WangJu Interworking Information Technology Co. LTD
+descr:          303, 3rd Floor, Building 3, 17 Sanyuan Street,
+descr:          Dongcheng District, Beijing
+country:        CN
+admin-c:        YW7253-AP
+tech-c:         YW7253-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-WJHTEDU-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2025-05-23T02:09:12Z
+source:         APNIC
+
+irt:            IRT-WJHTEDU-CN
+address:        303, 3rd Floor, Building 3, 17 Sanyuan Street,
+address:        Dongcheng District, Beijing
+e-mail:         lxy@wjhtedu.com
+abuse-mailbox:  lxy@wjhtedu.com
+admin-c:        YW7253-AP
+tech-c:         YW7253-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-27T02:27:48Z
+source:         APNIC
+
+person:         Lin xiyuan
+address:        303, 3rd Floor, Building 3, 17 Sanyuan Street,
+address:        Dongcheng District, Beijing
+country:        CN
+phone:          +86-15101049276
+e-mail:         lxy@wjhtedu.com
+nic-hdl:        YW7253-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-09-08T09:43:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

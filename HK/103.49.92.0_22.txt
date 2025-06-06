@@ -1,0 +1,129 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.49.92.0 - 103.49.95.255'
+
+% Abuse contact for '103.49.92.0 - 103.49.95.255' is 'ipadmin@transsss.com'
+
+inetnum:        103.49.92.0 - 103.49.95.255
+netname:        NLTD-HK
+descr:          NEXT LINK TECHNOLOGY DEVELOPMENT (HK) CO.,LIMITED
+country:        HK
+org:            ORG-NLTD1-AP
+admin-c:        NLTD1-AP
+tech-c:         NLTD1-AP
+abuse-c:        AN1176-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NLTD-HK
+mnt-routes:     MAINT-NLTD-HK
+mnt-irt:        IRT-NLTD-HK
+last-modified:  2022-04-28T23:57:13Z
+source:         APNIC
+
+irt:            IRT-NLTD-HK
+address:        Rooms 05-1513A/F South Tower, World Finance Centre, Habour City 17 Canton Road , Tsim Sha Tsui Kowlo
+e-mail:         ipadmin@transsss.com
+abuse-mailbox:  ipadmin@transsss.com
+admin-c:        NLTD1-AP
+tech-c:         NLTD1-AP
+auth:           # Filtered
+remarks:        ipadmin@transsss.com
+remarks:        ipadmin@transsss.com
+remarks:        ipadmin@transsss.com
+remarks:        ipadmin@transsss.com was validated on 2024-12-07
+mnt-by:         MAINT-NLTD-HK
+last-modified:  2024-12-07T16:54:14Z
+source:         APNIC
+
+organisation:   ORG-NLTD1-AP
+org-name:       NEXT LINK TECHNOLOGY DEVELOPMENT (HK) CO.,LIMITED
+org-type:       LIR
+country:        HK
+address:        Rooms 05-1513A/F South Tower
+address:        World Finance Centre
+address:        Habour City 17 Canton Road , Tsim Sha Tsui Kowloon Hong Kong
+phone:          +13032765301
+e-mail:         ipadmin@transsss.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-12-08T13:01:51Z
+source:         APNIC
+
+role:           ABUSE NLTDHK
+country:        ZZ
+address:        Rooms 05-1513A/F South Tower, World Finance Centre, Habour City 17 Canton Road , Tsim Sha Tsui Kowlo
+phone:          +000000000
+e-mail:         ipadmin@transsss.com
+admin-c:        NLTD1-AP
+tech-c:         NLTD1-AP
+nic-hdl:        AN1176-AP
+remarks:        Generated from irt object IRT-NLTD-HK
+remarks:        ipadmin@transsss.com was validated on 2024-12-07
+abuse-mailbox:  ipadmin@transsss.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-07T16:54:54Z
+source:         APNIC
+
+role:           NEXT LINK TECHNOLOGY DEVELOPMENT HKCOLIMITED a
+address:        Rooms 05-1513A/F South Tower, World Finance Centre, Habour City 17 Canton Road , Tsim Sha Tsui Kowlo
+country:        HK
+phone:          +13032765301
+fax-no:         +13032765301
+e-mail:         ipadmin@transsss.com
+admin-c:        NLTD1-AP
+tech-c:         NLTD1-AP
+nic-hdl:        NLTD1-AP
+mnt-by:         MAINT-NLTD-HK
+last-modified:  2024-12-07T17:18:53Z
+source:         APNIC
+
+% Information related to '103.49.92.0/22AS13444'
+
+route:          103.49.92.0/22
+origin:         AS13444
+descr:          NEXT LINK TECHNOLOGY DEVELOPMENT (HK) CO.,LIMITED
+                Rooms 05-1513A/F South Tower
+                World Finance Centre
+                Habour City 17 Canton Road , Tsim Sha Tsui Kowloon Hong Kong
+mnt-by:         MAINT-NLTD-HK
+last-modified:  2022-04-29T15:39:13Z
+source:         APNIC
+
+% Information related to '103.49.92.0/22AS24373'
+
+route:          103.49.92.0/22
+origin:         AS24373
+descr:          NEXT LINK TECHNOLOGY DEVELOPMENT (HK) CO.,LIMITED
+                Rooms 05-1513A/F South Tower
+                World Finance Centre
+                Habour City 17 Canton Road , Tsim Sha Tsui Kowloon Hong Kong
+mnt-by:         MAINT-NLTD-HK
+last-modified:  2022-06-17T02:20:09Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

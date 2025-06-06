@@ -1,0 +1,75 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.2.156.0 - 103.2.159.255'
+
+% Abuse contact for '103.2.156.0 - 103.2.159.255' is 'consult@shixp.cn'
+
+inetnum:        103.2.156.0 - 103.2.159.255
+netname:        SHIXP
+descr:          NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
+descr:          No. 508, Zhongshan South Road, Huangpu District, Shanghai
+country:        CN
+admin-c:        YW7406-AP
+tech-c:         JS4662-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-SHIXP-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2025-04-03T09:31:52Z
+source:         APNIC
+
+irt:            IRT-SHIXP-CN
+address:        588 Jiyun Road, Baoshan District, Shanghai
+e-mail:         consult@shixp.cn
+abuse-mailbox:  consult@shixp.cn
+admin-c:        YW7406-AP
+tech-c:         JS4662-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-03T09:31:51Z
+source:         APNIC
+
+person:         NOC Administrator
+address:        Floor 3, Muti-function Building, No.1512 Lizheng Road, Shuyuan,
+address:        Pudong District, Shanghai
+country:        CN
+phone:          +86-18706670552
+e-mail:         noc@shixp.cn
+nic-hdl:        JS4662-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-03T09:24:38Z
+source:         APNIC
+
+person:         Jinchao Qi
+address:        Floor 3, Muti-function Building, No.1512 Lizheng Road, Shuyuan,
+address:        Pudong District, Shanghai
+country:        CN
+phone:          +86-15921099091
+e-mail:         qijinchao@shixp.cn
+nic-hdl:        YW7406-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2025-04-03T09:24:38Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

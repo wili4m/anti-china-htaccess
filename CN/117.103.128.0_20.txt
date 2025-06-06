@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      117.0.0.0 - 117.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.103.128.0 - 117.103.143.255'
+
+% Abuse contact for '117.103.128.0 - 117.103.143.255' is 'lijing@datanow.net.cn'
+
+inetnum:        117.103.128.0 - 117.103.143.255
+netname:        SLTNET
+descr:          BEIJING DATA-express tech CO.,ltd
+descr:          Andingmen dajie NO.208 DISTRICT Beijing CHINA
+country:        CN
+admin-c:        YL1651-AP
+tech-c:         WD325-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-SLTNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:57Z
+source:         APNIC
+
+irt:            IRT-SLTNET-CN
+address:        Andingmen dajie NO.208  DISTRICT Beijing CHINA
+e-mail:         lijing@datanow.net.cn
+abuse-mailbox:  lijing@datanow.net.cn
+auth:           # Filtered
+admin-c:        YL1651-AP
+tech-c:         WD325-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-10T03:26:39Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wenxian Du
+nic-hdl:        WD325-AP
+e-mail:         duwenxian@data-express.cn
+address:        Andingmen dajie NO.208  DISTRICT Beijing CHINA
+phone:          +86-010-51234007
+fax-no:         +86-010-51234444
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:48:55Z
+source:         APNIC
+
+person:         Yanjie Liu
+nic-hdl:        YL1651-AP
+e-mail:         liuyanjie@data-express.cn
+address:        Andingmen dajie NO.208  DISTRICT Beijing CHINA
+phone:          +86-010-51234007
+fax-no:         +86-010-51234444
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2008-09-04T07:48:55Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

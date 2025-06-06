@@ -1,0 +1,120 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.86.128.0 - 103.86.129.255'
+
+% Abuse contact for '103.86.128.0 - 103.86.129.255' is 'abuse@bintangutama.id'
+
+inetnum:        103.86.128.0 - 103.86.129.255
+netname:        IDNIC-BINTANGUTAMA-ID
+descr:          PT Bintang Utama Pertiwi
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. Warung Buncit Raya Nomor 25 E
+descr:          Jakarta 12510, Indonesia
+admin-c:        DA607-AP
+tech-c:         DA607-AP
+remarks:        Send Spam & Abuse Reports to: abuse@bintangutama.id
+country:        ID
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-BINTANGUTAMA
+mnt-irt:        IRT-BINTANGUTAMA-ID
+mnt-routes:     MAINT-ID-BINTANGUTAMA
+status:         ALLOCATED PORTABLE
+last-modified:  2022-08-03T08:53:16Z
+source:         APNIC
+
+irt:            IRT-BINTANGUTAMA-ID
+address:        PT BINTANG UTAMA PERTIWI
+address:        Jl. Warung Buncit Raya Nomor 25 E
+address:        Jakarta 12510, Indonesia
+e-mail:         noc@bintangutama.id
+abuse-mailbox:  abuse@bintangutama.id
+admin-c:        DA607-AP
+tech-c:         DA607-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-BINTANGUTAMA
+last-modified:  2022-08-02T04:34:31Z
+source:         APNIC
+
+person:         Depri Alnopen
+address:        Jl. Warung Buncit Raya Nomor 25 E
+address:        Jakarta 12510, Indonesia
+country:        ID
+phone:          +62-21-50983714
+e-mail:         noc@bintangutama.id
+nic-hdl:        DA607-AP
+mnt-by:         MAINT-ID-BINTANGUTAMA
+fax-no:         +62-21-50983714
+last-modified:  2022-08-02T04:35:48Z
+source:         APNIC
+
+% Information related to '103.86.129.0 - 103.86.129.255'
+
+inetnum:        103.86.129.0 - 103.86.129.255
+netname:        LINTASARTA-NET
+descr:          Indonesia Online Access
+descr:          PT Aplikanusa Lintasarta
+country:        ID
+admin-c:        LA60-AP
+tech-c:         LA60-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-ID-BINTANGUTAMA
+mnt-by:         MAINT-LINTASARTA
+mnt-irt:        IRT-BINTANGUTAMA-ID
+last-modified:  2022-08-10T08:39:58Z
+source:         IDNIC
+
+irt:            IRT-BINTANGUTAMA-ID
+address:        PT BINTANG UTAMA PERTIWI
+address:        Jl. Warung Buncit Raya Nomor 25 E
+address:        Jakarta 12510, Indonesia
+e-mail:         noc@bintangutama.id
+abuse-mailbox:  abuse@bintangutama.id
+admin-c:        DA607-AP
+tech-c:         DA607-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-BINTANGUTAMA
+last-modified:  2022-08-09T05:50:46Z
+source:         IDNIC
+
+role:           LINTASARTA ADMINISTRATOR
+address:        PT Aplikanusa Lintasarta
+address:        MH Thamrin Kav 3
+address:        Menara Thamrin Bulding 12th Floor
+address:        Jakarta 10250
+country:        ID
+phone:          +62-21-2302345
+fax-no:         +62-21-2303883
+e-mail:         hostmaster@idola.net.id
+remarks:        spam and abuse report : abuse@idola.net.id
+remarks:        technical and routing : support@idola.net.id
+remarks:        hostmasters : hostmaster@idola.net.id
+remarks:        LINTASARTA administrators role object
+admin-c:        GP509-AP
+tech-c:         MT1062-AP
+nic-hdl:        LA60-AP
+notify:         hostmaster@idola.net.id
+mnt-by:         MAINT-LINTASARTA
+last-modified:  2024-08-01T09:37:22Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

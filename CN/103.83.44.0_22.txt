@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.83.44.0 - 103.83.47.255'
+
+% Abuse contact for '103.83.44.0 - 103.83.47.255' is 'yanww@mail.taiji.com.cn'
+
+inetnum:        103.83.44.0 - 103.83.47.255
+netname:        TaiJi-ZY
+descr:          Taiji Computer Corporation Limited
+country:        CN
+admin-c:        WY3202-AP
+tech-c:         YZ4894-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-TAIJI-ZY-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:46Z
+source:         APNIC
+
+irt:            IRT-TaiJi-ZY-CN
+address:        No. 211 North Fourth Ring Road, Haidian District, Beijing
+e-mail:         yanww@mail.taiji.com.cn
+abuse-mailbox:  yanww@mail.taiji.com.cn
+auth:           # Filtered
+admin-c:        WY3202-AP
+tech-c:         YZ4894-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-26T09:00:28Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Weiwei Yan
+address:        No. 211 North Fourth Ring Road, Haidian District, Beijing
+country:        CN
+phone:          +86-010-61936667
+e-mail:         yanww@mail.taiji.com.cn
+nic-hdl:        WY3202-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-01-11T02:48:01Z
+source:         APNIC
+
+person:         Yunmeng Zhu
+address:        No. 211 North Fourth Ring Road, Haidian District, Beijing
+country:        CN
+phone:          +86-010-89056888
+e-mail:         zhuym@mail.taiji.com.cn
+nic-hdl:        YZ4894-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-01-11T02:48:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

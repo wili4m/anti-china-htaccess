@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      49.0.0.0 - 49.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-08
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '49.239.0.0 - 49.239.63.255'
+
+% Abuse contact for '49.239.0.0 - 49.239.63.255' is 'ipas@cnnic.cn'
+
+inetnum:        49.239.0.0 - 49.239.63.255
+netname:        LINW
+descr:          Shanghai Link-Net Communication Technology Co.,Ltd
+descr:          Room 2102, South Tower, No.300 XuanHua Road, ShangHai, china
+country:        CN
+admin-c:        WC1615-AP
+tech-c:         WH1385-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:25:49Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-16T01:39:57Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wang Chao
+address:        Room 2102, South Tower, No.300 XuanHua Road, ShangHai, china
+country:        CN
+phone:          +86-18918101605
+e-mail:         martin.wang@link-net.com.cn
+nic-hdl:        WC1615-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-11-23T01:42:01Z
+source:         APNIC
+
+person:         Wang Hua
+address:        Room 2102, South Tower, No.300 XuanHua Road, ShangHai, china
+country:        CN
+phone:          +86-18916783205
+e-mail:         hua.wang@link-net.com.cn
+nic-hdl:        WH1385-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-11-23T01:42:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.42.180.0 - 103.42.183.255'
+
+% Abuse contact for '103.42.180.0 - 103.42.183.255' is 'abuse@hkcloudx.com'
+
+inetnum:        103.42.180.0 - 103.42.183.255
+netname:        SHENZHEN-CN
+descr:          Room 301, Heping No 12
+descr:          Ping Shan Road, PingShan District ShenZhen, China.
+country:        CN
+org:            ORG-SYCN1-AP
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+abuse-c:        AH1525-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HKUNITED-HK
+mnt-routes:     MAINT-HKUNITED-HK
+mnt-irt:        IRT-HKUNITED-HK
+last-modified:  2024-05-25T03:45:38Z
+source:         APNIC
+
+irt:            IRT-HKUNITED-HK
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+e-mail:         admin@hkcloudx.com
+abuse-mailbox:  abuse@hkcloudx.com
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+auth:           # Filtered
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+remarks:        admin@hkcloudx.com was validated on 2025-03-27
+mnt-by:         MAINT-HKUNITED-HK
+last-modified:  2025-03-27T01:29:36Z
+source:         APNIC
+
+organisation:   ORG-SYCN1-AP
+org-name:       Shenzhen Yi cloud Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +852-93794836
+e-mail:         admin@hkcloudx.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-05-25T12:57:52Z
+source:         APNIC
+
+role:           ABUSE HKUNITEDHK
+country:        ZZ
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+phone:          +000000000
+e-mail:         admin@hkcloudx.com
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+nic-hdl:        AH1525-AP
+remarks:        Generated from irt object IRT-HKUNITED-HK
+remarks:        abuse@hkcloudx.com was validated on 2025-02-20
+remarks:        admin@hkcloudx.com was validated on 2025-03-27
+abuse-mailbox:  abuse@hkcloudx.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-03-27T01:30:06Z
+source:         APNIC
+
+role:           DRAGON SPIRIT INVESTMENTS INTERNATIONAL CO admin
+address:        7F,World peace center,55 wo tong tsui st,kwai chung
+country:        HK
+phone:          +852-35979037
+e-mail:         abuse@hkcloudx.com
+admin-c:        DSII1-AP
+tech-c:         DSII1-AP
+nic-hdl:        DSII1-AP
+mnt-by:         MAINT-VPSQUAN-HK
+last-modified:  2019-12-21T03:42:53Z
+source:         APNIC
+
+% Information related to '103.42.180.0/22AS62468'
+
+route:          103.42.180.0/22
+origin:         AS62468
+descr:          Shenzhen Yi cloud Network Technology Co., Ltd.
+                7F,World peace center,55 wo tong tsui st,kwai chung
+mnt-by:         MAINT-SHENZHEN-CN
+last-modified:  2024-05-20T11:20:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,115 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.43.84.0 - 103.43.87.255'
+
+% Abuse contact for '103.43.84.0 - 103.43.87.255' is 'vipyeah@gmail.com'
+
+inetnum:        103.43.84.0 - 103.43.87.255
+netname:        YUNRANG-CN
+descr:          Rm1108 No.969 South Zhongshan Road Shanghai China
+country:        CN
+org:            ORG-YNTC1-AP
+admin-c:        YA206-AP
+tech-c:         YA206-AP
+abuse-c:        AY510-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-YUNRANG-CN
+mnt-routes:     MAINT-YUNRANG-CN
+mnt-irt:        IRT-YUNRANG-CN
+last-modified:  2020-10-21T13:06:50Z
+source:         APNIC
+
+irt:            IRT-YUNRANG-CN
+address:        UNIT 1005,10/F PROSPEROUS BLDG 48-52 DES VOEUX RD CENTRAL HK, HK
+e-mail:         vipyeah@gmail.com
+abuse-mailbox:  vipyeah@gmail.com
+admin-c:        YA206-AP
+tech-c:         YA206-AP
+auth:           # Filtered
+remarks:        vipyeah@gmail.com was validated on 2025-04-14
+mnt-by:         MAINT-YUNRANG-CN
+last-modified:  2025-04-14T02:20:46Z
+source:         APNIC
+
+organisation:   ORG-YNTC1-AP
+org-name:       YUNRANG Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        UNIT 2508A 25/F BANK OF
+address:        AMERICA TOWER 12 HARCOURT RD
+address:        CENTRAL, HONG KONG
+phone:          +852-98633366
+fax-no:         +852-98633366
+e-mail:         vipyeah@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:29Z
+source:         APNIC
+
+role:           ABUSE YUNRANGCN
+country:        ZZ
+address:        UNIT 1005,10/F PROSPEROUS BLDG 48-52 DES VOEUX RD CENTRAL HK, HK
+phone:          +000000000
+e-mail:         vipyeah@gmail.com
+admin-c:        YA206-AP
+tech-c:         YA206-AP
+nic-hdl:        AY510-AP
+remarks:        Generated from irt object IRT-YUNRANG-CN
+remarks:        vipyeah@gmail.com was validated on 2025-04-14
+abuse-mailbox:  vipyeah@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-14T02:21:21Z
+source:         APNIC
+
+role:           yunrang administrator
+address:        UNIT 1005,10/F PROSPEROUS BLDG 48-52 DES VOEUX RD CENTRAL HK, HK
+country:        HK
+phone:          +852-98633366
+fax-no:         +852-98633366
+e-mail:         vipyeah@gmail.com
+admin-c:        YA206-AP
+tech-c:         YA206-AP
+nic-hdl:        YA206-AP
+mnt-by:         MAINT-YUNRANG-CN
+last-modified:  2021-08-12T02:11:42Z
+source:         APNIC
+
+% Information related to '103.43.84.0/22AS135391'
+
+route:          103.43.84.0/22
+origin:         AS135391
+descr:          YUNRANG Network Technology Co., Ltd.
+                UNIT 2508A 25/F BANK OF
+                AMERICA TOWER 12 HARCOURT RD
+                CENTRAL, HONG KONG
+mnt-by:         MAINT-YUNRANG-CN
+last-modified:  2022-05-06T07:09:47Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

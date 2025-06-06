@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      119.0.0.0 - 119.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '119.42.136.0 - 119.42.143.255'
+
+% Abuse contact for '119.42.136.0 - 119.42.143.255' is 'gh-neteng-china@ghsl.cn'
+
+inetnum:        119.42.136.0 - 119.42.143.255
+netname:        GSGH
+descr:          GSGH security LLC
+descr:          17 -18 Floor , Winland international Finance center ,
+descr:          7 Finance street , Xicheng district , Beijing .
+country:        CN
+admin-c:        YW7276-AP
+tech-c:         JS4521-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-GSGH-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2023-01-18T07:14:45Z
+source:         APNIC
+
+irt:            IRT-GSGH-CN
+address:        17 -18 Floor , Winland international Finance center ,
+address:        7 Finance street , Xicheng district ,Beijing .
+e-mail:         gh-neteng-china@ghsl.cn
+abuse-mailbox:  gh-neteng-china@ghsl.cn
+auth:           # Filtered
+admin-c:        YW7276-AP
+tech-c:         JS4521-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-18T07:10:30Z
+source:         APNIC
+
+person:         Cheng Yue
+address:        17 -18 Floor , Winland international Finance center ,
+address:        7 Finance street , Xicheng district , Beijing .
+country:        CN
+phone:          +86-010- 66273118
+e-mail:         yue.cheng@gsgh.cn
+nic-hdl:        JS4521-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-18T06:05:44Z
+source:         APNIC
+
+person:         Weihong Wang
+address:        17 -18 Floor ,Winland international Finance center ,
+address:        7 Finance street ,Xicheng district ,Beijing .
+country:        CN
+phone:          +86-010-66273479
+e-mail:         weihong.wang@ghsl.cn
+nic-hdl:        YW7276-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-01-18T06:05:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

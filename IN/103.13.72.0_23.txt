@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.13.72.0 - 103.13.73.255'
+
+% Abuse contact for '103.13.72.0 - 103.13.73.255' is 'sp@inextglobal.co.in'
+
+inetnum:        103.13.72.0 - 103.13.73.255
+netname:        INEXT-IN
+descr:          Inext global technology
+country:        IN
+org:            ORG-IGT1-AP
+admin-c:        IGTA1-AP
+tech-c:         IGTA1-AP
+abuse-c:        AI1001-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-INEXT-IN
+mnt-irt:        IRT-INEXT-IN
+last-modified:  2024-04-15T03:20:19Z
+source:         APNIC
+
+irt:            IRT-INEXT-IN
+address:        A 64 3rd Floor Sector 63, Noida, up, noida uttar pradesh 201301
+e-mail:         sp@inextglobal.co.in
+abuse-mailbox:  sp@inextglobal.co.in
+admin-c:        IGTA1-AP
+tech-c:         IGTA1-AP
+auth:           # Filtered
+remarks:        sp@inextglobal.co.in is invalid
+mnt-by:         MAINT-INEXT-IN
+last-modified:  2025-05-21T13:12:00Z
+source:         APNIC
+
+organisation:   ORG-IGT1-AP
+org-name:       Inext global technology
+org-type:       LIR
+country:        IN
+address:        A 64 3rd Floor Sector 63
+address:        Noida
+address:        up
+phone:          +919015176234
+e-mail:         manishguptanew@gmail.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-11-09T14:11:45Z
+source:         APNIC
+
+role:           ABUSE INEXTIN
+country:        ZZ
+address:        A 64 3rd Floor Sector 63, Noida, up, noida uttar pradesh 201301
+phone:          +000000000
+e-mail:         sp@inextglobal.co.in
+admin-c:        IGTA1-AP
+tech-c:         IGTA1-AP
+nic-hdl:        AI1001-AP
+remarks:        Generated from irt object IRT-INEXT-IN
+remarks:        sp@inextglobal.co.in is invalid
+abuse-mailbox:  sp@inextglobal.co.in
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-21T13:13:03Z
+source:         APNIC
+
+role:           Inext global technology administrator
+address:        A 64 3rd Floor Sector 63, Noida, up, noida uttar pradesh 201301
+country:        IN
+phone:          +919015176234
+e-mail:         sp@inextglobal.co.in
+admin-c:        IGTA1-AP
+tech-c:         IGTA1-AP
+nic-hdl:        IGTA1-AP
+mnt-by:         MAINT-INEXT-IN
+last-modified:  2024-04-13T09:30:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

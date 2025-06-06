@@ -1,0 +1,81 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      27.0.0.0 - 27.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '27.54.192.0 - 27.54.255.255'
+
+% Abuse contact for '27.54.192.0 - 27.54.255.255' is '921988@qq.com'
+
+inetnum:        27.54.192.0 - 27.54.255.255
+netname:        CNCC
+descr:          Anhui Easy-speed Network Technology Co., Ltd.
+descr:          Chuzhou City Quanjiao Wu Jingzi Road PikLane,Anhui,China
+country:        CN
+admin-c:        DW279-AP
+tech-c:         DW279-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNCC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:53Z
+source:         APNIC
+
+irt:            IRT-CNCC-CN
+address:        Floor5,International Center,NO.535 ShenXu Road,
+address:        SuZhou Industrial Park, Jiangsu province,China
+e-mail:         921988@qq.com
+abuse-mailbox:  921988@qq.com
+auth:           # Filtered
+admin-c:        DW279-AP
+tech-c:         DW279-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-24T02:52:03Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Daolong Wang
+address:        Floor5,International Center,NO.535 ShenXu Road,
+address:        SuZhou Industrial Park, Jiangsu province,China, 215027
+country:        CN
+phone:          +86-512-8886-8888
+fax-no:         +86-512-8886-8899
+e-mail:         921988@qq.com
+nic-hdl:        DW279-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-05-27T01:26:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

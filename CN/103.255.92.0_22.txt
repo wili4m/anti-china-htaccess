@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.255.92.0 - 103.255.95.255'
+
+% Abuse contact for '103.255.92.0 - 103.255.95.255' is 'lipengs@suning.com'
+
+inetnum:        103.255.92.0 - 103.255.95.255
+netname:        SUNINGNET
+descr:          SUNING.COMCO.,LTD.
+descr:          Floors 1-5, Jinshan Building, No. 8 Shanxi Road, Nanjing City
+country:        CN
+admin-c:        YW7384-AP
+tech-c:         JS4644-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-SUNINGNET-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2024-11-27T01:20:52Z
+source:         APNIC
+
+irt:            IRT-SUNINGNET-CN
+address:        Floors 1-5, Jinshan Building, No. 8 Shanxi Road, Nanjing City
+e-mail:         lipengs@suning.com
+abuse-mailbox:  lipengs@suning.com
+auth:           # Filtered
+admin-c:        YW7384-AP
+tech-c:         JS4644-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-11-27T01:11:36Z
+source:         APNIC
+
+person:         Peng Li
+address:        Floors 1-5, Jinshan Building, No. 8 Shanxi Road, Nanjing City
+country:        CN
+phone:          +86-10-18651669445
+e-mail:         lipengs@suning.com
+nic-hdl:        JS4644-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-11-27T01:03:17Z
+source:         APNIC
+
+person:         Lei Wu
+address:        Floors 1-5, Jinshan Building, No. 8 Shanxi Road, Nanjing City
+country:        CN
+phone:          +86-10-18651661131
+e-mail:         wuleip@suning.com
+nic-hdl:        YW7384-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-11-27T01:03:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

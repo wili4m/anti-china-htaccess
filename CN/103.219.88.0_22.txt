@@ -1,0 +1,66 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.219.88.0 - 103.219.91.255'
+
+% Abuse contact for '103.219.88.0 - 103.219.91.255' is '420478080@qq.com'
+
+inetnum:        103.219.88.0 - 103.219.91.255
+netname:        PengChengNet
+descr:          Shenzhen Pengcheng communication network Co., Ltd
+descr:          Shenzhen Longgang District Longcheng Street ShengPing Community
+descr:          Longping East Road 381 Sunshine square Building A Two unit 504
+country:        CN
+admin-c:        YW7243-AP
+tech-c:         YW7243-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-PengCheng-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2023-05-25T09:05:10Z
+source:         APNIC
+
+irt:            IRT-PengCheng-CN
+address:        Shenzhen Longgang District Longcheng Street ShengPing Community
+address:        Longping East Road 381 Sunshine square Building A Two unit 504
+e-mail:         420478080@qq.com
+abuse-mailbox:  420478080@qq.com
+admin-c:        YW7243-AP
+tech-c:         YW7243-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-07-25T07:39:21Z
+source:         APNIC
+
+person:         Yang Pu
+address:        Shenzhen Longgang District Longcheng Street ShengPing Community
+address:        Longping East Road 381 Sunshine square Building A Two unit 504
+country:        CN
+phone:          +86-0755-86381333
+e-mail:         420478080@qq.com
+nic-hdl:        YW7243-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-07-25T07:38:56Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

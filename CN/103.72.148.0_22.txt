@@ -1,0 +1,105 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.72.148.0 - 103.72.151.255'
+
+% Abuse contact for '103.72.148.0 - 103.72.151.255' is 'abuse@gbpshk.com'
+
+inetnum:        103.72.148.0 - 103.72.151.255
+netname:        SHBTL-CN
+descr:          B-1806, Long Hua Building
+descr:          No.9 Long Hua Street, Long Hua New District
+descr:          Shenzhen, Guangdong,, China
+country:        CN
+org:            ORG-SHBT1-AP
+admin-c:        SNLA4-AP
+tech-c:         SNLA4-AP
+abuse-c:        AS2428-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SHBTL-CN
+mnt-routes:     MAINT-SHBTL-CN
+mnt-irt:        IRT-SNL-HK
+last-modified:  2023-04-14T13:23:20Z
+source:         APNIC
+
+irt:            IRT-SNL-HK
+address:        Rm 907 Silvercord Tower 2, 30 Canton Rd., Tsim Sha Tsui, Kowloon
+e-mail:         contact@gbpshk.com
+abuse-mailbox:  abuse@gbpshk.com
+admin-c:        SNLA4-AP
+tech-c:         SNLA4-AP
+auth:           # Filtered
+remarks:        contact@gbpshk.com was validated on 2025-02-08
+remarks:        abuse@gbpshk.com was validated on 2025-02-11
+mnt-by:         MAINT-SNL-HK
+last-modified:  2025-02-11T07:23:45Z
+source:         APNIC
+
+organisation:   ORG-SHBT1-AP
+org-name:       Shenzhen Hosting Blog Technology Limited
+org-type:       LIR
+country:        CN
+address:        B-1806, Long Hua Building
+address:        No.9 Long Hua Street, Long Hua New District
+address:        Shenzhen, Guangdong,, China
+phone:          +86755-33940905
+e-mail:         abuse@tinmok.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:00Z
+source:         APNIC
+
+role:           ABUSE SNLHK
+country:        ZZ
+address:        Rm 907 Silvercord Tower 2, 30 Canton Rd., Tsim Sha Tsui, Kowloon
+phone:          +000000000
+e-mail:         contact@gbpshk.com
+admin-c:        SNLA4-AP
+tech-c:         SNLA4-AP
+nic-hdl:        AS2428-AP
+remarks:        Generated from irt object IRT-SNL-HK
+remarks:        contact@gbpshk.com was validated on 2025-02-08
+remarks:        abuse@gbpshk.com was validated on 2025-02-11
+abuse-mailbox:  abuse@gbpshk.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-11T07:24:08Z
+source:         APNIC
+
+role:           Starry Network Limited administrator
+address:        Rm 907 Silvercord Tower 2, 30 Canton Rd., Tsim Sha Tsui, Kowloon
+country:        HK
+phone:          +852-81760930
+e-mail:         abuse@gbpshk.com
+admin-c:        SNLA4-AP
+tech-c:         SNLA4-AP
+nic-hdl:        SNLA4-AP
+mnt-by:         MAINT-SNL-HK
+last-modified:  2022-07-27T21:38:33Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

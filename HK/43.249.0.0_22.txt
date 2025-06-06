@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.249.0.0 - 43.249.3.255'
+
+% Abuse contact for '43.249.0.0 - 43.249.3.255' is 'westabuse.noc@gmail.com'
+
+inetnum:        43.249.0.0 - 43.249.3.255
+netname:        WEST263GO-HK
+descr:          West263 International Limited
+country:        HK
+org:            ORG-WIL4-AP
+admin-c:        WILA3-AP
+tech-c:         DY1085-AP
+abuse-c:        AW1023-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-WEST263GO-HK
+mnt-routes:     MAINT-WEST263GO-HK
+mnt-irt:        IRT-WEST263GO-HK
+last-modified:  2020-10-14T01:44:38Z
+source:         APNIC
+
+irt:            IRT-WEST263GO-HK
+address:        12/F,, San Toi Building,, 137-139 Connaught Road Central, Hong Kong,, Hong Kong Hong Kong 999077
+e-mail:         westabuse.noc@gmail.com
+abuse-mailbox:  westabuse.noc@gmail.com
+admin-c:        WILA3-AP
+tech-c:         DY1085-AP
+auth:           # Filtered
+remarks:        westabuse.noc@gmail.com
+remarks:        westabuse.noc@gmail.com
+remarks:        westabuse.noc@gmail.com is invalid
+mnt-by:         MAINT-WEST263GO-HK
+last-modified:  2024-08-28T13:11:13Z
+source:         APNIC
+
+organisation:   ORG-WIL4-AP
+org-name:       West263 International Limited
+org-type:       LIR
+country:        HK
+address:        12/F,
+address:        San Toi Building,
+address:        137-139 Connaught Road Central, Hong Kong,
+phone:          +852-35979075
+e-mail:         lillian@hkdns.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:35Z
+source:         APNIC
+
+role:           ABUSE WEST263GOHK
+country:        ZZ
+address:        12/F,, San Toi Building,, 137-139 Connaught Road Central, Hong Kong,, Hong Kong Hong Kong 999077
+phone:          +000000000
+e-mail:         westabuse.noc@gmail.com
+admin-c:        WILA3-AP
+tech-c:         DY1085-AP
+nic-hdl:        AW1023-AP
+remarks:        Generated from irt object IRT-WEST263GO-HK
+remarks:        westabuse.noc@gmail.com is invalid
+abuse-mailbox:  westabuse.noc@gmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-08-28T13:14:15Z
+source:         APNIC
+
+role:           West263 International Limited administrator
+address:        12/F,, San Toi Building,, 137-139 Connaught Road Central, Hong Kong,, Hong Kong Hong Kong 999077
+country:        HK
+phone:          +15708412741
+fax-no:         +15708412741
+e-mail:         abuse@hkdns.hk
+admin-c:        WILA3-AP
+tech-c:         DY1085-AP
+nic-hdl:        WILA3-AP
+mnt-by:         MAINT-WEST263GO-HK
+last-modified:  2018-12-03T15:18:11Z
+source:         APNIC
+
+person:         David Yanping
+address:        12/F,, San Toi Building,, 137-139 Connaught Road Central, Hong Kong,, Hong Kong Hong Kong 999077
+country:        HK
+phone:          +852-35979075
+e-mail:         david.yanp@gmail.com
+nic-hdl:        DY1085-AP
+mnt-by:         MAINT-WEST263GO-HK
+last-modified:  2019-04-29T06:51:07Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

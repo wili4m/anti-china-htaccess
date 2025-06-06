@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.4.168.0 - 103.4.171.255'
+
+% Abuse contact for '103.4.168.0 - 103.4.171.255' is 'Dan.Wa.Wang@bmw.com'
+
+inetnum:        103.4.168.0 - 103.4.171.255
+netname:        BMWNSC
+descr:          BMW China Automotive Trading LTD.
+country:        CN
+admin-c:        TX325-AP
+tech-c:         YC1939-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BMWNSC-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:56:28Z
+source:         APNIC
+
+irt:            IRT-BMWNSC-CN
+address:        22nd Floor, Tower B, Gateway Plaza, No. 18 Xia Guang Li North Road,
+address:        East Third Ring, Chaoyang District, Beijing 100027, PR China
+e-mail:         Dan.Wa.Wang@bmw.com
+abuse-mailbox:  Dan.Wa.Wang@bmw.com
+admin-c:        TX325-AP
+tech-c:         YC1939-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-24T09:27:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Tony Xu
+e-mail:         Huadong.xu@bmw.com
+address:        22nd Floor, Tower B, Gateway Plaza, No. 18 Xia Guang Li North Road, East Third Ring, Chaoyang District, Beijing 100027, PR China
+phone:          +86-10-8455-8569
+fax-no:         +86-10-8455-8022
+country:        CN
+nic-hdl:        TX325-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-07-11T08:56:02Z
+source:         APNIC
+
+person:         Yu Chen
+e-mail:         yu.chen@bmw.com
+address:        22nd Floor, Tower B, Gateway Plaza, No. 18 Xia Guang Li North Road, East Third Ring, Chaoyang District, Beijing 100027, PR China
+phone:          +86-10-8455-8470
+fax-no:         +86-10-8455-8022
+country:        CN
+nic-hdl:        YC1939-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-07-11T08:56:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

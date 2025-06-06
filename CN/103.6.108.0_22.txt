@@ -1,0 +1,76 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.6.108.0 - 103.6.111.255'
+
+% Abuse contact for '103.6.108.0 - 103.6.111.255' is 'chenlin@khdatasolutions.com'
+
+inetnum:        103.6.108.0 - 103.6.111.255
+netname:        KHTech
+descr:          Shanghai Kuanhui Tech. Co.,ltd
+descr:          ROOM 708, No.953 North Qinzhou RD,Xuhui Shanghai
+country:        CN
+admin-c:        YZ5052-AP
+tech-c:         YZ5052-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-KHTECH-CN
+last-modified:  2024-10-11T05:29:09Z
+source:         APNIC
+
+irt:            IRT-KHTech-CN
+address:        Room 1302 , Zhongyi International Business Building,No.88,Guangxin Road, Putuo District,Shanghai
+e-mail:         chenlin@khdatasolutions.com
+abuse-mailbox:  chenlin@khdatasolutions.com
+admin-c:        ZJY45-AP
+tech-c:         ZJY45-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2022-01-14T02:34:49Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Yang Zejun
+address:        Room 1302 , Zhongyi International Business Building,No.88,Guangxin Road, Putuo District,Shanghai
+country:        CN
+phone:          +86-13816098044
+e-mail:         yangzj@khdatasolutions.com
+nic-hdl:        YZ5052-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-10-11T05:25:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

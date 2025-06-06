@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.230.84.0 - 43.230.87.255'
+
+% Abuse contact for '43.230.84.0 - 43.230.87.255' is 'no-email@apnic.net'
+
+inetnum:        43.230.84.0 - 43.230.87.255
+netname:        STUB-43-230-84SLASH22
+descr:          Transferred to the RIPE region on 2025-01-07T09:27:23Z.
+country:        ZZ
+admin-c:        STUB-AP
+tech-c:         STUB-AP
+abuse-c:        AS2444-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-STUB
+mnt-irt:        IRT-STUB-AP
+last-modified:  2025-01-06T23:31:35Z
+source:         APNIC
+
+irt:            IRT-STUB-AP
+address:        N/A
+e-mail:         no-email@apnic.net
+abuse-mailbox:  no-email@apnic.net
+admin-c:        STUB-AP
+tech-c:         STUB-AP
+auth:           # Filtered
+remarks:        IRT for stub records.
+remarks:        We do not operate the referring network and
+remarks:        are unable to investigate complaints of network abuse.
+remarks:        For information about IRT, see www.apnic.net/irt
+mnt-by:         APNIC-HM
+last-modified:  2024-01-24T04:04:44Z
+source:         APNIC
+
+role:           ABUSE STUBAP
+address:        N/A
+country:        ZZ
+phone:          +000000000
+e-mail:         no-email@apnic.net
+admin-c:        STUB-AP
+tech-c:         STUB-AP
+nic-hdl:        AS2444-AP
+remarks:        Generated from irt object IRT-STUB-AP
+abuse-mailbox:  no-email@apnic.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-01-24T04:05:14Z
+source:         APNIC
+
+person:         STUB PERSON
+address:        N/A
+country:        ZZ
+phone:          +00 0000 0000
+e-mail:         no-email@apnic.net
+nic-hdl:        STUB-AP
+remarks:        No contact information for stub records.
+mnt-by:         APNIC-HM
+last-modified:  2019-09-23T04:53:33Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

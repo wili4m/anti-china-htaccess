@@ -1,0 +1,93 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.18.212.0 - 103.18.215.255'
+
+% Abuse contact for '103.18.212.0 - 103.18.215.255' is 'qcloud_net_duty@tencent.com'
+
+inetnum:        103.18.212.0 - 103.18.215.255
+netname:        TENCENT-NET-AP
+descr:          Shenzhen Tencent Computer Systems Company Limited
+descr:          Tencent Building, Kejizhongyi Avenue, Hi-techPark,
+descr:          Nanshan District,Shenzhen
+country:        CN
+admin-c:        DR196-AP
+tech-c:         JW2054-AP
+abuse-c:        AT1244-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-TENCENT-NET-AP-CN
+last-modified:  2023-11-28T00:58:14Z
+source:         APNIC
+
+irt:            IRT-TENCENT-NET-AP-CN
+address:        Tencent Building, Kejizhongyi Avenue, Hi-techPark,Nanshan District,Shenzhen
+e-mail:         qcloud_net_duty@tencent.com
+abuse-mailbox:  qcloud_net_duty@tencent.com
+admin-c:        STCS2-AP
+tech-c:         STCS2-AP
+auth:           # Filtered
+remarks:        qcloud_net_duty@tencent.com was validated on 2024-12-23
+mnt-by:         MAINT-TENCENT-NET-AP-CN
+last-modified:  2024-12-23T11:36:14Z
+source:         APNIC
+
+role:           ABUSE TENCENTNETAPCN
+country:        ZZ
+address:        Tencent Building, Kejizhongyi Avenue, Hi-techPark,Nanshan District,Shenzhen
+phone:          +000000000
+e-mail:         qcloud_net_duty@tencent.com
+admin-c:        STCS2-AP
+tech-c:         STCS2-AP
+nic-hdl:        AT1244-AP
+remarks:        Generated from irt object IRT-TENCENT-NET-AP-CN
+remarks:        qcloud_net_duty@tencent.com was validated on 2024-12-23
+abuse-mailbox:  qcloud_net_duty@tencent.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-12-23T11:36:38Z
+source:         APNIC
+
+person:         Dreams Ruan
+address:        Tencent Building, Kejizhongyi Avenue, Hi-techPark,Nanshan District,Shenzhen
+country:        CN
+phone:          +86-755-86013388-84520
+fax-no:         +86-755-86013030
+e-mail:         dreamsruan@tencent.com
+nic-hdl:        DR196-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-05-10T10:02:01Z
+source:         APNIC
+
+person:         Jsquare Wu
+address:        Tencent Building, Kejizhongyi Avenue, Hi-techPark,Nanshan District,Shenzhen
+country:        CN
+phone:          +86-755-86013388-88441
+fax-no:         +86-755-86013030
+e-mail:         jsquare@tencent.com
+nic-hdl:        JW2054-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-05-10T10:02:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

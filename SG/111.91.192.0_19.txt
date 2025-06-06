@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      111.0.0.0 - 111.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2008-11
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '111.91.192.0 - 111.91.223.255'
+
+% Abuse contact for '111.91.192.0 - 111.91.223.255' is 'bd_abuse@bytedance.com'
+
+inetnum:        111.91.192.0 - 111.91.223.255
+netname:        BYTEPLUS-SG
+descr:          Byteplus Pte. Ltd.
+country:        SG
+org:            ORG-BPL26-AP
+admin-c:        BPLA13-AP
+tech-c:         BPLA13-AP
+abuse-c:        AB1590-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-BYTEPLUS-SG
+mnt-lower:      MAINT-BYTEPLUS-SG
+mnt-irt:        IRT-BYTEPLUS-SG
+last-modified:  2024-11-06T00:57:32Z
+source:         APNIC
+
+irt:            IRT-BYTEPLUS-SG
+address:        1 Raffles Quay, # 26-10, South Tower, Singapore Singapore 048583
+e-mail:         bd_abuse@bytedance.com
+abuse-mailbox:  bd_abuse@bytedance.com
+admin-c:        BPLA13-AP
+tech-c:         BPLA13-AP
+auth:           # Filtered
+remarks:        bd_abuse@bytedance.com was validated on 2025-02-04
+mnt-by:         MAINT-BYTEPLUS-SG
+last-modified:  2025-02-04T14:11:29Z
+source:         APNIC
+
+organisation:   ORG-BPL26-AP
+org-name:       Byteplus Pte. Ltd.
+org-type:       LIR
+country:        SG
+address:        1 Raffles Quay, # 26-10, South Tower
+phone:          +65-6950-4420
+e-mail:         noc@bytedance.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:19:03Z
+source:         APNIC
+
+role:           ABUSE BYTEPLUSSG
+country:        ZZ
+address:        1 Raffles Quay, # 26-10, South Tower, Singapore Singapore 048583
+phone:          +000000000
+e-mail:         bd_abuse@bytedance.com
+admin-c:        BPLA13-AP
+tech-c:         BPLA13-AP
+nic-hdl:        AB1590-AP
+remarks:        Generated from irt object IRT-BYTEPLUS-SG
+remarks:        bd_abuse@bytedance.com was validated on 2025-02-04
+abuse-mailbox:  bd_abuse@bytedance.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-04T14:11:49Z
+source:         APNIC
+
+role:           Byteplus Pte Ltd administrator
+address:        1 Raffles Quay, #26-10, South Tower, Singapore Singapore 048583
+country:        SG
+phone:          +65-6950-4420
+e-mail:         bd_abuse@bytedance.com
+admin-c:        BPLA13-AP
+tech-c:         BPLA13-AP
+nic-hdl:        BPLA13-AP
+mnt-by:         MAINT-BYTEPLUS-SG
+last-modified:  2022-11-22T00:30:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

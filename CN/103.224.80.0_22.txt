@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.224.80.0 - 103.224.83.255'
+
+% Abuse contact for '103.224.80.0 - 103.224.83.255' is 'abuse@xn.net'
+
+inetnum:        103.224.80.0 - 103.224.83.255
+netname:        HJNTCL-CN
+descr:          # 2 of Group 1, Lingshan,
+descr:          Banshan Village of Daicun Town,
+descr:          Xiaoshan District,
+country:        CN
+org:            ORG-HJNT1-AP
+admin-c:        HJNT1-AP
+tech-c:         HJNT1-AP
+abuse-c:        AH942-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-HJNTCL-CN
+mnt-irt:        IRT-HJNTCL-CN
+last-modified:  2020-06-30T13:07:22Z
+source:         APNIC
+
+irt:            IRT-HJNTCL-CN
+address:        Colocation at Pangnet
+e-mail:         noc@xn.net
+abuse-mailbox:  abuse@xn.net
+admin-c:        HJNT1-AP
+tech-c:         HJNT1-AP
+auth:           # Filtered
+remarks:        abuse@xn.net was validated on 2025-04-23
+remarks:        noc@xn.net was validated on 2025-04-23
+mnt-by:         MAINT-HJNTCL-CN
+last-modified:  2025-04-23T20:39:00Z
+source:         APNIC
+
+organisation:   ORG-HJNT1-AP
+org-name:       Hangzhou Jiweixia Network Technology Co., Ltd.
+org-type:       LIR
+country:        CN
+address:        Xiaoshan District
+phone:          +86-18874852246
+fax-no:         +86-18874852246
+e-mail:         hjntcl@xn.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:16:18Z
+source:         APNIC
+
+role:           ABUSE HJNTCLCN
+country:        ZZ
+address:        Colocation at Pangnet
+phone:          +000000000
+e-mail:         noc@xn.net
+admin-c:        HJNT1-AP
+tech-c:         HJNT1-AP
+nic-hdl:        AH942-AP
+remarks:        Generated from irt object IRT-HJNTCL-CN
+remarks:        abuse@xn.net was validated on 2025-04-23
+remarks:        noc@xn.net was validated on 2025-04-23
+abuse-mailbox:  abuse@xn.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-23T20:39:30Z
+source:         APNIC
+
+role:           Hangzhou Jiweixia Network Technology Co Ltd adm
+address:        Colocation at Pangnet
+country:        CN
+phone:          +86-18874852246
+fax-no:         +86-18874852246
+e-mail:         abuse@cloudmanagementllc.com
+admin-c:        HJNT1-AP
+tech-c:         HJNT1-AP
+nic-hdl:        HJNT1-AP
+mnt-by:         MAINT-HJNTCL-CN
+last-modified:  2019-12-25T19:00:17Z
+source:         APNIC
+
+% Information related to '103.224.80.0/22AS55933'
+
+route:          103.224.80.0/22
+origin:         AS55933
+descr:          Hangzhou Jiweixia Network Technology Co., Ltd.
+                Xiaoshan District
+mnt-by:         MAINT-HJNTCL-CN
+last-modified:  2024-10-07T16:53:18Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

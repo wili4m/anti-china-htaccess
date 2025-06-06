@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.64.4.0 - 103.64.7.255'
+
+% Abuse contact for '103.64.4.0 - 103.64.7.255' is 'Ma.jingyu32@zte.com.cn'
+
+inetnum:        103.64.4.0 - 103.64.7.255
+netname:        BJYTST
+descr:          Beijing UniCloud Technology Co,Ltd.
+descr:          E3 Yuan Chenxin Mansion, No.12 Yumin Road
+descr:          Chaoyang District, Beijing 100029, China
+country:        CN
+admin-c:        ZM1647-AP
+tech-c:         ZM1648-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BJYTST-CN
+last-modified:  2023-11-28T00:56:39Z
+source:         APNIC
+
+irt:            IRT-BJYTST-CN
+address:        E3 Yuan Chenxin Mansion, No.12 Yumin Road Chaoyang District, Beijing 100029, China
+e-mail:         Ma.jingyu32@zte.com.cn
+abuse-mailbox:  Ma.jingyu32@zte.com.cn
+auth:           # Filtered
+admin-c:        ZM1647-AP
+tech-c:         ZM1647-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-01T00:41:09Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Jingyu Ma
+address:        E3 Yuan Chenxin Mansion, No.12 Yumin Road
+address:        Chaoyang District, Beijing 100029, China
+country:        CN
+phone:          +86-18500080170
+e-mail:         Ma.jingyu32@zte.com.cn
+nic-hdl:        ZM1647-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-08-02T07:46:01Z
+source:         APNIC
+
+person:         Hongsheng Jiang
+address:        E3 Yuan Chenxin Mansion, No.12 Yumin Road
+address:        Chaoyang District, Beijing 100029, China
+country:        CN
+phone:          +86-17710385408
+e-mail:         Jiang.hongsheng@uniqloud.com.cn
+nic-hdl:        ZM1648-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2018-12-14T08:48:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

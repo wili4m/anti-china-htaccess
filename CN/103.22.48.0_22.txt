@@ -1,0 +1,88 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.22.48.0 - 103.22.51.255'
+
+% Abuse contact for '103.22.48.0 - 103.22.51.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        103.22.48.0 - 103.22.51.255
+netname:        Hainan-TELECOM
+descr:          CHINANET HAINAN PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.52, Binhai Avenue, Haikou City
+descr:          haikou 570001
+country:        CN
+admin-c:        LZ8-AP
+tech-c:         LZ8-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+notify:         ipadmin@public.hk.hi.cn
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CHINANET-HI
+mnt-routes:     MAINT-CN-CHINANET-HI
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:42Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+person:         liuqing zheng
+address:        20th Floor,TelecomCenter Building
+address:        NanHai Avenue,HaiKou HaiNan province
+country:        CN
+phone:          +86-898-66816971
+fax-no:         +86-898-66785993
+e-mail:         089866775500@189.cn
+nic-hdl:        LZ8-AP
+mnt-by:         MAINT-CN-CHINANET-HI
+last-modified:  2014-01-24T09:05:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

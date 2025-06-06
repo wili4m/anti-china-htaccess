@@ -1,0 +1,100 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      116.0.0.0 - 116.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2007-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.193.152.0 - 116.193.155.255'
+
+% Abuse contact for '116.193.152.0 - 116.193.155.255' is 'domainshare@hotmail.com'
+
+inetnum:        116.193.152.0 - 116.193.155.255
+netname:        HENGDA-HK
+descr:          HENGDA NETWORK LIMITED
+country:        HK
+org:            ORG-HNL4-AP
+admin-c:        HNLA2-AP
+tech-c:         HNLA2-AP
+status:         ALLOCATED PORTABLE
+abuse-c:        AH1014-AP
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HENGDA-HK
+mnt-routes:     MAINT-HENGDA-HK
+mnt-irt:        IRT-HENGDA-HK
+last-modified:  2024-05-07T23:05:43Z
+source:         APNIC
+
+irt:            IRT-HENGDA-HK
+address:        ROOM1405,14/F,LUCKY CENTRE 171 WANCHAI ROAD, Hong Kong Hong Kong 00852
+e-mail:         domainshare@hotmail.com
+abuse-mailbox:  domainshare@hotmail.com
+admin-c:        HNLA2-AP
+tech-c:         HNLA2-AP
+auth:           # Filtered
+remarks:        domainshare@hotmail.com was validated on 2025-06-06
+mnt-by:         MAINT-HENGDA-HK
+last-modified:  2025-06-06T01:52:08Z
+source:         APNIC
+
+organisation:   ORG-HNL4-AP
+org-name:       HENGDA NETWORK LIMITED
+org-type:       LIR
+country:        HK
+address:        ROOM1405,14/F,LUCKY CENTRE 171 WANCHAI ROAD
+phone:          +0085231178999
+e-mail:         chen@4qiu.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:05Z
+source:         APNIC
+
+role:           ABUSE HENGDAHK
+country:        ZZ
+address:        ROOM1405,14/F,LUCKY CENTRE 171 WANCHAI ROAD, Hong Kong Hong Kong 00852
+phone:          +000000000
+e-mail:         domainshare@hotmail.com
+admin-c:        HNLA2-AP
+tech-c:         HNLA2-AP
+nic-hdl:        AH1014-AP
+remarks:        Generated from irt object IRT-HENGDA-HK
+remarks:        domainshare@hotmail.com was validated on 2025-06-06
+abuse-mailbox:  domainshare@hotmail.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-06-06T01:52:18Z
+source:         APNIC
+
+role:           HENGDA NETWORK LIMITED administrator
+address:        ROOM1405,14/F,LUCKY CENTRE 171 WANCHAI ROAD, Hong Kong Hong Kong 00852
+country:        HK
+phone:          +0085231178999
+fax-no:         +0085231178999
+e-mail:         domainshare@hotmail.com
+admin-c:        HNLA2-AP
+tech-c:         HNLA2-AP
+nic-hdl:        HNLA2-AP
+mnt-by:         MAINT-HENGDA-HK
+last-modified:  2018-07-17T03:26:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      43.0.0.0 - 43.255.255.255
+organisation: Administered by APNIC
+status:       LEGACY
+
+whois:        whois.apnic.net
+
+changed:      1991-01
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.242.216.0 - 43.242.219.255'
+
+% Abuse contact for '43.242.216.0 - 43.242.219.255' is 'oldog@qq.com'
+
+inetnum:        43.242.216.0 - 43.242.219.255
+netname:        BDANET
+descr:          Beijing BDA Network Communication Technology
+descr:          Development Co.,Ltd
+descr:          202.Tower 1,No,10.Hongda North Road,BDA,Beijing,China
+country:        CN
+admin-c:        ML1810-AP
+tech-c:         BW668-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BDANET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:00Z
+source:         APNIC
+
+irt:            IRT-BDANET-CN
+address:        202.Tower 1,No,10.Hongda North Road,BDA,Beijing,China
+e-mail:         oldog@qq.com
+abuse-mailbox:  oldog@qq.com
+admin-c:        ML1810-AP
+tech-c:         BW668-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-06T03:22:47Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Shuo Wang
+address:        202.Tower 1,No,10.Hongda North Road,BDA,Beijing,China
+country:        CN
+phone:          +86-01057781099
+e-mail:         wangshuo@ebda.cn
+nic-hdl:        BW668-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-10-23T03:28:01Z
+source:         APNIC
+
+person:         Quan He
+address:        202.Tower 1,No,10.Hongda North Road,BDA,Beijing,China
+country:        CN
+phone:          +86-01057781098
+e-mail:         oldog@qq.com
+nic-hdl:        ML1810-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-10-23T03:28:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

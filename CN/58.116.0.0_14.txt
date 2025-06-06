@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      58.0.0.0 - 58.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2004-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '58.116.0.0 - 58.119.255.255'
+
+% Abuse contact for '58.116.0.0 - 58.119.255.255' is 'ip@bjedu.com.cn'
+
+inetnum:        58.116.0.0 - 58.119.255.255
+netname:        BJENET
+descr:          Beijing Education Information Network
+descr:          Service Center Corporation
+descr:          NO.39 Xueyuan Road,Haidian District ,Beijing, PRC
+country:        CN
+admin-c:        ZM776-AP
+tech-c:         BW887-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-BJENET-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:58:18Z
+source:         APNIC
+
+irt:            IRT-BJENET-CN
+address:        NO.39 Xueyuan Road,Haidian District ,Beijing, PRC
+e-mail:         ip@bjedu.com.cn
+abuse-mailbox:  ip@bjedu.com.cn
+admin-c:        ZM776-AP
+tech-c:         BW887-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-08-17T02:30:56Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Xing Yanhong
+address:        NO.39 Xueyuan Road,Haidian District ,Beijing, PRC
+country:        cn
+phone:          +86-010-82364916
+fax-no:         +86-010-62308338
+e-mail:         XYH@BJEDU.COM.CN
+nic-hdl:        BW887-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-12-26T03:04:02Z
+source:         APNIC
+
+person:         Dongliang Wang
+address:        NO.39 Xueyuan Road,Haidian District ,Beijing, PRC
+phone:          +86-010-82364918
+fax-no:         +86-010-62308338
+country:        cn
+e-mail:         wdl@bjedu.com.cn
+nic-hdl:        ZM776-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-12-26T03:04:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

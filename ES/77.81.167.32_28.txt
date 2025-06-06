@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      77.0.0.0 - 77.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2006-08
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        77.81.167.0 - 77.81.167.127
+netname:        ES-TELECOVALLEALMANZORA-20070215
+country:        ES
+admin-c:        AJG47-RIPE
+tech-c:         AJG47-RIPE
+status:         ASSIGNED PA
+mnt-by:         SERVIHOSTING-MNT
+created:        2018-04-11T07:26:42Z
+last-modified:  2018-04-11T07:26:42Z
+source:         RIPE
+
+person:         Antonio Jimenez Garcia
+address:        C/ Garcia Lorca, 11
+address:        04867
+address:        MACAEL
+address:        SPAIN
+phone:          +34651816832
+nic-hdl:        AJG47-RIPE
+mnt-by:         SERVIHOSTING-MNT
+created:        2015-11-25T15:53:03Z
+last-modified:  2015-11-25T15:53:03Z
+source:         RIPE
+
+% Information related to '77.81.167.0/24AS29119'
+
+route:          77.81.167.0/24
+descr:          Airenetworks Route
+origin:         AS29119
+mnt-by:         SERVIHOSTING-MNT
+created:        2018-04-16T15:14:23Z
+last-modified:  2018-04-16T15:14:23Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+
