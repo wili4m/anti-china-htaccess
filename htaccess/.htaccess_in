@@ -1,0 +1,5 @@
+<Limit GET POST>
+order allow,deny
+deny from 103.13.72.0/23
+deny from 103.208.148.0/22
+</Limit>
