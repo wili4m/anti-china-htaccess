@@ -1,0 +1,5 @@
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+order allow,deny
+deny from 103.93.76.0/22
+deny from 203.79.32.0/20
+</Limit>
