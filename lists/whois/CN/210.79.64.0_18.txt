@@ -1,0 +1,79 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      210.0.0.0 - 210.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1996-06
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.79.64.0 - 210.79.127.255'
+
+% Abuse contact for '210.79.64.0 - 210.79.127.255' is '13925259553@139.com'
+
+inetnum:        210.79.64.0 - 210.79.127.255
+netname:        ZTWL
+descr:          ShenZhen midskynet Technology Co., Ltd
+descr:          Room 801,Unit A, Lushi industry Building, Nanhai Street
+descr:          Nanshan District, ShenZhen
+country:        CN
+admin-c:        SY3185-AP
+tech-c:         SY3185-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-ZTWL-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:23Z
+source:         APNIC
+
+irt:            IRT-ZTWL-CN
+address:        Room 801,Unit A, Lushi industry Building ,Nanhai Street,Nanshan District, ShenZhen
+e-mail:         13925259553@139.com
+abuse-mailbox:  13925259553@139.com
+auth:           # Filtered
+admin-c:        DW823-AP
+tech-c:         DW823-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:27Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Song Youping
+address:        Room 801,Unit A, Lushi industry Building,Nanhai Street,Nanshan District, ShenZhen
+country:        CN
+phone:          +86-0-13925259553
+e-mail:         syp@midskycloud.com
+nic-hdl:        SY3185-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2023-10-27T02:50:36Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

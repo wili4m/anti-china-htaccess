@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.30.173.0 - 203.30.173.255'
+
+% Abuse contact for '203.30.173.0 - 203.30.173.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        203.30.173.0 - 203.30.173.255
+netname:        CHINANET-FJ
+descr:          CHINANET FUJIAN PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CA67-AP
+tech-c:         CA67-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+notify:         fjnic@fjdcb.fz.fj.cn
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-FJ
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:06:25Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+role:           CHINANETFJ IP ADMIN
+address:        7,East Street,Fuzhou,Fujian,PRC
+country:        CN
+phone:          +86-591-83309761
+fax-no:         +86-591-83371954
+e-mail:         fjnic@fjdcb.fz.fj.cn
+remarks:        send spam reports  and abuse reports
+remarks:        to abuse@fjdcb.fz.fj.cn
+remarks:        Please include detailed information and
+remarks:        times in UTC
+admin-c:        FH71-AP
+tech-c:         FH71-AP
+nic-hdl:        CA67-AP
+remarks:        www.fjtelecom.com
+notify:         fjnic@fjdcb.fz.fj.cn
+mnt-by:         MAINT-CHINANET-FJ
+last-modified:  2011-12-06T00:10:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

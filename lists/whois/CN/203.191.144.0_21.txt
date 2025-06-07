@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.191.144.0 - 203.191.159.255'
+
+% Abuse contact for '203.191.144.0 - 203.191.159.255' is 'abuse@oweb.cn'
+
+inetnum:        203.191.144.0 - 203.191.159.255
+netname:        EDONGNET
+descr:          Edong Network
+country:        CN
+org:            ORG-EW1-AP
+admin-c:        BX377-AP
+tech-c:         BX377-AP
+abuse-c:        AE425-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+remarks:        combine two /21 allocations
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-EDONG
+mnt-irt:        IRT-EDONG-CN
+last-modified:  2021-01-12T22:46:23Z
+source:         APNIC
+
+irt:            IRT-EDONG-CN
+address:        F/2, NO. 19 Building, NO. 1000 Jinhai Road
+e-mail:         boice@oweb.cn
+abuse-mailbox:  abuse@oweb.cn
+admin-c:        BX377-AP
+tech-c:         BX377-AP
+auth:           # Filtered
+remarks:        abuse@oweb.cn is invalid
+remarks:        boice@oweb.cn is invalid
+mnt-by:         MAINT-CN-EDONG
+last-modified:  2025-04-09T13:06:35Z
+source:         APNIC
+
+organisation:   ORG-EW1-AP
+org-name:       Edong webhosting
+org-type:       LIR
+country:        CN
+address:        Room 801, NO. 26 Building, NO. 1000 Jinhai Road
+address:        Pudong New District
+phone:          +86-21-51873666
+fax-no:         +86-21-60457806
+e-mail:         boice@oweb.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:09Z
+source:         APNIC
+
+role:           ABUSE EDONGCN
+country:        ZZ
+address:        F/2, NO. 19 Building, NO. 1000 Jinhai Road
+phone:          +000000000
+e-mail:         boice@oweb.cn
+admin-c:        BX377-AP
+tech-c:         BX377-AP
+nic-hdl:        AE425-AP
+remarks:        Generated from irt object IRT-EDONG-CN
+remarks:        abuse@oweb.cn is invalid
+remarks:        boice@oweb.cn is invalid
+abuse-mailbox:  abuse@oweb.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-09T13:07:45Z
+source:         APNIC
+
+person:         Boice Xu
+address:        F/2, NO. 19 Building, NO. 1000 Jinhai Road
+country:        CN
+phone:          +86-21-51873666
+fax-no:         +86-21-60457806
+e-mail:         boice@oweb.cn
+nic-hdl:        BX377-AP
+notify:         boice@oweb.cn
+abuse-mailbox:  abuse@oweb.cn
+mnt-by:         MAINT-CN-EDONG
+last-modified:  2014-01-13T03:56:20Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

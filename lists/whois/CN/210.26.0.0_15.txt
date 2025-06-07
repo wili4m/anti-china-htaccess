@@ -1,0 +1,124 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      210.0.0.0 - 210.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1996-06
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.26.0.0 - 210.31.255.255'
+
+% Abuse contact for '210.26.0.0 - 210.31.255.255' is 'abuse@cernet.edu.cn'
+
+inetnum:        210.26.0.0 - 210.31.255.255
+netname:        CERNET-CN
+descr:          China Education and Research Network
+descr:          Room 224, Tsinghua University
+descr:          Beijing, China
+country:        CN
+admin-c:        JW725-AP
+tech-c:         XL364-AP
+tech-c:         LZ530-AP
+abuse-c:        AC1685-AP
+status:         ALLOCATED PORTABLE
+remarks:        confederation
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CERNET-AP
+mnt-routes:     MAINT-CERNET-AP
+mnt-irt:        IRT-CERNET-AP
+last-modified:  2020-10-20T00:56:02Z
+source:         APNIC
+
+irt:            IRT-CERNET-AP
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+fax-no:         +86-10-62785933
+e-mail:         abuse@cernet.edu.cn
+abuse-mailbox:  abuse@cernet.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+auth:           # Filtered
+remarks:        timezone GMT+8
+remarks:        http://www.ccert.edu.cn
+remarks:        abuse@cernet.edu.cn was validated on 2025-01-22
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2025-01-22T13:47:43Z
+source:         APNIC
+
+role:           ABUSE CERNETAP
+country:        ZZ
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+e-mail:         abuse@cernet.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+nic-hdl:        AC1685-AP
+remarks:        Generated from irt object IRT-CERNET-AP
+remarks:        abuse@cernet.edu.cn was validated on 2025-01-22
+abuse-mailbox:  abuse@cernet.edu.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-22T16:25:45Z
+source:         APNIC
+
+person:         Jianping Wu
+address:        China Education and Research Network Center
+address:        Room 225, Main Building, Tsinghua University
+address:        Beijing 100084
+address:        CN
+country:        CN
+phone:          +86-10-6278-5983
+fax-no:         +86-10-6278-5933
+e-mail:         jianping@cernet.edu.cn
+nic-hdl:        JW725-AP
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-22T05:23:32Z
+source:         APNIC
+
+person:         Ling Zhang
+address:        Network Center
+address:        South China University of Technology
+address:        Guangzhou, Guangdong 510641, China
+address:        CN
+country:        CN
+phone:          +86-20-87110596
+fax-no:         +86-20-87110019
+e-mail:         ling@scut.edu.cn
+nic-hdl:        LZ530-AP
+notify:         dbmon@apnic.net
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-22T05:23:32Z
+source:         APNIC
+
+person:         Xing Li
+address:        China Education and Research Network Center
+address:        Room 225, Main Building, Tsinghua University
+address:        Beijing 100084
+address:        CN
+country:        CN
+phone:          +86-10-6278-5983
+fax-no:         +86-10-6278-5933
+e-mail:         xing@cernet.edu.cn
+nic-hdl:        XL364-AP
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-22T05:23:32Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

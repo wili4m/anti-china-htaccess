@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      210.0.0.0 - 210.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1996-06
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.79.224.0 - 210.79.255.255'
+
+% Abuse contact for '210.79.224.0 - 210.79.255.255' is 'swb@cetin.net.cn'
+
+inetnum:        210.79.224.0 - 210.79.255.255
+netname:        CETIN
+descr:          China Engineering Technology Informations Networks
+country:        CN
+org:            ORG-CETI1-AP
+admin-c:        LQ2-AP
+tech-c:         SW9-AP
+abuse-c:        AC2167-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CETIN
+mnt-routes:     MAINT-CN-CETIN
+mnt-irt:        IRT-CETIN-CN
+last-modified:  2020-10-20T00:58:55Z
+source:         APNIC
+
+irt:            IRT-CETIN-CN
+address:        No.26, FUCHENGLU Road, HAIDIAN District,
+address:        Beijing, CHINA
+e-mail:         swb@cetin.net.cn
+abuse-mailbox:  swb@cetin.net.cn
+admin-c:        HM20-AP
+tech-c:         HM20-AP
+auth:           # Filtered
+remarks:        swb@cetin.net.cn is invalid
+mnt-by:         MAINT-NULL
+last-modified:  2023-08-01T23:11:00Z
+source:         APNIC
+
+organisation:   ORG-CETI1-AP
+org-name:       China Engineering Technology Informations Network
+org-type:       LIR
+country:        CN
+address:        No. 26 Fuchenglu Road
+address:        P.O. Box 167
+phone:          +86-10-68419023
+e-mail:         tanys2000@sina.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:44Z
+source:         APNIC
+
+role:           ABUSE CETINCN
+address:        No.26, FUCHENGLU Road, HAIDIAN District,
+address:        Beijing, CHINA
+country:        ZZ
+phone:          +000000000
+e-mail:         swb@cetin.net.cn
+admin-c:        HM20-AP
+tech-c:         HM20-AP
+nic-hdl:        AC2167-AP
+remarks:        Generated from irt object IRT-CETIN-CN
+remarks:        swb@cetin.net.cn is invalid
+abuse-mailbox:  swb@cetin.net.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2023-08-01T23:11:45Z
+source:         APNIC
+
+person:         Liu Qiang
+address:        No.26, FUCHENGLU Road, HAIDIAN District,
+address:        Beijing, CHINA
+country:        CN
+phone:          +86-10-68429201
+fax-no:         +86-10-68466630
+e-mail:         liuq@cetin.net.cn
+nic-hdl:        LQ2-AP
+mnt-by:         MAINT-NULL
+last-modified:  2008-09-04T07:29:15Z
+source:         APNIC
+
+person:         Sun Wenbing
+address:        No.26, FUCHENGLU Road, HAIDIAN District,
+address:        Beijing, CHINA
+country:        CN
+phone:          +86-10-68429201
+fax-no:         +86-10-68466630
+e-mail:         swb@cetin.net.cn
+nic-hdl:        SW9-AP
+mnt-by:         MAINT-NULL
+last-modified:  2008-09-04T07:29:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

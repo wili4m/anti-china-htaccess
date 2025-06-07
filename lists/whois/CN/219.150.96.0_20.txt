@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      219.0.0.0 - 219.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2001-09
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.150.32.0 - 219.150.111.255'
+
+% Abuse contact for '219.150.32.0 - 219.150.111.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        219.150.32.0 - 219.150.111.255
+netname:        CHINANET-TJ
+country:        CN
+descr:          CHINANET Tianjing province network
+descr:          Tianjin Telecom Corporation
+descr:          NO.11 LIUJING ROAD,HEDONG
+admin-c:        AT370-AP
+tech-c:         AT370-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-TJ
+mnt-routes:     MAINT-CHINANET-TJ
+last-modified:  2008-09-04T06:52:00Z
+source:         APNIC
+
+person:         admin tjtele
+nic-hdl:        AT370-AP
+e-mail:         tjipback@yahoo.com
+address:        No.11 LIUJING ROAD ,HEDONG ,TIANJIN,CHINA
+phone:          +86-22-85580499
+fax-no:         +86-22-85580970
+country:        CN
+mnt-by:         MAINT-CHINANET-TJ
+last-modified:  2014-04-01T03:31:13Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,102 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.93.141.0 - 203.93.159.255'
+
+% Abuse contact for '203.93.141.0 - 203.93.159.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        203.93.141.0 - 203.93.159.255
+netname:        JITONG-CN-6
+descr:          Ji Tong Communications Co., Ltd.
+descr:          Beijing
+country:        CN
+admin-c:        JF4-AP
+tech-c:         JF4-AP
+abuse-c:        AC1718-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CNCGROUP
+mnt-lower:      MAINT-CHINAGBN-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+last-modified:  2025-01-22T13:15:24Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+person:         jinling fu
+address:        Ji Tong Communications Co., Ltd.
+address:        28th Floor, Electronic Tower
+address:        27 Wanshou Road
+address:        Beijing 100846
+country:        CN
+phone:          +86-10-68208466
+fax-no:         +86-10-68278288
+e-mail:         ip-admin@gb.com.cn
+nic-hdl:        JF4-AP
+mnt-by:         MAINT-CHINAGBN-AP
+last-modified:  2008-09-04T07:30:10Z
+source:         APNIC
+
+% Information related to '203.93.128.0/20AS9929'
+
+route:          203.93.128.0/20
+descr:          China Unicom CUII Network
+country:        CN
+origin:         AS9929
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2018-04-25T04:14:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

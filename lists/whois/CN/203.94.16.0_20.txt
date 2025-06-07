@@ -1,0 +1,105 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.94.0.0 - 203.94.31.255'
+
+% Abuse contact for '203.94.0.0 - 203.94.31.255' is 'zilong_wang@haplink.com.cn'
+
+inetnum:        203.94.0.0 - 203.94.31.255
+netname:        HAPLINK-CN
+descr:          Shanghai Telecom Haplink Network Co., Ltd.
+descr:          Shanghai China
+country:        CN
+org:            ORG-STHN1-AP
+admin-c:        HZ15-AP
+tech-c:         HZ15-AP
+abuse-c:        AH1141-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-INTNET
+mnt-routes:     MAINT-CN-INTNET
+mnt-irt:        IRT-HAPLINK-CN
+last-modified:  2020-10-20T01:05:39Z
+source:         APNIC
+
+irt:            IRT-HAPLINK-CN
+address:        No.702 Guiping Road
+address:        shanghai
+address:        P.R.China
+e-mail:         zilong_wang@haplink.com.cn
+abuse-mailbox:  zilong_wang@haplink.com.cn
+admin-c:        HZ15-AP
+tech-c:         HZ15-AP
+auth:           # Filtered
+remarks:        zilong_wang@haplink.com.cn was validated on 2025-05-22
+mnt-by:         MAINT-CN-INTNET
+last-modified:  2025-05-22T08:19:38Z
+source:         APNIC
+
+organisation:   ORG-STHN1-AP
+org-name:       Shanghai Telecom Haplink Network Co Ltd (Haplink)
+org-type:       LIR
+country:        CN
+address:        No.702 Guiping Road
+phone:          +86-21-6495-0202
+fax-no:         +86-21-6495-0303
+e-mail:         zilong_wang@haplink.com.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:43Z
+source:         APNIC
+
+role:           ABUSE HAPLINKCN
+country:        ZZ
+address:        No.702 Guiping Road
+address:        shanghai
+address:        P.R.China
+phone:          +000000000
+e-mail:         zilong_wang@haplink.com.cn
+admin-c:        HZ15-AP
+tech-c:         HZ15-AP
+nic-hdl:        AH1141-AP
+remarks:        Generated from irt object IRT-HAPLINK-CN
+remarks:        zilong_wang@haplink.com.cn was validated on 2025-05-22
+abuse-mailbox:  zilong_wang@haplink.com.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-05-22T08:20:17Z
+source:         APNIC
+
+person:         hongping zhang
+nic-hdl:        HZ15-AP
+e-mail:         hongping_zhang@haplink.com.cn
+address:        No.702 Guiping Road
+address:        Shanghai
+address:        P.R.China
+phone:          +86-21-64950202-158
+fax-no:         +86-21-64950303
+country:        CN
+mnt-by:         MAINT-CN-INTNET
+last-modified:  2012-09-19T06:30:38Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      221.0.0.0 - 221.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2002-07
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '221.4.0.0 - 221.5.127.255'
+
+% Abuse contact for '221.4.0.0 - 221.5.127.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        221.4.0.0 - 221.5.127.255
+netname:        UNICOM-GD
+descr:          China Unicom Guangdong province network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         RP181-AP
+abuse-c:        AC1718-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-GD
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+last-modified:  2025-01-22T13:17:43Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         hqs-ipabuse@chinaunicom.cn
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-08-17T06:13:16Z
+source:         APNIC
+
+person:         runkeng pan
+nic-hdl:        RP181-AP
+e-mail:         gdipnoc@chinaunicom.cn
+address:        XinShiKong Plaza,No 666 Huangpu Rd. Guangzhou 510627,China
+phone:          +86-20-22214174
+fax-no:         +86-20-22212266-4174
+country:        CN
+mnt-by:         MAINT-CNCGROUP-GD
+last-modified:  2015-12-16T03:32:02Z
+source:         APNIC
+
+% Information related to '221.4.0.0/16AS17816'
+
+route:          221.4.0.0/16
+descr:          CNC Group CHINA169 Guangdong Province Network
+country:        CN
+origin:         AS17816
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2008-09-04T07:54:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.95.128.0 - 203.95.191.255'
+
+% Abuse contact for '203.95.128.0 - 203.95.191.255' is 'wuhc@shuxun.net'
+
+inetnum:        203.95.128.0 - 203.95.191.255
+netname:        DSNET
+descr:          Shanghai Data Solution Co., Ltd.
+descr:          2F,NO.4Buliding 498 Guoshoujing Rd.Shanghai ZJ.Hi-Tech Park
+country:        CN
+admin-c:        YW7369-AP
+tech-c:         JS4623-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-DSNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2024-08-28T09:13:21Z
+source:         APNIC
+
+irt:            IRT-DSNET-CN
+address:        2F,NO.4Buliding 498 Guoshoujing Rd.Shanghai ZJ.Hi-Tech Park
+e-mail:         wuhc@shuxun.net
+abuse-mailbox:  wuhc@shuxun.net
+admin-c:        YW7369-AP
+tech-c:         JS4623-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-08-28T09:13:10Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Chaojie Kang
+address:        3F,NO.23Buliding 498 Guoshoujing Rd.Shanghai ZJ.Hi-Tech Park
+country:        CN
+phone:          +86-021-50800818
+e-mail:         kangcj@shuxun.net
+nic-hdl:        JS4623-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-08-28T09:05:15Z
+source:         APNIC
+
+person:         Ji Zhang
+address:        3F,NO.23Buliding 498 Guoshoujing Rd.Shanghai ZJ.Hi-Tech Park
+country:        CN
+phone:          +86-021-50800818
+e-mail:         zhangji808@shuxun.net
+nic-hdl:        YW7369-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2024-08-28T09:05:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

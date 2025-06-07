@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      210.0.0.0 - 210.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1996-06
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.12.64.0 - 210.12.127.255'
+
+% Abuse contact for '210.12.64.0 - 210.12.127.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        210.12.64.0 - 210.12.127.255
+netname:        CHINAGBN
+descr:          JITONG COMMUNICATIONS CO.,LTD
+country:        CN
+admin-c:        SD50-AP
+tech-c:         SD50-AP
+abuse-c:        AC1718-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINAGBN-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+last-modified:  2025-01-22T13:20:59Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+person:         Suhua Du
+address:        Ji Tong Communications Co.,Ltd.
+address:        West Wing 6th Floor,
+address:        Zhongding Mansion,
+address:        Jia 18 West Street of North Road
+address:        Haidian District,Beijing P.R.China
+country:        CN
+phone:          +86-10-62227054
+fax-no:         +86-10-62219877
+e-mail:         dshua@public.gb.com.cn
+nic-hdl:        SD50-AP
+mnt-by:         MAINT-CHINAGBN-AP
+last-modified:  2008-09-04T07:29:53Z
+source:         APNIC
+
+% Information related to '210.12.64.0/18AS4808'
+
+route:          210.12.64.0/18
+origin:         AS4808
+descr:          China Unicom
+                B811&A1218, China Unicom
+                No.21, Jin-Rong Street
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2023-06-08T07:59:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

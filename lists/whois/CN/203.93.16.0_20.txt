@@ -1,0 +1,107 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.93.9.0 - 203.93.31.255'
+
+% Abuse contact for '203.93.9.0 - 203.93.31.255' is 'zhaoyz3@chinaunicom.cn'
+
+inetnum:        203.93.9.0 - 203.93.31.255
+netname:        JITONG-CN-2
+descr:          Ji Tong Communications Co., Ltd.
+descr:          Beijing
+country:        CN
+admin-c:        OHC3-AP
+tech-c:         OHC3-AP
+abuse-c:        AC1718-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        hostmaster@apnic.net 951221
+remarks:        hm-changed@apnic.net 20040927
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-CU-CN
+last-modified:  2023-10-21T03:37:11Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         zhaoyz3@chinaunicom.cn
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2025-02-24T06:16:57Z
+source:         APNIC
+
+role:           ABUSE CUCN
+country:        ZZ
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +000000000
+e-mail:         zhaoyz3@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+nic-hdl:        AC1718-AP
+remarks:        Generated from irt object IRT-CU-CN
+remarks:        zhaoyz3@chinaunicom.cn was validated on 2025-02-24
+abuse-mailbox:  zhaoyz3@chinaunicom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-02-24T06:17:45Z
+source:         APNIC
+
+person:         Outdated historical contact
+address:        Unknown
+country:        AP
+e-mail:         outdated-historical-contact@apnic.net
+nic-hdl:        OHC3-AP
+phone:          +61 7 38583188
+remarks:        This person object is used as a placeholder
+remarks:        as the contacts for the IP or ASN registrations
+remarks:        have become outdated or unavailable.
+remarks:        If you believe that you are the legal custodian
+remarks:        of this address range please contact the APNIC
+remarks:        to have the registrations updated.
+remarks:        http://www.apnic.net/helpdesk
+notify:         dbmon@apnic.net
+mnt-by:         APNIC-HM
+last-modified:  2011-06-03T04:46:34Z
+source:         APNIC
+
+% Information related to '203.93.16.0/20AS4808'
+
+route:          203.93.16.0/20
+origin:         AS4808
+descr:          China Unicom
+                B811&A1218, China Unicom
+                No.21, Jin-Rong Street
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2023-06-08T07:59:40Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

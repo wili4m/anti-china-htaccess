@@ -1,0 +1,105 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      218.0.0.0 - 218.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2000-12
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '218.22.0.0 - 218.23.255.255'
+
+% Abuse contact for '218.22.0.0 - 218.23.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        218.22.0.0 - 218.23.255.255
+netname:        CHINANET-AH
+descr:          CHINANET Anhui province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CH93-AP
+tech-c:         AT318-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-AH
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:20Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@chinatelecom.cn
+abuse-mailbox:  anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+mnt-by:         MAINT-CHINANET
+last-modified:  2025-04-24T03:21:26Z
+source:         APNIC
+
+role:           ABUSE CHINANETCN
+country:        ZZ
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +000000000
+e-mail:         anti-spam@chinatelecom.cn
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+nic-hdl:        AC1573-AP
+remarks:        Generated from irt object IRT-CHINANET-CN
+remarks:        anti-spam@chinatelecom.cn was validated on 2025-04-24
+abuse-mailbox:  anti-spam@chinatelecom.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-24T03:21:54Z
+source:         APNIC
+
+role:           ANHUI TELECOM
+address:        305 Changjiang West Road
+address:        Hefei Anhui China
+country:        CN
+phone:          +86 0551 5185089
+fax-no:         +86 0551 5185500
+e-mail:         15305511286@chinatelecom.cn
+remarks:        send spam reports to 15305511286@chinatelecom.cn
+remarks:        and abuse reports to 15305511286@chinatelecom.cn
+remarks:        Please include detailed information and
+remarks:        times in GMT+8:00
+remarks:        http://www.ah163.net
+admin-c:        LW604-AP
+tech-c:         LW604-AP
+nic-hdl:        AT318-AP
+notify:         15305511286@chinatelecom.cn
+mnt-by:         MAINT-CHINANET-AH
+abuse-mailbox:  15305511286@chinatelecom.cn
+last-modified:  2020-03-24T02:13:37Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

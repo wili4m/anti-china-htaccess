@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.160.52.0 - 203.160.55.255'
+
+% Abuse contact for '203.160.52.0 - 203.160.55.255' is 'abuse@cloudie.hk'
+
+inetnum:        203.160.52.0 - 203.160.55.255
+netname:        WAYNE-CN
+descr:          2 building a-16k huaqiangbei plaza Futian district
+country:        CN
+org:            ORG-SQTC1-AP
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+abuse-c:        AW851-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-WAYNE-CN
+mnt-routes:     MAINT-WAYNE-CN
+mnt-irt:        IRT-WAYNE-CN
+last-modified:  2023-09-13T05:06:38Z
+source:         APNIC
+
+irt:            IRT-WAYNE-CN
+address:        Unit 1604, Perfect Industrial Building,, 31st Tai Yau Street, San Po Kong
+e-mail:         admin@cloudie.hk
+abuse-mailbox:  abuse@cloudie.hk
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+auth:           # Filtered
+remarks:        abuse@cloudie.hk was validated on 2024-12-04
+remarks:        admin@cloudie.hk was validated on 2025-04-25
+mnt-by:         MAINT-WAYNE-CN
+last-modified:  2025-04-25T06:48:56Z
+source:         APNIC
+
+organisation:   ORG-SQTC1-AP
+org-name:       ShenZhen QiTeng technology company limited
+org-type:       LIR
+country:        CN
+address:        Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda
+address:        Chiyoda-ku, Tokyo 101-0047, Japan
+phone:          +81-3-5297-2311
+fax-no:         +86018686877600
+e-mail:         abuse@cloudie.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2024-09-14T12:57:20Z
+source:         APNIC
+
+role:           ABUSE WAYNECN
+country:        ZZ
+address:        Unit 1604, Perfect Industrial Building,, 31st Tai Yau Street, San Po Kong
+phone:          +000000000
+e-mail:         admin@cloudie.hk
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+nic-hdl:        AW851-AP
+remarks:        Generated from irt object IRT-WAYNE-CN
+remarks:        abuse@cloudie.hk was validated on 2024-12-04
+remarks:        admin@cloudie.hk was validated on 2025-04-25
+abuse-mailbox:  abuse@cloudie.hk
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-25T06:49:25Z
+source:         APNIC
+
+role:           Cloudie Limited administrator
+address:        Unit 1604, Perfect Industrial Building,, 31st Tai Yau Street, San Po Kong Kowloon NA
+country:        HK
+phone:          +852-61725306
+fax-no:         +852-61725306
+e-mail:         admin@cloudie.hk
+admin-c:        CLA17-AP
+tech-c:         CLA17-AP
+nic-hdl:        CLA17-AP
+mnt-by:         MAINT-CLOUDIE-HK
+last-modified:  2019-04-03T05:09:03Z
+abuse-mailbox:  abuse@cloudie.hk
+abuse-mailbox:  abuse@cloudie.hk
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

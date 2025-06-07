@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.174.7.0 - 203.174.7.255'
+
+% Abuse contact for '203.174.7.0 - 203.174.7.255' is 'tochang@nvidia.com'
+
+inetnum:        203.174.7.0 - 203.174.7.255
+netname:        SHANGHAI-NVIDIA
+descr:          Shanghai Nvidia Corporate Network
+country:        CN
+org:            ORG-NA22-AP
+admin-c:        TC546-AP
+tech-c:         TC546-AP
+abuse-c:        AN1116-AP
+status:         ASSIGNED PORTABLE
+remarks:        Shanghai Nvidia Corporate Network
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AP-NVIDIA
+mnt-irt:        IRT-NVIDIA-CN
+last-modified:  2021-01-11T23:56:29Z
+source:         APNIC
+
+irt:            IRT-NVIDIA-CN
+address:        Suite 1004 - 1006,
+address:        10F Central Plaza,
+address:        18 Harbour Road,
+address:        Wanchai, Hong Kong
+e-mail:         tochang@nvidia.com
+abuse-mailbox:  tochang@nvidia.com
+admin-c:        TC546-AP
+tech-c:         TC546-AP
+auth:           # Filtered
+remarks:        tochang@nvidia.com was validated on 2024-11-26
+mnt-by:         MAINT-AP-NVIDIA
+last-modified:  2024-11-26T08:33:16Z
+source:         APNIC
+
+organisation:   ORG-NA22-AP
+org-name:       NVIDIA
+org-type:       LIR
+country:        CN
+address:        3/F Harbour View 1,
+address:        No. 12 Science Park East Avenue,
+address:        HK Science Park, Shatin,
+phone:          +852-2534-0619
+fax-no:         +852-2534-0669
+e-mail:         info@nvidia.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:15:15Z
+source:         APNIC
+
+role:           ABUSE NVIDIACN
+country:        ZZ
+address:        Suite 1004 - 1006,
+address:        10F Central Plaza,
+address:        18 Harbour Road,
+address:        Wanchai, Hong Kong
+phone:          +000000000
+e-mail:         tochang@nvidia.com
+admin-c:        TC546-AP
+tech-c:         TC546-AP
+nic-hdl:        AN1116-AP
+remarks:        Generated from irt object IRT-NVIDIA-CN
+remarks:        tochang@nvidia.com was validated on 2024-11-26
+abuse-mailbox:  tochang@nvidia.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-11-26T08:33:43Z
+source:         APNIC
+
+person:         Tony Chang
+nic-hdl:        TC546-AP
+e-mail:         tochang@nvidia.com
+address:        3F, Harbour View 1
+address:        No 12 Science Park East Avenue
+address:        Hong Kong Science Park
+address:        Shatin, NT, Hong Kong
+phone:          +852-25340619
+fax-no:         +852-25340669
+country:        HK
+mnt-by:         MAINT-AP-NVIDIA
+last-modified:  2012-10-18T06:39:38Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

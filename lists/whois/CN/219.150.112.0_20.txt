@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      219.0.0.0 - 219.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2001-09
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.150.112.0 - 219.150.255.255'
+
+% Abuse contact for '219.150.112.0 - 219.150.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        219.150.112.0 - 219.150.255.255
+netname:        CHINANET-HA
+descr:          CHINANET henan province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        HZ149-AP
+tech-c:         HZ149-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-HA
+mnt-routes:     MAINT-CHINANET-HA
+last-modified:  2008-09-04T06:52:00Z
+source:         APNIC
+
+person:         Hongbiao Zhang
+nic-hdl:        HZ149-AP
+e-mail:         ip@hntele.com
+address:        97# Zhongyuan Street, Zhengzhou City, China
+phone:          +86 371 65310018
+fax-no:         +86 371 65310015
+country:        CN
+mnt-by:         MAINT-CHINANET-HA
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

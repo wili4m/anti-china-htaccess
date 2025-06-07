@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.166.160.0 - 203.166.191.255'
+
+% Abuse contact for '203.166.160.0 - 203.166.191.255' is 'zhou.yu@21viacloud.com'
+
+inetnum:        203.166.160.0 - 203.166.191.255
+netname:        ENTRUSTNET
+descr:          Entrust Network Inc.
+descr:          Building A2, 501 liyuan road, huangpu district, Shanghai
+country:        CN
+admin-c:        YW7118-AP
+tech-c:         JS4343-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-ENTRUSTNET-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:18Z
+source:         APNIC
+
+irt:            IRT-ENTRUSTNET-CN
+address:        Building A2, 501 liyuan road, huangpu district, Shanghai
+e-mail:         zhou.yu@21viacloud.com
+abuse-mailbox:  zhou.yu@21viacloud.com
+auth:           # Filtered
+admin-c:        YW7118-AP
+tech-c:         JS4343-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-17T02:15:52Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Wu Yucheng
+address:        Building A2, 501 liyuan road, huangpu district, Shanghai
+country:        CN
+phone:          +86-021-58667922
+e-mail:         wu.yucheng@21viacloud.com
+nic-hdl:        JS4343-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-08-10T03:12:06Z
+source:         APNIC
+
+person:         Zhou Yu
+address:        Building A2, 501 liyuan road, huangpu district, Shanghai
+country:        CN
+phone:          +86-021-63015500-160
+e-mail:         zhou.yu@21viacloud.com
+nic-hdl:        YW7118-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2020-08-10T03:12:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

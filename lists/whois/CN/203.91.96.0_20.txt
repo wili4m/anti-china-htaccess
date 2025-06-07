@@ -1,0 +1,82 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.91.96.0 - 203.91.111.255'
+
+% Abuse contact for '203.91.96.0 - 203.91.111.255' is 'lic95@qq.com'
+
+inetnum:        203.91.96.0 - 203.91.111.255
+netname:        IFLAB
+descr:          Internet Finance Laboratory
+descr:          No. 27, Wanshou Road, Haidian District, Beijing
+country:        CN
+admin-c:        YW7194-AP
+tech-c:         YW7194-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-IFLAB-CN
+last-modified:  2022-04-01T02:36:57Z
+source:         APNIC
+
+irt:            IRT-IFLAB-CN
+address:        No. 27, Wanshou Road, Haidian District, Beijing
+e-mail:         lic95@qq.com
+abuse-mailbox:  lic95@qq.com
+admin-c:        YW7194-AP
+tech-c:         YW7194-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-10-09T06:41:49Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Li Chuanhai
+address:        No. 27, Wanshou Road, Haidian District, Beijing
+country:        CN
+phone:          +86-13910102505
+e-mail:         lic95@qq.com
+nic-hdl:        YW7194-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-10-09T06:36:09Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

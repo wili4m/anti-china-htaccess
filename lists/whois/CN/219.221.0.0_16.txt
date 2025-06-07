@@ -1,0 +1,95 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      219.0.0.0 - 219.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2001-09
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.221.0.0 - 219.221.255.255'
+
+% Abuse contact for '219.221.0.0 - 219.221.255.255' is 'abuse@cernet.edu.cn'
+
+inetnum:        219.221.0.0 - 219.221.255.255
+netname:        CERNET-CN
+descr:          China Education and Research Network
+descr:          Chengdu Regional Network
+country:        CN
+admin-c:        CER-AP
+tech-c:         CER-AP
+abuse-c:        AC1685-AP
+status:         ALLOCATED PORTABLE
+remarks:        origin AS4538
+remarks:        confederation
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CERNET-AP
+mnt-routes:     MAINT-CERNET-AP
+mnt-irt:        IRT-CERNET-AP
+last-modified:  2020-10-20T00:56:53Z
+source:         APNIC
+
+irt:            IRT-CERNET-AP
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+fax-no:         +86-10-62785933
+e-mail:         abuse@cernet.edu.cn
+abuse-mailbox:  abuse@cernet.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+auth:           # Filtered
+remarks:        timezone GMT+8
+remarks:        http://www.ccert.edu.cn
+remarks:        abuse@cernet.edu.cn was validated on 2025-01-22
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2025-01-22T13:47:43Z
+source:         APNIC
+
+role:           ABUSE CERNETAP
+country:        ZZ
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+e-mail:         abuse@cernet.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+nic-hdl:        AC1685-AP
+remarks:        Generated from irt object IRT-CERNET-AP
+remarks:        abuse@cernet.edu.cn was validated on 2025-01-22
+abuse-mailbox:  abuse@cernet.edu.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-22T16:25:45Z
+source:         APNIC
+
+role:           CERNET Helpdesk
+address:        CERNET Center
+address:        Beijing 100084, China
+country:        CN
+phone:          +86-10-6278-4049
+fax-no:         +86-10-6278-5933
+e-mail:         helpdesk@cernet.edu.cn
+remarks:        abuse@cernet.edu.cn
+admin-c:        XL1-CN
+tech-c:         SZ2-AP
+nic-hdl:        CER-AP
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2020-09-03T09:14:12Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

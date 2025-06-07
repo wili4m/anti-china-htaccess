@@ -1,0 +1,96 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.176.168.0 - 203.176.175.255'
+
+% Abuse contact for '203.176.168.0 - 203.176.175.255' is 'wg@shdmt.net'
+
+inetnum:        203.176.168.0 - 203.176.175.255
+netname:        DMTNET
+descr:          Shanghai DMT Information Network cor.,LTD.
+descr:          23F YUNHUA Science & Tech.Building, No.912
+descr:          Gonghexin Road, Shanghai, P.R.China
+country:        CN
+admin-c:        LZ576-AP
+tech-c:         YH560-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-DMTNET-CN
+last-modified:  2021-10-26T07:30:05Z
+source:         APNIC
+
+irt:            IRT-DMTNET-CN
+address:        23F YUNHUA Science & Tech.Building, No.912
+e-mail:         wg@shdmt.net
+abuse-mailbox:  wg@shdmt.net
+auth:           # Filtered
+admin-c:        LZ576-AP
+tech-c:         LZ576-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-20T00:03:05Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Lingli Zhang
+nic-hdl:        LZ576-AP
+e-mail:         telecom@81890.net
+address:        23F YUNHUA Science & Tech.Building No.912
+address:        gonghexin Road.Shanghai China
+phone:          +86-021-66601888-803
+fax-no:         +86-8008208866
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:23Z
+source:         APNIC
+
+person:         Yiming Hu
+nic-hdl:        YH560-AP
+e-mail:         huyiming_007@163.com
+address:        23F YUNHUA Science & Tech.Building No.912
+address:        gonghexin Road.Shanghai China
+phone:          +86-021-66601888
+fax-no:         +86-8008208866
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:23Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

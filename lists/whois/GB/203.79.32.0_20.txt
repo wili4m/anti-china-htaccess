@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.79.32.0 - 203.79.47.255'
+
+% Abuse contact for '203.79.32.0 - 203.79.47.255' is 'AbuseSecurityGroup@GlobalCloudXchange.com'
+
+inetnum:        203.79.32.0 - 203.79.47.255
+netname:        FLAG-AP
+descr:          FLAG Telecom Ltd
+country:        GB
+org:            ORG-FTIN1-AP
+admin-c:        AU65-AP
+tech-c:         AU65-AP
+abuse-c:        AF585-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AP-FLAG
+mnt-routes:     MAINT-AP-FLAG
+mnt-irt:        IRT-FLAG-AP
+last-modified:  2020-10-20T01:03:29Z
+source:         APNIC
+
+irt:            IRT-FLAG-AP
+address:        635 Sipson Road, London
+e-mail:         AbuseSecurityGroup@GlobalCloudXchange.com
+abuse-mailbox:  AbuseSecurityGroup@GlobalCloudXchange.com
+admin-c:        KJ553-AP
+tech-c:         KJ553-AP
+auth:           # Filtered
+remarks:        abusesecuritygroup@globalcloudxchange.com was validated on 2025-04-23
+mnt-by:         MAINT-AP-FLAG
+last-modified:  2025-04-25T10:19:12Z
+source:         APNIC
+
+organisation:   ORG-FTIN1-AP
+org-name:       Flag Telecom Ireland Network Ltd
+org-type:       LIR
+country:        GB
+address:        635 Sipson Road
+address:        West Drayton
+phone:          +44-20-8282-4654
+fax-no:         +44-20-7317-0808
+e-mail:         hostmaster@GlobalcloudXchange.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:50Z
+source:         APNIC
+
+role:           ABUSE FLAGAP
+country:        ZZ
+address:        635 Sipson Road, London
+phone:          +000000000
+e-mail:         AbuseSecurityGroup@GlobalCloudXchange.com
+admin-c:        KJ553-AP
+tech-c:         KJ553-AP
+nic-hdl:        AF585-AP
+remarks:        Generated from irt object IRT-FLAG-AP
+remarks:        abusesecuritygroup@globalcloudxchange.com was validated on 2025-04-23
+abuse-mailbox:  AbuseSecurityGroup@GlobalCloudXchange.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-04-25T10:19:44Z
+source:         APNIC
+
+person:         Abhijit Udmale
+address:        DAKC, New Mumbai
+country:        IN
+phone:          +91 22 303 86439
+e-mail:         audmale@globalcloudxchange.com
+nic-hdl:        AU65-AP
+mnt-by:         MAINT-AP-FLAG
+last-modified:  2015-12-01T11:20:14Z
+source:         APNIC
+
+% Information related to '203.79.32.0/20AS15412'
+
+route:          203.79.32.0/20
+origin:         AS15412
+descr:          Flag Telecom Ireland Network Ltd
+                635 Sipson Road
+                West Drayton
+mnt-by:         MAINT-AP-FLAG
+last-modified:  2021-06-16T11:58:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

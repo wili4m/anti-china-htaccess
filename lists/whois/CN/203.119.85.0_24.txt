@@ -1,0 +1,134 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.119.85.0 - 203.119.85.255'
+
+% Abuse contact for '203.119.85.0 - 203.119.85.255' is 'abuse@isc.org'
+
+inetnum:        203.119.85.0 - 203.119.85.255
+netname:        ISC-PEK2
+descr:          Internet Systems Consortium
+descr:          Asia Pacific F-Root Nodes (Beijing, China)
+country:        CN
+org:            ORG-ISC2-AP
+admin-c:        RB1053-AP
+tech-c:         ISCN1-AP
+abuse-c:        AI302-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-ISC
+mnt-irt:        IRT-ISC-AP
+last-modified:  2020-07-17T10:00:29Z
+source:         APNIC
+
+irt:            IRT-ISC-AP
+address:        Internet Systems Consortium, Inc.
+address:        PO Box 360
+address:        Newmarket
+address:        NH 03857
+e-mail:         abuse@isc.org
+abuse-mailbox:  abuse@isc.org
+admin-c:        RB1053-AP
+tech-c:         ISCN1-AP
+auth:           # Filtered
+remarks:        abuse@isc.org was validated on 2025-01-14
+mnt-by:         MAINT-ISC
+last-modified:  2025-01-14T14:48:49Z
+source:         APNIC
+
+organisation:   ORG-ISC2-AP
+org-name:       Internet Systems Consortium
+org-type:       LIR
+country:        US
+address:        PO Box 360
+phone:          +1-650-423-1300
+fax-no:         +1-650-423-1355
+e-mail:         info@isc.org
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:54Z
+source:         APNIC
+
+role:           ABUSE ISCAP
+country:        ZZ
+address:        Internet Systems Consortium, Inc.
+address:        PO Box 360
+address:        Newmarket
+address:        NH 03857
+phone:          +000000000
+e-mail:         abuse@isc.org
+admin-c:        RB1053-AP
+tech-c:         ISCN1-AP
+nic-hdl:        AI302-AP
+remarks:        Generated from irt object IRT-ISC-AP
+remarks:        abuse@isc.org was validated on 2025-01-14
+abuse-mailbox:  abuse@isc.org
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-14T14:49:02Z
+source:         APNIC
+
+role:           Internet Systems Consortium NOC
+address:        Internet Systems Consortium, Inc.
+address:        PO Box 360
+address:        Newmarket
+address:        NH 03857
+country:        US
+phone:          +1 650 423 1310
+fax-no:         +1 650 423 1355
+e-mail:         noc@isc.org
+admin-c:        RB1053-AP
+tech-c:         EKB1-AP
+tech-c:         DM804-AP
+nic-hdl:        ISCN1-AP
+remarks:        To report abuse, contact abuse@isc.org
+mnt-by:         MAINT-ISC
+last-modified:  2020-07-17T10:15:03Z
+source:         APNIC
+
+person:         Ray Bellis
+address:
+country:        GB
+phone:          +1 650 423 1300
+e-mail:         ray@isc.org
+nic-hdl:        RB1053-AP
+mnt-by:         MAINT-ISC
+last-modified:  2020-07-17T09:57:19Z
+source:         APNIC
+
+% Information related to '203.119.85.0/24AS55439'
+
+route:          203.119.85.0/24
+descr:          F-Root in Beijing (PEK2)
+origin:         AS55439
+country:        CN
+notify:         noc@isc.org
+mnt-lower:      MAINT-ISC
+mnt-routes:     MAINT-ISC
+mnt-by:         MAINT-ISC
+last-modified:  2011-07-19T19:23:20Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

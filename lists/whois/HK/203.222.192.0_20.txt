@@ -1,0 +1,116 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.222.192.0 - 203.222.207.255'
+
+% Abuse contact for '203.222.192.0 - 203.222.207.255' is 'RicoHO@ChinaSatHK.com'
+
+inetnum:        203.222.192.0 - 203.222.207.255
+netname:        CSC-HK
+descr:          China Satellite Communications (HongKong) Corporation Limited
+country:        HK
+org:            ORG-CSCC1-AP
+admin-c:        CSCH1-AP
+tech-c:         CSCH1-AP
+abuse-c:        AC2174-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CSC-HK
+mnt-routes:     MAINT-CSC-HK
+mnt-irt:        IRT-CSC-HK
+last-modified:  2020-10-21T07:17:17Z
+source:         APNIC
+
+irt:            IRT-CSC-HK
+address:        ROOM 2107, SINO FAVOUR CENTRE, 1 ON YIP STREET, CHAIWAN, HONGKONG.
+e-mail:         RicoHO@ChinaSatHK.com
+abuse-mailbox:  RicoHO@ChinaSatHK.com
+admin-c:        CSCH1-AP
+tech-c:         CSCH1-AP
+auth:           # Filtered
+remarks:        ricoho@chinasathk.com was validated on 2025-01-08
+mnt-by:         MAINT-CSC-HK
+last-modified:  2025-01-08T08:23:52Z
+source:         APNIC
+
+organisation:   ORG-CSCC1-AP
+org-name:       China Satellite Communications (HongKong) Corporation Limited
+org-type:       LIR
+country:        HK
+address:        ROOM 2107, SINO FAVOUR CENTRE
+address:        1 ON YIP STREET
+address:        CHAIWAN
+phone:          +852-39006521
+e-mail:         RicoHO@ChinaSatHK.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:17:56Z
+source:         APNIC
+
+role:           ABUSE CSCHK
+country:        ZZ
+address:        ROOM 2107, SINO FAVOUR CENTRE, 1 ON YIP STREET, CHAIWAN, HONGKONG.
+phone:          +000000000
+e-mail:         RicoHO@ChinaSatHK.com
+admin-c:        CSCH1-AP
+tech-c:         CSCH1-AP
+nic-hdl:        AC2174-AP
+remarks:        Generated from irt object IRT-CSC-HK
+remarks:        ricoho@chinasathk.com was validated on 2025-01-08
+abuse-mailbox:  RicoHO@ChinaSatHK.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-08T08:24:11Z
+source:         APNIC
+
+role:           China Satellite Communications HongKong Corporat
+address:        ROOM 2107, SINO FAVOUR CENTRE,, 1 ON YIP STREET, CHAI WAN., Hong Kong Eastern Hong Kong Island
+country:        HK
+phone:          +852-9731-9514
+e-mail:         SunWolf_R@Yahoo.com.hk
+admin-c:        CSCH1-AP
+tech-c:         CSCH1-AP
+nic-hdl:        CSCH1-AP
+mnt-by:         MAINT-CSC-HK
+last-modified:  2019-09-04T07:53:35Z
+source:         APNIC
+
+% Information related to '203.222.192.0/20AS17988'
+
+route:          203.222.192.0/20
+origin:         AS17988
+descr:          China Satellite Communications (HongKong) Corporation Limited
+                ROOM 2107, SINO FAVOUR CENTRE,
+                1 ON YIP STREET, CHAI WAN.
+mnt-by:         MAINT-CSC-HK
+last-modified:  2019-10-11T03:06:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

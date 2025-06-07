@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      210.0.0.0 - 210.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1996-06
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.5.0.0 - 210.5.31.255'
+
+% Abuse contact for '210.5.0.0 - 210.5.31.255' is 'connie.wu@china-entercom.net'
+
+inetnum:        210.5.0.0 - 210.5.31.255
+netname:        CHINAENTERCOM
+descr:          China Enterprise ICT Solutions Limited
+country:        CN
+admin-c:        YW7075-AP
+tech-c:         YW7075-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CHINAENTERCOM-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:21Z
+source:         APNIC
+
+irt:            IRT-CHINAENTERCOM-CN
+address:        3/F,Tower C,CITIC International Building,No.19 Jian Guo Men
+address:        Wai Avenue,Chaoyang District,Beijing,CHINA
+e-mail:         connie.wu@china-entercom.net
+abuse-mailbox:  connie.wu@china-entercom.net
+auth:           # Filtered
+admin-c:        YW7075-AP
+tech-c:         YW7075-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-08T08:28:07Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Bojian Zhang
+address:        China Enterprise Communications Ltd.
+country:        CN
+phone:          +86-20-85181302
+e-mail:         apollo.zhang@china-entercom.net
+nic-hdl:        YW7075-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-12-11T01:20:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      218.0.0.0 - 218.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2000-12
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '218.108.0.0 - 218.109.255.255'
+
+% Abuse contact for '218.108.0.0 - 218.109.255.255' is 'optieast@21cn.com'
+
+inetnum:        218.108.0.0 - 218.109.255.255
+netname:        WASUHZ
+descr:          Huashu media&Network Limited
+country:        CN
+admin-c:        ZH2807-AP
+tech-c:         XW3287-AP
+tech-c:         MY1270-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-WASUHZ-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:26Z
+source:         APNIC
+
+irt:            IRT-WASUHZ-CN
+address:        Westlake District, Hangzhou,China
+e-mail:         optieast@21cn.com
+abuse-mailbox:  optieast@21cn.com
+auth:           # Filtered
+admin-c:        ZH2807-AP
+tech-c:         ZH2807-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-01T00:41:13Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Mao Yi
+address:        Westlake District, Hangzhou,China
+country:        CN
+phone:          +86-0571-89772802
+e-mail:         optieast@21cn.com
+nic-hdl:        MY1270-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-05-16T09:32:01Z
+source:         APNIC
+
+person:         Xue Wei
+nic-hdl:        XW3287-AP
+e-mail:         optieast@21cn.com
+address:        Westlake District ,HangZhou City,ZheJiang, China
+phone:          +86-0571-89772816
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-03-02T09:08:01Z
+source:         APNIC
+
+person:         Zhao Hangxiao
+address:        Westlake District, Hangzhou,China
+country:        CN
+phone:          +86-0571-28311607
+e-mail:         optieast@21cn.com
+nic-hdl:        ZH2807-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-04-27T09:46:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

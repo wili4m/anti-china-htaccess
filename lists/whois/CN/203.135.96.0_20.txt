@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.135.96.0 - 203.135.127.255'
+
+% Abuse contact for '203.135.96.0 - 203.135.127.255' is '2881099762@qq.com'
+
+inetnum:        203.135.96.0 - 203.135.127.255
+netname:        YTWL
+descr:          Shaoxing Yun Tong Network Technology Co., Ltd
+country:        CN
+admin-c:        YW6912-AP
+tech-c:         JS4108-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-YTWL-CN
+last-modified:  2022-02-10T07:59:43Z
+source:         APNIC
+
+irt:            IRT-YTWL-CN
+address:        Room 1405, Star building, No. 669 Jiefang Avenue,
+address:        Jinghu New District, Zhejiang, Shaoxing
+e-mail:         2881099762@qq.com
+abuse-mailbox:  2881099762@qq.com
+auth:           # Filtered
+admin-c:        YW6912-AP
+tech-c:         JS4108-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-06-25T07:30:31Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Feng Ming
+address:        Room 1405, Star building, No. 669 Jiefang Avenue,
+address:        Jinghu New District, Zhejiang, Shaoxing
+country:        CN
+phone:          +86-0575-88096661
+e-mail:         2881099762@qq.com
+nic-hdl:        JS4108-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2018-08-01T02:50:40Z
+source:         APNIC
+
+person:         Chen Jijiang
+address:        Room 1405, Star building, No. 669 Jiefang Avenue,
+address:        Jinghu New District, Zhejiang, Shaoxing
+country:        CN
+phone:          +86-0575-880866960
+e-mail:         jijiang2190@126.com
+nic-hdl:        YW6912-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2018-08-01T02:50:39Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

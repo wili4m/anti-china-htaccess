@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.95.200.0 - 203.95.203.255'
+
+% Abuse contact for '203.95.200.0 - 203.95.203.255' is '282734720@qq.com'
+
+inetnum:        203.95.200.0 - 203.95.203.255
+netname:        CHIJUN
+descr:          Beijing Chijun Network Advisory Service Co,Ltd
+descr:          Zhongfa Building809 Zhongguang Village avenue
+descr:          Haidian District,Beijing,China
+country:        CN
+admin-c:        ZM1433-AP
+tech-c:         ZM1434-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CHIJUN-CN
+mnt-lower:      MAINT-CNNIC-AP
+last-modified:  2023-11-28T00:57:21Z
+source:         APNIC
+
+irt:            IRT-CHIJUN-CN
+address:        Zhongfa Building809 Zhongguang Village avenue Haidian District,Beijing,China
+e-mail:         282734720@qq.com
+abuse-mailbox:  282734720@qq.com
+auth:           # Filtered
+admin-c:        ZM1433-AP
+tech-c:         ZM1433-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-01T00:41:14Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Aijun Wang
+address:        Zhongfa Building809 Zhongguang Village avenue
+address:        Haidian District,Beijing,China
+country:        CN
+phone:          +86-13901285273
+e-mail:         282734720@qq.com
+nic-hdl:        ZM1433-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-12-25T02:56:01Z
+source:         APNIC
+
+person:         Jiafeng Lu
+address:        Zhongfa Building809 Zhongguang Village avenue
+address:        Haidian District,Beijing,China
+country:        CN
+phone:          +86-18910700633
+e-mail:         wyjiafeng@163.com
+nic-hdl:        ZM1434-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2015-12-25T02:56:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

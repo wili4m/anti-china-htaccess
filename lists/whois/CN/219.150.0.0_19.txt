@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      219.0.0.0 - 219.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2001-09
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.149.192.0 - 219.150.31.255'
+
+% Abuse contact for '219.149.192.0 - 219.150.31.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        219.149.192.0 - 219.150.31.255
+netname:        CHINANET-JL
+descr:          CHINANET JILIN PROVINCE NETWORK
+descr:          JILIN Telecom Corporation
+descr:          NO.2136 DONG-NAN-HU ROAD,JINGKAI
+descr:          DISTRICT,CHANGCHUN  130000
+country:        CN
+admin-c:        YL1057-AP
+tech-c:         YL1057-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-JL
+mnt-routes:     MAINT-CHINANET-JL
+last-modified:  2008-09-04T06:52:00Z
+source:         APNIC
+
+person:         YI LU
+nic-hdl:        YL1057-AP
+e-mail:         18943124057@189.cn
+address:        No.2136,Southeast lake  Street,Changchun,130042,Jilin
+phone:          +86-431-85880000
+fax-no:         +86-431-5881234
+country:        CN
+mnt-by:         MAINT-CHINANET-JL
+last-modified:  2019-11-13T03:31:49Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

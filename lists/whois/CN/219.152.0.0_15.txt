@@ -1,0 +1,71 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      219.0.0.0 - 219.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2001-09
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.151.128.0 - 219.153.255.255'
+
+% Abuse contact for '219.151.128.0 - 219.153.255.255' is 'anti-spam@chinatelecom.cn'
+
+inetnum:        219.151.128.0 - 219.153.255.255
+netname:        CHINANET-CQ
+descr:          CHINANET Chongqing  province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CQ235-AP
+mnt-by:         MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-CQ
+status:         ALLOCATED NON-PORTABLE
+last-modified:  2008-09-04T06:52:05Z
+source:         APNIC
+
+role:           CHINANET CQ
+address:        The mainstreet 3 daping ,chongqing data communication bureau
+country:        CN
+phone:          +862368614888
+fax-no:         +862368602314
+e-mail:         ipmanager.cq@chinatelecom.cn
+remarks:        send spam reports to ipmanager.cq@chinatelecom.cn
+remarks:        and abuse reports to ipmanager.cq@chinatelecom.cn
+remarks:        http://www.cta.cq.cn
+admin-c:        ZL235-AP
+tech-c:         ZL235-AP
+nic-hdl:        CQ235-AP
+notify:         ipmanager.cq@chinatelecom.cn
+mnt-by:         MAINT-CHINANET-CQ
+last-modified:  2022-02-23T04:23:29Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@chinatelecom.cn
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2022-02-28T06:53:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      185.0.0.0 - 185.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.ripe.net
+
+inetnum:        185.232.29.0 - 185.232.29.255
+netname:        DE-PINHOSTING-20171218
+country:        EE
+admin-c:        NM7219-RIPE
+tech-c:         NM7219-RIPE
+mnt-routes:     MNT-PINSUPPORT
+status:         ASSIGNED PA
+mnt-by:         MNT-PINSUPPORT
+created:        2017-12-17T21:22:17Z
+last-modified:  2019-08-13T14:47:55Z
+source:         RIPE
+
+person:         Nikolay Metlyuk
+address:        Rhinstrasse 48
+address:        12681
+address:        Berlin
+address:        GERMANY
+phone:          +493055155942
+nic-hdl:        NM7219-RIPE
+mnt-by:         de-pinhosting-1-mnt
+created:        2017-11-13T15:14:26Z
+last-modified:  2017-11-13T15:14:26Z
+source:         RIPE
+
+% Information related to '185.232.29.0/24as39556'
+
+route:          185.232.29.0/24
+origin:         as39556
+mnt-by:         MNT-PINSUPPORT
+created:        2017-12-17T21:22:18Z
+last-modified:  2017-12-17T21:22:18Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.117 (ABERDEEN)
+
+

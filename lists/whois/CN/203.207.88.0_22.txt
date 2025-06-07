@@ -1,0 +1,125 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      203.0.0.0 - 203.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+remarks:      203.0.113.0/24 reserved for TEST-NET-3 [RFC5737].
+remarks:      Complete registration details for 203.0.113.0/24 are
+remarks:      found iniana-ipv4-special-registry.
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.207.88.0 - 203.207.91.255'
+
+% Abuse contact for '203.207.88.0 - 203.207.91.255' is 'yanpeng@cei.cn'
+
+inetnum:        203.207.88.0 - 203.207.91.255
+netname:        CEINET
+descr:          China Economic Information network
+descr:          Owned by SIC-CN
+country:        CN
+org:            ORG-SICO1-AP
+admin-c:        PY266-AP
+tech-c:         PY266-AP
+tech-c:         WL265-AP
+abuse-c:        AS2190-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SIC-AP
+mnt-routes:     MAINT-SIC-AP
+mnt-irt:        IRT-SIC-CN
+last-modified:  2020-05-28T02:55:06Z
+source:         APNIC
+
+irt:            IRT-SIC-CN
+address:        The State Information Center of P.R.China
+address:        China Economic Information Network Corporation
+address:        No.58, Sanlihe Road Xicheng District Beijing 100045 P.R.China
+e-mail:         yanpeng@cei.cn
+abuse-mailbox:  yanpeng@cei.cn
+admin-c:        PY266-AP
+tech-c:         WL265-AP
+auth:           # Filtered
+remarks:        yanpeng@cei.cn was validated on 2025-01-15
+mnt-by:         MAINT-SIC-AP
+last-modified:  2025-01-15T07:29:33Z
+source:         APNIC
+
+organisation:   ORG-SICO1-AP
+org-name:       The State Information Center of P.R.China
+org-type:       LIR
+country:        CN
+address:        No.58, Sanlihe Road
+phone:          +86-10-6855-8560
+fax-no:         +86-10-6855-8560
+e-mail:         yanpeng@cei.cn
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T02:14:43Z
+source:         APNIC
+
+role:           ABUSE SICCN
+country:        ZZ
+address:        The State Information Center of P.R.China
+address:        China Economic Information Network Corporation
+address:        No.58, Sanlihe Road Xicheng District Beijing 100045 P.R.China
+phone:          +000000000
+e-mail:         yanpeng@cei.cn
+admin-c:        PY266-AP
+tech-c:         WL265-AP
+nic-hdl:        AS2190-AP
+remarks:        Generated from irt object IRT-SIC-CN
+remarks:        yanpeng@cei.cn was validated on 2025-01-15
+abuse-mailbox:  yanpeng@cei.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-01-15T07:30:10Z
+source:         APNIC
+
+person:         Peng Yan
+address:        The State Information Center
+address:        China Economic Information Network Corporation
+address:        No.58 Sanlihe Road Xicheng District
+address:        Beijing 100045 P.R.China
+country:        CN
+phone:          +86-010-68558560
+fax-no:         +86-010-68558534
+e-mail:         yanpeng@cei.cn
+nic-hdl:        PY266-AP
+mnt-by:         MAINT-CN-SIC
+last-modified:  2016-12-22T07:31:46Z
+source:         APNIC
+
+person:         Weihua Lai
+address:        The State Information Center
+address:        China Economic Information Network Corporation
+address:        NO.58 Sanlihe Road Xicheng District Beijing 100045 P.R.China
+country:        CN
+phone:          +86-010-68558562
+fax-no:         +86-010-68558560
+e-mail:         lwh@cei.cn
+nic-hdl:        WL265-AP
+mnt-by:         MAINT-SIC-AP
+last-modified:  2014-10-24T02:58:17Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

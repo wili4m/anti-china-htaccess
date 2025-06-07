@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      223.0.0.0 - 223.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-04
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '223.27.184.0 - 223.27.187.255'
+
+% Abuse contact for '223.27.184.0 - 223.27.187.255' is '17116131@qq.com'
+
+inetnum:        223.27.184.0 - 223.27.187.255
+netname:        gzbbn
+descr:          Guangzhou Broadband Backbone Network Co.,Ltd
+descr:          No.9 Shenzhou Road,Guangzhou Science City,Guangzhou,China
+country:        CN
+admin-c:        LP446-AP
+tech-c:         ZJ2158-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-GZBBN-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+last-modified:  2023-11-28T00:57:30Z
+source:         APNIC
+
+irt:            IRT-gzbbn-CN
+address:        No.9 Shenzhou Road,Guangzhou Science City,Guangzhou,China
+e-mail:         17116131@qq.com
+abuse-mailbox:  17116131@qq.com
+auth:           # Filtered
+admin-c:        LP446-AP
+tech-c:         LP446-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-09-05T23:38:27Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Luo Peixin
+address:        No.9 Shenzhou Road,Guangzhou Science City,Guangzhou,China
+country:        CN
+phone:          +86-020-83179200
+e-mail:         luopx@gzbbn.com.cn
+nic-hdl:        LP446-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-09-03T01:28:01Z
+source:         APNIC
+
+person:         Zhou Junpeng
+address:        No.9 Shenzhou Road,Guangzhou Science City,Guangzhou,China
+country:        CN
+phone:          +86-020-83179200
+e-mail:         zhoujp@gzbbn.com.cn
+nic-hdl:        ZJ2158-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2010-09-03T01:28:01Z
+source:         APNIC
+
+% Information related to '223.27.184.0/22AS17622'
+
+route:          223.27.184.0/22
+descr:          China Unicom Guangdong Province network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS17622
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2011-01-13T01:26:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+

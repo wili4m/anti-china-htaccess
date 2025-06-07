@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      218.0.0.0 - 218.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2000-12
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '218.185.192.0 - 218.185.223.255'
+
+% Abuse contact for '218.185.192.0 - 218.185.223.255' is 'zhouli@hfcatv.com.cn'
+
+inetnum:        218.185.192.0 - 218.185.223.255
+netname:        HFCBN
+descr:          HEFEI CABLE TELEVISION BROADBAND NETWORK CO,.LTD.
+descr:          RONGSHIDA ROAD NO.152 HEFEI CITY ANHUI PROVINCE,China
+country:        CN
+admin-c:        BX47-AP
+tech-c:         LZ497-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-HFCBN-CN
+last-modified:  2023-11-28T00:57:26Z
+source:         APNIC
+
+irt:            IRT-HFCBN-CN
+address:        RONGSHIDA ROAD NO.152 HEFEI CITY ANHUI PROVINCE
+e-mail:         zhouli@hfcatv.com.cn
+abuse-mailbox:  zhouli@hfcatv.com.cn
+auth:           # Filtered
+admin-c:        BX47-AP
+tech-c:         LZ497-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2021-07-14T03:24:43Z
+source:         APNIC
+
+role:           ABUSE CNNICCN
+country:        ZZ
+address:        Beijing, China
+phone:          +000000000
+e-mail:         ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+nic-hdl:        AC1601-AP
+remarks:        Generated from irt object IRT-CNNIC-CN
+abuse-mailbox:  ipas@cnnic.cn
+mnt-by:         APNIC-ABUSE
+last-modified:  2024-07-30T11:55:46Z
+source:         APNIC
+
+person:         Bin Xiao
+nic-hdl:        BX47-AP
+e-mail:         xiaobin@hfcatv.com.cn
+address:        RONGSHIDA ROAD NO.152 HEFEI CITY ANHUI PROVINCE
+address:        230001
+phone:          +86-13805510296
+fax-no:         +86-0551-4495333
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:35Z
+source:         APNIC
+
+person:         Li Zhou
+nic-hdl:        LZ497-AP
+e-mail:         zhouli@hfcatv.com.cn
+address:        RONGSHIDA ROAD NO.152 HEFEI CITY ANHUI PROVINCE
+address:        230001
+phone:          +86-0551-2615114
+fax-no:         +86-0551-2620011-333
+country:        CN
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-04T07:29:35Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.34 (WHOIS-US2)
+
+
