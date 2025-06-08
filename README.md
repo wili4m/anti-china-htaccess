@@ -19,3 +19,23 @@ This information may be useful for future research, avoiding the need to repeat 
 # htaccess directory
 
 This project includes .htaccess files for Apache versions 2.2 and 2.4. The files are organized by country.
+
+# Applying IP Blocking Using .htaccess Files
+
+Download the desired file and place it in your website’s $home directory with the name .htaccess.
+
+Typically, the $home directory is public_html, but this may vary depending on your server setup.
+
+# Applying the Block Directly in the Apache Virtual Host
+
+You can use the .htaccess files provided in this project directly within your site’s VirtualHost configuration. To do this, include the following in your VirtualHost block:
+
+<pre><code>```<Directory /home/mywebsitedir>
+    Require all granted
+    Include /etc/apache2/ip-blocks/at.conf
+    Include /etc/apache2/ip-blocks/nl.conf
+</Directory>```</code></pre>
+
+Note that in this example, you need to create the directory /etc/apache2/ip-blocks/, apply the appropriate permissions (typically 640), and place the files at.conf and nl.conf inside it. These files correspond to the .htaccess_anti_at_austria and .htaccess_anti_nl_netherlands files available in the htaccess directory.
+
+With this setup, the CIDRs will be blocked as soon as Apache is restarted
