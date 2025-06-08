@@ -8,7 +8,7 @@ Currently, only IPv4 lists are available.
 
 # cidr directory:
 
-The cidr directory contains the IP address lists organized by country. The file names follow the (ISO=3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) country code standard.
+The cidr directory contains the IP address lists organized by country. The file names follow the [ISO=3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) country code standard.
 
 # whois directory:
 
