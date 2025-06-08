@@ -1,0 +1,8 @@
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+        Require all granted
+    <RequireAll>
+        Require not ip 103.79.120.0/22
+        Require not ip 202.91.36.0/22
+        Require not ip 54.39.182.175
+    </RequireAll>
+</Limit>
