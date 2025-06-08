@@ -1,3 +1,4 @@
+# anti united states (us)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.91.219.0/24
