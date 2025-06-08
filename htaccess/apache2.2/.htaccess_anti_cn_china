@@ -1,3 +1,4 @@
+# anti china (cn)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 1.0.1.0/24
