@@ -1,0 +1,7 @@
+# anti estonia
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 185.232.29.195
+    </RequireAll>
+</Limit>
