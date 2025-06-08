@@ -1,3 +1,4 @@
+# anti india (in)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.13.72.0/23
