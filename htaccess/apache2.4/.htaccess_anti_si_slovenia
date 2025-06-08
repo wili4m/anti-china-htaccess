@@ -1,0 +1,7 @@
+# anti slovenia (si)
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 84.41.110.40/29
+    </RequireAll>
+</Limit>
