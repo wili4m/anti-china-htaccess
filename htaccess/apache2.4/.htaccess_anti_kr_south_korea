@@ -1,0 +1,14 @@
+# anti south korea (kr)
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 103.37.0.0/22
+        Require not ip 103.39.16.0/22
+        Require not ip 103.44.88.0/22
+        Require not ip 103.54.60.0/22
+        Require not ip 103.86.44.0/22
+        Require not ip 43.225.124.0/22
+        Require not ip 43.240.236.0/22
+        Require not ip 43.243.188.0/22
+    </RequireAll>
+</Limit>
