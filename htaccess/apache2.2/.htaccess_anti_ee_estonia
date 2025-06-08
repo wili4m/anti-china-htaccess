@@ -1,5 +1,5 @@
 # anti estonia
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
-order allow,deny
-deny from 185.232.29.195
+    order allow,deny
+    deny from 185.232.29.195
 </Limit>
