@@ -1,0 +1,12 @@
+# anti spain (es)
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 46.136.190.0/24
+        Require not ip 77.81.167.0/27
+        Require not ip 77.81.167.128/25
+        Require not ip 77.81.167.32/28
+        Require not ip 77.81.167.48/28
+        Require not ip 77.81.167.64/26
+    </RequireAll>
+</Limit>
