@@ -1,3 +1,4 @@
+# anti japan (jp)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.19.0.0/22
