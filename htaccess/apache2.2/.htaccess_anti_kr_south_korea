@@ -1,3 +1,4 @@
+# anti south korea (kr)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.37.0.0/22
