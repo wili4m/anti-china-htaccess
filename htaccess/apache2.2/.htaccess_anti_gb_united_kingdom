@@ -1,3 +1,4 @@
+# anti united kingdom (gb)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.93.76.0/22
