@@ -1,0 +1,11 @@
+# anti japan (jp)
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 103.19.0.0/22
+        Require not ip 103.212.32.0/22
+        Require not ip 103.216.228.0/22
+        Require not ip 103.95.28.0/22
+        Require not ip 103.96.0.0/22
+    </RequireAll>
+</Limit>
