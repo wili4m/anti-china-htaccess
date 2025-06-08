@@ -1,3 +1,4 @@
+# anti netherlands (nl)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 37.58.100.176/28
