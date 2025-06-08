@@ -1,0 +1,7 @@
+# anti austria (at)
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 37.252.249.0/24
+    </RequireAll>
+</Limit>
