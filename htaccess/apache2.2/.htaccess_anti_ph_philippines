@@ -1,3 +1,4 @@
+# anti philippines (ph)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.200.32.0/22
