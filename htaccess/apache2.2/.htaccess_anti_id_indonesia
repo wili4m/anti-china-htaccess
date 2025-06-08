@@ -1,3 +1,4 @@
+# anti indonesia (id)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
 order allow,deny
 deny from 103.86.129.0/24
