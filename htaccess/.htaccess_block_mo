@@ -1,4 +1,0 @@
-<Limit GET POST>
-order allow,deny
-deny from 103.88.176.0/22
-</Limit>
