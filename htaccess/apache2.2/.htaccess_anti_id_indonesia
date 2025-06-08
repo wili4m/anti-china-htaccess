@@ -1,8 +1,8 @@
 # anti indonesia (id)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
-order allow,deny
-deny from 103.86.129.0/24
-deny from 103.88.152.0/23
-deny from 103.93.121.0/24
-deny from 175.111.108.0/22
+    order allow,deny
+    deny from 103.86.129.0/24
+    deny from 103.88.152.0/23
+    deny from 103.93.121.0/24
+    deny from 175.111.108.0/22
 </Limit>
