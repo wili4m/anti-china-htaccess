@@ -1,7 +1,7 @@
 # anti european union (eu)
 <Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
-order allow,deny
-deny from 193.112.0.0/16
-deny from 195.78.82.0/23
-deny from 91.234.36.0/24
+    order allow,deny
+    deny from 193.112.0.0/16
+    deny from 195.78.82.0/23
+    deny from 91.234.36.0/24
 </Limit>
