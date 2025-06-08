@@ -1,0 +1,8 @@
+# anti france (fr)
+<Limit GET POST PUT DELETE HEAD OPTIONS CONNECT TRACE PATCH>
+    <RequireAll>
+        Require all granted
+        Require not ip 5.63.25.0/24
+        Require not ip 95.143.72.40/29
+    </RequireAll>
+</Limit>
