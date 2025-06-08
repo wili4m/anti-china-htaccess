@@ -6,9 +6,19 @@ This is especially useful for reducing illegitimate requests such as brute force
 
 Currently, only IPv4 lists are available.
 
+---
+
+### Origin of these CIDRs:
+
+I run a website (just a hobby) called LinuxZilla. Over the years, I’ve logged various IP addresses that performed some type of attack or degrading action. Combined with a few CIDR blocklists, this resulted in the current lists, which I’m now sharing here.
+
+--- 
+
 ### cidr directory:
 
 The cidr directory contains the IP address lists organized by country. The file names follow the [ISO=3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) country code standard.
+
+--- 
 
 ### whois directory:
 
@@ -16,15 +26,21 @@ The whois directory contains lists with the results of whois lookups performed f
 
 This information may be useful for future research, avoiding the need to repeat whois queries for multiple IP addresses.
 
+---
+
 ### htaccess directory
 
 This project includes .htaccess files for Apache versions 2.2 and 2.4. The files are organized by country.
+
+---
 
 ### Applying IP Blocking Using .htaccess Files
 
 Download the desired .htaccess and place it in your website’s *$home* directory with the name **.htaccess**.
 
 Typically, the $home directory is public_html, but this may vary depending on your server setup.
+
+---
 
 ### Applying the Block Directly in the Apache Virtual Host
 
